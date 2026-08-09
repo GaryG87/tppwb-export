@@ -1,6 +1,6 @@
 {
-  "zeit": "2026-08-09T13:20:17.961131+00:00",
-  "version": 9,
+  "zeit": "2026-08-09T13:29:32.828229+00:00",
+  "version": 10,
   "status": "ok",
   "klassierung": [
     {
@@ -777,7 +777,7 @@
       },
       "meine_turniere": {
         "http": 200,
-        "text": "Mes prochains matches Aucun résultat trouvé Voir mes inscriptions function refreshMyNextGamesData() { var url = \"/MyAFT/MyTournois/MyNextGamesData\"; $(\"#divMyNextGamesData\").load(url, function () { activeHoverForContextMenu($(\"#divMyNextGamesData\").find(\".hamburger\")); }); } Mes inscriptions M'inscrire Mes résultats en tournois Période courante Classement mai 2026 Classement octobre 2025 Classement mai 2025 Classement octobre 2024 Classement mai 2024 Classement octobre 2023 Classement mai 2023 Classement octobre 2022 function onRankingPeriodsChanged_Tournoi() { var ordinal = $(\"#ddlRankingPeriod_Tournoi\").val(); $(\"#collapse_mytournamentresults\").load(\"/MyAFT/MyTournois/MyTournamentResults?ordinal=\" + ordinal); } Résultats en Belgian Circuit Aucun résultat trouvé $(function () { activeHoverForContextMenu($(\"#collapse_bcranking\").find(\".hamburger\")); activeHoverForContextMenu($(\"#collapse_mytournoi\").find(\".hamburger\")); }); function refreshMyBcResultsData() { var url = \"/MyAFT/MyTournois/BelgianCircuit\"; $(\"#collapse_bcranking\").load(url, function () { activeHoverForContextMenu($(\"#collapse_bcranking\").find(\".hamburger\")); }); } Mes tournois à suivre"
+        "text": "Mes prochains matches Aucun résultat trouvé Voir mes inscriptions function refreshMyNextGamesData() { var url = \"/MyAFT/MyTournois/MyNextGamesData\"; $(\"#divMyNextGamesData\").load(url, function () { activeHoverForContextMenu($(\"#divMyNextGamesData\").find(\".hamburger\")); }); } Mes inscriptions function viewMysubscriptions() { $(\"#myRegistrations\").click(); } M'inscrire Mes résultats en tournois Période courante Classement mai 2026 Classement octobre 2025 Classement mai 2025 Classement octobre 2024 Classement mai 2024 Classement octobre 2023 Classement mai 2023 Classement octobre 2022 function onRankingPeriodsChanged_Tournoi() { var ordinal = $(\"#ddlRankingPeriod_Tournoi\").val(); $(\"#collapse_mytournamentresults\").load(\"/MyAFT/MyTournois/MyTournamentResults?ordinal=\" + ordinal); } Résultats en Belgian Circuit Aucun résultat trouvé $(function () { activeHoverForContextMenu($(\"#collapse_bcranking\").find(\".hamburger\")); activeHoverForContextMenu($(\"#collapse_mytournoi\").find(\".hamburger\")); }); function refreshMyBcResultsData() { var url = \"/MyAFT/MyTournois/BelgianCircuit\"; $(\"#collapse_bcranking\").load(url, function () { activeHoverForContextMenu($(\"#collapse_bcranking\").find(\".hamburger\")); }); } Mes tournois à suivre"
       },
       "profil": {
         "http": 200,
@@ -790,6 +790,60 @@
       "ordinal3": "Aucun résultat trouvé $(function () { activeHoverForContextMenu($(\"#divMyTournamentResultsData\").find(\".hamburger\")); }); function refreshMyTournamentResultsData() { var ordinal = $(\"#ddlRankingPeriod_Tournoi\").val(); var url = \"/MyAFT/MyTournois/MyTournamentResultsData?ordinal=\" + ordinal; $(\"#divMyTournamentResultsData\").load(url, function () { activeHoverForContextMenu($(\"#divMyTournamentResultsData\").find(\".hamburger\")); }); }",
       "ordinal4": "Aucun résultat trouvé $(function () { activeHoverForContextMenu($(\"#divMyTournamentResultsData\").find(\".hamburger\")); }); function refreshMyTournamentResultsData() { var ordinal = $(\"#ddlRankingPeriod_Tournoi\").val(); var url = \"/MyAFT/MyTournois/MyTournamentResultsData?ordinal=\" + ordinal; $(\"#divMyTournamentResultsData\").load(url, function () { activeHoverForContextMenu($(\"#divMyTournamentResultsData\").find(\".hamburger\")); }); }",
       "ordinal5": "Aucun résultat trouvé $(function () { activeHoverForContextMenu($(\"#divMyTournamentResultsData\").find(\".hamburger\")); }); function refreshMyTournamentResultsData() { var ordinal = $(\"#ddlRankingPeriod_Tournoi\").val(); var url = \"/MyAFT/MyTournois/MyTournamentResultsData?ordinal=\" + ordinal; $(\"#divMyTournamentResultsData\").load(url, function () { activeHoverForContextMenu($(\"#divMyTournamentResultsData\").find(\".hamburger\")); }); }"
+    }
+  },
+  "anmeldungen": {
+    "naechste_spiele": {
+      "http": 200,
+      "laenge": 153,
+      "text": "Aucun résultat trouvé Voir mes inscriptions",
+      "turniere": [],
+      "ids": []
+    },
+    "meine_anmeldungen": {
+      "http": 404,
+      "laenge": 4238
+    },
+    "anmeldungen_alt": {
+      "http": 404,
+      "laenge": 4230
+    },
+    "anmeldungen_home": {
+      "http": 404,
+      "laenge": 4218
+    },
+    "interclub_ergebnisse": {
+      "http": 200,
+      "laenge": 21,
+      "text": "Aucun résultat trouvé",
+      "turniere": [],
+      "ids": []
+    },
+    "interclub_teams": {
+      "http": 200,
+      "laenge": 62,
+      "text": "Aucun résultat trouvé",
+      "turniere": [],
+      "ids": []
+    },
+    "interclub_teams2": {
+      "http": 404,
+      "laenge": 4218
+    },
+    "kraftlisten": {
+      "http": 404,
+      "laenge": 4234
+    },
+    "kraftlisten2": {
+      "http": 404,
+      "laenge": 4230
+    },
+    "belgian_circuit": {
+      "http": 200,
+      "laenge": 932,
+      "text": "Résultats en Belgian Circuit Aucun résultat trouvé $(function () { activeHoverForContextMenu($(\"#collapse_bcranking\").find(\".hamburger\")); activeHoverForContextMenu($(\"#collapse_mytournoi\").find(\".hamburger\")); }); function refreshMyBcResultsData() { var url = \"/MyAFT/MyTournois/BelgianCircuit\"; $(\"#collapse_bcranking\").load(url, function () { activeHoverForContextMenu($(\"#collapse_bcranking\").find(\".hamburger\")); }); }",
+      "turniere": [],
+      "ids": []
     }
   }
 }
