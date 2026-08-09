@@ -1,110 +1,169 @@
 {
-  "zeit": "2026-08-09T13:03:54.543843+00:00",
-  "version": 6,
+  "zeit": "2026-08-09T13:13:49.356337+00:00",
+  "version": 7,
   "status": "ok",
-  "login": "ok",
-  "js_dateien": [
+  "klassierung": [
     {
-      "datei": "scripts?v=dstfD_POMUB83yLnVKnIfUW8plT6Hm_kR_2YUI_t4AQ1",
-      "laenge": 411037
-    },
-    {
-      "datei": "jquery.cookies.2.2.0.min.js",
-      "laenge": 2400
-    },
-    {
-      "datei": "bootstrap-contextmenu.js",
-      "laenge": 7597
-    },
-    {
-      "datei": "jqplot?v=RiKzcTJUfgXsETnkYXsROpZJCZNWjWnd1lNfxMccfaE1",
-      "laenge": 194503
+      "sparte": "SIMPLES",
+      "jahr": "2026",
+      "klassierung": "C30.6",
+      "punkte": "0.000"
     }
   ],
-  "kandidaten": [
-    "/MyAFT/Competitions/TournamentNews",
-    "/MyAFT/Competitions/Tournaments",
-    "/MyAFT/Home/HistoryData",
-    "/MyAFT/MyAFT/MyResultsPage",
-    "/MyAFT/MyAFT/MyTournoiPage",
-    "/MyAFT/MyTournois/AddTournamentsToFollow",
-    "/MyAFT/MyTournois/BelgianCircuit",
-    "/MyAFT/MyTournois/DeleteTournamentsToFollow",
-    "/MyAFT/MyTournois/MyNextGamesData",
-    "/MyAFT/MyTournois/MyRegistrations",
-    "/MyAFT/MyTournois/MyTournamentResults",
-    "/MyAFT/MyTournois/Register",
-    "/MyAFT/MyTournois/TournamentsToFollow",
-    "/MyAFT/Tooltip/TournamentCategories",
-    "/MyAFT/TournamentSubscription/ConfirmNextOption",
-    "/MyAFT/TournamentSubscription/ConfirmOrCancelSchedule",
-    "/MyAFT/TournamentSubscription/ConfirmOrCancelScheduleForSeries",
-    "/MyAFT/TournamentSubscription/DeleteSubscription",
-    "/MyAFT/TournamentSubscription/GetGeneralInfo",
-    "/MyAFT/TournamentSubscription/PlayerAvailabilities"
+  "ergebnisse": [
+    {
+      "kontext": "SingleVictory",
+      "turnier": "BUTGENBACH",
+      "datum": "30/07/2026",
+      "kategorie": "Simples Messieurs 35 6",
+      "score": "6/0-6/0-0/0",
+      "gegner": [
+        "ADAMS Frederic (3 pts)"
+      ],
+      "partner": null,
+      "tableau": {
+        "idTournoi": "361706",
+        "idCategory": "1020267",
+        "drawType": "F",
+        "roundIndex": "5",
+        "rowIndex": "7"
+      }
+    },
+    {
+      "kontext": "SingleDefeat",
+      "turnier": "BUTGENBACH",
+      "datum": "02/08/2026",
+      "kategorie": "Simples Messieurs 35 6",
+      "score": "6/3-6/2-0/0",
+      "gegner": [
+        "Leonard Fabian (5 pts)"
+      ],
+      "partner": null,
+      "tableau": {
+        "idTournoi": "361706",
+        "idCategory": "1020267",
+        "drawType": "F",
+        "roundIndex": "4",
+        "rowIndex": "4"
+      }
+    },
+    {
+      "kontext": "SingleDefeat",
+      "turnier": "WAIMES",
+      "datum": "11/07/2026",
+      "kategorie": "Simples Messieurs 35 6",
+      "score": "6/2-6/0-0/0",
+      "gegner": [
+        "QUAAS Gerd (3 pts)"
+      ],
+      "partner": null,
+      "tableau": {
+        "idTournoi": "361671",
+        "idCategory": "1019421",
+        "drawType": "F",
+        "roundIndex": "4",
+        "rowIndex": "7"
+      }
+    },
+    {
+      "kontext": "DoubleVictory",
+      "turnier": "BUTGENBACH",
+      "datum": "04/08/2026",
+      "kategorie": "Doubles Mixtes 7 6 - 15 pts",
+      "score": "6/1-6/4-0/0",
+      "gegner": [
+        "BÖMER Kristina (5 pts)",
+        "BERTHA Kevin (3 pts)",
+        "CARLS Suleika (3 pts)"
+      ],
+      "partner": "BÖMER Kristina (5 pts)",
+      "tableau": {
+        "idTournoi": "361706",
+        "idCategory": "1020301",
+        "drawType": "F",
+        "roundIndex": "3",
+        "rowIndex": "2"
+      }
+    },
+    {
+      "kontext": "DoubleDefeat",
+      "turnier": "BUTGENBACH",
+      "datum": "08/08/2026",
+      "kategorie": "Doubles Mixtes 7 6 - 15 pts",
+      "score": "6/4-7/5-0/0",
+      "gegner": [
+        "BÖMER Kristina (5 pts)",
+        "JENNIGES Jochen (3 pts)",
+        "HOFFMANN Ramona (10 pts)"
+      ],
+      "partner": "BÖMER Kristina (5 pts)",
+      "tableau": {
+        "idTournoi": "361706",
+        "idCategory": "1020301",
+        "drawType": "F",
+        "roundIndex": "2",
+        "rowIndex": "1"
+      }
+    },
+    {
+      "kontext": "DoubleDefeat",
+      "turnier": "WAIMES",
+      "datum": "19/07/2026",
+      "kategorie": "Doubles Mixtes 6 6 - 30 pts",
+      "score": "0/0-0/0-0/0 WO",
+      "gegner": [
+        "BÖMER Kristina (5 pts)",
+        "SCHOMUS Rachel (3 pts)",
+        "ANDRIES Laurel (10 pts)"
+      ],
+      "partner": "BÖMER Kristina (5 pts)",
+      "tableau": {
+        "idTournoi": "361671",
+        "idCategory": "1019449",
+        "drawType": "F",
+        "roundIndex": "3",
+        "rowIndex": "2"
+      }
+    }
   ],
-  "treffer": {
-    "GET /MyAFT/Competitions/TournamentNews []": {
-      "typ": "html_fragment",
-      "laenge": 158412,
-      "auszug": "<div class=\"panel panel-default\">\r\n    <div class=\"panel-heading\">\r\n        <h4 class=\"panel-title\">\r\n            <a data-toggle=\"collapse\" href=\"#collapse_competition_tournament\"><span class=\"glyphicon glyphicon-menu-down\"></span> Actualit&#233;s tournois</a>\r\n        </h4>\r\n    </div>\r\n    <div id=\"collapse_competition_tournament\" class=\"panel-collapse collapse in\">\r\n        <div class=\"panel-body profile-panel\">\r\n            <select class=\"form-control\" style=\"float: right; margin-bottom: 10px; margin-left: 66.6666%; width: 33.3333%;\" id=\"ddlCompetitionTournamentTime\" onchange=\"changeTimeCompetitionsTournamentTimeDdl()\">\r\n                <option value=\"O\">En cours</option>\r\n                <option value=\"S\" selected=\"selected\">A venir</option>\r\n                <option value=\"L\">Passés</option>\r\n                <option value=\"IGNORE\">Tous</option>\r\n            </select>\r\n            <div class=\"row\">\r\n                <div class=\"col-sm-12\">\r\n                    <div class=\"nav-tabs-trigger open\">Afficher les onglets</div>\r\n                    <ul id=\"ulTournoiTabs\" class=\"nav main-tabs nav-tabs nav-justified row-2 open\">\r\n                            <li data-tabname=\"NearMyPlace\" style=\"width: auto;\"><a data-toggle=\"tab\" data-url=\"/MyAFT/Competitions/CompetitionsTournamentsByRegion?tabName=NearMyPlace\" data-target=\"#tabCompetitionTournamentsNearMyPlace\" class=\"competition-tournament-tab\">Près de chez moi</a></li>\r\n                            <li  data-tabname=\"Brabant\"><a data-toggle=\"tab\" data-url=\"/MyAFT/Competitions/CompetitionsTournamentsByRegion?tabName=Brabant\" data-target=\"#tabCompetitionTournamentsBrabant\" class=\"competition-tournament-tab\">Brabant</a></li>\r\n                            <li  data-tabname=\"Hainaut\"><a data-toggle=\"tab\" data-url=\"/MyAFT/Competitions/CompetitionsTournamentsByRegion?tabName=Hainaut\" data-target=\"#tabCompetitionTournamentsHainaut\" class=\"competition-tournament-tab\">Hainaut</a></li>\r\n                            <li class=active data-tabname=\"Liege\"><a data-toggle=\"tab\" data-url=\"/MyAFT/Competitions/CompetitionsTournamentsByRegion?tabName=Liege\" data-target=\"#tabCompetitionTournamentsLiege\" class=\"competition-tournament-tab\">Liège</a></li>\r\n                            <li  data-tabname=\"NamurLuxembourg\"><a data-toggle=\"tab\" data-url=\"/MyAFT/Competitions/CompetitionsTournamentsByRegion?tabName=NamurLuxembourg\" data-target=\"#tabCompetitionTournamentsNamurLuxembourg\" class=\"competition-tournament-tab\">Namur-Luxembourg</a></"
+  "tableaus": {
+    "361706_1020267": {
+      "http": 200,
+      "laenge": 12346,
+      "spieler_links": 0,
+      "namen_gefunden": 0,
+      "auszug": " <link href=\"/MyAFT/Content/draws.css?t=123\" rel=\"stylesheet\"/> <script type=\"text/javascript\" src=\"/MyAFT/Scripts/draw/jquery.gracket.js?t=111\"></script> <h4 style=\"text-align: center\">361706 [4091-BUTGENBACH] - Du 30/07/2026 au 09/08/2026 - CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB</h4> <div style=\"clear: both;\"></div> <div class=\"tournamentDrawDataContainer\"> <div style=\"float: left; font-weight: bold;\">Catégories</div> <div style=\"float: left; width: 200px; \"> <select id=\"drawCategory\" class=\"form-control\" onchange=\"changeCategory()\"> <option value=\"\">Catégorie</option> <option value=\"1020285|F\" >DM 2 90 - 150 pts (90-150)</option> <option value=\"1020286|F\" >DM 3 60 - 120 pts (60-120)</option> <option value=\"1020287|F\" >DM 4 30 - 90 pts (30-90)</option> <option value=\"1020288|F\" >DM 5 15 - 60 pts (15-60)</option> <option value=\"1020289|F\" >DM 6 6 - 30 pts (6-30)</option> <option value=\"1020290|F\" >DM 7 6 - 15 pts (6-15)</option> <option value=\"1020291|F\" >DD 3 60 - 120 pts (60-120)</option> <option value=\"1020292|F\" >DD 4 30 - 90 pts (30-90)</option> <option value=\"1020293|F\" >DD 5 15 - 60 pts (15-60)</option> <option value=\"1020294|F\" >DD 6 6 - 30 pts (6-30)</option> <option value=\"1020295|F\" >DD 7 6 - 15 pts (6-15)</option> <option value=\"1020296|F\" >DMx 2 90 - 150 pts (90-150)</option> <option value=\"1020297|F\" >DMx 3 60 - 120 pts (60-120)</option> <option value=\"1020298|F\" >DMx 4 30 - 90 pts (30-90)</option> <option value=\"1020299|F\""
     },
-    "GET /MyAFT/Competitions/TournamentNews ['numFed']": {
-      "typ": "html_fragment",
-      "laenge": 158412,
-      "auszug": "<div class=\"panel panel-default\">\r\n    <div class=\"panel-heading\">\r\n        <h4 class=\"panel-title\">\r\n            <a data-toggle=\"collapse\" href=\"#collapse_competition_tournament\"><span class=\"glyphicon glyphicon-menu-down\"></span> Actualit&#233;s tournois</a>\r\n        </h4>\r\n    </div>\r\n    <div id=\"collapse_competition_tournament\" class=\"panel-collapse collapse in\">\r\n        <div class=\"panel-body profile-panel\">\r\n            <select class=\"form-control\" style=\"float: right; margin-bottom: 10px; margin-left: 66.6666%; width: 33.3333%;\" id=\"ddlCompetitionTournamentTime\" onchange=\"changeTimeCompetitionsTournamentTimeDdl()\">\r\n                <option value=\"O\">En cours</option>\r\n                <option value=\"S\" selected=\"selected\">A venir</option>\r\n                <option value=\"L\">Passés</option>\r\n                <option value=\"IGNORE\">Tous</option>\r\n            </select>\r\n            <div class=\"row\">\r\n                <div class=\"col-sm-12\">\r\n                    <div class=\"nav-tabs-trigger open\">Afficher les onglets</div>\r\n                    <ul id=\"ulTournoiTabs\" class=\"nav main-tabs nav-tabs nav-justified row-2 open\">\r\n                            <li data-tabname=\"NearMyPlace\" style=\"width: auto;\"><a data-toggle=\"tab\" data-url=\"/MyAFT/Competitions/CompetitionsTournamentsByRegion?tabName=NearMyPlace\" data-target=\"#tabCompetitionTournamentsNearMyPlace\" class=\"competition-tournament-tab\">Près de chez moi</a></li>\r\n                            <li  data-tabname=\"Brabant\"><a data-toggle=\"tab\" data-url=\"/MyAFT/Competitions/CompetitionsTournamentsByRegion?tabName=Brabant\" data-target=\"#tabCompetitionTournamentsBrabant\" class=\"competition-tournament-tab\">Brabant</a></li>\r\n                            <li  data-tabname=\"Hainaut\"><a data-toggle=\"tab\" data-url=\"/MyAFT/Competitions/CompetitionsTournamentsByRegion?tabName=Hainaut\" data-target=\"#tabCompetitionTournamentsHainaut\" class=\"competition-tournament-tab\">Hainaut</a></li>\r\n                            <li class=active data-tabname=\"Liege\"><a data-toggle=\"tab\" data-url=\"/MyAFT/Competitions/CompetitionsTournamentsByRegion?tabName=Liege\" data-target=\"#tabCompetitionTournamentsLiege\" class=\"competition-tournament-tab\">Liège</a></li>\r\n                            <li  data-tabname=\"NamurLuxembourg\"><a data-toggle=\"tab\" data-url=\"/MyAFT/Competitions/CompetitionsTournamentsByRegion?tabName=NamurLuxembourg\" data-target=\"#tabCompetitionTournamentsNamurLuxembourg\" class=\"competition-tournament-tab\">Namur-Luxembourg</a></"
+    "361671_1019421": {
+      "http": 200,
+      "laenge": 11051,
+      "spieler_links": 0,
+      "namen_gefunden": 0,
+      "auszug": " <link href=\"/MyAFT/Content/draws.css?t=123\" rel=\"stylesheet\"/> <script type=\"text/javascript\" src=\"/MyAFT/Scripts/draw/jquery.gracket.js?t=111\"></script> <h4 style=\"text-align: center\">361671 [4067-WAIMES] - Du 09/07/2026 au 19/07/2026 - CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 - Doubles Dames TWB</h4> <div style=\"clear: both;\"></div> <div class=\"tournamentDrawDataContainer\"> <div style=\"float: left; font-weight: bold;\">Catégories</div> <div style=\"float: left; width: 200px; \"> <select id=\"drawCategory\" class=\"form-control\" onchange=\"changeCategory()\"> <option value=\"\">Catégorie</option> <option value=\"1019422|F\" >Messieurs 50 2 (55-70)</option> <option value=\"1019423|\" disabled=disabled style=background-color:lightgrey>Messieurs 50 3 (35-50)</option> <option value=\"1019424|F\" >Messieurs 50 4 (15-30)</option> <option value=\"1019425|\" disabled=disabled style=background-color:lightgrey>Messieurs 50 5 (3-10)</option> <option value=\"1019436|F\" >DM 2 90 - 150 pts (90-150)</option> <option value=\"1019437|F\" >DM 3 60 - 120 pts (60-120)</option> <option value=\"1019438|F\" >DM 4 30 - 90 pts (30-90)</option> <option value=\"1019439|F\" >DM 5 15 - 60 pts (15-60)</option> <option value=\"1019440|F\" >DM 6 6 - 30 pts (6-30)</option> <option value=\"1019441|F\" >DD 3 60 - 120 pts (60-120)</option> <option value=\"1019442|F\" >DD 4 30 - 90 pts (30-90)</option> <option value=\"1019443|F\" >DD 5 15 - 60 pts (15-60)</option> <option value=\"1019444|F\" >DD 6 6 - 30 pts (6-30)</option> <option value="
     },
-    "GET /MyAFT/MyAFT/MyResultsPage []": {
-      "typ": "html_fragment",
-      "laenge": 29120,
-      "auszug": "<input type=\"hidden\" class=\"isLoaded\" />\r\n<div class=\"pull-right\" style=\"margin-bottom: 10px; width: 185px;\">\r\n    <select class=\"form-control\" onchange=\"changeResults(this)\" id=\"ddlResultsType\">\r\n        <option value=\"\">Toutes les compétitions</option>\r\n        <option value=\"Tournaments\">Tournois</option>\r\n        <option value=\"Interclubs\">Interclubs</option>\r\n    </select>\r\n</div>\r\n<div id=\"myresults_wrapper\">\r\n    \r\n<div class=\"panel-group\">\r\n    <div class=\"panel panel-default\">\r\n        <div class=\"panel-heading\">\r\n            <h4 class=\"panel-title\">\r\n                <a>\r\n                    <span class=\"glyphicon glyphicon-menu-down\"></span> SIMPLES&nbsp;&nbsp;&nbsp;&nbsp; Classement 2026: C30.6     \r\n                    <strong class=\"pull-right\" style=\"cursor: pointer;color:#FFF;\" onclick=\"$('#pointDetailsModalDialog').modal()\">0.000 pts</strong>\r\n                    <select class=\"pull-right\" id=\"ddlRankingPeriod_results\" name=\"ddlRankingPeriod_results\" onchange=\"onRankingPeriodsChanged_results()\" style=\"margin:0 10px;color:#000\"><option value=\"1\">P&#233;riode courante</option>\r\n<option value=\"2\">Classement mai 2026</option>\r\n<option value=\"3\">Classement octobre 2025</option>\r\n<option value=\"4\">Classement mai 2025</option>\r\n<option value=\"5\">Classement octobre 2024</option>\r\n<option value=\"6\">Classement mai 2024</option>\r\n<option value=\"7\">Classement octobre 2023</option>\r\n<option value=\"8\">Classement mai 2023</option>\r\n<option value=\"9\">Classement octobre 2022</option>\r\n</select>\r\n\r\n                </a>\r\n            </h4>\r\n        </div>\r\n        <div id=\"myresult_collapse_simple\" class=\"panel-collapse collapse in\">\r\n            <div class=\"panel-body\">\r\n                <div class=\"panel-group\">\r\n                    <div class=\"panel panel-default\">\r\n                        <div class=\"panel-heading\">\r\n                            <h4 class=\"panel-title\">\r\n                                <a data-toggle=\"collapse\" href=\"#myresult_collapse_simple_victory\">\r\n                                    <span class=\"glyphicon glyphicon-menu-down\"></span> <span class=\"glyphicon glyphicon-thumbs-up victory\"></span> Victoires\r\n                                </a>\r\n                            </h4>\r\n                        </div>\r\n                        <div id=\"myresult_collapse_simple_victory\" class=\"panel-collapse collapse in\">\r\n                            <div class=\"panel-body flex-wrap\" id=\"divMyResultsSingleVictory\">\r\n                                  "
+    "361706_1020301": {
+      "http": 200,
+      "laenge": 10680,
+      "spieler_links": 0,
+      "namen_gefunden": 0,
+      "auszug": " <link href=\"/MyAFT/Content/draws.css?t=123\" rel=\"stylesheet\"/> <script type=\"text/javascript\" src=\"/MyAFT/Scripts/draw/jquery.gracket.js?t=111\"></script> <h4 style=\"text-align: center\">361706 [4091-BUTGENBACH] - Du 30/07/2026 au 09/08/2026 - CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB</h4> <div style=\"clear: both;\"></div> <div class=\"tournamentDrawDataContainer\"> <div style=\"float: left; font-weight: bold;\">Catégories</div> <div style=\"float: left; width: 200px; \"> <select id=\"drawCategory\" class=\"form-control\" onchange=\"changeCategory()\"> <option value=\"\">Catégorie</option> <option value=\"1020285|F\" >DM 2 90 - 150 pts (90-150)</option> <option value=\"1020286|F\" >DM 3 60 - 120 pts (60-120)</option> <option value=\"1020287|F\" >DM 4 30 - 90 pts (30-90)</option> <option value=\"1020288|F\" >DM 5 15 - 60 pts (15-60)</option> <option value=\"1020289|F\" >DM 6 6 - 30 pts (6-30)</option> <option value=\"1020290|F\" >DM 7 6 - 15 pts (6-15)</option> <option value=\"1020291|F\" >DD 3 60 - 120 pts (60-120)</option> <option value=\"1020292|F\" >DD 4 30 - 90 pts (30-90)</option> <option value=\"1020293|F\" >DD 5 15 - 60 pts (15-60)</option> <option value=\"1020294|F\" >DD 6 6 - 30 pts (6-30)</option> <option value=\"1020295|F\" >DD 7 6 - 15 pts (6-15)</option> <option value=\"1020296|F\" >DMx 2 90 - 150 pts (90-150)</option> <option value=\"1020297|F\" >DMx 3 60 - 120 pts (60-120)</option> <option value=\"1020298|F\" >DMx 4 30 - 90 pts (30-90)</option> <option value=\"1020299|F\""
     },
-    "GET /MyAFT/MyAFT/MyResultsPage ['numFed']": {
-      "typ": "html_fragment",
-      "laenge": 29120,
-      "auszug": "<input type=\"hidden\" class=\"isLoaded\" />\r\n<div class=\"pull-right\" style=\"margin-bottom: 10px; width: 185px;\">\r\n    <select class=\"form-control\" onchange=\"changeResults(this)\" id=\"ddlResultsType\">\r\n        <option value=\"\">Toutes les compétitions</option>\r\n        <option value=\"Tournaments\">Tournois</option>\r\n        <option value=\"Interclubs\">Interclubs</option>\r\n    </select>\r\n</div>\r\n<div id=\"myresults_wrapper\">\r\n    \r\n<div class=\"panel-group\">\r\n    <div class=\"panel panel-default\">\r\n        <div class=\"panel-heading\">\r\n            <h4 class=\"panel-title\">\r\n                <a>\r\n                    <span class=\"glyphicon glyphicon-menu-down\"></span> SIMPLES&nbsp;&nbsp;&nbsp;&nbsp; Classement 2026: C30.6     \r\n                    <strong class=\"pull-right\" style=\"cursor: pointer;color:#FFF;\" onclick=\"$('#pointDetailsModalDialog').modal()\">0.000 pts</strong>\r\n                    <select class=\"pull-right\" id=\"ddlRankingPeriod_results\" name=\"ddlRankingPeriod_results\" onchange=\"onRankingPeriodsChanged_results()\" style=\"margin:0 10px;color:#000\"><option value=\"1\">P&#233;riode courante</option>\r\n<option value=\"2\">Classement mai 2026</option>\r\n<option value=\"3\">Classement octobre 2025</option>\r\n<option value=\"4\">Classement mai 2025</option>\r\n<option value=\"5\">Classement octobre 2024</option>\r\n<option value=\"6\">Classement mai 2024</option>\r\n<option value=\"7\">Classement octobre 2023</option>\r\n<option value=\"8\">Classement mai 2023</option>\r\n<option value=\"9\">Classement octobre 2022</option>\r\n</select>\r\n\r\n                </a>\r\n            </h4>\r\n        </div>\r\n        <div id=\"myresult_collapse_simple\" class=\"panel-collapse collapse in\">\r\n            <div class=\"panel-body\">\r\n                <div class=\"panel-group\">\r\n                    <div class=\"panel panel-default\">\r\n                        <div class=\"panel-heading\">\r\n                            <h4 class=\"panel-title\">\r\n                                <a data-toggle=\"collapse\" href=\"#myresult_collapse_simple_victory\">\r\n                                    <span class=\"glyphicon glyphicon-menu-down\"></span> <span class=\"glyphicon glyphicon-thumbs-up victory\"></span> Victoires\r\n                                </a>\r\n                            </h4>\r\n                        </div>\r\n                        <div id=\"myresult_collapse_simple_victory\" class=\"panel-collapse collapse in\">\r\n                            <div class=\"panel-body flex-wrap\" id=\"divMyResultsSingleVictory\">\r\n                                  "
-    },
-    "GET /MyAFT/MyTournois/MyRegistrations []": {
-      "typ": "html_fragment",
-      "laenge": 7064,
-      "auszug": "<input type=\"hidden\" class=\"isLoaded\" />\r\n<div class=\"panel-body flex-wrap\" id=\"divMyRegistrationsData\">\r\n\r\n        <dl class=\"grid-data-item\">\r\n            <dd>\r\n                SAINT-VITH 13/08/2026\r\n                <div class=\"pull-right\"><a data-description=\"\" data-subscription=\"true\" data-toggle=\"popover\" data-url=\"/MyAFT/Tooltip/TournamentDetails/361794\" title=\"Plus d&#39;info sur le tournoi\"><span class='glyphicon glyphicon-collapse-down'></span></a></div>\r\n            </dd>\r\n            <dd>\r\n                <a title=\"Voir les inscrits\" href=\"/MyAFT/Competitions/TournamentDetail/361794?page=register&amp;idCategory=1022215\">Messieurs 35 6</a>\r\n                <div class=\"pull-right\"><a data-description=\"\" data-subscription=\"true\" data-toggle=\"popover\" data-url=\"/MyAFT/Tooltip/TournamentCategories/361794?displaySubscriptions=True\" title=\"Voir les catégories\"><span class='glyphicon glyphicon-collapse-down '></span></a></div>\r\n            </dd>\r\n                        <dd>\r\n                <span class=\"glyphicon glyphicon-calendar\"></span> N.C.\r\n            </dd>\r\n            \r\n            <a class=\"hamburger\" data-target=\"#context-menu\" data-toggle=\"context\" data-url=\"/MyAFT/ContextMenu/TournamentsContextMenu?IdTournoi=361794&amp;IdCategory=1022215&amp;PlayerNumFed=4111231&amp;OpponentNumFed1=NA&amp;OpponentLastName1=NA&amp;OpponentFirstName1=NA&amp;OpponentNumFed2=NA&amp;OpponentLastName2=NA&amp;OpponentFirstName2=NA&amp;PathRules=361794_4077.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyRegistrationsData%28%29&amp;ReturnUrl=%2FMyAFT%2F&amp;HasDraw=False&amp;ShowConfirmSchedule=True&amp;ShowDeleteSubscription=True&amp;ShowSeeAvailabilities=True&amp;Drawn=0&amp;SubscriptionID=4021376&amp;IDUnavailability=69&amp;CategoryClosed=False&amp;Subscr_EndDate=08%2F11%2F2026%2020%3A00%3A00&amp;Unsubscr_EndDate=08%2F10%2F2026%2020%3A00%3A00&amp;IsNamurLuxembourg=False&amp;SubscriptionNumber=69&amp;Trn_Subscr_EndDate=08%2F11%2F2026%2020%3A00%3A00\" href=\"javascript:void(0)\"><span class='glyphicon glyphicon-menu-hamburger'></span></a>\r\n        </dl>\r\n        <dl class=\"grid-data-item\">\r\n            <dd>\r\n                SAINT-VITH 13/08/2026\r\n                <div class=\"pull-right\"><a data-description=\"\" data-subscription=\"true\" data-toggle=\"popover\" data-url=\"/MyAFT/Tooltip/TournamentDetails/361794\" title=\"Plus d&#39;info sur le tournoi\"><span class='glyphicon glyphicon-collapse-down'></span></a></div>\r\n            </dd>\r\n            <dd>\r\n             "
-    },
-    "GET /MyAFT/MyTournois/MyRegistrations ['numFed']": {
-      "typ": "html_fragment",
-      "laenge": 7064,
-      "auszug": "<input type=\"hidden\" class=\"isLoaded\" />\r\n<div class=\"panel-body flex-wrap\" id=\"divMyRegistrationsData\">\r\n\r\n        <dl class=\"grid-data-item\">\r\n            <dd>\r\n                SAINT-VITH 13/08/2026\r\n                <div class=\"pull-right\"><a data-description=\"\" data-subscription=\"true\" data-toggle=\"popover\" data-url=\"/MyAFT/Tooltip/TournamentDetails/361794\" title=\"Plus d&#39;info sur le tournoi\"><span class='glyphicon glyphicon-collapse-down'></span></a></div>\r\n            </dd>\r\n            <dd>\r\n                <a title=\"Voir les inscrits\" href=\"/MyAFT/Competitions/TournamentDetail/361794?page=register&amp;idCategory=1022215\">Messieurs 35 6</a>\r\n                <div class=\"pull-right\"><a data-description=\"\" data-subscription=\"true\" data-toggle=\"popover\" data-url=\"/MyAFT/Tooltip/TournamentCategories/361794?displaySubscriptions=True\" title=\"Voir les catégories\"><span class='glyphicon glyphicon-collapse-down '></span></a></div>\r\n            </dd>\r\n                        <dd>\r\n                <span class=\"glyphicon glyphicon-calendar\"></span> N.C.\r\n            </dd>\r\n            \r\n            <a class=\"hamburger\" data-target=\"#context-menu\" data-toggle=\"context\" data-url=\"/MyAFT/ContextMenu/TournamentsContextMenu?IdTournoi=361794&amp;IdCategory=1022215&amp;PlayerNumFed=4111231&amp;OpponentNumFed1=NA&amp;OpponentLastName1=NA&amp;OpponentFirstName1=NA&amp;OpponentNumFed2=NA&amp;OpponentLastName2=NA&amp;OpponentFirstName2=NA&amp;PathRules=361794_4077.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyRegistrationsData%28%29&amp;ReturnUrl=%2FMyAFT%2F&amp;HasDraw=False&amp;ShowConfirmSchedule=True&amp;ShowDeleteSubscription=True&amp;ShowSeeAvailabilities=True&amp;Drawn=0&amp;SubscriptionID=4021376&amp;IDUnavailability=69&amp;CategoryClosed=False&amp;Subscr_EndDate=08%2F11%2F2026%2020%3A00%3A00&amp;Unsubscr_EndDate=08%2F10%2F2026%2020%3A00%3A00&amp;IsNamurLuxembourg=False&amp;SubscriptionNumber=69&amp;Trn_Subscr_EndDate=08%2F11%2F2026%2020%3A00%3A00\" href=\"javascript:void(0)\"><span class='glyphicon glyphicon-menu-hamburger'></span></a>\r\n        </dl>\r\n        <dl class=\"grid-data-item\">\r\n            <dd>\r\n                SAINT-VITH 13/08/2026\r\n                <div class=\"pull-right\"><a data-description=\"\" data-subscription=\"true\" data-toggle=\"popover\" data-url=\"/MyAFT/Tooltip/TournamentDetails/361794\" title=\"Plus d&#39;info sur le tournoi\"><span class='glyphicon glyphicon-collapse-down'></span></a></div>\r\n            </dd>\r\n            <dd>\r\n             "
-    },
-    "GET /MyAFT/MyTournois/MyTournamentResults []": {
-      "typ": "html_fragment",
-      "laenge": 16836,
-      "auszug": "<input type=\"hidden\" class=\"isLoaded\" />\r\n<div class=\"panel-body flex-wrap\" id=\"divMyTournamentResultsData\">\r\n        <dl class=\"grid-data-item defeat\">\r\n            <dd>\r\n                BUTGENBACH 08/08/2026\r\n                <div class=\"pull-right\"><a data-description=\"\" data-subscription=\"true\" data-toggle=\"popover\" data-url=\"/MyAFT/Tooltip/TournamentDetails/361706\" title=\"Plus d&#39;info sur le tournoi\"><span class='glyphicon glyphicon-collapse-down'></span></a></div>\r\n            </dd>\r\n            <dd>\r\n                Doubles Mixtes 7 6 - 15 pts\r\n                <a data-description=\"\" data-subscription=\"true\" data-toggle=\"popover\" data-url=\"/MyAFT/Tooltip/TournamentCategories/361706?displaySubscriptions=False\" title=\"Voir les catégories\"><span class='glyphicon glyphicon-collapse-down '></span></a>\r\n            </dd>\r\n                <dd>\r\n                    Avec <a data-load=\"ajax-state\" data-url=\"/MyAFT/Players/Detail/4109615\" title=\"Plus d&#39;info sur BÖMER Kristina (5 pts)\">BÖMER Kristina (5 pts)</a>\r\n<div class=\"pull-right\"><a data-toggle=\"popover\" data-url=\"/MyAFT/Tooltip/TournamentPlayerDetails/?affNum1=4109615\" title=\"Plus d&#39;info sur BÖMER Kristina (5 pts)\"><span class='glyphicon glyphicon-collapse-down '></span></a></div>                </dd>\r\n                            <dd>\r\n                    Contre\r\n<a data-load=\"ajax-state\" data-url=\"/MyAFT/Players/Detail/4107657\" title=\"Plus d&#39;info sur JENNIGES Jochen (3 pts) \">JENNIGES Jochen (3 pts) </a>                        /\r\n<a data-load=\"ajax-state\" data-url=\"/MyAFT/Players/Detail/4016319\" title=\"Plus d&#39;info sur  HOFFMANN Ramona (10 pts)\"> HOFFMANN Ramona (10 pts)</a>                    <div class=\"pull-right\"><a data-toggle=\"popover\" data-url=\"/MyAFT/Tooltip/TournamentPlayerDetails/?affNum1=4107657&amp;affNum2=4016319\" title=\"Plus d&#39;info sur JENNIGES Jochen (3 pts) / HOFFMANN Ramona (10 pts)\"><span class='glyphicon glyphicon-collapse-down '></span></a></div>                </dd>\r\n\r\n            <dd class=\"victory-defeat\">\r\n<image src=\"/MyAFT/Content/Images/defeat.png\"></image>                6/4-7/5-0/0 \r\n            </dd>\r\n            <a class=\"view-draw\" title='Voir tableau' href=\"javascript:void(0)\" data-load=\"ajax-state\" data-url=\"/MyAFT/Competitions/TournamentDraw?idTournoi=361706&amp;idCategory=1020301&amp;drawType=F&amp;roundIndex=2&amp;rowIndex=1\">Voir tableau</a>\r\n            <a class=\"hamburger\" data-target=\"#context-menu\" data-toggle=\"context\" data-url=\"/MyAFT/Cont"
-    },
-    "GET /MyAFT/MyTournois/MyTournamentResults ['numFed']": {
-      "typ": "html_fragment",
-      "laenge": 16834,
-      "auszug": "<input type=\"hidden\" class=\"isLoaded\" />\r\n<div class=\"panel-body flex-wrap\" id=\"divMyTournamentResultsData\">\r\n        <dl class=\"grid-data-item defeat\">\r\n            <dd>\r\n                BUTGENBACH 08/08/2026\r\n                <div class=\"pull-right\"><a data-description=\"\" data-subscription=\"true\" data-toggle=\"popover\" data-url=\"/MyAFT/Tooltip/TournamentDetails/361706\" title=\"Plus d&#39;info sur le tournoi\"><span class='glyphicon glyphicon-collapse-down'></span></a></div>\r\n            </dd>\r\n            <dd>\r\n                Doubles Mixtes 7 6 - 15 pts\r\n                <a data-description=\"\" data-subscription=\"true\" data-toggle=\"popover\" data-url=\"/MyAFT/Tooltip/TournamentCategories/361706?displaySubscriptions=False\" title=\"Voir les catégories\"><span class='glyphicon glyphicon-collapse-down '></span></a>\r\n            </dd>\r\n                <dd>\r\n                    Avec <a data-load=\"ajax-state\" data-url=\"/MyAFT/Players/Detail/4109615\" title=\"Plus d&#39;info sur BÖMER Kristina (5 pts)\">BÖMER Kristina (5 pts)</a>\r\n<div class=\"pull-right\"><a data-toggle=\"popover\" data-url=\"/MyAFT/Tooltip/TournamentPlayerDetails/?affNum1=4109615\" title=\"Plus d&#39;info sur BÖMER Kristina (5 pts)\"><span class='glyphicon glyphicon-collapse-down '></span></a></div>                </dd>\r\n                            <dd>\r\n                    Contre\r\n<a data-load=\"ajax-state\" data-url=\"/MyAFT/Players/Detail/4107657\" title=\"Plus d&#39;info sur JENNIGES Jochen (3 pts) \">JENNIGES Jochen (3 pts) </a>                        /\r\n<a data-load=\"ajax-state\" data-url=\"/MyAFT/Players/Detail/4016319\" title=\"Plus d&#39;info sur  HOFFMANN Ramona (10 pts)\"> HOFFMANN Ramona (10 pts)</a>                    <div class=\"pull-right\"><a data-toggle=\"popover\" data-url=\"/MyAFT/Tooltip/TournamentPlayerDetails/?affNum1=4107657&amp;affNum2=4016319\" title=\"Plus d&#39;info sur JENNIGES Jochen (3 pts) / HOFFMANN Ramona (10 pts)\"><span class='glyphicon glyphicon-collapse-down '></span></a></div>                </dd>\r\n\r\n            <dd class=\"victory-defeat\">\r\n<image src=\"/MyAFT/Content/Images/defeat.png\"></image>                6/4-7/5-0/0 \r\n            </dd>\r\n            <a class=\"view-draw\" title='Voir tableau' href=\"javascript:void(0)\" data-load=\"ajax-state\" data-url=\"/MyAFT/Competitions/TournamentDraw?idTournoi=361706&amp;idCategory=1020301&amp;drawType=F&amp;roundIndex=2&amp;rowIndex=1\">Voir tableau</a>\r\n            <a class=\"hamburger\" data-target=\"#context-menu\" data-toggle=\"context\" data-url=\"/MyAFT/Cont"
-    },
-    "GET /MyAFT/MyTournois/Register []": {
-      "typ": "html_fragment",
-      "laenge": 136279,
-      "auszug": "<input type=\"hidden\" class=\"isLoaded\" />\r\n<div class=\"panel-body\">\r\n    <div class=\"nav-tabs-trigger\">Afficher les onglets</div>\r\n    <ul class=\"nav nav-tabs\">\r\n        <li class=\"active\"><a data-toggle=\"tab\" href=\"#mytournoi_register_single\">SIMPLES</a></li>\r\n        <li><a data-toggle=\"tab\" href=\"#mytournoi_register_double\" data-target=\"#mytournoi_register_double\" data-url=\"/MyAFT/MyTournois/Register_DoubleData\">DOUBLES</a></li>\r\n    </ul>\r\n    <div class=\"tab-content\">\r\n        <div id=\"mytournoi_register_single\" class=\"flex-wrap tab-pane fade in active\">\r\n<input type=\"hidden\" class=\"isLoaded\" />\r\n        <dl class=\"grid-data-item\">\r\n            <dd>\r\n                JAMIOULX 27/08/2026\r\n                <div class=\"pull-right\"><a data-description=\"\" data-subscription=\"true\" data-toggle=\"popover\" data-url=\"/MyAFT/Tooltip/TournamentDetails/362383\" title=\"Plus d&#39;info sur le tournoi\"><span class='glyphicon glyphicon-collapse-down'></span></a></div>\r\n            </dd>\r\n                    <dd>\r\n\r\n                        Messieurs 35 6 (C30.6-C30.4)\r\n                        <div class=\"pull-right\">\r\n        <a style=\"float: left;\" title=\"Catégorie\" data-toggle=\"popover\" data-subscription=\"true\" data-description=\"JAMIOULX 27/08/2026\" data-callback=\"subscribeTournament(362383,1048605,'4111231')\" data-url=\"/MyAFT/Tooltip/TournamentCategories/362383?idCategory=1048605\">M'inscrire</a>\r\n                            <a data-description=\"\" data-subscription=\"true\" data-toggle=\"popover\" data-url=\"/MyAFT/Tooltip/TournamentCategories/362383?displaySubscriptions=False\" title=\"Voir les catégories\"><span class='glyphicon glyphicon-collapse-down '></span></a>                        </div>\r\n                    </dd>\r\n                    <dd>\r\n\r\n                        Messieurs 6 (C30.6-C30.4)\r\n                        <div class=\"pull-right\">\r\n        <a style=\"float: left;\" title=\"Catégorie\" data-toggle=\"popover\" data-subscription=\"true\" data-description=\"JAMIOULX 27/08/2026\" data-callback=\"subscribeTournament(362383,1048630,'4111231')\" data-url=\"/MyAFT/Tooltip/TournamentCategories/362383?idCategory=1048630\">M'inscrire</a>\r\n                                                    </div>\r\n                    </dd>\r\n                            <dd>Inscriptions jusqu'au 25/08/2026</dd>\r\n            <dd>Crit&eacute;rium adultes Simples/Crit&eacute;rium senior by Cornet</dd>\r\n<a class=\"hamburger\" data-target=\"#context-menu\" data-toggle=\"context\" data-url=\"/MyAFT/ContextMenu/Tourna"
-    },
-    "GET /MyAFT/MyTournois/Register ['numFed']": {
-      "typ": "html_fragment",
-      "laenge": 136279,
-      "auszug": "<input type=\"hidden\" class=\"isLoaded\" />\r\n<div class=\"panel-body\">\r\n    <div class=\"nav-tabs-trigger\">Afficher les onglets</div>\r\n    <ul class=\"nav nav-tabs\">\r\n        <li class=\"active\"><a data-toggle=\"tab\" href=\"#mytournoi_register_single\">SIMPLES</a></li>\r\n        <li><a data-toggle=\"tab\" href=\"#mytournoi_register_double\" data-target=\"#mytournoi_register_double\" data-url=\"/MyAFT/MyTournois/Register_DoubleData\">DOUBLES</a></li>\r\n    </ul>\r\n    <div class=\"tab-content\">\r\n        <div id=\"mytournoi_register_single\" class=\"flex-wrap tab-pane fade in active\">\r\n<input type=\"hidden\" class=\"isLoaded\" />\r\n        <dl class=\"grid-data-item\">\r\n            <dd>\r\n                JAMIOULX 27/08/2026\r\n                <div class=\"pull-right\"><a data-description=\"\" data-subscription=\"true\" data-toggle=\"popover\" data-url=\"/MyAFT/Tooltip/TournamentDetails/362383\" title=\"Plus d&#39;info sur le tournoi\"><span class='glyphicon glyphicon-collapse-down'></span></a></div>\r\n            </dd>\r\n                    <dd>\r\n\r\n                        Messieurs 35 6 (C30.6-C30.4)\r\n                        <div class=\"pull-right\">\r\n        <a style=\"float: left;\" title=\"Catégorie\" data-toggle=\"popover\" data-subscription=\"true\" data-description=\"JAMIOULX 27/08/2026\" data-callback=\"subscribeTournament(362383,1048605,'4111231')\" data-url=\"/MyAFT/Tooltip/TournamentCategories/362383?idCategory=1048605\">M'inscrire</a>\r\n                            <a data-description=\"\" data-subscription=\"true\" data-toggle=\"popover\" data-url=\"/MyAFT/Tooltip/TournamentCategories/362383?displaySubscriptions=False\" title=\"Voir les catégories\"><span class='glyphicon glyphicon-collapse-down '></span></a>                        </div>\r\n                    </dd>\r\n                    <dd>\r\n\r\n                        Messieurs 6 (C30.6-C30.4)\r\n                        <div class=\"pull-right\">\r\n        <a style=\"float: left;\" title=\"Catégorie\" data-toggle=\"popover\" data-subscription=\"true\" data-description=\"JAMIOULX 27/08/2026\" data-callback=\"subscribeTournament(362383,1048630,'4111231')\" data-url=\"/MyAFT/Tooltip/TournamentCategories/362383?idCategory=1048630\">M'inscrire</a>\r\n                                                    </div>\r\n                    </dd>\r\n                            <dd>Inscriptions jusqu'au 25/08/2026</dd>\r\n            <dd>Crit&eacute;rium adultes Simples/Crit&eacute;rium senior by Cornet</dd>\r\n<a class=\"hamburger\" data-target=\"#context-menu\" data-toggle=\"context\" data-url=\"/MyAFT/ContextMenu/Tourna"
-    },
-    "GET /MyAFT/MyTournois/TournamentsToFollow []": {
-      "typ": "html_fragment",
-      "laenge": 7917,
-      "auszug": "<input type=\"hidden\" class=\"isLoaded\" />\r\n<div class=\"panel-body\">\r\n    <div style=\"text-align:right;margin-bottom: 10px; width: 100%; z-index: 300;\">\r\n        <input id=\"txtTournoiToFollow\" type=\"text\" placeholder=\"Sélectionnez un tournoi\" class=\"form-control\" style=\"display: inline; width: 300px\" />&nbsp;&nbsp;&nbsp;&nbsp;\r\n        <input type=\"hidden\" id=\"hdTournamentToFollow\" />\r\n        <button type=\"button\" class=\"btn btn-danger\" onclick=\"addTournamentToFollow()\">Ajouter</button>\r\n    </div>\r\n    <div class=\"flex-wrap\" id=\"tournamentstofollow_wrapper\" style=\"width: 100%\">\r\n\r\n        <dl class=\"grid-data-item\">\r\n            <dd>\r\n                WAIMES 09/07/2026\r\n                <div class=\"pull-right\"><a data-description=\"\" data-subscription=\"true\" data-toggle=\"popover\" data-url=\"/MyAFT/Tooltip/TournamentDetails/361671\" title=\"Plus d&#39;info sur le tournoi\"><span class='glyphicon glyphicon-collapse-down'></span></a></div>\r\n            </dd>\r\n            <dd>\r\n                JAVSD\r\n                <a data-description=\"\" data-subscription=\"true\" data-toggle=\"popover\" data-url=\"/MyAFT/Tooltip/TournamentCategories/361671?displaySubscriptions=False\" title=\"Voir les catégories\"><span class='glyphicon glyphicon-collapse-down '></span></a>\r\n            </dd>\r\n                            <dd>CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 - Doubles Dames TWB</dd>\r\n            <dd>\r\n                    <span class=\"register-closed\">Inscriptions clôturées</span>\r\n            </dd>\r\n\r\n            <a class=\"hamburger\" data-target=\"#context-menu\" data-toggle=\"context\" data-url=\"/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=090820260304120663&amp;IdTournoi=361671&amp;PathRules=361671_4067.pdf&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;ShowSubscribeTeam=True&amp;IsOpenForSubscription=False&amp;IsNamurLuxembourg=False\" href=\"javascript:void(0)\"><span class='glyphicon glyphicon-menu-hamburger' id='context_menu_090820260304120663'></span></a>\r\n            <a class=\"delete\" href=\"javascript:void(0)\" onclick=\"deleteTournamentToFollow(361671)\"><span class=\"glyphicon glyphicon-trash\"></span></a>\r\n        </dl>\r\n        <dl class=\"grid-data-item\">\r\n            <dd>\r\n                BUTGENBACH 30/07/2026\r\n                <div class=\"pull-right\"><a data-description=\"\" data-subscription=\"true\" data-toggle=\"popover\" data-url=\"/MyAFT/Tooltip/TournamentDetails/361706\" title=\"Plus d&#39;info sur le tournoi\"><span class='glyphicon glyphicon-collapse-down'></span></a>"
-    },
-    "GET /MyAFT/MyTournois/TournamentsToFollow ['numFed']": {
-      "typ": "html_fragment",
-      "laenge": 7917,
-      "auszug": "<input type=\"hidden\" class=\"isLoaded\" />\r\n<div class=\"panel-body\">\r\n    <div style=\"text-align:right;margin-bottom: 10px; width: 100%; z-index: 300;\">\r\n        <input id=\"txtTournoiToFollow\" type=\"text\" placeholder=\"Sélectionnez un tournoi\" class=\"form-control\" style=\"display: inline; width: 300px\" />&nbsp;&nbsp;&nbsp;&nbsp;\r\n        <input type=\"hidden\" id=\"hdTournamentToFollow\" />\r\n        <button type=\"button\" class=\"btn btn-danger\" onclick=\"addTournamentToFollow()\">Ajouter</button>\r\n    </div>\r\n    <div class=\"flex-wrap\" id=\"tournamentstofollow_wrapper\" style=\"width: 100%\">\r\n\r\n        <dl class=\"grid-data-item\">\r\n            <dd>\r\n                WAIMES 09/07/2026\r\n                <div class=\"pull-right\"><a data-description=\"\" data-subscription=\"true\" data-toggle=\"popover\" data-url=\"/MyAFT/Tooltip/TournamentDetails/361671\" title=\"Plus d&#39;info sur le tournoi\"><span class='glyphicon glyphicon-collapse-down'></span></a></div>\r\n            </dd>\r\n            <dd>\r\n                JAVSD\r\n                <a data-description=\"\" data-subscription=\"true\" data-toggle=\"popover\" data-url=\"/MyAFT/Tooltip/TournamentCategories/361671?displaySubscriptions=False\" title=\"Voir les catégories\"><span class='glyphicon glyphicon-collapse-down '></span></a>\r\n            </dd>\r\n                            <dd>CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 - Doubles Dames TWB</dd>\r\n            <dd>\r\n                    <span class=\"register-closed\">Inscriptions clôturées</span>\r\n            </dd>\r\n\r\n            <a class=\"hamburger\" data-target=\"#context-menu\" data-toggle=\"context\" data-url=\"/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=090820260304122384&amp;IdTournoi=361671&amp;PathRules=361671_4067.pdf&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;ShowSubscribeTeam=True&amp;IsOpenForSubscription=False&amp;IsNamurLuxembourg=False\" href=\"javascript:void(0)\"><span class='glyphicon glyphicon-menu-hamburger' id='context_menu_090820260304122384'></span></a>\r\n            <a class=\"delete\" href=\"javascript:void(0)\" onclick=\"deleteTournamentToFollow(361671)\"><span class=\"glyphicon glyphicon-trash\"></span></a>\r\n        </dl>\r\n        <dl class=\"grid-data-item\">\r\n            <dd>\r\n                BUTGENBACH 30/07/2026\r\n                <div class=\"pull-right\"><a data-description=\"\" data-subscription=\"true\" data-toggle=\"popover\" data-url=\"/MyAFT/Tooltip/TournamentDetails/361706\" title=\"Plus d&#39;info sur le tournoi\"><span class='glyphicon glyphicon-collapse-down'></span></a>"
-    },
-    "_anfragen": 40
+    "361671_1019449": {
+      "http": 200,
+      "laenge": 10265,
+      "spieler_links": 0,
+      "namen_gefunden": 0,
+      "auszug": " <link href=\"/MyAFT/Content/draws.css?t=123\" rel=\"stylesheet\"/> <script type=\"text/javascript\" src=\"/MyAFT/Scripts/draw/jquery.gracket.js?t=111\"></script> <h4 style=\"text-align: center\">361671 [4067-WAIMES] - Du 09/07/2026 au 19/07/2026 - CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 - Doubles Dames TWB</h4> <div style=\"clear: both;\"></div> <div class=\"tournamentDrawDataContainer\"> <div style=\"float: left; font-weight: bold;\">Catégories</div> <div style=\"float: left; width: 200px; \"> <select id=\"drawCategory\" class=\"form-control\" onchange=\"changeCategory()\"> <option value=\"\">Catégorie</option> <option value=\"1019422|F\" >Messieurs 50 2 (55-70)</option> <option value=\"1019423|\" disabled=disabled style=background-color:lightgrey>Messieurs 50 3 (35-50)</option> <option value=\"1019424|F\" >Messieurs 50 4 (15-30)</option> <option value=\"1019425|\" disabled=disabled style=background-color:lightgrey>Messieurs 50 5 (3-10)</option> <option value=\"1019436|F\" >DM 2 90 - 150 pts (90-150)</option> <option value=\"1019437|F\" >DM 3 60 - 120 pts (60-120)</option> <option value=\"1019438|F\" >DM 4 30 - 90 pts (30-90)</option> <option value=\"1019439|F\" >DM 5 15 - 60 pts (15-60)</option> <option value=\"1019440|F\" >DM 6 6 - 30 pts (6-30)</option> <option value=\"1019441|F\" >DD 3 60 - 120 pts (60-120)</option> <option value=\"1019442|F\" >DD 4 30 - 90 pts (30-90)</option> <option value=\"1019443|F\" >DD 5 15 - 60 pts (15-60)</option> <option value=\"1019444|F\" >DD 6 6 - 30 pts (6-30)</option> <option value="
+    }
   },
-  "dauer_sekunden": 18.8
+  "turnier_infos": {
+    "361706": {
+      "http": 200,
+      "text": "Chers joueurs et joueuses, BIENVENUE AU KTC B Ü TGENBACH Merci de remplir vos disponibilit é s avec le plus grand soin. Aucun changement d ’ horaire ne sera possible apr è s la cl ô ture des inscriptions. De plus, la disponibilit é le premier week-end est obligatoire pour toutes les cat é gories . La Juge-Arbitre se r é serve le droit d ’ annuler l ’ inscription d ’ un joueur n ’ ayant pas indiqu é suffisamment de disponibilit é s. Tout joueur n ’ ayant indiqu é aucune disponibilit é pour le premier week-end lors de son inscription sera consid é r é comme disponible pendant tout le week-end . La Juge-Arbitre peut ê tre amen é e à utiliser certains terrains ext é rieurs au club, quel que soit le rev ê tement . Apr è s avoir consult é votre horaire, merci de le confirmer . Veuillez é galement v é rifier au jour le jour , durant le tournoi et avant de vous d é placer , qu ’ aucune modification n ’ a é t é apport é e. PAIEMENT EN CASH ! Bon tournoi à toutes et à tous. Categories Doubles Messieurs 2 90 - 150 pts 90 - 150 / 16 ans et plus Criterium 8 inscrits sur un maximum de 8 Doubles Messieurs 3 60 - 120 pts 60 - 120 / 16 ans et plus Criterium 15 inscrits sur un maximum de 16 Doubles Messieurs 4 30 - 90 pts 30 - 90 / 16 ans et plus Criterium 12 inscrits sur un maximum de 16 Doubles Messieurs 5 15 - 60 pts 15 - 60 / 16 ans et plus Criterium 14 inscrits sur un maximum de 16 Doubles Messieurs 6 - 6 - 30 pts 6 - 30 / 16 ans et plus Criterium 8 inscrits sur un maximum de 8 Doubles Messieurs 7 6 - 15 pts 6 - 15 / 16 ans et plus Criterium 6 inscrits sur un maximum de 8 Doubles Dames 3 60 - 120 pts 60 - 120 / 16 ans et plus Criterium 8 inscrits sur un maximum de 8 Doubles Dames 4 30 - 90 pts 30 - 90 / 16 ans et plus Criterium 8 inscrits sur un maximum de 8 Doubles Dames 5 15 - 60 pts 15 - 60 / 16 ans et plus Criterium 13 inscrits sur un maximum de 16 Doubles Dames 6 6 - 30 pts 6 - 30 / 16 ans et plus Criterium 6 inscrits sur un maximum de 8 Doubles Dames 7 6 - 15 pts 6 - 15 / 16 ans et plus Criterium 8 inscrits sur un maximum de 12 Doubles Mixtes 2 90 - 150 pts 90 - 150 / 16 ans et plus Criterium 4 inscrits sur un maximum de 8 Doubles Mixtes 3 60 - 120 pts 60 - 120 / 16 ans et plus Criterium 10 inscrits sur un maximum de 12 Doubles Mixtes 4 30 - 90 pts 30 - 90 / 16 ans et plus Criterium 12 inscrits sur un maximum de 12 Doubles Mixtes 5 15 - 60 pts 15 - 60 / 16 ans et plus Criterium 10 inscrits sur un maximum de 12 Doubles Mixtes 6 6 - 30 pts 6 - 30 / 16 ans et plus Criterium 8 inscrits sur un maximum de 8 Doubles Mixtes 7 6 - 15 pts 6 - 15 / 16 ans et plus Criterium 8 inscrits sur un maximum de 8 Voir mes disponibilités Inscrit Simples Messieurs 2 B0 - B-15 / 14 ans et plus Criterium 10 inscrits sur un maximum de 12 Simples Messieurs 3 C15.1 - B+2/6 / 14 ans et plus Criterium 14 inscrits sur un maximum de 16 Simples Messieurs 4 C15.5 - C15.2 / 14 ans et plus Criterium 16 inscrits sur un maximum de 16 Simples Messieurs 5 C30.3 - C30 / 16 ans et plus Criteriu"
+    },
+    "361671": {
+      "http": 200,
+      "text": "Categories Doubles Messieurs 2 90 - 150 pts 90 - 150 / 16 ans et plus Criterium 4 inscrits Doubles Messieurs 3 60 - 120 pts 60 - 120 / 16 ans et plus Criterium 6 inscrits Doubles Messieurs 4 30 - 90 pts 30 - 90 / 16 ans et plus Criterium 10 inscrits Doubles Messieurs 5 15 - 60 pts 15 - 60 / 16 ans et plus Criterium 16 inscrits Doubles Messieurs 6 - 6 - 30 pts 6 - 30 / 16 ans et plus Criterium 10 inscrits Doubles Dames 3 60 - 120 pts 60 - 120 / 16 ans et plus Criterium 2 inscrits Doubles Dames 4 30 - 90 pts 30 - 90 / 16 ans et plus Criterium 5 inscrits Doubles Dames 5 15 - 60 pts 15 - 60 / 16 ans et plus Criterium 4 inscrits Doubles Dames 6 6 - 30 pts 6 - 30 / 16 ans et plus Criterium 16 inscrits Doubles Mixtes 2 90 - 150 pts 90 - 150 / 16 ans et plus Criterium 2 inscrits Doubles Mixtes 3 60 - 120 pts 60 - 120 / 16 ans et plus Criterium 4 inscrits Doubles Mixtes 4 30 - 90 pts 30 - 90 / 16 ans et plus Criterium 4 inscrits Doubles Mixtes 5 15 - 60 pts 15 - 60 / 16 ans et plus Criterium 7 inscrits Doubles Mixtes 6 6 - 30 pts 6 - 30 / 16 ans et plus Criterium 8 inscrits Voir mes disponibilités Inscrit Simples Messieurs 50 2 C15.1 - B+2/6 / 50 ans et plus Criterium 2 inscrits Simples Messieurs 50 3 C15.5 - C15.2 / 50 ans et plus Criterium 0 inscrits Simples Messieurs 50 4 C30.3 - C30 / 50 ans et plus Criterium 3 inscrits Simples Messieurs 50 5 C30.6 - C30.4 / 50 ans et plus Criterium 1 inscrits Simples Messieurs 2 B0 - B-15 / 14 ans et plus Criterium 7 inscrits Simples Messieurs 3 C15.1 - B+2/6 / 14 ans et plus Criterium 10 inscrits Simples Messieurs 4 C15.5 - C15.2 / 14 ans et plus Criterium 19 inscrits Simples Messieurs 5 C30.3 - C30 / 16 ans et plus Criterium 20 inscrits Simples Messieurs 6 C30.6 - C30.4 / 16 ans et plus Criterium 30 inscrits Simples Dames 2 B+4/6 - B-4/6 / 14 ans et plus Criterium 2 inscrits Simples Dames 3 C15.5 - C15 / 14 ans et plus Criterium 5 inscrits Simples Dames 4 C30.3 - C30 / 16 ans et plus Criterium 8 inscrits Simples Dames 5 C30.6 - C30.4 / 16 ans et plus Criterium 24 inscrits Simples Messieurs 35 2 B0 - B-15 / 35 ans et plus Criterium 0 inscrits Simples Messieurs 35 3 C15.1 - B+2/6 / 35 ans et plus Criterium 7 inscrits Simples Messieurs 35 4 C15.5 - C15.2 / 35 ans et plus Criterium 8 inscrits Simples Messieurs 35 5 C30.3 - C30 / 35 ans et plus Criterium 9 inscrits Simples Messieurs 35 6 C30.6 - C30.4 / 35 ans et plus Criterium 13 inscrits Voir mes disponibilités Inscrit Simples Dames 25 2 C15.5 - C15 / 25 ans et plus Criterium 6 inscrits Simples Dames 25 3 C30.3 - C30 / 25 ans et plus Criterium 2 inscrits Simples Dames 25 4 C30.6 - C30.4 / 25 ans et plus Criterium 14 inscrits Simples jeunes gens - 11 ans Grade 2 11.8 - 11.3 / 10 à 11 ans Criterium 6 inscrits Simples jeunes gens - 13 ans Grade 2 13.8 - 13.3 / 12 à 13 ans Criterium 5 inscrits Simples jeunes gens - 15 ans Grade 2 C30.6 - C30 / 14 à 15 ans Criterium 7 inscrits Simples jeunes filles - 11 ans Grade 2 11.8 - 11.3 / 10 à 11 ans Criterium 0 inscrits Simples jeu"
+    }
+  }
 }
