@@ -26,7 +26,7 @@ UA = (
 
 ergebnis = {
     "zeit": datetime.now(timezone.utc).isoformat(),
-    "version": 10,
+    "version": 11,
     "status": "nicht_gestartet",
 }
 
@@ -300,6 +300,82 @@ def anmeldungen_und_teams(s):
     return daten
 
 
+
+def turnierkalender(s):
+    """Sucht den Endpunkt für den Turnierkalender und ruft ihn ab."""
+    from bs4 import BeautifulSoup
+    daten = {}
+
+    # Seite "Inscriptions tournois" laden und JS-Endpunkte extrahieren
+    try:
+        r = s.get(f"{BASE}/MyAFT/Competitions/Tournaments", timeout=45)
+        html = r.text
+        daten["seite"] = {"http": r.status_code, "laenge": len(html)}
+        urls = set()
+        for m in re.finditer(r"url\s*:\s*[\"']([^\"']+)[\"']", html):
+            urls.add(m.group(1))
+        for m in re.finditer(r"[\"'](/MyAFT/[A-Za-z0-9_/\-]*(?:Tourna|Calend|Search)[A-Za-z0-9_/\-]*)[\"'?]", html):
+            urls.add(m.group(1))
+        soup = BeautifulSoup(html, "html.parser")
+        for t in soup.find_all("script", src=True)[:10]:
+            src = t["src"]
+            if not src.startswith("http"):
+                src = BASE + src if src.startswith("/") else BASE + "/" + src
+            if "myaft" not in src.lower() and "script" not in src.lower():
+                continue
+            try:
+                rj = s.get(src, timeout=30)
+                for m in re.finditer(r"[\"'](/MyAFT/[A-Za-z0-9_/\-]*(?:Tourna|Calend)[A-Za-z0-9_/\-]*)[\"'?]", rj.text):
+                    urls.add(m.group(1))
+            except Exception:
+                pass
+        daten["gefundene_urls"] = sorted(urls)[:40]
+        # Formularfelder der Suche
+        daten["formularfelder"] = sorted({
+            i.get("name") for i in soup.select("input[name], select[name]") if i.get("name")
+        })[:40]
+    except Exception as e:
+        daten["seite"] = {"fehler": repr(e)}
+        daten["gefundene_urls"] = []
+
+    # Kandidaten durchprobieren
+    kandidaten = [u for u in daten.get("gefundene_urls", []) if u.startswith("/MyAFT/")]
+    kandidaten += [
+        "/MyAFT/Competitions/SearchTournaments",
+        "/MyAFT/Competitions/TournamentsData",
+        "/MyAFT/Competitions/GetTournaments",
+        "/MyAFT/Competitions/TournamentsList",
+    ]
+    daten["treffer"] = {}
+    versuche = 0
+    for pfad in list(dict.fromkeys(kandidaten))[:18]:
+        for params in ({}, {"regionId": 3}, {"idRegion": 3}):
+            if versuche >= 40:
+                break
+            versuche += 1
+            for methode in ("get", "post"):
+                try:
+                    fn = s.get if methode == "get" else s.post
+                    kw = {"timeout": 20, "headers": {
+                        "X-Requested-With": "XMLHttpRequest", "Referer": f"{BASE}/MyAFT/Competitions/Tournaments"}}
+                    r = fn(BASE + pfad, params=params, **kw) if methode == "get" else fn(BASE + pfad, data=params, **kw)
+                    if r.status_code != 200 or len(r.text) < 200:
+                        continue
+                    ct = r.headers.get("content-type", "")
+                    roh = entschaerfen(re.sub(r"<[^>]+>", " ", r.text))
+                    orte = sorted(set(re.findall(r"([A-ZÄÖÜÉÈ][A-ZÄÖÜÉÈ\-\. ]{3,22})\s+(?:du|le)?\s*(\d{2}/\d{2}/\d{4})", roh)))
+                    if "json" in ct or orte:
+                        daten["treffer"][f"{methode.upper()} {pfad} {sorted(params)}"] = {
+                            "content_type": ct[:40],
+                            "laenge": len(r.text),
+                            "turniere": orte[:60],
+                            "auszug": roh[:2500],
+                        }
+                except Exception:
+                    continue
+    return daten
+
+
 def lauf():
     import requests
 
@@ -367,6 +443,9 @@ def lauf():
 
     print("Hole Anmeldungen und Interclub-Daten ...")
     ergebnis["anmeldungen"] = anmeldungen_und_teams(s)
+
+    print("Suche Turnierkalender ...")
+    ergebnis["kalender"] = turnierkalender(s)
 
     ergebnis["status"] = "ok"
 
