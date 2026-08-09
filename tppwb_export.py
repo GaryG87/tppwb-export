@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-TPPWB-Exporter v2 – mit Diagnose-Modus
-Gibt die Struktur des Login-Formulars direkt ins Actions-Log aus,
-damit der richtige Endpunkt und die Feldnamen ermittelt werden können.
+TPPWB-Exporter v3
+Login mit ASP.NET-Antiforgery-Token. Protokolliert jeden Versuch samt
+Antwort-Auszug in export/results.json, damit Claude direkt mitlesen kann.
 """
 
 import json
@@ -23,156 +23,116 @@ UA = (
 )
 
 
-def trenner(titel):
-    print("\n" + "=" * 70)
-    print(f"  {titel}")
-    print("=" * 70)
+def hole_login_kontext(session):
+    """Login-Seite laden und Token sowie versteckte Felder einsammeln."""
+    r = session.get(f"{BASE}/MyAFT/Home/Login", timeout=30)
+    soup = BeautifulSoup(r.text, "html.parser")
+
+    kontext = {"http": r.status_code, "laenge": len(r.text)}
+
+    # Antiforgery-Token kann irgendwo auf der Seite stehen
+    token = None
+    for inp in soup.select('input[name="__RequestVerificationToken"]'):
+        if inp.get("value"):
+            token = inp["value"]
+            break
+    if not token:
+        m = re.search(
+            r'name="__RequestVerificationToken"[^>]*value="([^"]+)"', r.text
+        )
+        if m:
+            token = m.group(1)
+    kontext["token_gefunden"] = bool(token)
+
+    versteckt = {}
+    for inp in soup.select("input[type=hidden]"):
+        if inp.get("name"):
+            versteckt[inp["name"]] = inp.get("value", "")
+    kontext["versteckte_felder"] = list(versteckt)
+    kontext["cookies"] = list(session.cookies.keys())
+
+    return token, versteckt, kontext
 
 
-def diagnose(session):
-    """Untersucht die Login-Seite und gibt alles Relevante ins Log aus."""
-    trenner("DIAGNOSE: Login-Seiten abklopfen")
+def ist_eingeloggt(session):
+    """Prüft anhand mehrerer Merkmale, ob die Session angemeldet ist."""
+    r = session.get(f"{BASE}/MyAFT/", timeout=30)
+    txt = r.text
+    low = txt.lower()
+    merkmale = {
+        "logout_link": any(
+            m in low for m in ["déconnexion", "se déconnecter", "logout", "/home/logout"]
+        ),
+        "pin_dialog": "pincode" in low or "code pin" in low,
+        "mes_inscriptions": "mes inscriptions" in low,
+        "mes_resultats": "mytournois_myresults" in low,
+        "laenge": len(txt),
+    }
+    # Eingeloggt, wenn ein Logout-Merkmal auftaucht
+    merkmale["bewertung"] = merkmale["logout_link"]
+    return merkmale["bewertung"], merkmale, txt
 
-    kandidaten = [
-        "/MyAFT/Home/Login",
-        "/MyAFT/",
-        "/MyAFT/Players/Search",
+
+def versuche_login(session, num, pin):
+    token, versteckt, kontext = hole_login_kontext(session)
+    protokoll = {"kontext": kontext, "versuche": []}
+
+    basis = {
+        "affiliationNumber": num,
+        "pinCode": pin,
+        "rememberMe": "false",
+        "returnUrl": versteckt.get("returnUrl", ""),
+        "sourcePage": versteckt.get("sourcePage", ""),
+    }
+    if token:
+        basis["__RequestVerificationToken"] = token
+
+    varianten = [
+        ("/MyAFT/Home/Login", basis, "form"),
+        ("/MyAFT/Home/Login", basis, "json"),
+        ("/MyAFT/Home/LoginInfo", basis, "form"),
+        ("/MyAFT/Home/LoginInfo", basis, "json"),
+        # ohne die Zusatzfelder, nur das Nötigste
+        (
+            "/MyAFT/Home/Login",
+            {k: v for k, v in basis.items() if k in ("affiliationNumber", "pinCode", "__RequestVerificationToken")},
+            "form",
+        ),
     ]
 
-    befunde = {}
-
-    for pfad in kandidaten:
+    for pfad, payload, art in varianten:
         url = BASE + pfad
+        eintrag = {"url": pfad, "art": art, "felder": sorted(payload)}
         try:
-            r = session.get(url, timeout=30)
+            kwargs = {
+                "timeout": 30,
+                "headers": {
+                    "Referer": f"{BASE}/MyAFT/Home/Login",
+                    "X-Requested-With": "XMLHttpRequest",
+                    "Origin": BASE,
+                },
+                "allow_redirects": True,
+            }
+            r = session.post(url, json=payload, **kwargs) if art == "json" else session.post(url, data=payload, **kwargs)
+            eintrag["status"] = r.status_code
+            eintrag["content_type"] = r.headers.get("content-type", "")
+            eintrag["redirects"] = [x.headers.get("location", "") for x in r.history]
+            eintrag["antwort_auszug"] = r.text[:800]
+            eintrag["cookies_danach"] = list(session.cookies.keys())
         except Exception as e:
-            print(f"\n--- {pfad}: FEHLER {e}")
+            eintrag["fehler"] = str(e)
+            protokoll["versuche"].append(eintrag)
             continue
 
-        print(f"\n--- {pfad}: HTTP {r.status_code}, {len(r.text)} Zeichen")
-        soup = BeautifulSoup(r.text, "html.parser")
+        ok, merkmale, _ = ist_eingeloggt(session)
+        eintrag["login_merkmale"] = merkmale
+        protokoll["versuche"].append(eintrag)
+        print(f"  {'✓' if ok else '✗'} {pfad} [{art}] HTTP {eintrag['status']}")
+        if ok:
+            protokoll["erfolgreich"] = {"url": pfad, "art": art}
+            return True, protokoll
 
-        formulare = soup.find_all("form")
-        print(f"    Formulare gefunden: {len(formulare)}")
-
-        for i, f in enumerate(formulare):
-            action = f.get("action", "(kein action)")
-            method = f.get("method", "get")
-            fid = f.get("id", "")
-            inputs = f.find_all(["input", "select", "button"])
-            # Nur Formulare mit Passwort-/PIN-Feld sind interessant
-            hat_pw = any(
-                (inp.get("type") == "password")
-                or ("pin" in (inp.get("name") or "").lower())
-                or ("pin" in (inp.get("id") or "").lower())
-                for inp in inputs
-            )
-            markierung = "  <<< LOGIN-KANDIDAT" if hat_pw else ""
-            print(f"    [Form {i}] id={fid!r} action={action!r} method={method}{markierung}")
-            for inp in inputs:
-                nm = inp.get("name")
-                if not nm and not hat_pw:
-                    continue
-                print(
-                    f"        - tag={inp.name} type={inp.get('type')!r} "
-                    f"name={nm!r} id={inp.get('id')!r} value={(inp.get('value') or '')[:40]!r}"
-                )
-            if hat_pw:
-                befunde[pfad] = {
-                    "action": action,
-                    "method": method,
-                    "felder": [
-                        {"name": inp.get("name"), "type": inp.get("type"), "id": inp.get("id")}
-                        for inp in inputs
-                        if inp.get("name")
-                    ],
-                }
-
-        # JS-Hinweise auf AJAX-Login-Endpunkte
-        treffer = set()
-        for m in re.finditer(r"""url\s*:\s*["']([^"']*[Ll]og[^"']*)["']""", r.text):
-            treffer.add(m.group(1))
-        for m in re.finditer(r"""["'](/MyAFT/[^"']*(?:Login|LogOn|Authenticate)[^"']*)["']""", r.text):
-            treffer.add(m.group(1))
-        if treffer:
-            print(f"    JS-Hinweise auf Login-URLs: {sorted(treffer)}")
-            befunde.setdefault(pfad, {})["js_urls"] = sorted(treffer)
-
-    trenner("DIAGNOSE-ZUSAMMENFASSUNG (dieses Stück an Claude schicken)")
-    print(json.dumps(befunde, indent=2, ensure_ascii=False))
-    return befunde
-
-
-def login_versuchen(session, num, pin, befunde):
-    """Login mit den in der Diagnose gefundenen Feldnamen versuchen."""
-    trenner("LOGIN-VERSUCHE")
-
-    versuche = []
-
-    # 1. Aus der Diagnose gewonnene echte Formulare
-    for pfad, info in befunde.items():
-        action = info.get("action") or pfad
-        if action.startswith("/"):
-            action = BASE + action
-        elif not action.startswith("http"):
-            action = BASE + pfad
-        feldnamen = [f["name"] for f in info.get("felder", []) if f.get("name")]
-        # Nummer-Feld und PIN-Feld heuristisch zuordnen
-        num_feld = next(
-            (n for n in feldnamen if re.search(r"num|affil|user|login", n, re.I)), None
-        )
-        pin_feld = next(
-            (n for n in feldnamen if re.search(r"pin|pass|pwd", n, re.I)), None
-        )
-        if num_feld and pin_feld:
-            versuche.append((action, {num_feld: num, pin_feld: pin}))
-        for js in info.get("js_urls", []):
-            u = BASE + js if js.startswith("/") else js
-            if num_feld and pin_feld:
-                versuche.append((u, {num_feld: num, pin_feld: pin}))
-
-    # 2. Bekannte Standardvarianten als Fallback
-    for u in [
-        f"{BASE}/MyAFT/Home/Login",
-        f"{BASE}/MyAFT/Home/LogOn",
-        f"{BASE}/MyAFT/Home/Authenticate",
-    ]:
-        for felder in [
-            {"NumAffiliation": num, "Pin": pin},
-            {"numAffiliation": num, "codePin": pin},
-            {"Login": num, "Pin": pin},
-            {"UserName": num, "Password": pin},
-        ]:
-            versuche.append((u, felder))
-
-    for url, payload in versuche:
-        for as_json in (False, True):
-            try:
-                kwargs = {
-                    "timeout": 30,
-                    "headers": {
-                        "Referer": f"{BASE}/MyAFT/Home/Login",
-                        "X-Requested-With": "XMLHttpRequest",
-                    },
-                }
-                if as_json:
-                    r = session.post(url, json=payload, **kwargs)
-                else:
-                    r = session.post(url, data=payload, **kwargs)
-            except Exception as e:
-                continue
-
-            check = session.get(f"{BASE}/MyAFT/", timeout=30)
-            low = check.text.lower()
-            eingeloggt = (
-                any(m in low for m in ["déconnexion", "se déconnecter", "logout"])
-                and "code pin" not in low
-            )
-            kennung = f"{url} | {list(payload)} | {'json' if as_json else 'form'}"
-            print(f"  {'✓ ERFOLG' if eingeloggt else '✗'} {kennung} (HTTP {r.status_code})")
-            if eingeloggt:
-                return True
-    return False
+    return False, protokoll
 
 
 def main():
@@ -186,25 +146,35 @@ def main():
     s = requests.Session()
     s.headers.update({"User-Agent": UA})
 
-    befunde = diagnose(s)
-    erfolg = login_versuchen(s, num, pin, befunde)
+    print("Login-Versuche laufen ...")
+    erfolg, protokoll = versuche_login(s, num, pin)
 
     ergebnis = {
         "zeit": datetime.now(timezone.utc).isoformat(),
         "status": "ok" if erfolg else "login_fehlgeschlagen",
-        "diagnose": befunde,
+        "login_protokoll": protokoll,
     }
 
     if erfolg:
-        trenner("DATEN ABHOLEN")
-        r = s.get(f"{BASE}/MyAFT/?page=mytournois_myresults", timeout=30)
-        print(f"  Resultate-Seite: HTTP {r.status_code}, {len(r.text)} Zeichen")
-        ergebnis["rohtext"] = BeautifulSoup(r.text, "html.parser").get_text("\n")[:60000]
+        print("Login OK, hole Ergebnisse ...")
+        seiten = {
+            "resultate": f"{BASE}/MyAFT/?page=mytournois_myresults",
+            "startseite": f"{BASE}/MyAFT/",
+        }
+        ergebnis["seiten"] = {}
+        for name, url in seiten.items():
+            r = s.get(url, timeout=30)
+            text = BeautifulSoup(r.text, "html.parser").get_text("\n")
+            text = re.sub(r"\n{3,}", "\n\n", text)
+            ergebnis["seiten"][name] = {
+                "http": r.status_code,
+                "text": text[:40000],
+            }
 
     (OUT / "results.json").write_text(
         json.dumps(ergebnis, indent=2, ensure_ascii=False), encoding="utf-8"
     )
-    print(f"\n[FERTIG] Status: {ergebnis['status']}")
+    print(f"[FERTIG] Status: {ergebnis['status']}")
 
 
 if __name__ == "__main__":
