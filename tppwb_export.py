@@ -1,15 +1,14 @@
 #!/usr/bin/env python3
 """
-TPPWB-Exporter v5
-Login funktioniert (POST /MyAFT/Home/Login, Formularfelder).
-Diese Version sucht die internen AJAX-Endpunkte, über die die
-Turnierergebnisse nachgeladen werden, und probiert sie durch.
+TPPWB-Exporter v6
+Wie v5, aber mit hartem Zeitbudget: bricht nach 4 Minuten Endpunkt-Suche ab
+und schreibt, was bis dahin gefunden wurde.
 """
 
 import json
 import os
 import re
-import sys
+import time
 import traceback
 from datetime import datetime, timezone
 from pathlib import Path
@@ -22,9 +21,13 @@ UA = (
     "(KHTML, like Gecko) Chrome/126.0 Safari/537.36"
 )
 
+ZEITBUDGET = 240          # Sekunden für die Endpunkt-Suche
+MAX_ANFRAGEN = 120        # Obergrenze an Testanfragen
+TIMEOUT = 12              # Sekunden pro Anfrage
+
 ergebnis = {
     "zeit": datetime.now(timezone.utc).isoformat(),
-    "version": 5,
+    "version": 6,
     "status": "nicht_gestartet",
 }
 
@@ -38,7 +41,6 @@ def schreiben():
 
 
 def einloggen(s, num, pin):
-    """Bekannter funktionierender Weg aus v3."""
     from bs4 import BeautifulSoup
 
     r = s.get(f"{BASE}/MyAFT/Home/Login", timeout=45)
@@ -48,16 +50,15 @@ def einloggen(s, num, pin):
         for i in soup.select("input[type=hidden]")
         if i.get("name")
     }
-    payload = {
-        "affiliationNumber": num,
-        "pinCode": pin,
-        "rememberMe": "false",
-        "returnUrl": versteckt.get("returnUrl", ""),
-        "sourcePage": versteckt.get("sourcePage", ""),
-    }
     s.post(
         f"{BASE}/MyAFT/Home/Login",
-        data=payload,
+        data={
+            "affiliationNumber": num,
+            "pinCode": pin,
+            "rememberMe": "false",
+            "returnUrl": versteckt.get("returnUrl", ""),
+            "sourcePage": versteckt.get("sourcePage", ""),
+        },
         timeout=45,
         headers={"Referer": f"{BASE}/MyAFT/Home/Login", "Origin": BASE},
     )
@@ -65,84 +66,87 @@ def einloggen(s, num, pin):
     return (num in pruef.text), pruef.text
 
 
-def js_endpunkte_finden(s, html):
-    """Lädt die eingebundenen JS-Dateien und extrahiert MyAFT-URLs daraus."""
+def kandidaten_sammeln(s, html):
     from bs4 import BeautifulSoup
 
-    soup = BeautifulSoup(html, "html.parser")
-    skripte = []
-    for tag in soup.find_all("script", src=True):
-        src = tag["src"]
-        if "myaft" in src.lower() or "script" in src.lower():
-            skripte.append(urljoin(BASE, src))
+    muster = r"result|tourno|tournam|classem|ranking|match|palmar|histor"
+    gefunden = set()
+    quellen = []
 
-    gefunden = {}
-    geladen = []
-    for url in skripte[:25]:
+    # Inline-JS der Seite
+    for m in re.finditer(r"""["'](/MyAFT/[A-Za-z0-9_/\-]+)["']""", html):
+        if re.search(muster, m.group(1), re.I):
+            gefunden.add(m.group(1))
+
+    soup = BeautifulSoup(html, "html.parser")
+    skripte = [
+        urljoin(BASE, t["src"])
+        for t in soup.find_all("script", src=True)
+        if "myaft" in t["src"].lower() or "script" in t["src"].lower()
+    ][:12]
+
+    for url in skripte:
+        if time.time() - START > 90:
+            break
         try:
-            r = s.get(url, timeout=45)
+            r = s.get(url, timeout=TIMEOUT)
             if r.status_code != 200:
                 continue
-            geladen.append({"url": url, "laenge": len(r.text)})
+            quellen.append({"datei": url.rsplit("/", 1)[-1][:60], "laenge": len(r.text)})
             for m in re.finditer(r"""["'](/MyAFT/[A-Za-z0-9_/\-]+)["']""", r.text):
-                pfad = m.group(1)
-                if re.search(
-                    r"result|tourno|tournam|classem|ranking|match|palmar|histor",
-                    pfad,
-                    re.I,
-                ):
-                    gefunden.setdefault(pfad, []).append(url.rsplit("/", 1)[-1][:40])
+                if re.search(muster, m.group(1), re.I):
+                    gefunden.add(m.group(1))
         except Exception:
             continue
 
-    # Auch das Inline-JS der Seite durchsuchen
-    for m in re.finditer(r"""["'](/MyAFT/[A-Za-z0-9_/\-]+)["']""", html):
-        pfad = m.group(1)
-        if re.search(r"result|tourno|tournam|classem|ranking|match|palmar|histor", pfad, re.I):
-            gefunden.setdefault(pfad, []).append("inline")
-
-    return gefunden, geladen
+    return sorted(gefunden)[:20], quellen
 
 
 def endpunkte_testen(s, pfade, num):
-    """Ruft jeden Kandidaten auf und merkt sich, was JSON zurückliefert."""
     treffer = {}
-    params_varianten = [
-        {},
-        {"numFed": num},
-        {"affiliationNumber": num},
-        {"idPlayer": num},
-        {"numFed": num, "periode": "current"},
-    ]
-    for pfad in sorted(pfade):
-        for params in params_varianten:
-            for methode in ("get", "post"):
+    anfragen = 0
+    varianten = [{}, {"numFed": num}]
+
+    for pfad in pfade:
+        for params in varianten:
+            if anfragen >= MAX_ANFRAGEN or time.time() - START > ZEITBUDGET:
+                treffer["_abbruch"] = {
+                    "grund": "zeitbudget_oder_limit",
+                    "anfragen": anfragen,
+                }
+                return treffer
+            anfragen += 1
+            try:
+                r = s.get(
+                    BASE + pfad,
+                    params=params,
+                    timeout=TIMEOUT,
+                    headers={
+                        "X-Requested-With": "XMLHttpRequest",
+                        "Referer": f"{BASE}/MyAFT/",
+                    },
+                )
+            except Exception as e:
+                continue
+
+            if r.status_code != 200 or len(r.text) < 40:
+                continue
+
+            ct = r.headers.get("content-type", "")
+            schluessel = f"GET {pfad} {sorted(params) or '[]'}"
+            if "json" in ct:
                 try:
-                    fn = s.get if methode == "get" else s.post
-                    kw = {
-                        "timeout": 30,
-                        "headers": {"X-Requested-With": "XMLHttpRequest", "Referer": f"{BASE}/MyAFT/"},
-                    }
-                    r = fn(BASE + pfad, params=params, **kw) if methode == "get" else fn(BASE + pfad, data=params, **kw)
-                    ct = r.headers.get("content-type", "")
-                    if r.status_code == 200 and len(r.text) > 40:
-                        schluessel = f"{methode.upper()} {pfad} {sorted(params)}"
-                        eintrag = {"content_type": ct[:50], "laenge": len(r.text)}
-                        if "json" in ct:
-                            try:
-                                eintrag["json"] = r.json()
-                            except Exception:
-                                eintrag["auszug"] = r.text[:1500]
-                        else:
-                            # HTML-Fragmente sind ebenfalls interessant
-                            if re.search(r"\d{2}/\d{2}/\d{4}", r.text):
-                                eintrag["auszug"] = r.text[:3000]
-                                eintrag["hinweis"] = "enthaelt Datumsangaben"
-                            else:
-                                continue
-                        treffer[schluessel] = eintrag
+                    treffer[schluessel] = {"typ": "json", "daten": r.json()}
                 except Exception:
-                    continue
+                    treffer[schluessel] = {"typ": "json_kaputt", "auszug": r.text[:1200]}
+            elif re.search(r"\d{2}/\d{2}/\d{4}", r.text) and "Responsive menu" not in r.text:
+                treffer[schluessel] = {
+                    "typ": "html_fragment",
+                    "laenge": len(r.text),
+                    "auszug": r.text[:2500],
+                }
+
+    treffer["_anfragen"] = anfragen
     return treffer
 
 
@@ -160,25 +164,27 @@ def lauf():
 
     ok, html = einloggen(s, num, pin)
     ergebnis["login"] = "ok" if ok else "fehlgeschlagen"
-    print(f"Login: {ergebnis['login']}")
+    print("Login:", ergebnis["login"])
     if not ok:
         ergebnis["status"] = "login_fehlgeschlagen"
         return
 
-    pfade, geladen = js_endpunkte_finden(s, html)
-    ergebnis["js_dateien"] = geladen
-    ergebnis["kandidaten"] = {k: sorted(set(v)) for k, v in pfade.items()}
-    print(f"Kandidaten gefunden: {len(pfade)}")
-    for p in sorted(pfade):
+    pfade, quellen = kandidaten_sammeln(s, html)
+    ergebnis["js_dateien"] = quellen
+    ergebnis["kandidaten"] = pfade
+    print(f"Kandidaten ({len(pfade)}):")
+    for p in pfade:
         print("   ", p)
 
     ergebnis["treffer"] = endpunkte_testen(s, pfade, num)
-    print(f"Treffer mit Daten: {len(ergebnis['treffer'])}")
-
-    ergebnis["status"] = "ok" if ergebnis["treffer"] else "keine_endpunkte_gefunden"
+    echte = [k for k in ergebnis["treffer"] if not k.startswith("_")]
+    print(f"Treffer mit Daten: {len(echte)}")
+    ergebnis["status"] = "ok" if echte else "keine_endpunkte_gefunden"
+    ergebnis["dauer_sekunden"] = round(time.time() - START, 1)
 
 
 if __name__ == "__main__":
+    START = time.time()
     try:
         lauf()
     except Exception:
@@ -186,4 +192,5 @@ if __name__ == "__main__":
         ergebnis["traceback"] = traceback.format_exc()
         print(ergebnis["traceback"])
     finally:
+        ergebnis.setdefault("dauer_sekunden", round(time.time() - START, 1))
         schreiben()
