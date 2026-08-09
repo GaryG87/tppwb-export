@@ -26,7 +26,7 @@ UA = (
 
 ergebnis = {
     "zeit": datetime.now(timezone.utc).isoformat(),
-    "version": 9,
+    "version": 10,
     "status": "nicht_gestartet",
 }
 
@@ -262,6 +262,44 @@ def periode_label(txt):
     return entschaerfen(m.group(1)) if m else None
 
 
+
+def anmeldungen_und_teams(s):
+    """Nächste Spiele, Turnieranmeldungen und Interclub-Mannschaften."""
+    daten = {}
+    endpunkte = {
+        "naechste_spiele": "/MyAFT/MyTournois/MyNextGamesData",
+        "meine_anmeldungen": "/MyAFT/MyTournois/MySubscriptionsData",
+        "anmeldungen_alt": "/MyAFT/MyTournois/MySubscriptions",
+        "anmeldungen_home": "/MyAFT/Home/MySubscriptions",
+        "interclub_ergebnisse": "/MyAFT/MyInterclubs/MyResultsData",
+        "interclub_teams": "/MyAFT/MyInterclubs/MyTeamsData",
+        "interclub_teams2": "/MyAFT/MyInterclubs/MyTeams",
+        "kraftlisten": "/MyAFT/MyInterclubs/MyStrengthLists",
+        "kraftlisten2": "/MyAFT/MyInterclubs/StrengthLists",
+        "belgian_circuit": "/MyAFT/MyTournois/BelgianCircuit",
+    }
+    for name, pfad in endpunkte.items():
+        try:
+            r = s.get(
+                BASE + pfad,
+                timeout=30,
+                headers={"X-Requested-With": "XMLHttpRequest", "Referer": f"{BASE}/MyAFT/"},
+            )
+            roh = entschaerfen(re.sub(r"<[^>]+>", " ", r.text))
+            eintrag = {"http": r.status_code, "laenge": len(r.text)}
+            if r.status_code == 200 and len(roh) > 10:
+                eintrag["text"] = roh[:6000]
+                # Turniernamen und Daten herausziehen
+                eintrag["turniere"] = sorted(set(re.findall(
+                    r"([A-ZÄÖÜÉÈ][A-ZÄÖÜÉÈ\-\. ]{3,25})\s*(?:le\s*)?(\d{2}/\d{2}/\d{4})", roh
+                )))[:40]
+                eintrag["ids"] = sorted(set(re.findall(r"idTournoi=(\d+)", r.text)))[:20]
+            daten[name] = eintrag
+        except Exception as e:
+            daten[name] = {"fehler": repr(e)}
+    return daten
+
+
 def lauf():
     import requests
 
@@ -326,6 +364,9 @@ def lauf():
     print("Sammle alle Perioden und Typen ...")
     ergebnis["alle_perioden"] = alles_sammeln(s, num)
     print("Perioden mit Daten:", [k for k in ergebnis["alle_perioden"] if not k.startswith("_")])
+
+    print("Hole Anmeldungen und Interclub-Daten ...")
+    ergebnis["anmeldungen"] = anmeldungen_und_teams(s)
 
     ergebnis["status"] = "ok"
 
