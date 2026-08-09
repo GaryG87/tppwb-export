@@ -1,6 +1,6 @@
 {
-  "zeit": "2026-08-09T13:13:49.356337+00:00",
-  "version": 7,
+  "zeit": "2026-08-09T13:20:17.961131+00:00",
+  "version": 9,
   "status": "ok",
   "klassierung": [
     {
@@ -131,39 +131,665 @@
       "http": 200,
       "laenge": 12346,
       "spieler_links": 0,
-      "namen_gefunden": 0,
-      "auszug": " <link href=\"/MyAFT/Content/draws.css?t=123\" rel=\"stylesheet\"/> <script type=\"text/javascript\" src=\"/MyAFT/Scripts/draw/jquery.gracket.js?t=111\"></script> <h4 style=\"text-align: center\">361706 [4091-BUTGENBACH] - Du 30/07/2026 au 09/08/2026 - CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB</h4> <div style=\"clear: both;\"></div> <div class=\"tournamentDrawDataContainer\"> <div style=\"float: left; font-weight: bold;\">Catégories</div> <div style=\"float: left; width: 200px; \"> <select id=\"drawCategory\" class=\"form-control\" onchange=\"changeCategory()\"> <option value=\"\">Catégorie</option> <option value=\"1020285|F\" >DM 2 90 - 150 pts (90-150)</option> <option value=\"1020286|F\" >DM 3 60 - 120 pts (60-120)</option> <option value=\"1020287|F\" >DM 4 30 - 90 pts (30-90)</option> <option value=\"1020288|F\" >DM 5 15 - 60 pts (15-60)</option> <option value=\"1020289|F\" >DM 6 6 - 30 pts (6-30)</option> <option value=\"1020290|F\" >DM 7 6 - 15 pts (6-15)</option> <option value=\"1020291|F\" >DD 3 60 - 120 pts (60-120)</option> <option value=\"1020292|F\" >DD 4 30 - 90 pts (30-90)</option> <option value=\"1020293|F\" >DD 5 15 - 60 pts (15-60)</option> <option value=\"1020294|F\" >DD 6 6 - 30 pts (6-30)</option> <option value=\"1020295|F\" >DD 7 6 - 15 pts (6-15)</option> <option value=\"1020296|F\" >DMx 2 90 - 150 pts (90-150)</option> <option value=\"1020297|F\" >DMx 3 60 - 120 pts (60-120)</option> <option value=\"1020298|F\" >DMx 4 30 - 90 pts (30-90)</option> <option value=\"1020299|F\""
+      "draw_urls": [
+        "/MyAFT/Competitions/GetDrawTypesDdl",
+        "/MyAFT/Competitions/GetTournamentDrawData",
+        "/MyAFT/Competitions/TournamentDrawContent"
+      ],
+      "ajax_urls": [],
+      "auszug": " <link href=\"/MyAFT/Content/draws.css?t=123\" rel=\"stylesheet\"/> <script type=\"text/javascript\" src=\"/MyAFT/Scripts/draw/jquery.gracket.js?t=111\"></script> <h4 style=\"text-align: center\">361706 [4091-BUTGENBACH] - Du 30/07/2026 au 09/08/2026 - CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB</h4> <div style=\"clear: both;\"></div> <div class=\"tournamentDrawDataContainer\"> <div style=\"float: left; font-weight: bold;\">Catégories</div> <div style=\"float: left; width: 200px; \"> <select id=\"drawCategory\" class=\"form-control\" onchange=\"changeCategory()\"> <option value=\"\">Catégorie</option> <option value=\"1020285|F\" >DM 2 90 - 150 pts (90-150)</option> <option value=\"1020286|F\" >DM 3 60 - 120 pts (60-120)</option> <option value=\"1020287|F\" >DM 4 30 - 90 pts (30-90)</option> <option value=\"1020288|F\" >DM 5 15 - 60 pts (15-60)</option> <option value=\"1020289|F\" >DM 6 6 - 30 pts (6-30)</option> <option value=\"1020290|F\" >DM 7 6 - 15 pts (6-15)</option> <option value=\"1020291|F\" >DD 3 60 - 120 pts (60-120)</option> <option value=\"1020292|F\" >DD 4 30 - 90 pts (30-90)</option> <option value=\"1020293|F\" >DD 5 15 - 60 pts (15-60)</option> <option value=\"1020294|F\" >DD 6 6 - 30 pts (6-30)</option> <option value=\"1020295|F\" >DD 7 6 - 15 pts (6-15)</option> <option value=\"1020296|F\" >DMx 2 90 - 150 pts (90-150)</option> <option value=\"1020297|F\" >DMx 3 60 - 120 pts (60-120)</option> <option value=\"1020298|F\" >DMx 4 30 - 90 pts (30-90)</option> <option value=\"1020299|F\" >DMx 5 15 - 60 pts (15-60)</option> <option value=\"1020300|F\" >DMx 6 6 - 30 pts (6-30)</option> <option value=\"1020301|F\" >DMx 7 6 - 15 pts (6-15)</option> <option value=\"1020255|F\" >Messieurs 2 (75-90)</option> <option value=\"1020256|F,Q\" >Messieurs 3 (55-70)</option> <option value=\"1020257|F,Q\" >Messieurs 4 (35-50)</option> <option value=\"1020258|F,Q\" >Messieurs 5 (15-30)</option> <option value=\"1020259|F\" >Messieurs 6 (3-10)</option> <option value=\"1020260|\" disabled=disabled style=background-color:lightgrey>Dames 2 (65-85)</option> <option value=\"1020261|F\" >Dames 3 (35-60)</option> <option value=\"1020262|F\" >Dames 4 (15-30)</option> <option value=\"1020263|F\" >Dames 5 (3-10)</option> <option value=\"1020264|F,Q\" >Messieurs 35 3 (55-70)</option> <option value=\"1020265|F,Q\" >Messieurs 35 4 (35-50)</option> <option value=\"1020266|F,Q\" >Messieurs 35 5 (15-30)</option> <option value=\"1020267|F\" selected=selected >Messieurs 35 6 (3-10)</option> <option value=\"1020268|F\" >Dames 25 2 (35-60)</option> <option value=\"1020269|F\" >Dames 25 3 (15-30)</option> <option value=\"1020270|F\" >Dames 25 4 (3-10)</option> <option value=\"1020273|F\" >JG -11 Grade 2 (1-15)</option> <option value=\"1020274|F\" >JG -11 Grade 3 (1-3)</option> <option value=\"1020277|F\" >JG -13 Grade 2 (1-15)</option> <option value=\"1020278|F\" >JG -13 Grade 3 (1-3)</option> <option value=\"1020281|F\" >JG -15 Grade 2 (3-30)</option> <option value=\"1020282|F\" >JG -15 Grade 3 (3-10)</option> <option value=\"1020275|\" disabled=disabled style=background-color:lightgrey>JF -11 Grade 2 (1-15)</option> <option value=\"1020276|\" disabled=disabled style=background-color:lightgrey>JF -11 Grade 3 (1-3)</option> <option value=\"1020279|\" disabled=disabled style=background-color:lightgrey>JF -13 Grade 2 (1-15)</option> <option value=\"1020280|SA\" >JF -13 Grade 3 (1-3)</option> <option value=\"1020283|F\" >JF -15 Grade 2 (3-30)</option> <option value=\"1020284|F\" >JF -15 Grade 3 (3-10)</option> <option value=\"1020271|\" disabled=disabled style=background-color:lightgrey>-9 Grade 2 (1-15)</option> <option value=\"1020272|SA\" >-9 Grade 3 (1-3)</option> </select> </div> <div style=\"float: left; font-weight: bold;\">Type</div> <div style=\"float: left; width: 150px;\"> <select id=\"drawType\" class=\"form-control\" onchange=\"changeDraw()\"> <option value=\"\">Type de tableau</option> <option value=\"F\" selected=selected>Final</option> </select> </div> </div> <div style=\"clear: both; margin-top: 20px;\" id=\"drawContent\"> <style> .player_info { font-size: 12px !important; } .player_team_info { font-weight: normal !important; font-style: italic !important; } </style> <a class=\"downloadPrintBtn\" target=\"_blank\" href=\"https://webclub.tppwb.be/DrawPrinting.aspx?idTournoi=361706&amp;idCategory=1020267&amp;drawType=F\">Print & Download</a> <div id=\"round_selector\"> <div id=\"rounds_container\"> <div id=\"round_select3\" class=\"round\"> <span>1ER TOUR</span> <div class=\"match_selector\"> <div ref=\"r1s1\" class=\"navsect r1s1 match_button single\"> <hr /> <hr /> <hr /> <hr /> <hr /> <hr /> <hr /> <hr /> <hr /> <hr /> </div> </div> </div> <div id=\"round_select4\" class=\"round\"> <span>1/8 FINALE</span> <div class=\"match_selector\"> <div ref=\"r2s1\" class=\"navsect r2s1 match_button single\"> <hr /> <hr /> <hr /> <hr /> <hr /> <hr /> <hr /> <hr /> </div> </div> </div> <div id=\"round_select_quarter\" class=\"round\"> <span>1/4 FINALE</span> <div class=\"match_selector\"> <div ref=\"r3s1\" class=\"navsect r3s1 match_button single\"> <hr /> <hr /> <hr /> <hr /> </div> </div> </div> <div id=\"round_select_semi\" class=\"round\"> <span>1/2 FINALE</span> <div class=\"match_selector\"> <div ref=\"r4s1\" class=\"navsect r4s1 match_button single\"> <hr /> <hr /> </div> </div> </div> <div id=\"round_select_final\" class=\"round\"> <span>FINALE</span> <div class=\"match_selector\"> <div ref=\"r5s1\" class=\"navsect r5s1 match_button single\"> <hr /> </div> </div> </div> </div> </div> <!-- empty gracket element --> <div id=\"history_container\"> <div id=\"history\" class=\"g_gracket\"> <div id=\"draw\" class=\"g_gracket\"></div> </div> </div> <script type=\"text/javascript\"> $(function () { displayDraw(); }); function displayDraw() { var idTournoi = \"361706\"; var idCategory = \"1020267\"; var drawType = \"F\"; var selectedRoundIndex = \"\"; var selectedRowIndex = \"\"; var url = \"/MyAFT/Competitions/GetTournamentDrawData\"; var data = { \"idTournoi\": idTournoi, \"idCategory\": idCategory, \"drawType\": drawType, \"selectedRoundIndex\": selectedRoundIndex, \"selectedRowIndex\": selectedRowIndex }; $"
     },
     "361671_1019421": {
       "http": 200,
       "laenge": 11051,
       "spieler_links": 0,
-      "namen_gefunden": 0,
-      "auszug": " <link href=\"/MyAFT/Content/draws.css?t=123\" rel=\"stylesheet\"/> <script type=\"text/javascript\" src=\"/MyAFT/Scripts/draw/jquery.gracket.js?t=111\"></script> <h4 style=\"text-align: center\">361671 [4067-WAIMES] - Du 09/07/2026 au 19/07/2026 - CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 - Doubles Dames TWB</h4> <div style=\"clear: both;\"></div> <div class=\"tournamentDrawDataContainer\"> <div style=\"float: left; font-weight: bold;\">Catégories</div> <div style=\"float: left; width: 200px; \"> <select id=\"drawCategory\" class=\"form-control\" onchange=\"changeCategory()\"> <option value=\"\">Catégorie</option> <option value=\"1019422|F\" >Messieurs 50 2 (55-70)</option> <option value=\"1019423|\" disabled=disabled style=background-color:lightgrey>Messieurs 50 3 (35-50)</option> <option value=\"1019424|F\" >Messieurs 50 4 (15-30)</option> <option value=\"1019425|\" disabled=disabled style=background-color:lightgrey>Messieurs 50 5 (3-10)</option> <option value=\"1019436|F\" >DM 2 90 - 150 pts (90-150)</option> <option value=\"1019437|F\" >DM 3 60 - 120 pts (60-120)</option> <option value=\"1019438|F\" >DM 4 30 - 90 pts (30-90)</option> <option value=\"1019439|F\" >DM 5 15 - 60 pts (15-60)</option> <option value=\"1019440|F\" >DM 6 6 - 30 pts (6-30)</option> <option value=\"1019441|F\" >DD 3 60 - 120 pts (60-120)</option> <option value=\"1019442|F\" >DD 4 30 - 90 pts (30-90)</option> <option value=\"1019443|F\" >DD 5 15 - 60 pts (15-60)</option> <option value=\"1019444|F\" >DD 6 6 - 30 pts (6-30)</option> <option value="
+      "draw_urls": [
+        "/MyAFT/Competitions/GetDrawTypesDdl",
+        "/MyAFT/Competitions/GetTournamentDrawData",
+        "/MyAFT/Competitions/TournamentDrawContent"
+      ],
+      "ajax_urls": [],
+      "auszug": " <link href=\"/MyAFT/Content/draws.css?t=123\" rel=\"stylesheet\"/> <script type=\"text/javascript\" src=\"/MyAFT/Scripts/draw/jquery.gracket.js?t=111\"></script> <h4 style=\"text-align: center\">361671 [4067-WAIMES] - Du 09/07/2026 au 19/07/2026 - CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 - Doubles Dames TWB</h4> <div style=\"clear: both;\"></div> <div class=\"tournamentDrawDataContainer\"> <div style=\"float: left; font-weight: bold;\">Catégories</div> <div style=\"float: left; width: 200px; \"> <select id=\"drawCategory\" class=\"form-control\" onchange=\"changeCategory()\"> <option value=\"\">Catégorie</option> <option value=\"1019422|F\" >Messieurs 50 2 (55-70)</option> <option value=\"1019423|\" disabled=disabled style=background-color:lightgrey>Messieurs 50 3 (35-50)</option> <option value=\"1019424|F\" >Messieurs 50 4 (15-30)</option> <option value=\"1019425|\" disabled=disabled style=background-color:lightgrey>Messieurs 50 5 (3-10)</option> <option value=\"1019436|F\" >DM 2 90 - 150 pts (90-150)</option> <option value=\"1019437|F\" >DM 3 60 - 120 pts (60-120)</option> <option value=\"1019438|F\" >DM 4 30 - 90 pts (30-90)</option> <option value=\"1019439|F\" >DM 5 15 - 60 pts (15-60)</option> <option value=\"1019440|F\" >DM 6 6 - 30 pts (6-30)</option> <option value=\"1019441|F\" >DD 3 60 - 120 pts (60-120)</option> <option value=\"1019442|F\" >DD 4 30 - 90 pts (30-90)</option> <option value=\"1019443|F\" >DD 5 15 - 60 pts (15-60)</option> <option value=\"1019444|F\" >DD 6 6 - 30 pts (6-30)</option> <option value=\"1019445|F\" >DMx 2 90 - 150 pts (90-150)</option> <option value=\"1019446|F\" >DMx 3 60 - 120 pts (60-120)</option> <option value=\"1019447|F\" >DMx 4 30 - 90 pts (30-90)</option> <option value=\"1019448|F\" >DMx 5 15 - 60 pts (15-60)</option> <option value=\"1019449|F\" >DMx 6 6 - 30 pts (6-30)</option> <option value=\"1019408|F\" >Messieurs 2 (75-90)</option> <option value=\"1019409|F\" >Messieurs 3 (55-70)</option> <option value=\"1019410|F,Q\" >Messieurs 4 (35-50)</option> <option value=\"1019411|F,Q\" >Messieurs 5 (15-30)</option> <option value=\"1019412|F\" >Messieurs 6 (3-10)</option> <option value=\"1019413|F\" >Dames 2 (65-85)</option> <option value=\"1019414|F\" >Dames 3 (35-60)</option> <option value=\"1019415|F\" >Dames 4 (15-30)</option> <option value=\"1019416|F\" >Dames 5 (3-10)</option> <option value=\"1019417|\" disabled=disabled style=background-color:lightgrey>Messieurs 35 2 (75-90)</option> <option value=\"1019418|F\" >Messieurs 35 3 (55-70)</option> <option value=\"1019419|F\" >Messieurs 35 4 (35-50)</option> <option value=\"1019420|F\" >Messieurs 35 5 (15-30)</option> <option value=\"1019421|F\" selected=selected >Messieurs 35 6 (3-10)</option> <option value=\"1019426|F\" >Dames 25 2 (35-60)</option> <option value=\"1019427|F\" >Dames 25 3 (15-30)</option> <option value=\"1019428|F\" >Dames 25 4 (3-10)</option> <option value=\"1019430|F\" >JG -11 Grade 2 (1-15)</option> <option value=\"1019432|F\" >JG -13 Grade 2 (1-15)</option> <option value=\"1019434|F\" >JG -15 Grade 2 (3-30)</option> <option value=\"1019431|\" disabled=disabled style=background-color:lightgrey>JF -11 Grade 2 (1-15)</option> <option value=\"1019433|\" disabled=disabled style=background-color:lightgrey>JF -13 Grade 2 (1-15)</option> <option value=\"1019435|F\" >JF -15 Grade 2 (3-30)</option> <option value=\"1019429|F\" >-9 Grade 2 (1-15)</option> </select> </div> <div style=\"float: left; font-weight: bold;\">Type</div> <div style=\"float: left; width: 150px;\"> <select id=\"drawType\" class=\"form-control\" onchange=\"changeDraw()\"> <option value=\"\">Type de tableau</option> <option value=\"F\" selected=selected>Final</option> </select> </div> </div> <div style=\"clear: both; margin-top: 20px;\" id=\"drawContent\"> <style> .player_info { font-size: 12px !important; } .player_team_info { font-weight: normal !important; font-style: italic !important; } </style> <a class=\"downloadPrintBtn\" target=\"_blank\" href=\"https://webclub.tppwb.be/DrawPrinting.aspx?idTournoi=361671&amp;idCategory=1019421&amp;drawType=F\">Print & Download</a> <div id=\"round_selector\"> <div id=\"rounds_container\"> <div id=\"round_select4\" class=\"round\"> <span>1/8 FINALE</span> <div class=\"match_selector\"> <div ref=\"r1s1\" class=\"navsect r1s1 match_button single\"> <hr /> <hr /> <hr /> <hr /> <hr /> <hr /> <hr /> <hr /> </div> </div> </div> <div id=\"round_select_quarter\" class=\"round\"> <span>1/4 FINALE</span> <div class=\"match_selector\"> <div ref=\"r2s1\" class=\"navsect r2s1 match_button single\"> <hr /> <hr /> <hr /> <hr /> </div> </div> </div> <div id=\"round_select_semi\" class=\"round\"> <span>1/2 FINALE</span> <div class=\"match_selector\"> <div ref=\"r3s1\" class=\"navsect r3s1 match_button single\"> <hr /> <hr /> </div> </div> </div> <div id=\"round_select_final\" class=\"round\"> <span>FINALE</span> <div class=\"match_selector\"> <div ref=\"r4s1\" class=\"navsect r4s1 match_button single\"> <hr /> </div> </div> </div> </div> </div> <!-- empty gracket element --> <div id=\"history_container\"> <div id=\"history\" class=\"g_gracket\"> <div id=\"draw\" class=\"g_gracket\"></div> </div> </div> <script type=\"text/javascript\"> $(function () { displayDraw(); }); function displayDraw() { var idTournoi = \"361671\"; var idCategory = \"1019421\"; var drawType = \"F\"; var selectedRoundIndex = \"\"; var selectedRowIndex = \"\"; var url = \"/MyAFT/Competitions/GetTournamentDrawData\"; var data = { \"idTournoi\": idTournoi, \"idCategory\": idCategory, \"drawType\": drawType, \"selectedRoundIndex\": selectedRoundIndex, \"selectedRowIndex\": selectedRowIndex }; $.post(url, data, function (res) { var drawData = JSON.parse(res.drawData); var roundNames = JSON.parse(res.roundNames); var selectedNavIndex = \"1\"; $(\".r\" + selectedNavIndex + \"s1\").addClass(\"selected\"); initDrawsData(drawData, roundNames, selectedNavIndex, \"Tournament\", \"/MyAFT/Content/Images/\", \"\", idTournoi, idCategory, drawType); }); } </script> </div> <script type=\"text/javascript\"> function changeCategory() { var splitCat = $(\"#drawCategory\").val().split('|'); var idCategory = \"\"; var drawTypes = \"\"; if (splitCat.length === 2) { idC"
     },
     "361706_1020301": {
       "http": 200,
       "laenge": 10680,
       "spieler_links": 0,
-      "namen_gefunden": 0,
-      "auszug": " <link href=\"/MyAFT/Content/draws.css?t=123\" rel=\"stylesheet\"/> <script type=\"text/javascript\" src=\"/MyAFT/Scripts/draw/jquery.gracket.js?t=111\"></script> <h4 style=\"text-align: center\">361706 [4091-BUTGENBACH] - Du 30/07/2026 au 09/08/2026 - CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB</h4> <div style=\"clear: both;\"></div> <div class=\"tournamentDrawDataContainer\"> <div style=\"float: left; font-weight: bold;\">Catégories</div> <div style=\"float: left; width: 200px; \"> <select id=\"drawCategory\" class=\"form-control\" onchange=\"changeCategory()\"> <option value=\"\">Catégorie</option> <option value=\"1020285|F\" >DM 2 90 - 150 pts (90-150)</option> <option value=\"1020286|F\" >DM 3 60 - 120 pts (60-120)</option> <option value=\"1020287|F\" >DM 4 30 - 90 pts (30-90)</option> <option value=\"1020288|F\" >DM 5 15 - 60 pts (15-60)</option> <option value=\"1020289|F\" >DM 6 6 - 30 pts (6-30)</option> <option value=\"1020290|F\" >DM 7 6 - 15 pts (6-15)</option> <option value=\"1020291|F\" >DD 3 60 - 120 pts (60-120)</option> <option value=\"1020292|F\" >DD 4 30 - 90 pts (30-90)</option> <option value=\"1020293|F\" >DD 5 15 - 60 pts (15-60)</option> <option value=\"1020294|F\" >DD 6 6 - 30 pts (6-30)</option> <option value=\"1020295|F\" >DD 7 6 - 15 pts (6-15)</option> <option value=\"1020296|F\" >DMx 2 90 - 150 pts (90-150)</option> <option value=\"1020297|F\" >DMx 3 60 - 120 pts (60-120)</option> <option value=\"1020298|F\" >DMx 4 30 - 90 pts (30-90)</option> <option value=\"1020299|F\""
+      "draw_urls": [
+        "/MyAFT/Competitions/GetDrawTypesDdl",
+        "/MyAFT/Competitions/GetTournamentDrawData",
+        "/MyAFT/Competitions/TournamentDrawContent"
+      ],
+      "ajax_urls": [],
+      "auszug": " <link href=\"/MyAFT/Content/draws.css?t=123\" rel=\"stylesheet\"/> <script type=\"text/javascript\" src=\"/MyAFT/Scripts/draw/jquery.gracket.js?t=111\"></script> <h4 style=\"text-align: center\">361706 [4091-BUTGENBACH] - Du 30/07/2026 au 09/08/2026 - CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB</h4> <div style=\"clear: both;\"></div> <div class=\"tournamentDrawDataContainer\"> <div style=\"float: left; font-weight: bold;\">Catégories</div> <div style=\"float: left; width: 200px; \"> <select id=\"drawCategory\" class=\"form-control\" onchange=\"changeCategory()\"> <option value=\"\">Catégorie</option> <option value=\"1020285|F\" >DM 2 90 - 150 pts (90-150)</option> <option value=\"1020286|F\" >DM 3 60 - 120 pts (60-120)</option> <option value=\"1020287|F\" >DM 4 30 - 90 pts (30-90)</option> <option value=\"1020288|F\" >DM 5 15 - 60 pts (15-60)</option> <option value=\"1020289|F\" >DM 6 6 - 30 pts (6-30)</option> <option value=\"1020290|F\" >DM 7 6 - 15 pts (6-15)</option> <option value=\"1020291|F\" >DD 3 60 - 120 pts (60-120)</option> <option value=\"1020292|F\" >DD 4 30 - 90 pts (30-90)</option> <option value=\"1020293|F\" >DD 5 15 - 60 pts (15-60)</option> <option value=\"1020294|F\" >DD 6 6 - 30 pts (6-30)</option> <option value=\"1020295|F\" >DD 7 6 - 15 pts (6-15)</option> <option value=\"1020296|F\" >DMx 2 90 - 150 pts (90-150)</option> <option value=\"1020297|F\" >DMx 3 60 - 120 pts (60-120)</option> <option value=\"1020298|F\" >DMx 4 30 - 90 pts (30-90)</option> <option value=\"1020299|F\" >DMx 5 15 - 60 pts (15-60)</option> <option value=\"1020300|F\" >DMx 6 6 - 30 pts (6-30)</option> <option value=\"1020301|F\" selected=selected >DMx 7 6 - 15 pts (6-15)</option> <option value=\"1020255|F\" >Messieurs 2 (75-90)</option> <option value=\"1020256|F,Q\" >Messieurs 3 (55-70)</option> <option value=\"1020257|F,Q\" >Messieurs 4 (35-50)</option> <option value=\"1020258|F,Q\" >Messieurs 5 (15-30)</option> <option value=\"1020259|F\" >Messieurs 6 (3-10)</option> <option value=\"1020260|\" disabled=disabled style=background-color:lightgrey>Dames 2 (65-85)</option> <option value=\"1020261|F\" >Dames 3 (35-60)</option> <option value=\"1020262|F\" >Dames 4 (15-30)</option> <option value=\"1020263|F\" >Dames 5 (3-10)</option> <option value=\"1020264|F,Q\" >Messieurs 35 3 (55-70)</option> <option value=\"1020265|F,Q\" >Messieurs 35 4 (35-50)</option> <option value=\"1020266|F,Q\" >Messieurs 35 5 (15-30)</option> <option value=\"1020267|F\" >Messieurs 35 6 (3-10)</option> <option value=\"1020268|F\" >Dames 25 2 (35-60)</option> <option value=\"1020269|F\" >Dames 25 3 (15-30)</option> <option value=\"1020270|F\" >Dames 25 4 (3-10)</option> <option value=\"1020273|F\" >JG -11 Grade 2 (1-15)</option> <option value=\"1020274|F\" >JG -11 Grade 3 (1-3)</option> <option value=\"1020277|F\" >JG -13 Grade 2 (1-15)</option> <option value=\"1020278|F\" >JG -13 Grade 3 (1-3)</option> <option value=\"1020281|F\" >JG -15 Grade 2 (3-30)</option> <option value=\"1020282|F\" >JG -15 Grade 3 (3-10)</option> <option value=\"1020275|\" disabled=disabled style=background-color:lightgrey>JF -11 Grade 2 (1-15)</option> <option value=\"1020276|\" disabled=disabled style=background-color:lightgrey>JF -11 Grade 3 (1-3)</option> <option value=\"1020279|\" disabled=disabled style=background-color:lightgrey>JF -13 Grade 2 (1-15)</option> <option value=\"1020280|SA\" >JF -13 Grade 3 (1-3)</option> <option value=\"1020283|F\" >JF -15 Grade 2 (3-30)</option> <option value=\"1020284|F\" >JF -15 Grade 3 (3-10)</option> <option value=\"1020271|\" disabled=disabled style=background-color:lightgrey>-9 Grade 2 (1-15)</option> <option value=\"1020272|SA\" >-9 Grade 3 (1-3)</option> </select> </div> <div style=\"float: left; font-weight: bold;\">Type</div> <div style=\"float: left; width: 150px;\"> <select id=\"drawType\" class=\"form-control\" onchange=\"changeDraw()\"> <option value=\"\">Type de tableau</option> <option value=\"F\" selected=selected>Final</option> </select> </div> </div> <div style=\"clear: both; margin-top: 20px;\" id=\"drawContent\"> <style> .player_info { font-size: 12px !important; } .player_team_info { font-weight: normal !important; font-style: italic !important; } </style> <a class=\"downloadPrintBtn\" target=\"_blank\" href=\"https://webclub.tppwb.be/DrawPrinting.aspx?idTournoi=361706&amp;idCategory=1020301&amp;drawType=F\">Print & Download</a> <div id=\"round_selector\"> <div id=\"rounds_container\"> <div id=\"round_select_quarter\" class=\"round\"> <span>1/4 FINALE</span> <div class=\"match_selector\"> <div ref=\"r1s1\" class=\"navsect r1s1 match_button single\"> <hr /> <hr /> <hr /> <hr /> </div> </div> </div> <div id=\"round_select_semi\" class=\"round\"> <span>1/2 FINALE</span> <div class=\"match_selector\"> <div ref=\"r2s1\" class=\"navsect r2s1 match_button single\"> <hr /> <hr /> </div> </div> </div> <div id=\"round_select_final\" class=\"round\"> <span>FINALE</span> <div class=\"match_selector\"> <div ref=\"r3s1\" class=\"navsect r3s1 match_button single\"> <hr /> </div> </div> </div> </div> </div> <!-- empty gracket element --> <div id=\"history_container\"> <div id=\"history\" class=\"g_gracket\"> <div id=\"draw\" class=\"g_gracket\"></div> </div> </div> <script type=\"text/javascript\"> $(function () { displayDraw(); }); function displayDraw() { var idTournoi = \"361706\"; var idCategory = \"1020301\"; var drawType = \"F\"; var selectedRoundIndex = \"\"; var selectedRowIndex = \"\"; var url = \"/MyAFT/Competitions/GetTournamentDrawData\"; var data = { \"idTournoi\": idTournoi, \"idCategory\": idCategory, \"drawType\": drawType, \"selectedRoundIndex\": selectedRoundIndex, \"selectedRowIndex\": selectedRowIndex }; $.post(url, data, function (res) { var drawData = JSON.parse(res.drawData); var roundNames = JSON.parse(res.roundNames); var selectedNavIndex = \"1\"; $(\".r\" + selectedNavIndex + \"s1\").addClass(\"selected\"); initDrawsData(drawData, roundNames, selectedNavIndex, \"Tournament\", \"/MyAFT/Content/Images/\", \"\", idTournoi, idCategory, drawType); }); } </script> </div> <script type=\"text/javascript\"> function changeCategory() { var splitCat = $(\"#drawCategory\").val().split('"
     },
     "361671_1019449": {
       "http": 200,
       "laenge": 10265,
       "spieler_links": 0,
-      "namen_gefunden": 0,
-      "auszug": " <link href=\"/MyAFT/Content/draws.css?t=123\" rel=\"stylesheet\"/> <script type=\"text/javascript\" src=\"/MyAFT/Scripts/draw/jquery.gracket.js?t=111\"></script> <h4 style=\"text-align: center\">361671 [4067-WAIMES] - Du 09/07/2026 au 19/07/2026 - CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 - Doubles Dames TWB</h4> <div style=\"clear: both;\"></div> <div class=\"tournamentDrawDataContainer\"> <div style=\"float: left; font-weight: bold;\">Catégories</div> <div style=\"float: left; width: 200px; \"> <select id=\"drawCategory\" class=\"form-control\" onchange=\"changeCategory()\"> <option value=\"\">Catégorie</option> <option value=\"1019422|F\" >Messieurs 50 2 (55-70)</option> <option value=\"1019423|\" disabled=disabled style=background-color:lightgrey>Messieurs 50 3 (35-50)</option> <option value=\"1019424|F\" >Messieurs 50 4 (15-30)</option> <option value=\"1019425|\" disabled=disabled style=background-color:lightgrey>Messieurs 50 5 (3-10)</option> <option value=\"1019436|F\" >DM 2 90 - 150 pts (90-150)</option> <option value=\"1019437|F\" >DM 3 60 - 120 pts (60-120)</option> <option value=\"1019438|F\" >DM 4 30 - 90 pts (30-90)</option> <option value=\"1019439|F\" >DM 5 15 - 60 pts (15-60)</option> <option value=\"1019440|F\" >DM 6 6 - 30 pts (6-30)</option> <option value=\"1019441|F\" >DD 3 60 - 120 pts (60-120)</option> <option value=\"1019442|F\" >DD 4 30 - 90 pts (30-90)</option> <option value=\"1019443|F\" >DD 5 15 - 60 pts (15-60)</option> <option value=\"1019444|F\" >DD 6 6 - 30 pts (6-30)</option> <option value="
+      "draw_urls": [
+        "/MyAFT/Competitions/GetDrawTypesDdl",
+        "/MyAFT/Competitions/GetTournamentDrawData",
+        "/MyAFT/Competitions/TournamentDrawContent"
+      ],
+      "ajax_urls": [],
+      "auszug": " <link href=\"/MyAFT/Content/draws.css?t=123\" rel=\"stylesheet\"/> <script type=\"text/javascript\" src=\"/MyAFT/Scripts/draw/jquery.gracket.js?t=111\"></script> <h4 style=\"text-align: center\">361671 [4067-WAIMES] - Du 09/07/2026 au 19/07/2026 - CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 - Doubles Dames TWB</h4> <div style=\"clear: both;\"></div> <div class=\"tournamentDrawDataContainer\"> <div style=\"float: left; font-weight: bold;\">Catégories</div> <div style=\"float: left; width: 200px; \"> <select id=\"drawCategory\" class=\"form-control\" onchange=\"changeCategory()\"> <option value=\"\">Catégorie</option> <option value=\"1019422|F\" >Messieurs 50 2 (55-70)</option> <option value=\"1019423|\" disabled=disabled style=background-color:lightgrey>Messieurs 50 3 (35-50)</option> <option value=\"1019424|F\" >Messieurs 50 4 (15-30)</option> <option value=\"1019425|\" disabled=disabled style=background-color:lightgrey>Messieurs 50 5 (3-10)</option> <option value=\"1019436|F\" >DM 2 90 - 150 pts (90-150)</option> <option value=\"1019437|F\" >DM 3 60 - 120 pts (60-120)</option> <option value=\"1019438|F\" >DM 4 30 - 90 pts (30-90)</option> <option value=\"1019439|F\" >DM 5 15 - 60 pts (15-60)</option> <option value=\"1019440|F\" >DM 6 6 - 30 pts (6-30)</option> <option value=\"1019441|F\" >DD 3 60 - 120 pts (60-120)</option> <option value=\"1019442|F\" >DD 4 30 - 90 pts (30-90)</option> <option value=\"1019443|F\" >DD 5 15 - 60 pts (15-60)</option> <option value=\"1019444|F\" >DD 6 6 - 30 pts (6-30)</option> <option value=\"1019445|F\" >DMx 2 90 - 150 pts (90-150)</option> <option value=\"1019446|F\" >DMx 3 60 - 120 pts (60-120)</option> <option value=\"1019447|F\" >DMx 4 30 - 90 pts (30-90)</option> <option value=\"1019448|F\" >DMx 5 15 - 60 pts (15-60)</option> <option value=\"1019449|F\" selected=selected >DMx 6 6 - 30 pts (6-30)</option> <option value=\"1019408|F\" >Messieurs 2 (75-90)</option> <option value=\"1019409|F\" >Messieurs 3 (55-70)</option> <option value=\"1019410|F,Q\" >Messieurs 4 (35-50)</option> <option value=\"1019411|F,Q\" >Messieurs 5 (15-30)</option> <option value=\"1019412|F\" >Messieurs 6 (3-10)</option> <option value=\"1019413|F\" >Dames 2 (65-85)</option> <option value=\"1019414|F\" >Dames 3 (35-60)</option> <option value=\"1019415|F\" >Dames 4 (15-30)</option> <option value=\"1019416|F\" >Dames 5 (3-10)</option> <option value=\"1019417|\" disabled=disabled style=background-color:lightgrey>Messieurs 35 2 (75-90)</option> <option value=\"1019418|F\" >Messieurs 35 3 (55-70)</option> <option value=\"1019419|F\" >Messieurs 35 4 (35-50)</option> <option value=\"1019420|F\" >Messieurs 35 5 (15-30)</option> <option value=\"1019421|F\" >Messieurs 35 6 (3-10)</option> <option value=\"1019426|F\" >Dames 25 2 (35-60)</option> <option value=\"1019427|F\" >Dames 25 3 (15-30)</option> <option value=\"1019428|F\" >Dames 25 4 (3-10)</option> <option value=\"1019430|F\" >JG -11 Grade 2 (1-15)</option> <option value=\"1019432|F\" >JG -13 Grade 2 (1-15)</option> <option value=\"1019434|F\" >JG -15 Grade 2 (3-30)</option> <option value=\"1019431|\" disabled=disabled style=background-color:lightgrey>JF -11 Grade 2 (1-15)</option> <option value=\"1019433|\" disabled=disabled style=background-color:lightgrey>JF -13 Grade 2 (1-15)</option> <option value=\"1019435|F\" >JF -15 Grade 2 (3-30)</option> <option value=\"1019429|F\" >-9 Grade 2 (1-15)</option> </select> </div> <div style=\"float: left; font-weight: bold;\">Type</div> <div style=\"float: left; width: 150px;\"> <select id=\"drawType\" class=\"form-control\" onchange=\"changeDraw()\"> <option value=\"\">Type de tableau</option> <option value=\"F\" selected=selected>Final</option> </select> </div> </div> <div style=\"clear: both; margin-top: 20px;\" id=\"drawContent\"> <style> .player_info { font-size: 12px !important; } .player_team_info { font-weight: normal !important; font-style: italic !important; } </style> <a class=\"downloadPrintBtn\" target=\"_blank\" href=\"https://webclub.tppwb.be/DrawPrinting.aspx?idTournoi=361671&amp;idCategory=1019449&amp;drawType=F\">Print & Download</a> <div id=\"round_selector\"> <div id=\"rounds_container\"> <div id=\"round_select_quarter\" class=\"round\"> <span>1/4 FINALE</span> <div class=\"match_selector\"> <div ref=\"r1s1\" class=\"navsect r1s1 match_button single\"> <hr /> <hr /> <hr /> <hr /> </div> </div> </div> <div id=\"round_select_semi\" class=\"round\"> <span>1/2 FINALE</span> <div class=\"match_selector\"> <div ref=\"r2s1\" class=\"navsect r2s1 match_button single\"> <hr /> <hr /> </div> </div> </div> <div id=\"round_select_final\" class=\"round\"> <span>FINALE</span> <div class=\"match_selector\"> <div ref=\"r3s1\" class=\"navsect r3s1 match_button single\"> <hr /> </div> </div> </div> </div> </div> <!-- empty gracket element --> <div id=\"history_container\"> <div id=\"history\" class=\"g_gracket\"> <div id=\"draw\" class=\"g_gracket\"></div> </div> </div> <script type=\"text/javascript\"> $(function () { displayDraw(); }); function displayDraw() { var idTournoi = \"361671\"; var idCategory = \"1019449\"; var drawType = \"F\"; var selectedRoundIndex = \"\"; var selectedRowIndex = \"\"; var url = \"/MyAFT/Competitions/GetTournamentDrawData\"; var data = { \"idTournoi\": idTournoi, \"idCategory\": idCategory, \"drawType\": drawType, \"selectedRoundIndex\": selectedRoundIndex, \"selectedRowIndex\": selectedRowIndex }; $.post(url, data, function (res) { var drawData = JSON.parse(res.drawData); var roundNames = JSON.parse(res.roundNames); var selectedNavIndex = \"1\"; $(\".r\" + selectedNavIndex + \"s1\").addClass(\"selected\"); initDrawsData(drawData, roundNames, selectedNavIndex, \"Tournament\", \"/MyAFT/Content/Images/\", \"\", idTournoi, idCategory, drawType); }); } </script> </div> <script type=\"text/javascript\"> function changeCategory() { var splitCat = $(\"#drawCategory\").val().split('|'); var idCategory = \"\"; var drawTypes = \"\"; if (splitCat.length === 2) { idCategory = splitCat[0]; drawTypes = splitCat[1]; } var url = \"/MyAFT/Competitions/GetDrawTypesDdl\"; var data = { \"idCategory\": idCategory, \"drawTypes\": drawTypes, \"funcName\": \"changeDraw()\" }; $(\"#drawType\").load(url, data, func"
     }
   },
   "turnier_infos": {
     "361706": {
       "http": 200,
-      "text": "Chers joueurs et joueuses, BIENVENUE AU KTC B Ü TGENBACH Merci de remplir vos disponibilit é s avec le plus grand soin. Aucun changement d ’ horaire ne sera possible apr è s la cl ô ture des inscriptions. De plus, la disponibilit é le premier week-end est obligatoire pour toutes les cat é gories . La Juge-Arbitre se r é serve le droit d ’ annuler l ’ inscription d ’ un joueur n ’ ayant pas indiqu é suffisamment de disponibilit é s. Tout joueur n ’ ayant indiqu é aucune disponibilit é pour le premier week-end lors de son inscription sera consid é r é comme disponible pendant tout le week-end . La Juge-Arbitre peut ê tre amen é e à utiliser certains terrains ext é rieurs au club, quel que soit le rev ê tement . Apr è s avoir consult é votre horaire, merci de le confirmer . Veuillez é galement v é rifier au jour le jour , durant le tournoi et avant de vous d é placer , qu ’ aucune modification n ’ a é t é apport é e. PAIEMENT EN CASH ! Bon tournoi à toutes et à tous. Categories Doubles Messieurs 2 90 - 150 pts 90 - 150 / 16 ans et plus Criterium 8 inscrits sur un maximum de 8 Doubles Messieurs 3 60 - 120 pts 60 - 120 / 16 ans et plus Criterium 15 inscrits sur un maximum de 16 Doubles Messieurs 4 30 - 90 pts 30 - 90 / 16 ans et plus Criterium 12 inscrits sur un maximum de 16 Doubles Messieurs 5 15 - 60 pts 15 - 60 / 16 ans et plus Criterium 14 inscrits sur un maximum de 16 Doubles Messieurs 6 - 6 - 30 pts 6 - 30 / 16 ans et plus Criterium 8 inscrits sur un maximum de 8 Doubles Messieurs 7 6 - 15 pts 6 - 15 / 16 ans et plus Criterium 6 inscrits sur un maximum de 8 Doubles Dames 3 60 - 120 pts 60 - 120 / 16 ans et plus Criterium 8 inscrits sur un maximum de 8 Doubles Dames 4 30 - 90 pts 30 - 90 / 16 ans et plus Criterium 8 inscrits sur un maximum de 8 Doubles Dames 5 15 - 60 pts 15 - 60 / 16 ans et plus Criterium 13 inscrits sur un maximum de 16 Doubles Dames 6 6 - 30 pts 6 - 30 / 16 ans et plus Criterium 6 inscrits sur un maximum de 8 Doubles Dames 7 6 - 15 pts 6 - 15 / 16 ans et plus Criterium 8 inscrits sur un maximum de 12 Doubles Mixtes 2 90 - 150 pts 90 - 150 / 16 ans et plus Criterium 4 inscrits sur un maximum de 8 Doubles Mixtes 3 60 - 120 pts 60 - 120 / 16 ans et plus Criterium 10 inscrits sur un maximum de 12 Doubles Mixtes 4 30 - 90 pts 30 - 90 / 16 ans et plus Criterium 12 inscrits sur un maximum de 12 Doubles Mixtes 5 15 - 60 pts 15 - 60 / 16 ans et plus Criterium 10 inscrits sur un maximum de 12 Doubles Mixtes 6 6 - 30 pts 6 - 30 / 16 ans et plus Criterium 8 inscrits sur un maximum de 8 Doubles Mixtes 7 6 - 15 pts 6 - 15 / 16 ans et plus Criterium 8 inscrits sur un maximum de 8 Voir mes disponibilités Inscrit Simples Messieurs 2 B0 - B-15 / 14 ans et plus Criterium 10 inscrits sur un maximum de 12 Simples Messieurs 3 C15.1 - B+2/6 / 14 ans et plus Criterium 14 inscrits sur un maximum de 16 Simples Messieurs 4 C15.5 - C15.2 / 14 ans et plus Criterium 16 inscrits sur un maximum de 16 Simples Messieurs 5 C30.3 - C30 / 16 ans et plus Criteriu"
+      "kategorien": [],
+      "text": "Chers joueurs et joueuses, BIENVENUE AU KTC B Ü TGENBACH Merci de remplir vos disponibilit é s avec le plus grand soin. Aucun changement d ’ horaire ne sera possible apr è s la cl ô ture des inscriptions. De plus, la disponibilit é le premier week-end est obligatoire pour toutes les cat é gories . La Juge-Arbitre se r é serve le droit d ’ annuler l ’ inscription d ’ un joueur n ’ ayant pas indiqu é suffisamment de disponibilit é s. Tout joueur n ’ ayant indiqu é aucune disponibilit é pour le premier week-end lors de son inscription sera consid é r é comme disponible pendant tout le week-end . La Juge-Arbitre peut ê tre amen é e à utiliser certains terrains ext é rieurs au club, quel que soit le rev ê tement . Apr è s avoir consult é votre horaire, merci de le confirmer . Veuillez é galement v é rifier au jour le jour , durant le tournoi et avant de vous d é placer , qu ’ aucune modification n ’ a é t é apport é e. PAIEMENT EN CASH ! Bon tournoi à toutes et à tous. Categories Doubles Messieurs 2 90 - 150 pts 90 - 150 / 16 ans et plus Criterium 8 inscrits sur un maximum de 8 Doubles Messieurs 3 60 - 120 pts 60 - 120 / 16 ans et plus Criterium 15 inscrits sur un maximum de 16 Doubles Messieurs 4 30 - 90 pts 30 - 90 / 16 ans et plus Criterium 12 inscrits sur un maximum de 16 Doubles Messieurs 5 15 - 60 pts 15 - 60 / 16 ans et plus Criterium 14 inscrits sur un maximum de 16 Doubles Messieurs 6 - 6 - 30 pts 6 - 30 / 16 ans et plus Criterium 8 inscrits sur un maximum de 8 Doubles Messieurs 7 6 - 15 pts 6 - 15 / 16 ans et plus Criterium 6 inscrits sur un maximum de 8 Doubles Dames 3 60 - 120 pts 60 - 120 / 16 ans et plus Criterium 8 inscrits sur un maximum de 8 Doubles Dames 4 30 - 90 pts 30 - 90 / 16 ans et plus Criterium 8 inscrits sur un maximum de 8 Doubles Dames 5 15 - 60 pts 15 - 60 / 16 ans et plus Criterium 13 inscrits sur un maximum de 16 Doubles Dames 6 6 - 30 pts 6 - 30 / 16 ans et plus Criterium 6 inscrits sur un maximum de 8 Doubles Dames 7 6 - 15 pts 6 - 15 / 16 ans et plus Criterium 8 inscrits sur un maximum de 12 Doubles Mixtes 2 90 - 150 pts 90 - 150 / 16 ans et plus Criterium 4 inscrits sur un maximum de 8 Doubles Mixtes 3 60 - 120 pts 60 - 120 / 16 ans et plus Criterium 10 inscrits sur un maximum de 12 Doubles Mixtes 4 30 - 90 pts 30 - 90 / 16 ans et plus Criterium 12 inscrits sur un maximum de 12 Doubles Mixtes 5 15 - 60 pts 15 - 60 / 16 ans et plus Criterium 10 inscrits sur un maximum de 12 Doubles Mixtes 6 6 - 30 pts 6 - 30 / 16 ans et plus Criterium 8 inscrits sur un maximum de 8 Doubles Mixtes 7 6 - 15 pts 6 - 15 / 16 ans et plus Criterium 8 inscrits sur un maximum de 8 Voir mes disponibilités Inscrit Simples Messieurs 2 B0 - B-15 / 14 ans et plus Criterium 10 inscrits sur un maximum de 12 Simples Messieurs 3 C15.1 - B+2/6 / 14 ans et plus Criterium 14 inscrits sur un maximum de 16 Simples Messieurs 4 C15.5 - C15.2 / 14 ans et plus Criterium 16 inscrits sur un maximum de 16 Simples Messieurs 5 C30.3 - C30 / 16 ans et plus Criterium 16 inscrits sur un maximum de 16 Simples Messieurs 6 C30.6 - C30.4 / 16 ans et plus Criterium 27 inscrits sur un maximum de 32 Simples Dames 2 B+4/6 - B-4/6 / 14 ans et plus Criterium 0 inscrits sur un maximum de 8 Simples Dames 3 C15.5 - C15 / 14 ans et plus Criterium 6 inscrits sur un maximum de 8 Simples Dames 4 C30.3 - C30 / 16 ans et plus Criterium 9 inscrits sur un maximum de 12 Simples Dames 5 C30.6 - C30.4 / 16 ans et plus Criterium 16 inscrits sur un maximum de 16 Simples Messieurs 35 3 C15.1 - B+2/6 / 35 ans et plus Criterium 12 inscrits sur un maximum de 12 Simples Messieurs 35 4 C15.5 - C15.2 / 35 ans et plus Criterium 16 inscrits sur un maximum de 16 Simples Messieurs 35 5 C30.3 - C30 / 35 ans et plus Criterium 12 inscrits sur un maximum de 16 Simples Messieurs 35 6 C30.6 - C30.4 / 35 ans et plus Criterium 20 inscrits sur un maximum de 24 Voir mes disponibilités Inscrit Simples Dames 25 2 C15.5 - C15 / 25 ans et plus Criterium 7 inscrits sur un maximum de 8 Simples Dames 25 3 C30.3 - C30 / 25 ans et plus Criterium 5 inscrits sur un maximum de 8 Simples Dames 25 4 C30.6 - C30.4 / 25 ans et plus Criterium 10 inscrits sur un maximum de 12 Simples jeunes gens - 11 ans Grade 2 11.8 - 11.3 / 10 à 11 ans Criterium 3 inscrits sur un maximum de 8 Simples jeunes gens - 11 ans Grade 3 11.8 - 11.6 / 10 à 11 ans Criterium 2 inscrits sur un maximum de 8 Type B du 03/08/2026 au 05/08/2026 Simples jeunes gens - 13 ans Grade 2 13.8 - 13.3 / 12 à 13 ans Criterium 2 inscrits sur un maximum de 8 Simples jeunes gens - 13 ans Grade 3 13.8 - 13.6 / 12 à 13 ans Criterium 2 inscrits sur un maximum de 8 Type B du 06/08/2026 au 08/08/2026 Simples jeunes gens - 15 ans Grade 2 C30.6 - C30 / 14 à 15 ans Criterium 11 inscrits sur un maximum de 12 Simples jeunes gens - 15 ans Grade 3 C30.6 - C30.4 / 14 à 15 ans Criterium 6 inscrits sur un maximum de 8 Simples jeunes filles - 11 ans Grade 2 11.8 - 11.3 / 10 à 11 ans Criterium 1 inscrits sur un maximum de 8 Simples jeunes filles - 11 ans Grade 3 11.8 - 11.6 / 10 à 11 ans Criterium 0 inscrits sur un maximum de 8 Poules Type B du 03/08/2026 au 05/08/2026 Simples jeunes filles - 13 ans Grade 2 13.8 - 13.3 / 12 à 13 ans Criterium 1 inscrits sur un maximum de 8 Simples jeunes filles - 13 ans Grade 3 13.8 - 13.6 / 12 à 13 ans Criterium 3 inscrits sur un maximum de 8 Poules Type B du 06/08/2026 au 08/08/2026 Simples jeunes filles - 15 ans Grade 2 C30.6 - C30 / 14 à 15 ans Criterium 4 inscrits sur un maximum de 8 Simples jeunes filles - 15 ans Grade 3 C30.6 - C30.4 / 14 à 15 ans Criterium 3 inscrits sur un maximum de 8 Simples jeunes mixte - 9 ans Grade 2 9.8 - 9.3 / 5 à 9 ans Criterium 1 inscrits sur un maximum de 8 Simples jeunes mixte - 9 ans Grade 3 9.8 - 9.6 / 5 à 9 ans Criterium 5 inscrits sur un maximum de 8 Poules Type B du 06/08/2026 au 08/08/2026 VOIR PLUS"
     },
     "361671": {
       "http": 200,
-      "text": "Categories Doubles Messieurs 2 90 - 150 pts 90 - 150 / 16 ans et plus Criterium 4 inscrits Doubles Messieurs 3 60 - 120 pts 60 - 120 / 16 ans et plus Criterium 6 inscrits Doubles Messieurs 4 30 - 90 pts 30 - 90 / 16 ans et plus Criterium 10 inscrits Doubles Messieurs 5 15 - 60 pts 15 - 60 / 16 ans et plus Criterium 16 inscrits Doubles Messieurs 6 - 6 - 30 pts 6 - 30 / 16 ans et plus Criterium 10 inscrits Doubles Dames 3 60 - 120 pts 60 - 120 / 16 ans et plus Criterium 2 inscrits Doubles Dames 4 30 - 90 pts 30 - 90 / 16 ans et plus Criterium 5 inscrits Doubles Dames 5 15 - 60 pts 15 - 60 / 16 ans et plus Criterium 4 inscrits Doubles Dames 6 6 - 30 pts 6 - 30 / 16 ans et plus Criterium 16 inscrits Doubles Mixtes 2 90 - 150 pts 90 - 150 / 16 ans et plus Criterium 2 inscrits Doubles Mixtes 3 60 - 120 pts 60 - 120 / 16 ans et plus Criterium 4 inscrits Doubles Mixtes 4 30 - 90 pts 30 - 90 / 16 ans et plus Criterium 4 inscrits Doubles Mixtes 5 15 - 60 pts 15 - 60 / 16 ans et plus Criterium 7 inscrits Doubles Mixtes 6 6 - 30 pts 6 - 30 / 16 ans et plus Criterium 8 inscrits Voir mes disponibilités Inscrit Simples Messieurs 50 2 C15.1 - B+2/6 / 50 ans et plus Criterium 2 inscrits Simples Messieurs 50 3 C15.5 - C15.2 / 50 ans et plus Criterium 0 inscrits Simples Messieurs 50 4 C30.3 - C30 / 50 ans et plus Criterium 3 inscrits Simples Messieurs 50 5 C30.6 - C30.4 / 50 ans et plus Criterium 1 inscrits Simples Messieurs 2 B0 - B-15 / 14 ans et plus Criterium 7 inscrits Simples Messieurs 3 C15.1 - B+2/6 / 14 ans et plus Criterium 10 inscrits Simples Messieurs 4 C15.5 - C15.2 / 14 ans et plus Criterium 19 inscrits Simples Messieurs 5 C30.3 - C30 / 16 ans et plus Criterium 20 inscrits Simples Messieurs 6 C30.6 - C30.4 / 16 ans et plus Criterium 30 inscrits Simples Dames 2 B+4/6 - B-4/6 / 14 ans et plus Criterium 2 inscrits Simples Dames 3 C15.5 - C15 / 14 ans et plus Criterium 5 inscrits Simples Dames 4 C30.3 - C30 / 16 ans et plus Criterium 8 inscrits Simples Dames 5 C30.6 - C30.4 / 16 ans et plus Criterium 24 inscrits Simples Messieurs 35 2 B0 - B-15 / 35 ans et plus Criterium 0 inscrits Simples Messieurs 35 3 C15.1 - B+2/6 / 35 ans et plus Criterium 7 inscrits Simples Messieurs 35 4 C15.5 - C15.2 / 35 ans et plus Criterium 8 inscrits Simples Messieurs 35 5 C30.3 - C30 / 35 ans et plus Criterium 9 inscrits Simples Messieurs 35 6 C30.6 - C30.4 / 35 ans et plus Criterium 13 inscrits Voir mes disponibilités Inscrit Simples Dames 25 2 C15.5 - C15 / 25 ans et plus Criterium 6 inscrits Simples Dames 25 3 C30.3 - C30 / 25 ans et plus Criterium 2 inscrits Simples Dames 25 4 C30.6 - C30.4 / 25 ans et plus Criterium 14 inscrits Simples jeunes gens - 11 ans Grade 2 11.8 - 11.3 / 10 à 11 ans Criterium 6 inscrits Simples jeunes gens - 13 ans Grade 2 13.8 - 13.3 / 12 à 13 ans Criterium 5 inscrits Simples jeunes gens - 15 ans Grade 2 C30.6 - C30 / 14 à 15 ans Criterium 7 inscrits Simples jeunes filles - 11 ans Grade 2 11.8 - 11.3 / 10 à 11 ans Criterium 0 inscrits Simples jeu"
+      "kategorien": [],
+      "text": "Categories Doubles Messieurs 2 90 - 150 pts 90 - 150 / 16 ans et plus Criterium 4 inscrits Doubles Messieurs 3 60 - 120 pts 60 - 120 / 16 ans et plus Criterium 6 inscrits Doubles Messieurs 4 30 - 90 pts 30 - 90 / 16 ans et plus Criterium 10 inscrits Doubles Messieurs 5 15 - 60 pts 15 - 60 / 16 ans et plus Criterium 16 inscrits Doubles Messieurs 6 - 6 - 30 pts 6 - 30 / 16 ans et plus Criterium 10 inscrits Doubles Dames 3 60 - 120 pts 60 - 120 / 16 ans et plus Criterium 2 inscrits Doubles Dames 4 30 - 90 pts 30 - 90 / 16 ans et plus Criterium 5 inscrits Doubles Dames 5 15 - 60 pts 15 - 60 / 16 ans et plus Criterium 4 inscrits Doubles Dames 6 6 - 30 pts 6 - 30 / 16 ans et plus Criterium 16 inscrits Doubles Mixtes 2 90 - 150 pts 90 - 150 / 16 ans et plus Criterium 2 inscrits Doubles Mixtes 3 60 - 120 pts 60 - 120 / 16 ans et plus Criterium 4 inscrits Doubles Mixtes 4 30 - 90 pts 30 - 90 / 16 ans et plus Criterium 4 inscrits Doubles Mixtes 5 15 - 60 pts 15 - 60 / 16 ans et plus Criterium 7 inscrits Doubles Mixtes 6 6 - 30 pts 6 - 30 / 16 ans et plus Criterium 8 inscrits Voir mes disponibilités Inscrit Simples Messieurs 50 2 C15.1 - B+2/6 / 50 ans et plus Criterium 2 inscrits Simples Messieurs 50 3 C15.5 - C15.2 / 50 ans et plus Criterium 0 inscrits Simples Messieurs 50 4 C30.3 - C30 / 50 ans et plus Criterium 3 inscrits Simples Messieurs 50 5 C30.6 - C30.4 / 50 ans et plus Criterium 1 inscrits Simples Messieurs 2 B0 - B-15 / 14 ans et plus Criterium 7 inscrits Simples Messieurs 3 C15.1 - B+2/6 / 14 ans et plus Criterium 10 inscrits Simples Messieurs 4 C15.5 - C15.2 / 14 ans et plus Criterium 19 inscrits Simples Messieurs 5 C30.3 - C30 / 16 ans et plus Criterium 20 inscrits Simples Messieurs 6 C30.6 - C30.4 / 16 ans et plus Criterium 30 inscrits Simples Dames 2 B+4/6 - B-4/6 / 14 ans et plus Criterium 2 inscrits Simples Dames 3 C15.5 - C15 / 14 ans et plus Criterium 5 inscrits Simples Dames 4 C30.3 - C30 / 16 ans et plus Criterium 8 inscrits Simples Dames 5 C30.6 - C30.4 / 16 ans et plus Criterium 24 inscrits Simples Messieurs 35 2 B0 - B-15 / 35 ans et plus Criterium 0 inscrits Simples Messieurs 35 3 C15.1 - B+2/6 / 35 ans et plus Criterium 7 inscrits Simples Messieurs 35 4 C15.5 - C15.2 / 35 ans et plus Criterium 8 inscrits Simples Messieurs 35 5 C30.3 - C30 / 35 ans et plus Criterium 9 inscrits Simples Messieurs 35 6 C30.6 - C30.4 / 35 ans et plus Criterium 13 inscrits Voir mes disponibilités Inscrit Simples Dames 25 2 C15.5 - C15 / 25 ans et plus Criterium 6 inscrits Simples Dames 25 3 C30.3 - C30 / 25 ans et plus Criterium 2 inscrits Simples Dames 25 4 C30.6 - C30.4 / 25 ans et plus Criterium 14 inscrits Simples jeunes gens - 11 ans Grade 2 11.8 - 11.3 / 10 à 11 ans Criterium 6 inscrits Simples jeunes gens - 13 ans Grade 2 13.8 - 13.3 / 12 à 13 ans Criterium 5 inscrits Simples jeunes gens - 15 ans Grade 2 C30.6 - C30 / 14 à 15 ans Criterium 7 inscrits Simples jeunes filles - 11 ans Grade 2 11.8 - 11.3 / 10 à 11 ans Criterium 0 inscrits Simples jeunes filles - 13 ans Grade 2 13.8 - 13.3 / 12 à 13 ans Criterium 1 inscrits Simples jeunes filles - 15 ans Grade 2 C30.6 - C30 / 14 à 15 ans Criterium 2 inscrits Simples jeunes mixte - 9 ans Grade 2 9.8 - 9.3 / 5 à 9 ans Criterium 4 inscrits VOIR PLUS"
+    }
+  },
+  "alle_perioden": {
+    "ordinal1_alle": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 6,
+      "ergebnisse": [
+        {
+          "kontext": "SingleVictory",
+          "turnier": "BUTGENBACH",
+          "datum": "30/07/2026",
+          "kategorie": "Simples Messieurs 35 6",
+          "score": "6/0-6/0-0/0",
+          "gegner": [
+            "ADAMS Frederic (3 pts)"
+          ],
+          "partner": null,
+          "tableau": {
+            "idTournoi": "361706",
+            "idCategory": "1020267",
+            "drawType": "F",
+            "roundIndex": "5",
+            "rowIndex": "7"
+          }
+        },
+        {
+          "kontext": "SingleDefeat",
+          "turnier": "BUTGENBACH",
+          "datum": "02/08/2026",
+          "kategorie": "Simples Messieurs 35 6",
+          "score": "6/3-6/2-0/0",
+          "gegner": [
+            "Leonard Fabian (5 pts)"
+          ],
+          "partner": null,
+          "tableau": {
+            "idTournoi": "361706",
+            "idCategory": "1020267",
+            "drawType": "F",
+            "roundIndex": "4",
+            "rowIndex": "4"
+          }
+        },
+        {
+          "kontext": "SingleDefeat",
+          "turnier": "WAIMES",
+          "datum": "11/07/2026",
+          "kategorie": "Simples Messieurs 35 6",
+          "score": "6/2-6/0-0/0",
+          "gegner": [
+            "QUAAS Gerd (3 pts)"
+          ],
+          "partner": null,
+          "tableau": {
+            "idTournoi": "361671",
+            "idCategory": "1019421",
+            "drawType": "F",
+            "roundIndex": "4",
+            "rowIndex": "7"
+          }
+        },
+        {
+          "kontext": "DoubleVictory",
+          "turnier": "BUTGENBACH",
+          "datum": "04/08/2026",
+          "kategorie": "Doubles Mixtes 7 6 - 15 pts",
+          "score": "6/1-6/4-0/0",
+          "gegner": [
+            "BÖMER Kristina (5 pts)",
+            "BERTHA Kevin (3 pts)",
+            "CARLS Suleika (3 pts)"
+          ],
+          "partner": "BÖMER Kristina (5 pts)",
+          "tableau": {
+            "idTournoi": "361706",
+            "idCategory": "1020301",
+            "drawType": "F",
+            "roundIndex": "3",
+            "rowIndex": "2"
+          }
+        },
+        {
+          "kontext": "DoubleDefeat",
+          "turnier": "BUTGENBACH",
+          "datum": "08/08/2026",
+          "kategorie": "Doubles Mixtes 7 6 - 15 pts",
+          "score": "6/4-7/5-0/0",
+          "gegner": [
+            "BÖMER Kristina (5 pts)",
+            "JENNIGES Jochen (3 pts)",
+            "HOFFMANN Ramona (10 pts)"
+          ],
+          "partner": "BÖMER Kristina (5 pts)",
+          "tableau": {
+            "idTournoi": "361706",
+            "idCategory": "1020301",
+            "drawType": "F",
+            "roundIndex": "2",
+            "rowIndex": "1"
+          }
+        },
+        {
+          "kontext": "DoubleDefeat",
+          "turnier": "WAIMES",
+          "datum": "19/07/2026",
+          "kategorie": "Doubles Mixtes 6 6 - 30 pts",
+          "score": "0/0-0/0-0/0 WO",
+          "gegner": [
+            "BÖMER Kristina (5 pts)",
+            "SCHOMUS Rachel (3 pts)",
+            "ANDRIES Laurel (10 pts)"
+          ],
+          "partner": "BÖMER Kristina (5 pts)",
+          "tableau": {
+            "idTournoi": "361671",
+            "idCategory": "1019449",
+            "drawType": "F",
+            "roundIndex": "3",
+            "rowIndex": "2"
+          }
+        }
+      ]
+    },
+    "ordinal1_Tournaments": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 6,
+      "ergebnisse": [
+        {
+          "kontext": "SingleVictory",
+          "turnier": null,
+          "datum": null,
+          "kategorie": "Simples Messieurs 35 6",
+          "score": "6/0-6/0-0/0",
+          "gegner": [
+            "ADAMS Frederic (C30.6 )"
+          ],
+          "partner": null,
+          "tableau": {
+            "idTournoi": "361706",
+            "idCategory": "1020267",
+            "drawType": "F",
+            "roundIndex": "5",
+            "rowIndex": "7"
+          }
+        },
+        {
+          "kontext": "SingleDefeat",
+          "turnier": null,
+          "datum": null,
+          "kategorie": "Simples Messieurs 35 6",
+          "score": "6/3-6/2-0/0",
+          "gegner": [
+            "Leonard Fabian (C30.5 )"
+          ],
+          "partner": null,
+          "tableau": {
+            "idTournoi": "361706",
+            "idCategory": "1020267",
+            "drawType": "F",
+            "roundIndex": "4",
+            "rowIndex": "4"
+          }
+        },
+        {
+          "kontext": "SingleDefeat",
+          "turnier": null,
+          "datum": null,
+          "kategorie": "Simples Messieurs 35 6",
+          "score": "6/2-6/0-0/0",
+          "gegner": [
+            "QUAAS Gerd (C30.6 )"
+          ],
+          "partner": null,
+          "tableau": {
+            "idTournoi": "361671",
+            "idCategory": "1019421",
+            "drawType": "F",
+            "roundIndex": "4",
+            "rowIndex": "7"
+          }
+        },
+        {
+          "kontext": "DoubleVictory",
+          "turnier": null,
+          "datum": null,
+          "kategorie": "Doubles Mixtes 7 6 - 15 pts",
+          "score": "6/1-6/4-0/0",
+          "gegner": [
+            "BÖMER Kristina (5 pts)",
+            "BERTHA Kevin (3 pts)",
+            "CARLS Suleika (3 pts)"
+          ],
+          "partner": "BÖMER Kristina (5 pts)",
+          "tableau": {
+            "idTournoi": "361706",
+            "idCategory": "1020301",
+            "drawType": "F",
+            "roundIndex": "3",
+            "rowIndex": "2"
+          }
+        },
+        {
+          "kontext": "DoubleDefeat",
+          "turnier": null,
+          "datum": null,
+          "kategorie": "Doubles Mixtes 7 6 - 15 pts",
+          "score": "6/4-7/5-0/0",
+          "gegner": [
+            "BÖMER Kristina (5 pts)",
+            "JENNIGES Jochen (3 pts)",
+            "HOFFMANN Ramona (10 pts)"
+          ],
+          "partner": "BÖMER Kristina (5 pts)",
+          "tableau": {
+            "idTournoi": "361706",
+            "idCategory": "1020301",
+            "drawType": "F",
+            "roundIndex": "2",
+            "rowIndex": "1"
+          }
+        },
+        {
+          "kontext": "DoubleDefeat",
+          "turnier": null,
+          "datum": null,
+          "kategorie": "Doubles Mixtes 6 6 - 30 pts",
+          "score": "0/0-0/0-0/0 WO",
+          "gegner": [
+            "BÖMER Kristina (5 pts)",
+            "SCHOMUS Rachel (3 pts)",
+            "ANDRIES Laurel (10 pts)"
+          ],
+          "partner": "BÖMER Kristina (5 pts)",
+          "tableau": {
+            "idTournoi": "361671",
+            "idCategory": "1019449",
+            "drawType": "F",
+            "roundIndex": "3",
+            "rowIndex": "2"
+          }
+        }
+      ]
+    },
+    "ordinal1_Interclubs": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "ordinal2_alle": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "ordinal2_Tournaments": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "ordinal2_Interclubs": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "ordinal3_alle": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "ordinal3_Tournaments": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "ordinal3_Interclubs": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "ordinal4_alle": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "ordinal4_Tournaments": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "ordinal4_Interclubs": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "ordinal5_alle": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "ordinal5_Tournaments": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "ordinal5_Interclubs": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "ordinal6_alle": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "ordinal6_Tournaments": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "ordinal6_Interclubs": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "ordinal7_alle": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "ordinal7_Tournaments": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "ordinal7_Interclubs": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "ordinal8_alle": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "ordinal8_Tournaments": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "ordinal8_Interclubs": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "ordinal9_alle": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "ordinal9_Tournaments": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "ordinal9_Interclubs": {
+      "periode_label": "Classement mai 2026",
+      "klassierung": [
+        {
+          "sparte": "SIMPLES",
+          "jahr": "2026",
+          "klassierung": "C30.6",
+          "punkte": "0.000"
+        }
+      ],
+      "anzahl": 0,
+      "ergebnisse": []
+    },
+    "_seiten": {
+      "interclubs": {
+        "http": 200,
+        "text": "Mes équipes Mes équipes suivies Mes résultats en interclubs Période courante Classement mai 2026 Classement octobre 2025 Classement mai 2025 Classement octobre 2024 Classement mai 2024 Classement octobre 2023 Classement mai 2023 Classement octobre 2022 Aucun résultat trouvé function onRankingPeriodsChanged_ic() { var ordinal = $(\"#ddlRankingPeriod_ic\").val(); $(\"#myinterclubs_collapse_myresults_content\").load(\"/MyAFT/MyInterclubs/MyResultsData?ordinal=\" + ordinal); } Statut Actif Mes listes de force Messieurs ordre: 60 Messieurs 4 joueurs ordre: 60 Messieurs 25 ordre: 58 Messieurs 35 ordre: 47 Doubles Messieurs 35 ordre: 47 Voir toutes les listes Equipes à suivre Aucun résultat trouvé Ajouter $(function () { $(\"#txtTeamToFollow\").autocomplete({ source: \"/MyAFT/MyInterclubs/SearchInterclubsTeams\", minLength: 2, maxShowItems: 20, select: function (event, ui) { $(\"#hdTeamToFollow\").val(ui.item.id); } }); }); function addTeamToFollow() { var idTeam = $(\"#hdTeamToFollow\").val(); if (!isNaN(idTeam) && idTeam > 0) { var url = \"/MyAFT/MyInterclubs/TeamToFollow_Insert\"; var data = { \"idTeam\": idTeam }; $.BigLoading(); $.post(url, data, function (res) { $(\"#myinterclubs_teamstofollow_wrapper\").html(res); $(\"#txtTeamToFollow\").val(\"\"); $(\"#hdTeamToFollow\").val(\"\"); $.RemoveBigLoading(); }); } else { alert(\"Please select a team!\"); } } function deleteTeamToFollow(idTeam) { if (idTeam > 0) { var response = confirm(\"Do you want to delete this item?\"); if (response) { var url = \"/MyAFT/MyInterclubs/TeamToFollow_Delete\"; var data = { \"idTeam\": idTeam }; $.BigLoading(); $.post(url, data, function (res) { $(\"#myinterclubs_teamstofollow_wrapper\").html(res); $(\"#txtTeamToFollow\").val(\"\"); $(\"#hdTeamToFollow\").val(\"\"); $.RemoveBigLoading(); }); } } } Catégories à suivre Aucun résultat trouvé Ajouter $(function () { $(\"#txtCategoryToFollow\").autocomplete({ source: \"/MyAFT/MyInterclubs/SearchInterclubsCategories\", minLength: 2, maxShowItems: 20, select: function (event, ui) { $(\"#hdCategoryToFollow\").val(ui.item.id); } }); }); function addCategoryToFollow() { var values = $(\"#hdCategoryToFollow\").val().split(\";\"); var idIcDiv = values[0]; var regionID = values[1]; if (idIcDiv > 0) { var url = \"/MyAFT/MyInterclubs/CategoryToFollow_Insert\"; var data = { \"idIcDiv\": idIcDiv, \"regionID\": regionID }; $.BigLoading(); $.post(url, data, function (res) { $(\"#myinterclubs_categoriestofollow_wrapper\").html(res); $(\"#txtCategoryToFollow\").val(\"\"); $(\"#hdCategoryToFollow\").val(\"\"); $.RemoveBigLoading(); }); } else { alert(\"Please select a team!\"); } } function deleteCategoryToFollow(idIcDiv,regionID) { if (idIcDiv > 0) { var response = confirm(\"Do you want to delete this item?\"); if (response) { var url = \"/MyAFT/MyInterclubs/CategoryToFollow_Delete\"; var data = { \"idIcDiv\": idIcDiv, \"regionID\": regionID }; $.BigLoading(); $.post(url, data, function (res) { $(\"#myinterclubs_categoriestofollow_wrapper\").html(res); $(\"#txtCategoryToFollow\").val(\"\"); $(\"#hdCategoryToFollow\").val(\"\"); $.RemoveBigLoading(); }); } } } $(document).ready(function () { activeHoverForContextMenu($(\"#enableAutoHoverEvent\").find(\".hamburger\")); });"
+      },
+      "meine_turniere": {
+        "http": 200,
+        "text": "Mes prochains matches Aucun résultat trouvé Voir mes inscriptions function refreshMyNextGamesData() { var url = \"/MyAFT/MyTournois/MyNextGamesData\"; $(\"#divMyNextGamesData\").load(url, function () { activeHoverForContextMenu($(\"#divMyNextGamesData\").find(\".hamburger\")); }); } Mes inscriptions M'inscrire Mes résultats en tournois Période courante Classement mai 2026 Classement octobre 2025 Classement mai 2025 Classement octobre 2024 Classement mai 2024 Classement octobre 2023 Classement mai 2023 Classement octobre 2022 function onRankingPeriodsChanged_Tournoi() { var ordinal = $(\"#ddlRankingPeriod_Tournoi\").val(); $(\"#collapse_mytournamentresults\").load(\"/MyAFT/MyTournois/MyTournamentResults?ordinal=\" + ordinal); } Résultats en Belgian Circuit Aucun résultat trouvé $(function () { activeHoverForContextMenu($(\"#collapse_bcranking\").find(\".hamburger\")); activeHoverForContextMenu($(\"#collapse_mytournoi\").find(\".hamburger\")); }); function refreshMyBcResultsData() { var url = \"/MyAFT/MyTournois/BelgianCircuit\"; $(\"#collapse_bcranking\").load(url, function () { activeHoverForContextMenu($(\"#collapse_bcranking\").find(\".hamburger\")); }); } Mes tournois à suivre"
+      },
+      "profil": {
+        "http": 200,
+        "text": "Ma fiche Carte affilié Titre M Mad Nom Prénom Sexe Date de naissance kendo.syncReady(function(){jQuery(\"#DateNaisValidate\").kendoDatePicker({\"format\":\"dd/MM/yyyy\",\"min\":new Date(1900,0,1,0,0,0,0),\"max\":new Date(2099,11,31,0,0,0,0)});}); Num. national Adresse Code postal Localité kendo.syncReady(function(){jQuery(\"#Localite\").kendoComboBox({\"dataSource\":[],\"dataTextField\":\"Text\",\"dataValueField\":\"Value\",\"suggest\":true});}); Mettre à jour les coordonnées géographiques Latitude Longitude Je suis à la maison, obtenir ma position actuelle Tél. privé Pays kendo.syncReady(function(){jQuery(\"#Pays\").kendoComboBox({\"dataSource\":[{\"Text\":\"AFGHANISTAN (AF)\",\"Value\":\"AFGHANISTAN (AF)\"},{\"Text\":\"AFRIQUE DU SUD (ZA)\",\"Value\":\"AFRIQUE DU SUD (ZA)\"},{\"Text\":\"ÅLAND, ÎLES (AX)\",\"Value\":\"ÅLAND, ÎLES (AX)\"},{\"Text\":\"ALBANIE (AL)\",\"Value\":\"ALBANIE (AL)\"},{\"Text\":\"ALGÉRIE (DZ)\",\"Value\":\"ALGÉRIE (DZ)\"},{\"Text\":\"ALLEMAGNE (DE)\",\"Value\":\"ALLEMAGNE (DE)\"},{\"Text\":\"ANDORRE (AD)\",\"Value\":\"ANDORRE (AD)\"},{\"Text\":\"ANGOLA (AO)\",\"Value\":\"ANGOLA (AO)\"},{\"Text\":\"ANGUILLA (AI)\",\"Value\":\"ANGUILLA (AI)\"},{\"Text\":\"ANTARCTIQUE (AQ)\",\"Value\":\"ANTARCTIQUE (AQ)\"},{\"Text\":\"ANTIGUA-ET-BARBUDA (AG)\",\"Value\":\"ANTIGUA-ET-BARBUDA (AG)\"},{\"Text\":\"ARABIE SAOUDITE (SA)\",\"Value\":\"ARABIE SAOUDITE (SA)\"},{\"Text\":\"ARGENTINE (AR)\",\"Value\":\"ARGENTINE (AR)\"},{\"Text\":\"ARMÉNIE (AM)\",\"Value\":\"ARMÉNIE (AM)\"},{\"Text\":\"ARUBA (AW)\",\"Value\":\"ARUBA (AW)\"},{\"Text\":\"AUSTRALIE (AU)\",\"Value\":\"AUSTRALIE (AU)\"},{\"Text\":\"AUTRICHE (AT)\",\"Value\":\"AUTRICHE (AT)\"},{\"Text\":\"AZERBAÏDJAN (AZ)\",\"Value\":\"AZERBAÏDJAN (AZ)\"},{\"Text\":\"BAHAMAS (BS)\",\"Value\":\"BAHAMAS (BS)\"},{\"Text\":\"BAHREÏN (BH)\",\"Value\":\"BAHREÏN (BH)\"},{\"Text\":\"BANGLADESH (BD)\",\"Value\":\"BANGLADESH (BD)\"},{\"Text\":\"BARBADE (BB)\",\"Value\":\"BARBADE (BB)\"},{\"Text\":\"BELAU (PW)\",\"Value\":\"BELAU (PW)\"},{\"Text\":\"BELGIQUE (BE)\",\"Value\":\"BELGIQUE (BE)\"},{\"Text\":\"BELIZE (BZ)\",\"Value\":\"BELIZE (BZ)\"},{\"Text\":\"BÉNIN (BJ)\",\"Value\":\"BÉNIN (BJ)\"},{\"Text\":\"BERMUDES (BM)\",\"Value\":\"BERMUDES (BM)\"},{\"Text\":\"BHOUTAN (BT)\",\"Value\":\"BHOUTAN (BT)\"},{\"Text\":\"BIÉLORUSSIE (BY)\",\"Value\":\"BIÉLORUSSIE (BY)\"},{\"Text\":\"BIRMANIE (MM)\",\"Value\":\"BIRMANIE (MM)\"},{\"Text\":\"BOLIVIE (BO)\",\"Value\":\"BOLIVIE (BO)\"},{\"Text\":\"BOSNIE-HERZÉGOVINE (BA)\",\"Value\":\"BOSNIE-HERZÉGOVINE (BA)\"},{\"Text\":\"BOTSWANA (BW)\",\"Value\":\"BOTSWANA (BW)\"},{\"Text\":\"BOUVET, ÎLE (BV)\",\"Value\":\"BOUVET, ÎLE (BV)\"},{\"Text\":\"BRÉSIL (BR)\",\"Value\":\"BRÉSIL (BR)\"},{\"Text\":\"BRUNEI (BN)\",\"Value\":\"BRUNEI (BN)\"},{\"Text\":\"BULGARIE (BG)\",\"Value\":\"BULGARIE (BG)\"},{\"Text\":\"BURKINA (BF)\",\"Value\":\"BURKINA (BF)\"},{\"Text\":\"BURUNDI (BI)\",\"Value\":\"BURUNDI (BI)\"},{\"Text\":\"CAÏMANES, ÎLES (KY)\",\"Value\":\"CAÏMANES, ÎLES (KY)\"},{\"Text\":\"CAMBODGE (KH)\",\"Value\":\"CAMBODGE (KH)\"},{\"Text\":\"CAMEROUN (CM)\",\"Value\":\"CAMEROUN (CM)\"},{\"Text\":\"CANADA (CA)\",\"Value\":\"CANADA (CA)\"},{\"Text\":\"CAP-VERT (CV)\",\"Value\":\"CAP-VERT (CV)\"},{\"Text\":\"CHILI (CL)\",\"Value\":\"CHILI (CL)\"},{\"Text\":\"CHINE (CN)\",\"Value\":\"CHINE (CN)\"},{\"Text\":\"CHRISTMAS, ÎLE (CX)\",\"Value\":\"CHRISTMAS, ÎLE (CX)\"},{\"Text\":\"CHYPRE (CY)\",\"Value\":\"CHYPRE (CY)\"},{\"Text\":\"COCOS (KEELING), ÎLES (CC)\",\"Value\":\"COCOS (KEELING), ÎLES (CC)\"},{\"Text\":\"COLOMBIE (CO)\",\"Value\":\"COLOMBIE (CO)\"},{\"Text\":\"COMORES (KM)\",\"Value\":\"COMORES (KM)\"},{\"Text\":\"CONGO (CG)\",\"Value\":\"CONGO (CG)\"},{\"Text\":\"CONGO, LA RÉPUBLIQUE DÉMOCRATIQUE DU (CD)\",\"Value\":\"CONGO, LA RÉPUBLIQUE DÉMOCRATIQUE DU (CD)\"},{\"Text\":\"COOK (CK)\",\"Value\":\"COOK (CK)\"},{\"Text\":\"CORÉE DU NORD (KP)\",\"Value\":\"CORÉE DU NORD (KP)\"},{\"Text\":\"CORÉE DU SUD (KR)\",\"Value\":\"CORÉE DU SUD (KR)\"},{\"Text\":\"COSTA RICA (CR)\",\"Value\":\"COSTA RICA (CR)\"},{\"Text\":\"CÔTE D\\u0027IVOIRE (CI)\",\"Value\":\"CÔTE D\\u0027IVOIRE (CI)\"},{\"Text\":\"CROATIE (HR)\",\"Value\":\"CROATIE (HR)\"},{\"Text\":\"CUBA (CU)\",\"Value\":\"CUBA (CU)\"},{\"Text\":\"DANEMARK (DK)\",\"Value\":\"DANEMARK (DK)\"},{\"Text\":\"DJIBOUTI (DJ)\",\"Value\":\"DJIBOUTI (DJ)\"},{\"Text\":\"DOMINIQUE (DM)\",\"Value\":\"DOMINIQUE (DM)\"},{\"Text\":\"ÉGYPTE (EG)\",\"Value\":\"ÉGYPTE (EG)\"},{\"Text\":\"ÉMIRATS ARABES UNIS (AE)\",\"Value\":\"ÉMIRATS ARABES UNIS (AE)\"},{\"Text\":\"ÉQUATEUR (EC)\",\"Value\":\"ÉQUATEUR (EC)\"},{\"Text\":\"ÉRYTHRÉE (ER)\",\"Value\":\"ÉRYTHRÉE (ER)\"},{\"Text\":\"ESPAGNE (ES)\",\"Value\":\"ESPAGNE (ES)\"},{\"Text\":\"ESTONIE (EE)\",\"Value\":\"ESTONIE (EE)\"},{\"Text\":\"ÉTATS-UNIS (US)\",\"Value\":\"ÉTATS-UNIS (US)\"},{\"Text\":\"ÉTHIOPIE (ET)\",\"Value\":\"ÉTHIOPIE (ET)\"},{\"Text\":\"FALKLAND, ÎLES (MALVINAS) (FK)\",\"Value\":\"FALKLAND, ÎLES (MALVINAS) (FK)\"},{\"Text\":\"FÉROÉ, ÎLES (FO)\",\"Value\":\"FÉROÉ, ÎLES (FO)\"},{\"Text\":\"FIDJI (FJ)\",\"Value\":\"FIDJI (FJ)\"},{\"Text\":\"FINLANDE (FI)\",\"Value\":\"FINLANDE (FI)\"},{\"Text\":\"FRANCE (FR)\",\"Value\":\"FRANCE (FR)\"},{\"Text\":\"GABON (GA)\",\"Value\":\"GABON (GA)\"},{\"Text\":\"GAMBIE (GM)\",\"Value\":\"GAMBIE (GM)\"},{\"Text\":\"GÉORGIE (GE)\",\"Value\":\"GÉORGIE (GE)\"},{\"Text\":\"GÉORGIE DU SUD ET LES ÎLES SANDWICH DU SUD (GS)\",\"Value\":\"GÉORGIE DU SUD ET LES ÎLES SANDWICH DU SUD (GS)\"},{\"Text\":\"GHANA (GH)\",\"Value\":\"GHANA (GH)\"},{\"Text\":\"GIBRALTAR (GI)\",\"Value\":\"GIBRALTAR (GI)\"},{\"Text\":\"GRÈCE (GR)\",\"Value\":\"GRÈCE (GR)\"},{\"Text\":\"GRENADE (GD)\",\"Value\":\"GRENADE (GD)\"},{\"Text\":\"GROENLAND (GL)\",\"Value\":\"GROENLAND (GL)\"},{\"Text\":\"GUADELOUPE (GP)\",\"Value\":\"GUADELOUPE (GP)\"},{\"Text\":\"GUAM (GU)\",\"Value\":\"GUAM (GU)\"},{\"Text\":\"GUATEMALA (GT)\",\"Value\":\"GUATEMALA (GT)\"},{\"Text\":\"GUERNESEY (GG)\",\"Value\":\"GUERNESEY (GG)\"},{\"Text\":\"GUINÉE (GN)\",\"Value\":\"GUINÉE (GN)\"},{\"Text\":\"GUINÉE ÉQUATORIALE (GQ)\",\"Value\":\"GUINÉE ÉQUATORIALE (GQ)\"},{\"Text\":\"GUINÉE-BISSAO (GW)\",\"Value\":\"GUINÉE-BISSAO (GW)\"},{\"Text\":\"GUYANA (GY)\",\"Value\":\"GUYANA (GY)\"},{\"Text\":\"GUYANE FRANÇAISE (GF)\",\"Value\":\"GUYANE FRANÇAISE (GF)\"},{\"Text\":\"HAÏTI (HT)\",\"Value\":\"HAÏTI (HT)\"},{\"Text\":\"HEARD, ÎLE ET MCDONALD, ÎLES (HM)\",\"Value\":\"HEARD, ÎLE ET MCDONALD, ÎLES (HM)\"},{\"Text\":\"HONDURAS (HN)\",\"Value\":\"HONDURAS (HN)\"},{\"Text\":\"HONG-KONG (HK)\",\"Value\":\"HONG-KONG (HK)\"},{\"Text\":\"HONGRIE (HU)\",\"Value\":\"HONGRIE (HU)\"},{\"Text\":\"ÎLE DE MAN (IM)\",\"Value\":\"ÎLE DE MAN (IM)\"},{\"Text\":\"ÎLES MINEURES ÉLOIGNÉES DES ÉTATS-UNIS (UM)\",\"Value\":\"ÎLES MINEURES ÉLOIGNÉES DES ÉTATS-UNIS (UM)\"},{\"Text\":\"ÎLES VIERGES BRITANNIQUES (VG)\",\"Value\":\"ÎLES VIERGES BRITANNIQUES (VG)\"},{\"Text\":\"ÎLES VIERGES DES ÉTATS-UNIS (VI)\",\"Value\":\"ÎLES VIERGES DES ÉTATS-UNIS (VI)\"},{\"Text\":\"INDE (IN)\",\"Value\":\"INDE (IN)\"},{\"Text\":\"INDONÉSIE (ID)\",\"Value\":\"INDONÉSIE (ID)\"},{\"Text\":\"IRAN (IR)\",\"Value\":\"IRAN (IR)\"},{\"Text\":\"IRAQ (IQ)\",\"Value\":\"IRAQ (IQ)\"},{\"Text\":\"IRLANDE (IE)\",\"Value\":\"IRLANDE (IE)\"},{\"Text\":\"ISLANDE (IS)\",\"Value\":\"ISLANDE (IS)\"},{\"Text\":\"ISRAËL (IL)\",\"Value\":\"ISRAËL (IL)\"},{\"Text\":\"ITALIE (IT)\",\"Value\":\"ITALIE (IT)\"},{\"Text\":\"JAMAÏQUE (JM)\",\"Value\":\"JAMAÏQUE (JM)\"},{\"Text\":\"JAPON (JP)\",\"Value\":\"JAPON (JP)\"},{\"Text\":\"JERSEY (JE)\",\"Value\":\"JERSEY (JE)\"},{\"Text\":\"JORDANIE (JO)\",\"Value\":\"JORDANIE (JO)\"},{\"Text\":\"KAZAKHSTAN (KZ)\",\"Value\":\"KAZAKHSTAN (KZ)\"},{\"Text\":\"KENYA (KE)\",\"Value\":\"KENYA (KE)\"},{\"Text\":\"KIRGHIZISTAN (KG)\",\"Value\":\"KIRGHIZISTAN (KG)\"},{\"Text\":\"KIRIBATI (KI)\",\"Value\":\"KIRIBATI (KI)\"},{\"Text\":\"KOWEÏT (KW)\",\"Value\":\"KOWEÏT (KW)\"},{\"Text\":\"LAOS (LA)\",\"Value\":\"LAOS (LA)\"},{\"Text\":\"LESOTHO (LS)\",\"Value\":\"LESOTHO (LS)\"},{\"Text\":\"LETTONIE (LV)\",\"Value\":\"LETTONIE (LV)\"},{\"Text\":\"LIBAN (LB)\",\"Value\":\"LIBAN (LB)\"},{\"Text\":\"LIBERIA (LR)\",\"Value\":\"LIBERIA (LR)\"},{\"Text\":\"LIBYE (LY)\",\"Value\":\"LIBYE (LY)\"},{\"Text\":\"LIECHTENSTEIN (LI)\",\"Value\":\"LIECHTENSTEIN (LI)\"},{\"Text\":\"LITUANIE (LT)\",\"Value\":\"LITUANIE (LT)\"},{\"Text\":\"LUXEMBOURG (LU)\",\"Value\":\"LUXEMBOURG (LU)\"},{\"Text\":\"MACAO (MO)\",\"Value\":\"MACAO (MO)\"},{\"Text\":\"MACÉDOINE (MK)\",\"Value\":\"MACÉDOINE (MK)\"},{\"Text\":\"MADAGASCAR (MG)\",\"Value\":\"MADAGASCAR (MG)\"},{\"Text\":\"MALAISIE (MY)\",\"Value\":\"MALAISIE (MY)\"},{\"Text\":\"MALAWI (MW)\",\"Value\":\"MALAWI (MW)\"},{\"Text\":\"MALDIVES (MV)\",\"Value\":\"MALDIVES (MV)\"},{\"Text\":\"MALI (ML)\",\"Value\":\"MALI (ML)\"},{\"Text\":\"MALTE (MT)\",\"Value\":\"MALTE (MT)\"},{\"Text\":\"MARIANNES DU NORD, ÎLES (MP)\",\"Value\":\"MARIANNES DU NORD, ÎLES (MP)\"},{\"Text\":\"MAROC (MA)\",\"Value\":\"MAROC (MA)\"},{\"Text\":\"MARSHALL (MH)\",\"Value\":\"MARSHALL (MH)\"},{\"Text\":\"MARTINIQUE (MQ)\",\"Value\":\"MARTINIQUE (MQ)\"},{\"Text\":\"MAURICE (MU)\",\"Value\":\"MAURICE (MU"
+      }
+    },
+    "_turnierhistorie": {
+      "ordinal1": "BUTGENBACH 08/08/2026 Doubles Mixtes 7 6 - 15 pts Avec BÖMER Kristina (5 pts) Contre JENNIGES Jochen (3 pts) / HOFFMANN Ramona (10 pts) 6/4-7/5-0/0 Voir tableau BUTGENBACH 04/08/2026 Doubles Mixtes 7 6 - 15 pts Avec BÖMER Kristina (5 pts) Contre BERTHA Kevin (3 pts) / CARLS Suleika (3 pts) 6/1-6/4-0/0 Voir tableau BUTGENBACH 02/08/2026 Simples Messieurs 35 6 Contre Leonard Fabian (C30.5 ) 6/3-6/2-0/0 Voir tableau BUTGENBACH 30/07/2026 Simples Messieurs 35 6 Contre ADAMS Frederic (C30.6 ) 6/0-6/0-0/0 Voir tableau WAIMES 19/07/2026 Doubles Mixtes 6 6 - 30 pts Avec BÖMER Kristina (5 pts) Contre SCHOMUS Rachel (3 pts) / ANDRIES Laurel (10 pts) 0/0-0/0-0/0 WO Voir tableau WAIMES 11/07/2026 Simples Messieurs 35 6 Contre QUAAS Gerd (C30.6 ) 6/2-6/0-0/0 Voir tableau $(function () { activeHoverForContextMenu($(\"#divMyTournamentResultsData\").find(\".hamburger\")); }); function refreshMyTournamentResultsData() { var ordinal = $(\"#ddlRankingPeriod_Tournoi\").val(); var url = \"/MyAFT/MyTournois/MyTournamentResultsData?ordinal=\" + ordinal; $(\"#divMyTournamentResultsData\").load(url, function () { activeHoverForContextMenu($(\"#divMyTournamentResultsData\").find(\".hamburger\")); }); }",
+      "ordinal2": "Aucun résultat trouvé $(function () { activeHoverForContextMenu($(\"#divMyTournamentResultsData\").find(\".hamburger\")); }); function refreshMyTournamentResultsData() { var ordinal = $(\"#ddlRankingPeriod_Tournoi\").val(); var url = \"/MyAFT/MyTournois/MyTournamentResultsData?ordinal=\" + ordinal; $(\"#divMyTournamentResultsData\").load(url, function () { activeHoverForContextMenu($(\"#divMyTournamentResultsData\").find(\".hamburger\")); }); }",
+      "ordinal3": "Aucun résultat trouvé $(function () { activeHoverForContextMenu($(\"#divMyTournamentResultsData\").find(\".hamburger\")); }); function refreshMyTournamentResultsData() { var ordinal = $(\"#ddlRankingPeriod_Tournoi\").val(); var url = \"/MyAFT/MyTournois/MyTournamentResultsData?ordinal=\" + ordinal; $(\"#divMyTournamentResultsData\").load(url, function () { activeHoverForContextMenu($(\"#divMyTournamentResultsData\").find(\".hamburger\")); }); }",
+      "ordinal4": "Aucun résultat trouvé $(function () { activeHoverForContextMenu($(\"#divMyTournamentResultsData\").find(\".hamburger\")); }); function refreshMyTournamentResultsData() { var ordinal = $(\"#ddlRankingPeriod_Tournoi\").val(); var url = \"/MyAFT/MyTournois/MyTournamentResultsData?ordinal=\" + ordinal; $(\"#divMyTournamentResultsData\").load(url, function () { activeHoverForContextMenu($(\"#divMyTournamentResultsData\").find(\".hamburger\")); }); }",
+      "ordinal5": "Aucun résultat trouvé $(function () { activeHoverForContextMenu($(\"#divMyTournamentResultsData\").find(\".hamburger\")); }); function refreshMyTournamentResultsData() { var ordinal = $(\"#ddlRankingPeriod_Tournoi\").val(); var url = \"/MyAFT/MyTournois/MyTournamentResultsData?ordinal=\" + ordinal; $(\"#divMyTournamentResultsData\").load(url, function () { activeHoverForContextMenu($(\"#divMyTournamentResultsData\").find(\".hamburger\")); }); }"
     }
   }
 }
