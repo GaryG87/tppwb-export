@@ -2,9 +2,8 @@ name: TPPWB Export
 
 on:
   schedule:
-    # Jede Nacht um 03:17 UTC (05:17 belgischer Sommerzeit)
     - cron: "17 3 * * *"
-  workflow_dispatch: {}   # manueller Start über die GitHub-App am Handy
+  workflow_dispatch: {}
 
 permissions:
   contents: write
@@ -31,11 +30,20 @@ jobs:
         run: python tppwb_export.py
         continue-on-error: true
 
+      - name: Sicherstellen, dass eine Datei existiert
+        if: always()
+        run: |
+          mkdir -p export
+          if [ ! -f export/results.json ]; then
+            echo '{"status":"skript_hat_nichts_geschrieben","zeit":"'"$(date -u +%FT%TZ)"'"}' > export/results.json
+          fi
+
       - name: Ergebnis committen
+        if: always()
         run: |
           git config user.name "tppwb-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add export/results.json
-          # Debug-Dateien NICHT committen (können Session-Details enthalten)
-          git diff --cached --quiet || git commit -m "Export $(date -u +%F)"
+          git add -f export/results.json
+          git diff --cached --quiet || git commit -m "Export $(date -u +%FT%H:%M)"
+          git pull --rebase --autostash || true
           git push
