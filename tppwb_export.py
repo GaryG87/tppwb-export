@@ -26,7 +26,7 @@ UA = (
 
 ergebnis = {
     "zeit": datetime.now(timezone.utc).isoformat(),
-    "version": 12,
+    "version": 13,
     "status": "nicht_gestartet",
 }
 
@@ -378,55 +378,87 @@ def turnierkalender(s):
 
 
 def kalender_suche(s, von, bis, plz="4750"):
-    """Turniersuche mit Zeitraum und Umkreis um die Postleitzahl."""
-    payload = {
-        "periodStartDate": von,
-        "periodEndDate": bis,
-        "searchmode": "1",
-        "searchtext": "",
-        "txtZipCode": plz,
-        "chkRadius": "true",
-        "Radius": "75",
-        "categoryTypes": "",
-        "ddlSingleCategoryValue": "",
+    """Turniersuche: strukturiertes Parsen über die HTML-Elemente statt Regex auf Fließtext."""
+    from bs4 import BeautifulSoup
+
+    # Mehrere Datumsformate testen - unklar, welches der Server erwartet
+    formate = {
+        "dd/mm/yyyy": (von, bis),
+        "yyyy-mm-dd": (
+            "-".join(reversed(von.split("/"))),
+            "-".join(reversed(bis.split("/"))),
+        ),
     }
-    varianten = [payload, {k: v for k, v in payload.items() if k in ("periodStartDate", "periodEndDate")}]
-    ergebnisse = {}
-    for i, p in enumerate(varianten):
+
+    ausgabe = {}
+    for fname, (v, b) in formate.items():
+        payload = {
+            "periodStartDate": v,
+            "periodEndDate": b,
+            "searchmode": "1",
+            "searchtext": "",
+            "txtZipCode": plz,
+            "chkRadius": "true",
+            "Radius": "75",
+        }
         try:
             r = s.post(
                 f"{BASE}/MyAFT/Competitions/TournamentSearchResultData",
-                data=p, timeout=45,
+                data=payload, timeout=45,
                 headers={"X-Requested-With": "XMLHttpRequest",
                          "Referer": f"{BASE}/MyAFT/Competitions/Tournaments"},
             )
             if r.status_code != 200:
-                ergebnisse[f"variante{i}"] = {"http": r.status_code}
+                ausgabe[fname] = {"http": r.status_code}
                 continue
-            roh = entschaerfen(re.sub(r"<[^>]+>", " ", r.text))
-            bloecke = []
-            muster = re.compile(
-                r"([A-ZÄÖÜÉÈ][A-ZÄÖÜÉÈ0-9\-\.\' ]{2,30}?)\s+(\d{2}/\d{2}/\d{4})\s+([A-Z]{0,6})\s*"
-                r"Inscriptions jusqu'au\s+(\d{2}/\d{2}/\d{4})(.{0,400}?)(?=[A-ZÄÖÜÉÈ][A-ZÄÖÜÉÈ0-9\-\.\' ]{2,30}?\s+\d{2}/\d{2}/\d{4}\s+[A-Z]{0,6}\s*Inscriptions|$)"
-            )
-            for m in muster.finditer(roh):
-                rest = m.group(5)
-                kats = re.search(r"-\s*([A-Z0-9,\* ]{4,300})", rest)
-                bloecke.append({
-                    "ort": m.group(1).strip(),
-                    "start": m.group(2),
-                    "anmeldung_bis": m.group(4),
-                    "kategorien": (kats.group(1).strip()[:280] if kats else ""),
-                    "status": "Terminé" if "Terminé" in rest else ("offen" if "Inscri" in rest else ""),
+
+            soup = BeautifulSoup(r.text, "html.parser")
+            turniere = []
+
+            # Jeder Turnierblock enthält einen Link auf TournamentDetail bzw. eine idTournoi
+            for a in soup.find_all("a", href=re.compile(r"TournamentDetail|idTournoi")):
+                block = a
+                for _ in range(6):
+                    if block.parent is None:
+                        break
+                    block = block.parent
+                    txt = entschaerfen(block.get_text(" "))
+                    if re.search(r"\d{2}/\d{2}/\d{4}", txt) and len(txt) > 40:
+                        break
+                txt = entschaerfen(block.get_text(" "))
+                daten = re.findall(r"\d{2}/\d{2}/\d{4}", txt)
+                if not daten:
+                    continue
+                idm = re.search(r"(?:TournamentDetail/|idTournoi=)(\d+)", a.get("href", ""))
+                name = entschaerfen(a.get_text(" ")) or None
+                anm = re.search(r"jusqu'au\s+(\d{2}/\d{2}/\d{4})", txt)
+                kats = re.search(r"-\s*([A-Z0-9,\*\s]{6,400}?)(?:Terminé|Inscri|$)", txt)
+                turniere.append({
+                    "id": idm.group(1) if idm else None,
+                    "ort": name,
+                    "start": daten[0],
+                    "anmeldung_bis": anm.group(1) if anm else None,
+                    "kategorien": entschaerfen(kats.group(1))[:300] if kats else "",
+                    "beendet": "Terminé" in txt,
                 })
-            ergebnisse[f"variante{i}"] = {
-                "http": 200, "anzahl": len(bloecke), "turniere": bloecke[:120],
-                "params": sorted(p),
+
+            # Duplikate über die Turnier-ID entfernen
+            eindeutig = {}
+            for t in turniere:
+                schluessel = t["id"] or f"{t['ort']}_{t['start']}"
+                if schluessel not in eindeutig:
+                    eindeutig[schluessel] = t
+
+            ausgabe[fname] = {
+                "http": 200,
+                "laenge": len(r.text),
+                "anzahl": len(eindeutig),
+                "turniere": list(eindeutig.values())[:200],
+                "html_probe": re.sub(r"\s+", " ", r.text[:2500]),
             }
         except Exception as e:
-            ergebnisse[f"variante{i}"] = {"fehler": repr(e)}
-    return ergebnisse
-
+            ausgabe[fname] = {"fehler": repr(e)}
+    return ausgabe
 
 def lauf():
     import requests
