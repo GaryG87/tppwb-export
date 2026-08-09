@@ -1,93 +1,59 @@
 {
-  "zeit": "2026-08-09T12:45:41.573958+00:00",
-  "status": "login_fehlgeschlagen",
-  "diagnose": {
-    "/MyAFT/Home/Login": {
-      "action": "(kein action)",
-      "method": "get",
-      "felder": [
-        {
-          "name": "affiliationNumber",
-          "type": "text",
-          "id": "affiliationNumber"
-        },
-        {
-          "name": "pinCode",
-          "type": "password",
-          "id": "pinCode"
-        },
-        {
-          "name": "rememberMe",
-          "type": "checkbox",
-          "id": null
-        },
-        {
-          "name": "returnUrl",
-          "type": "hidden",
-          "id": null
-        },
-        {
-          "name": "sourcePage",
-          "type": "hidden",
-          "id": null
-        }
+  "zeit": "2026-08-09T12:50:21.096440+00:00",
+  "status": "ok",
+  "login_protokoll": {
+    "kontext": {
+      "http": 200,
+      "laenge": 5154,
+      "token_gefunden": false,
+      "versteckte_felder": [
+        "returnUrl",
+        "sourcePage"
       ],
-      "js_urls": [
-        "/MyAFT/Home/Login",
-        "/MyAFT/Scripts/scriptsForLogin?v=rVJwTuMOdwg3eElby5HZSVQH2m4jv24X7xe-5qqLs3s1"
-      ]
+      "cookies": []
     },
-    "/MyAFT/": {
-      "action": "(kein action)",
-      "method": "get",
-      "felder": [
-        {
-          "name": "affiliationNumber",
-          "type": "text",
-          "id": "affiliationNumber"
-        },
-        {
-          "name": "pinCode",
-          "type": "password",
-          "id": "pinCode"
+    "versuche": [
+      {
+        "url": "/MyAFT/Home/Login",
+        "art": "form",
+        "felder": [
+          "affiliationNumber",
+          "pinCode",
+          "rememberMe",
+          "returnUrl",
+          "sourcePage"
+        ],
+        "status": 200,
+        "content_type": "application/json; charset=utf-8",
+        "redirects": [],
+        "antwort_auszug": "{\"message\":\"OK\",\"existScheduleToConfirm\":false,\"returnUrl\":\"/MyAFT/\",\"AllowGet\":0}",
+        "cookies_danach": [
+          "ASP.NET_SessionId",
+          "__AFTNetAuth"
+        ],
+        "login_merkmale": {
+          "logout_link": true,
+          "pin_dialog": true,
+          "mes_inscriptions": true,
+          "mes_resultats": false,
+          "laenge": 82617,
+          "bewertung": true
         }
-      ]
+      }
+    ],
+    "erfolgreich": {
+      "url": "/MyAFT/Home/Login",
+      "art": "form"
+    }
+  },
+  "seiten": {
+    "resultate": {
+      "http": 200,
+      "text": "\n\nMon Tennis\n\nTennis\n\nContact\n\nSuggestion\n\nA propos\n\nBranding\n\nStructure générale\n\nRégions\n\nFRBT\n\nPadel\n\nRèglements\n\nDocuments\n\nFAQ\n\nLiens utiles\n\nNos partenaires\n\nInscriptions tournois\n\nResponsive menu\n\nGASPARD Gary (4111231)\n\n | \n\nLog out \n\nACCUEIL\n+\nActualité\nNews\nJOUEURS\n+\nAffiliés\nTransferts\nRecherche Affiliés\nAffiliation\nJoueurs\nAssurances\nDocuments\nTennis en chaise\nCLUBS\n+\nClubs\nLabellisation\nGirls Tennis Days\nMon Club Tennis Wallonie-Bruxelles\nRecherche de Clubs\nDocuments\nClubs tennis en chaise\nFêtes du tennis en club\nTENNIS QUIZZ - Le match\nCOMPETITIONS\n+\nTournois\nTournois TWB\nCalendrier des tournois 2026\nBelgian Junior Circuit\nChallenge 12 mètres\nLotto Belgian Circuit\nSenior Masters\nEthias Junior Masters\nLes tournois internationaux seniors en belgique\nBelgian Wheelchair Tennis Tour\nTop 100\nChampionnats\nChampionnats de Belgique vétérans\nChampionnats de Belgique de tennis en chaise\nChampionnats Tennis Wallonie-Bruxelles jeunes\nChampionnats de Belgique jeunes\nChampionnats d'Europe individuels\nCompétitions par équipes\nCoupe Davis\nBillie Jean King Cup\nInterclubs Ethias\nWinter Cups\nSummer Cups\nEuropean Youth Olympics Festival\nTennis Europe Nations Challenge\nRèglements des compétitions et des classements 2026\nRèglements et contacts\nCuts des classements\nTOP TENNIS\n+\nLa compétition\nLa compétition nationale\nCatégories en AFT\nLa compétition internationale jeunes\nCatégories et grades\nClassements\nTournois en fonction de l'âge\nInscriptions, retraits\nAcceptance list\nDésignation du coach national (ITF et TE) et National Window (TE)\nRéglements\nOFFICIELS\n+\nOfficiels\nInformations\nDocuments\nFormations juge-arbitrage\nRecherche des officiels\nFormations\nNos formations\nORGANISATIONS\n+\nEvénements AFT\nTournoi International de la Province de Liège\nYoung Talents Cup\nLes loups du Brabant\nLes lions du Hainaut\nLes raptors de Liège\n Les sangliers de Namur-Luxembourg\nDoubles Dames Tennis Wallonie-Bruxelles\nJournée Open\nEvénements soutenus par l’AFT\n$25,000 Messieurs du R. Leopold Club\nAstrid Bowl Charleroi\nLadies Open Baulet avec BNP Paribas Fortis\nArgayon Cup\nUccle Trophy\nLeo Cup\nJ30 Bruxelles\nJustine Henin Junior Cup\n$15,000 Messieurs du KTC Eupen\nITF Junior Arlon\nAutres événements\nEuropean Open\nAnimations\nTennis à l'école\nDivers\nTENNIS QUIZZ - Le match\nPlay Tennis & Padel\nDemande de subside\nFORMATIONS\n+\nAnimateur\nInscription\nJournée d'application\nCours à télécharger animateur\nInitiateur\nInscription\nStage\nCours à télécharger initiateur\nCours généraux MS Initiateur\nPremiers soins en milieu sportif\nEducateur\nInscription\nStage\nCours à télécharger éducateur\nCours généraux MS Educateur\nEntraîneur\nCours généraux MS Entraîneur\nInscription\nDirecteur Ecole de Tennis\nMaître de stage\nNiveau Aspirant\nNiveau Certifié\nInscription\nFormateur TWB\nNiveau Aspirant\nNiveau Certifié\nInscription\nEstimation du potentiel\nFormation en ligne\nLivre à télécharger\nFormation continue\nNos formations\nInscription\nSystème de crédits\nMoniteurs étoilés\nOpérateur de formation reconnu par TWB\nDiaporamas des modules passés\nModules de formation externes à TWB\nVAE/VAF/Equivalence/Dispense(s)\nDossier de demande d’équivalences\nRÉGIONS\n+\nLes régions AFT\nTennis Wallonie-Bruxelles Brabant\nTennis Wallonie-Bruxelles Hainaut\nTennis Wallonie-Bruxelles Liège\nTennis Wallonie-Bruxelles Namur-Luxembourg\nFORMATIONS DEV\n+\nLes formations\nMS Animateur\nSchéma de base\nOrganisation 2020\nInscription\nStage\nCours à télécharger\nMS Initiateur\nSchéma de base\nOrganisation 2020\nInscription\nFormation Premiers soins en milieu sportif\nMS Educateur\nSchéma de base\nOrganisation 2020\nInscription\nMS Entraîneur\nCours généraux Adeps\nStage préparatoire Initiateur\nTest - TOP\nTest - Player\nTest - CLUB\nTest Play Tennis\nLes « expertises »\nInitiateur Expert Pédagogique\nSchéma de base\nInitiateur Expert Handisport\nDirecteur Ecole de Tennis\nSchéma de base\nOrganisation 2020\nInscription\nFormation continue\nSystème de crédits\nMoniteurs étoilés\nProchains modules de formation AFT\nInscription\nModules de formation AFT passés\nDiaporamas des modules passés\n;\r\n\nAfficher le menu\n\nMes tournois\n\nMes interclubs\n\nMes résultats\n\nMes actus\n\nMa fiche\n\nMes joueurs\n\nMes suspensions\n\nRapporter un bug\n\n Mes prochains matches\n\n\r\n\r\nAucun résultat trouvé\nVoir mes inscriptions\n\n Mes inscriptions\n\n M'inscrire\n\n Mes résultats en tournois\n\nPériode courante\n\nClassement mai 2026\n\nClassement octobre 2025\n\nClassement mai 2025\n\nClassement octobre 2024\n\nClassement mai 2024\n\nClassement octobre 2023\n\nClassement mai 2023\n\nClassement octobre 2022\n\n Résultats en Belgian Circuit\n\n\r\nAucun résultat trouvé\n\n Mes tournois à suivre\n\nNos partenaires\n\nACCUEIL\n\nJOUEURS\n\nCLUBS\n\nCOMPETITIONS\n\nTOP TENNIS\n\nFORMATIONS\n\nOFFICIELS\n\nORGANISATIONS\n\nRÉGIONS\n\nFORMATIONS DEV\n\n© Copyright AFT\n\n© Copyright AFT\n\nAfin :\n\nD’éviter un blocage du système vu le nombre élevé de joueurs et joueuses qui se connectent en même temps.\n\nDe mieux répartir les inscriptions entre les différentes catégories.\n\nNous avons modifié les dispositions des inscriptions aux tournois, voici les nouvelles :\n\nLundi 19 heures:\nJeunes\n\nLundi 20 heures:\nDames et Doubles\n\nLundi 21 heures:\nVétérans (Dames et Messieurs)\n\nMardi 19 heures:\nMessieurs (catégories 6 et 5)\n\nMardi 20 heures:\nMessieurs (catégories 4 et 3)\n\nMardi 21heures :\nMessieurs (catégories 2 et 1)\n\nAttention\n: il s'agit bien des heures auxquelles les inscriptions sont ouvertes! Une fois ouvertes, elles le restent jusqu'à ce que le nombre d'inscriptions défini par le juge-arbitre soit atteint dans ladite catégorie ou lorsque le nombre total d'inscriptions pour le tournoi soit atteint.\n\n×\n\nFermer\n\n×\n\nUn problème est survenu - AFTnet\n\nFermer\n\n L’inscription a été enregistrée avec succès.\n\nAttention : le paiement de votre inscription à ce tournoi se fait exclusivement en ligne.\n\r\n                    Veuillez effectuer le paiement en suivant les instructions contenues dans l'e-mail que vous allez recevoir, ou en cliquant sur le bouton \"Payer mon inscription\" qui apparaîtra dans votre espace \"\nMes inscriptions\n\" (cela peut prendre 1 ou 2 minutes).\n\r\n                    Le paiement doit être effectué dans le délai indiqué. Votre inscription ne sera validée qu'après réception du paiement.\r\n                \n\n\r\n                    Merci pour votre participation au Critérium Tennis-Point !\n\r\n                    Notre partenaire Tennis-Point vous offre 10% de remise à l’achat de minimum 80€ sur leur site.\n\r\n                    Le code promotionnel est le suivant : \nCRITERIUMTP25\n\nCe code n’est utilisable qu’une seule fois par personne et ne peut être combiné avec d’autres promotions.\n\r\n                    Certains produits, tels que les offres quotidiennes, les balles, les raquettes d'essai, les produits de running, peuvent être exclus.\n\r\n                    Rendez-vous sur le site de \nTennis-Point\n\n Voulez-vous effectuer une inscription dans une autre catégorie pour ce tournoi ?\n\nOui\n\nNon\n\n \n\n Connexion\r\n                \n\n Numéro d'affiliation:\n\n Code PIN:\n\n Se connecter\n\n Se connecter avec un autre compte\n\n \n\nModifier mon code PIN\n\n\r\n                            Pour des raisons de sécurité, nous vous conseillons de modifier régulièrement votre code PIN. Toutefois, si vous le souhaitez, vous pouvez garder l'ancien.\r\n                        \n\n Nouveau code PIN:\n\n Confirmation du code PIN:\n\nSauvegarder\n\n×\n\nTPPWB\n\nBonjour, Rappel important : depuis la saison 2026, soit depuis le 1er octobre 2025, Tennis Padel Pickleball Wallonie-Bruxelles a mis en place l’affiliation unique qui permet de pratiquer les trois sports en loisir. Pour prendre part à une compétition, il est nécessaire d’être activé par un club de la discipline désirée. Toutes les infos sur nos différents sites.\n\nFermer\n\n"
     },
-    "/MyAFT/Players/Search": {
-      "action": "/MyAFT/Home/UpdatePinCodeAndActivePlayer",
-      "method": "post",
-      "felder": [
-        {
-          "name": "__RequestVerificationToken",
-          "type": "hidden",
-          "id": null
-        },
-        {
-          "name": "numFed",
-          "type": "hidden",
-          "id": null
-        },
-        {
-          "name": "token",
-          "type": "hidden",
-          "id": null
-        },
-        {
-          "name": "newPinCode",
-          "type": "password",
-          "id": "newPinCode"
-        },
-        {
-          "name": "pinCode2",
-          "type": "password",
-          "id": "pinCode2"
-        }
-      ],
-      "js_urls": [
-        "/MyAFT/Home/Login",
-        "/MyAFT/Home/Login?returnUrl=%2FMyAFT%2FPlayers%2FSearch",
-        "/MyAFT/Home/LoginInfo"
-      ]
+    "startseite": {
+      "http": 200,
+      "text": "\n\nMon Tennis\n\nTennis\n\nContact\n\nSuggestion\n\nA propos\n\nBranding\n\nStructure générale\n\nRégions\n\nFRBT\n\nPadel\n\nRèglements\n\nDocuments\n\nFAQ\n\nLiens utiles\n\nNos partenaires\n\nInscriptions tournois\n\nResponsive menu\n\nGASPARD Gary (4111231)\n\n | \n\nLog out \n\nACCUEIL\n+\nActualité\nNews\nJOUEURS\n+\nAffiliés\nTransferts\nRecherche Affiliés\nAffiliation\nJoueurs\nAssurances\nDocuments\nTennis en chaise\nCLUBS\n+\nClubs\nLabellisation\nGirls Tennis Days\nMon Club Tennis Wallonie-Bruxelles\nRecherche de Clubs\nDocuments\nClubs tennis en chaise\nFêtes du tennis en club\nTENNIS QUIZZ - Le match\nCOMPETITIONS\n+\nTournois\nTournois TWB\nCalendrier des tournois 2026\nBelgian Junior Circuit\nChallenge 12 mètres\nLotto Belgian Circuit\nSenior Masters\nEthias Junior Masters\nLes tournois internationaux seniors en belgique\nBelgian Wheelchair Tennis Tour\nTop 100\nChampionnats\nChampionnats de Belgique vétérans\nChampionnats de Belgique de tennis en chaise\nChampionnats Tennis Wallonie-Bruxelles jeunes\nChampionnats de Belgique jeunes\nChampionnats d'Europe individuels\nCompétitions par équipes\nCoupe Davis\nBillie Jean King Cup\nInterclubs Ethias\nWinter Cups\nSummer Cups\nEuropean Youth Olympics Festival\nTennis Europe Nations Challenge\nRèglements des compétitions et des classements 2026\nRèglements et contacts\nCuts des classements\nTOP TENNIS\n+\nLa compétition\nLa compétition nationale\nCatégories en AFT\nLa compétition internationale jeunes\nCatégories et grades\nClassements\nTournois en fonction de l'âge\nInscriptions, retraits\nAcceptance list\nDésignation du coach national (ITF et TE) et National Window (TE)\nRéglements\nOFFICIELS\n+\nOfficiels\nInformations\nDocuments\nFormations juge-arbitrage\nRecherche des officiels\nFormations\nNos formations\nORGANISATIONS\n+\nEvénements AFT\nTournoi International de la Province de Liège\nYoung Talents Cup\nLes loups du Brabant\nLes lions du Hainaut\nLes raptors de Liège\n Les sangliers de Namur-Luxembourg\nDoubles Dames Tennis Wallonie-Bruxelles\nJournée Open\nEvénements soutenus par l’AFT\n$25,000 Messieurs du R. Leopold Club\nAstrid Bowl Charleroi\nLadies Open Baulet avec BNP Paribas Fortis\nArgayon Cup\nUccle Trophy\nLeo Cup\nJ30 Bruxelles\nJustine Henin Junior Cup\n$15,000 Messieurs du KTC Eupen\nITF Junior Arlon\nAutres événements\nEuropean Open\nAnimations\nTennis à l'école\nDivers\nTENNIS QUIZZ - Le match\nPlay Tennis & Padel\nDemande de subside\nFORMATIONS\n+\nAnimateur\nInscription\nJournée d'application\nCours à télécharger animateur\nInitiateur\nInscription\nStage\nCours à télécharger initiateur\nCours généraux MS Initiateur\nPremiers soins en milieu sportif\nEducateur\nInscription\nStage\nCours à télécharger éducateur\nCours généraux MS Educateur\nEntraîneur\nCours généraux MS Entraîneur\nInscription\nDirecteur Ecole de Tennis\nMaître de stage\nNiveau Aspirant\nNiveau Certifié\nInscription\nFormateur TWB\nNiveau Aspirant\nNiveau Certifié\nInscription\nEstimation du potentiel\nFormation en ligne\nLivre à télécharger\nFormation continue\nNos formations\nInscription\nSystème de crédits\nMoniteurs étoilés\nOpérateur de formation reconnu par TWB\nDiaporamas des modules passés\nModules de formation externes à TWB\nVAE/VAF/Equivalence/Dispense(s)\nDossier de demande d’équivalences\nRÉGIONS\n+\nLes régions AFT\nTennis Wallonie-Bruxelles Brabant\nTennis Wallonie-Bruxelles Hainaut\nTennis Wallonie-Bruxelles Liège\nTennis Wallonie-Bruxelles Namur-Luxembourg\nFORMATIONS DEV\n+\nLes formations\nMS Animateur\nSchéma de base\nOrganisation 2020\nInscription\nStage\nCours à télécharger\nMS Initiateur\nSchéma de base\nOrganisation 2020\nInscription\nFormation Premiers soins en milieu sportif\nMS Educateur\nSchéma de base\nOrganisation 2020\nInscription\nMS Entraîneur\nCours généraux Adeps\nStage préparatoire Initiateur\nTest - TOP\nTest - Player\nTest - CLUB\nTest Play Tennis\nLes « expertises »\nInitiateur Expert Pédagogique\nSchéma de base\nInitiateur Expert Handisport\nDirecteur Ecole de Tennis\nSchéma de base\nOrganisation 2020\nInscription\nFormation continue\nSystème de crédits\nMoniteurs étoilés\nProchains modules de formation AFT\nInscription\nModules de formation AFT passés\nDiaporamas des modules passés\n;\r\n\nAfficher le menu\n\nMes tournois\n\nMes interclubs\n\nMes résultats\n\nMes actus\n\nMa fiche\n\nMes joueurs\n\nMes suspensions\n\nRapporter un bug\n\n Mes prochains matches\n\n\r\n\r\nAucun résultat trouvé\nVoir mes inscriptions\n\n Mes inscriptions\n\n M'inscrire\n\n Mes résultats en tournois\n\nPériode courante\n\nClassement mai 2026\n\nClassement octobre 2025\n\nClassement mai 2025\n\nClassement octobre 2024\n\nClassement mai 2024\n\nClassement octobre 2023\n\nClassement mai 2023\n\nClassement octobre 2022\n\n Résultats en Belgian Circuit\n\n\r\nAucun résultat trouvé\n\n Mes tournois à suivre\n\nNos partenaires\n\nACCUEIL\n\nJOUEURS\n\nCLUBS\n\nCOMPETITIONS\n\nTOP TENNIS\n\nFORMATIONS\n\nOFFICIELS\n\nORGANISATIONS\n\nRÉGIONS\n\nFORMATIONS DEV\n\n© Copyright AFT\n\n© Copyright AFT\n\nAfin :\n\nD’éviter un blocage du système vu le nombre élevé de joueurs et joueuses qui se connectent en même temps.\n\nDe mieux répartir les inscriptions entre les différentes catégories.\n\nNous avons modifié les dispositions des inscriptions aux tournois, voici les nouvelles :\n\nLundi 19 heures:\nJeunes\n\nLundi 20 heures:\nDames et Doubles\n\nLundi 21 heures:\nVétérans (Dames et Messieurs)\n\nMardi 19 heures:\nMessieurs (catégories 6 et 5)\n\nMardi 20 heures:\nMessieurs (catégories 4 et 3)\n\nMardi 21heures :\nMessieurs (catégories 2 et 1)\n\nAttention\n: il s'agit bien des heures auxquelles les inscriptions sont ouvertes! Une fois ouvertes, elles le restent jusqu'à ce que le nombre d'inscriptions défini par le juge-arbitre soit atteint dans ladite catégorie ou lorsque le nombre total d'inscriptions pour le tournoi soit atteint.\n\n×\n\nFermer\n\n×\n\nUn problème est survenu - AFTnet\n\nFermer\n\n L’inscription a été enregistrée avec succès.\n\nAttention : le paiement de votre inscription à ce tournoi se fait exclusivement en ligne.\n\r\n                    Veuillez effectuer le paiement en suivant les instructions contenues dans l'e-mail que vous allez recevoir, ou en cliquant sur le bouton \"Payer mon inscription\" qui apparaîtra dans votre espace \"\nMes inscriptions\n\" (cela peut prendre 1 ou 2 minutes).\n\r\n                    Le paiement doit être effectué dans le délai indiqué. Votre inscription ne sera validée qu'après réception du paiement.\r\n                \n\n\r\n                    Merci pour votre participation au Critérium Tennis-Point !\n\r\n                    Notre partenaire Tennis-Point vous offre 10% de remise à l’achat de minimum 80€ sur leur site.\n\r\n                    Le code promotionnel est le suivant : \nCRITERIUMTP25\n\nCe code n’est utilisable qu’une seule fois par personne et ne peut être combiné avec d’autres promotions.\n\r\n                    Certains produits, tels que les offres quotidiennes, les balles, les raquettes d'essai, les produits de running, peuvent être exclus.\n\r\n                    Rendez-vous sur le site de \nTennis-Point\n\n Voulez-vous effectuer une inscription dans une autre catégorie pour ce tournoi ?\n\nOui\n\nNon\n\n \n\n Connexion\r\n                \n\n Numéro d'affiliation:\n\n Code PIN:\n\n Se connecter\n\n Se connecter avec un autre compte\n\n \n\nModifier mon code PIN\n\n\r\n                            Pour des raisons de sécurité, nous vous conseillons de modifier régulièrement votre code PIN. Toutefois, si vous le souhaitez, vous pouvez garder l'ancien.\r\n                        \n\n Nouveau code PIN:\n\n Confirmation du code PIN:\n\nSauvegarder\n\n×\n\nTPPWB\n\nBonjour, Rappel important : depuis la saison 2026, soit depuis le 1er octobre 2025, Tennis Padel Pickleball Wallonie-Bruxelles a mis en place l’affiliation unique qui permet de pratiquer les trois sports en loisir. Pour prendre part à une compétition, il est nécessaire d’être activé par un club de la discipline désirée. Toutes les infos sur nos différents sites.\n\nFermer\n\n"
     }
   }
 }
