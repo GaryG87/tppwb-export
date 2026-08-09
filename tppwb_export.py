@@ -26,7 +26,7 @@ UA = (
 
 ergebnis = {
     "zeit": datetime.now(timezone.utc).isoformat(),
-    "version": 14,
+    "version": 15,
     "status": "nicht_gestartet",
 }
 
@@ -461,6 +461,40 @@ def kalender_suche(s, von, bis, plz="4750"):
     except Exception as e:
         return {"fehler": repr(e)}
 
+
+def kalender_zeitraum(s, jahr_von, monat_von, monate=9, plz="4750"):
+    """Fragt monatsweise ab, weil der Server bei 100 Treffern abschneidet."""
+    import calendar
+
+    alle = {}
+    protokoll = []
+    j, mo = jahr_von, monat_von
+    for _ in range(monate):
+        letzter = calendar.monthrange(j, mo)[1]
+        von = f"01/{mo:02d}/{j}"
+        bis = f"{letzter:02d}/{mo:02d}/{j}"
+        res = kalender_suche(s, von, bis, plz)
+        anz = res.get("anzahl_gesamt", 0)
+        protokoll.append({
+            "monat": f"{mo:02d}/{j}",
+            "treffer": anz,
+            "abgeschnitten": anz >= 100,
+            "http": res.get("http"),
+        })
+        for t in res.get("turniere", []):
+            alle.setdefault(t["id"] or f"{t['ort']}_{t['start']}", t)
+        mo += 1
+        if mo > 12:
+            mo, j = 1, j + 1
+
+    liste = sorted(alle.values(), key=lambda t: t["start"].split("/")[::-1])
+    return {
+        "protokoll": protokoll,
+        "anzahl": len(liste),
+        "turniere": liste[:400],
+    }
+
+
 def lauf():
     import requests
 
@@ -533,11 +567,7 @@ def lauf():
     ergebnis["kalender"] = turnierkalender(s)
 
     print("Turniersuche Zeitraum ...")
-    ergebnis["kalender_suche"] = {
-        "rest_2026": kalender_suche(s, "09/08/2026", "31/12/2026"),
-        "winter_2026_27": kalender_suche(s, "01/10/2026", "31/03/2027"),
-        "winter_2027": kalender_suche(s, "01/01/2027", "30/04/2027"),
-    }
+    ergebnis["kalender_suche"] = kalender_zeitraum(s, 2026, 8, monate=9)
 
     ergebnis["status"] = "ok"
 
