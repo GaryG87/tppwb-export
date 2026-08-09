@@ -26,7 +26,7 @@ UA = (
 
 ergebnis = {
     "zeit": datetime.now(timezone.utc).isoformat(),
-    "version": 15,
+    "version": 16,
     "status": "nicht_gestartet",
 }
 
@@ -268,14 +268,11 @@ def anmeldungen_und_teams(s):
     daten = {}
     endpunkte = {
         "naechste_spiele": "/MyAFT/MyTournois/MyNextGamesData",
-        "meine_anmeldungen": "/MyAFT/MyTournois/MySubscriptionsData",
-        "anmeldungen_alt": "/MyAFT/MyTournois/MySubscriptions",
-        "anmeldungen_home": "/MyAFT/Home/MySubscriptions",
+        "meine_anmeldungen": "/MyAFT/MyTournois/MyRegistrations",
+        "turniere_folgen": "/MyAFT/MyTournois/MyTournamentsToFollow",
         "interclub_ergebnisse": "/MyAFT/MyInterclubs/MyResultsData",
         "interclub_teams": "/MyAFT/MyInterclubs/MyTeamsData",
-        "interclub_teams2": "/MyAFT/MyInterclubs/MyTeams",
-        "kraftlisten": "/MyAFT/MyInterclubs/MyStrengthLists",
-        "kraftlisten2": "/MyAFT/MyInterclubs/StrengthLists",
+        "interclub_teams2": "/MyAFT/MyInterclubs/MyTeamsToFollowData",
         "belgian_circuit": "/MyAFT/MyTournois/BelgianCircuit",
     }
     for name, pfad in endpunkte.items():
