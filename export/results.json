@@ -1,4 +1,93 @@
 {
+  "zeit": "2026-08-09T12:45:41.573958+00:00",
   "status": "login_fehlgeschlagen",
-  "zeit": "2026-08-09T12:40:00.501448+00:00"
+  "diagnose": {
+    "/MyAFT/Home/Login": {
+      "action": "(kein action)",
+      "method": "get",
+      "felder": [
+        {
+          "name": "affiliationNumber",
+          "type": "text",
+          "id": "affiliationNumber"
+        },
+        {
+          "name": "pinCode",
+          "type": "password",
+          "id": "pinCode"
+        },
+        {
+          "name": "rememberMe",
+          "type": "checkbox",
+          "id": null
+        },
+        {
+          "name": "returnUrl",
+          "type": "hidden",
+          "id": null
+        },
+        {
+          "name": "sourcePage",
+          "type": "hidden",
+          "id": null
+        }
+      ],
+      "js_urls": [
+        "/MyAFT/Home/Login",
+        "/MyAFT/Scripts/scriptsForLogin?v=rVJwTuMOdwg3eElby5HZSVQH2m4jv24X7xe-5qqLs3s1"
+      ]
+    },
+    "/MyAFT/": {
+      "action": "(kein action)",
+      "method": "get",
+      "felder": [
+        {
+          "name": "affiliationNumber",
+          "type": "text",
+          "id": "affiliationNumber"
+        },
+        {
+          "name": "pinCode",
+          "type": "password",
+          "id": "pinCode"
+        }
+      ]
+    },
+    "/MyAFT/Players/Search": {
+      "action": "/MyAFT/Home/UpdatePinCodeAndActivePlayer",
+      "method": "post",
+      "felder": [
+        {
+          "name": "__RequestVerificationToken",
+          "type": "hidden",
+          "id": null
+        },
+        {
+          "name": "numFed",
+          "type": "hidden",
+          "id": null
+        },
+        {
+          "name": "token",
+          "type": "hidden",
+          "id": null
+        },
+        {
+          "name": "newPinCode",
+          "type": "password",
+          "id": "newPinCode"
+        },
+        {
+          "name": "pinCode2",
+          "type": "password",
+          "id": "pinCode2"
+        }
+      ],
+      "js_urls": [
+        "/MyAFT/Home/Login",
+        "/MyAFT/Home/Login?returnUrl=%2FMyAFT%2FPlayers%2FSearch",
+        "/MyAFT/Home/LoginInfo"
+      ]
+    }
+  }
 }
