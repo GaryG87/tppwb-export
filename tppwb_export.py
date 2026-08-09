@@ -26,7 +26,7 @@ UA = (
 
 ergebnis = {
     "zeit": datetime.now(timezone.utc).isoformat(),
-    "version": 11,
+    "version": 12,
     "status": "nicht_gestartet",
 }
 
@@ -376,6 +376,58 @@ def turnierkalender(s):
     return daten
 
 
+
+def kalender_suche(s, von, bis, plz="4750"):
+    """Turniersuche mit Zeitraum und Umkreis um die Postleitzahl."""
+    payload = {
+        "periodStartDate": von,
+        "periodEndDate": bis,
+        "searchmode": "1",
+        "searchtext": "",
+        "txtZipCode": plz,
+        "chkRadius": "true",
+        "Radius": "75",
+        "categoryTypes": "",
+        "ddlSingleCategoryValue": "",
+    }
+    varianten = [payload, {k: v for k, v in payload.items() if k in ("periodStartDate", "periodEndDate")}]
+    ergebnisse = {}
+    for i, p in enumerate(varianten):
+        try:
+            r = s.post(
+                f"{BASE}/MyAFT/Competitions/TournamentSearchResultData",
+                data=p, timeout=45,
+                headers={"X-Requested-With": "XMLHttpRequest",
+                         "Referer": f"{BASE}/MyAFT/Competitions/Tournaments"},
+            )
+            if r.status_code != 200:
+                ergebnisse[f"variante{i}"] = {"http": r.status_code}
+                continue
+            roh = entschaerfen(re.sub(r"<[^>]+>", " ", r.text))
+            bloecke = []
+            muster = re.compile(
+                r"([A-ZÄÖÜÉÈ][A-ZÄÖÜÉÈ0-9\-\.\' ]{2,30}?)\s+(\d{2}/\d{2}/\d{4})\s+([A-Z]{0,6})\s*"
+                r"Inscriptions jusqu'au\s+(\d{2}/\d{2}/\d{4})(.{0,400}?)(?=[A-ZÄÖÜÉÈ][A-ZÄÖÜÉÈ0-9\-\.\' ]{2,30}?\s+\d{2}/\d{2}/\d{4}\s+[A-Z]{0,6}\s*Inscriptions|$)"
+            )
+            for m in muster.finditer(roh):
+                rest = m.group(5)
+                kats = re.search(r"-\s*([A-Z0-9,\* ]{4,300})", rest)
+                bloecke.append({
+                    "ort": m.group(1).strip(),
+                    "start": m.group(2),
+                    "anmeldung_bis": m.group(4),
+                    "kategorien": (kats.group(1).strip()[:280] if kats else ""),
+                    "status": "Terminé" if "Terminé" in rest else ("offen" if "Inscri" in rest else ""),
+                })
+            ergebnisse[f"variante{i}"] = {
+                "http": 200, "anzahl": len(bloecke), "turniere": bloecke[:120],
+                "params": sorted(p),
+            }
+        except Exception as e:
+            ergebnisse[f"variante{i}"] = {"fehler": repr(e)}
+    return ergebnisse
+
+
 def lauf():
     import requests
 
@@ -446,6 +498,12 @@ def lauf():
 
     print("Suche Turnierkalender ...")
     ergebnis["kalender"] = turnierkalender(s)
+
+    print("Turniersuche Zeitraum ...")
+    ergebnis["kalender_suche"] = {
+        "rest_2026": kalender_suche(s, "09/08/2026", "31/12/2026"),
+        "winter_2027": kalender_suche(s, "01/01/2027", "30/04/2027"),
+    }
 
     ergebnis["status"] = "ok"
 
