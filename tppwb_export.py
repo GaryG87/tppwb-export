@@ -26,7 +26,7 @@ UA = (
 
 ergebnis = {
     "zeit": datetime.now(timezone.utc).isoformat(),
-    "version": 22,
+    "version": 24,
     "status": "nicht_gestartet",
 }
 
@@ -387,8 +387,8 @@ def kalender_suche(s, von, bis, plz="4750", region=None, kategorie=None, radius_
     if region is not None:
         payload["Regions"] = str(region)
     if kategorie:
-        payload["ddlSingleCategoryValue"] = kategorie
-        payload["categoryTypes"] = "S"
+        # Zahlenwert der Klassierung, NICHT das Kuerzel. C30.6 = 3
+        payload["ddlSingleCategoryValue"] = str(kategorie)
     if radius_an:
         payload["txtZipCode"] = plz
         payload["chkRadius"] = "on"
@@ -556,134 +556,91 @@ def klub_verzeichnis(s):
         out["treffer"]["fehler"] = repr(e)
     return out
 
+def klub_codes(s):
+    """Klubcodes aus dem Auswahlfeld der Turnierseite. Der Code verraet die
+    Provinz: 4xxx = Luettich, 6xxx = Luxemburg, 1xxx = Brabant/Bruessel usw."""
+    from bs4 import BeautifulSoup
+
+    try:
+        r = s.get(f"{BASE}/MyAFT/Competitions/Tournaments", timeout=45)
+        soup = BeautifulSoup(r.text, "html.parser")
+        sel = soup.find("select", id="ddlTournamentsSearchClubs")
+        if not sel:
+            return {}
+        karte = {}
+        for o in sel.find_all("option"):
+            code = (o.get("value") or "").strip()
+            text = entschaerfen(o.get_text())
+            if not code or not text:
+                continue
+            name = re.sub(r"^\d+\s*-\s*", "", text)
+            sauber = re.sub(r"\(.*?\)", "", name)
+            sauber = re.sub(r"\b(?:R\.?T\.?C\.?|T\.?C\.?|K\.?T\.?C\.?|R\.?C\.?S\.?|A\.?S\.?B\.?L\.?)\b", "", sauber)
+            sauber = re.sub(r"[^A-Za-zÀ-ÿ0-9 ]", " ", sauber)
+            sauber = re.sub(r"\s+", " ", sauber).strip().upper()
+            if sauber:
+                karte[sauber] = {"code": code, "voll": name.strip()}
+        return karte
+    except Exception:
+        return {}
+
+
+PROVINZ = {"1": "Brabant/Bruessel", "2": "Hainaut", "4": "Luettich",
+           "5": "Namur", "6": "Luxemburg", "7": "Hainaut"}
+
+
 def kalender_zeitraum(s, jahr_von, monat_von, monate=9, plz="4750"):
-    """Fragt je Kategorie und Monat ab. Region- und Umkreisfilter werden vom
-    Server ignoriert, der Kategoriefilter ist der einzige, der die Menge
-    zuverlaessig verkleinert - und liefert genau die relevanten Turniere."""
+    """Monatsweise Abfrage, gefiltert auf Garys Klassierung (C30.6 = Wert 3).
+    Damit bleibt die Treffermenge unter der 100er-Grenze des Servers."""
     import calendar
 
-    KATEGORIEN = ["M6", "M356"]
     alle = {}
     protokoll = []
-
-    for kat in KATEGORIEN:
-        j, mo = jahr_von, monat_von
-        for _ in range(monate):
-            letzter = calendar.monthrange(j, mo)[1]
+    j, mo = jahr_von, monat_von
+    for _ in range(monate):
+        letzter = calendar.monthrange(j, mo)[1]
+        for kat in (3, None):   # 3 = C30.6; None = ungefiltert als Kontrolle
             res = kalender_suche(s, f"01/{mo:02d}/{j}", f"{letzter:02d}/{mo:02d}/{j}",
                                  plz, kategorie=kat)
             anz = res.get("anzahl_gesamt", 0)
-            if anz:
-                protokoll.append({"kategorie": kat, "monat": f"{mo:02d}/{j}",
-                                  "treffer": anz, "abgeschnitten": anz >= 100})
+            protokoll.append({"monat": f"{mo:02d}/{j}",
+                              "filter": "C30.6" if kat else "alle",
+                              "treffer": anz, "abgeschnitten": anz >= 100})
             for t in res.get("turniere", []):
                 schl = t["id"] or f"{t['ort']}_{t['start']}"
-                if schl in alle:
-                    alle[schl].setdefault("gefunden_ueber", []).append(kat)
-                else:
-                    t["gefunden_ueber"] = [kat]
+                if schl not in alle:
+                    t["fuer_c306"] = bool(kat)
                     alle[schl] = t
-            mo += 1
-            if mo > 12:
-                mo, j = 1, j + 1
-
-    # Kontrollabfrage: greift der Umkreisfilter mit chkRadius="on"?
-    probe = kalender_suche(s, "01/09/2026", "30/09/2026", plz, radius_an=True)
-    protokoll.append({"kontrolle_umkreis_09_2026": probe.get("anzahl_gesamt")})
+                elif kat:
+                    alle[schl]["fuer_c306"] = True
+            if kat and anz and anz < 100:
+                break   # gefilterte Abfrage reicht, ungefilterte sparen
+        mo += 1
+        if mo > 12:
+            mo, j = 1, j + 1
 
     liste = sorted(alle.values(), key=lambda t: t["start"].split("/")[::-1])
     geholt = adressen_ergaenzen(s, liste, max_abrufe=60)
     print(f"Tooltips geholt: {geholt}")
+
+    # Provinz ueber den Klubcode zuordnen
+    karte = klub_codes(s)
+    zugeordnet = 0
+    for t in liste:
+        name = (t.get("klub") or t.get("ort") or "")
+        name = re.sub(r"\(.*?\)", "", name)
+        name = re.sub(r"[^A-Za-zÀ-ÿ0-9 ]", " ", name)
+        name = re.sub(r"\s+", " ", name).strip().upper()
+        for kn, info in karte.items():
+            if kn and (kn == name or kn in name or name in kn):
+                t["klubcode"] = info["code"]
+                t["klub_voll"] = info["voll"]
+                t["provinz"] = PROVINZ.get(info["code"][:1], "?")
+                zugeordnet += 1
+                break
+    protokoll.append({"klubliste": len(karte), "provinz_zugeordnet": zugeordnet})
+
     return {"protokoll": protokoll, "anzahl": len(liste), "turniere": liste[:600]}
-
-def mct_prevision(num):
-    """Holt den classement prévisionnel von mon-classement-tennis.be.
-    Eigene Session ohne TPPWB-Cookies. Sucht zuerst die API in den Next.js-Chunks."""
-    import requests
-    from bs4 import BeautifulSoup
-
-    out = {"kandidaten": [], "treffer": {}}
-    s = requests.Session()
-    s.headers.update({"User-Agent": UA, "Accept-Language": "fr-BE,fr;q=0.9"})
-
-    try:
-        r = s.get(MCT + "/", timeout=45)
-        out["startseite"] = {"http": r.status_code, "laenge": len(r.text)}
-        html = r.text
-    except Exception as e:
-        out["startseite"] = {"fehler": repr(e)}
-        return out
-
-    soup = BeautifulSoup(html, "html.parser")
-    chunks = []
-    for t in soup.find_all("script", src=True):
-        src = t["src"]
-        chunks.append(src if src.startswith("http") else MCT + src)
-    out["chunks_gefunden"] = len(chunks)
-
-    pfade = set()
-    # Inline-JSON von Next.js mitnehmen
-    for m in re.finditer(r'["\'](/api/[A-Za-z0-9_/\-\[\]{}.]+)["\']', html):
-        pfade.add(m.group(1))
-
-    for url in chunks[:40]:
-        try:
-            rj = s.get(url, timeout=25)
-            if rj.status_code != 200:
-                continue
-            for m in re.finditer(r'["\'](/api/[A-Za-z0-9_/\-\[\]{}.]+)["\']', rj.text):
-                pfade.add(m.group(1))
-            # externe API-Basis-URLs
-            for m in re.finditer(r'["\'](https?://[a-z0-9.\-]+/(?:api|v1)[A-Za-z0-9_/\-]*)["\']', rj.text):
-                pfade.add(m.group(1))
-        except Exception:
-            continue
-
-    out["kandidaten"] = sorted(pfade)[:60]
-
-    # Kandidaten mit der Nummer durchprobieren
-    versuche = 0
-    vorlagen = []
-    for p in out["kandidaten"]:
-        voll = p if p.startswith("http") else MCT + p
-        # Platzhalter ersetzen
-        ersetzt = re.sub(r"\[[^\]]+\]|\{[^}]+\}", num, voll)
-        vorlagen.append(ersetzt)
-        if "[" not in voll and "{" not in voll:
-            vorlagen.append(f"{voll}/{num}")
-            vorlagen.append(f"{voll}?numero={num}")
-            vorlagen.append(f"{voll}?affiliationNumber={num}")
-
-    # zusätzlich naheliegende Muster
-    for p in ["/api/player", "/api/players", "/api/classement", "/api/ranking", "/api/joueur"]:
-        vorlagen += [f"{MCT}{p}/{num}", f"{MCT}{p}?numero={num}"]
-
-    for u in list(dict.fromkeys(vorlagen))[:60]:
-        if versuche >= 45:
-            break
-        versuche += 1
-        try:
-            rr = s.get(u, timeout=20, headers={"Accept": "application/json,*/*"})
-            if rr.status_code != 200 or len(rr.text) < 30:
-                continue
-            ct = rr.headers.get("content-type", "")
-            eintrag = {"http": rr.status_code, "content_type": ct[:40], "laenge": len(rr.text)}
-            if "json" in ct:
-                try:
-                    eintrag["daten"] = rr.json()
-                except Exception:
-                    eintrag["auszug"] = rr.text[:1500]
-            elif num in rr.text or "point" in rr.text.lower():
-                eintrag["auszug"] = entschaerfen(re.sub(r"<[^>]+>", " ", rr.text))[:2000]
-            else:
-                continue
-            out["treffer"][u.replace(MCT, "")] = eintrag
-        except Exception:
-            continue
-
-    out["versuche"] = versuche
-    return out
-
 
 def lauf():
     import requests
