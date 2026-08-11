@@ -26,7 +26,7 @@ UA = (
 
 ergebnis = {
     "zeit": datetime.now(timezone.utc).isoformat(),
-    "version": 18,
+    "version": 19,
     "status": "nicht_gestartet",
 }
 
@@ -498,17 +498,61 @@ def adressen_ergaenzen(s, turniere, max_abrufe=45):
             if r.status_code != 200:
                 continue
             roh = entschaerfen(re.sub(r"<[^>]+>", " ", r.text))
-            m = re.search(r"\b(\d{4})\s+([A-ZÄÖÜÉÈa-zà-ÿ\-\' ]{3,30})", roh)
-            if m:
-                t["plz"] = m.group(1)
-                t["gemeinde"] = m.group(2).strip()
-            adr = re.search(r"((?:Rue|Avenue|Chemin|Route|Chaussée|Clos|Drève|Place)[^0-9]{0,40}\d*[^,]{0,20})", roh)
-            if adr:
-                t["adresse"] = entschaerfen(adr.group(1))[:80]
-            t["tooltip"] = roh[:400]
+            zr = re.search(r"Date:\s*Du\s*(\d{2}/\d{2}/\d{4})\s*au\s*(\d{2}/\d{2}/\d{4})", roh)
+            if zr:
+                t["zeitraum_von"], t["zeitraum_bis"] = zr.group(1), zr.group(2)
+            cl = re.search(r"Club:\s*(.+?)\s+Date:", roh)
+            if cl:
+                t["klub"] = entschaerfen(cl.group(1))[:60]
+            ja = re.search(r"Juge-arbitre:\s*\d+\s*-\s*([A-ZÄÖÜÉÈ][^T]{2,40}?)\s*Tél", roh)
+            if ja:
+                t["schiedsrichter"] = entschaerfen(ja.group(1))[:50]
+            tel = re.search(r"GSM:\s*([0-9/ \.]{8,20})", roh)
+            if tel:
+                t["kontakt_gsm"] = tel.group(1).strip()
         except Exception:
             continue
     return n
+
+
+
+def klub_verzeichnis(s):
+    """Holt das Klubverzeichnis, um Postleitzahlen zuordnen zu koennen."""
+    from bs4 import BeautifulSoup
+    out = {"treffer": {}, "klubs": {}}
+
+    kandidaten = [
+        ("/MyAFT/Clubs/ClubSearchResultData", "post"),
+        ("/MyAFT/Clubs/SearchResultData", "post"),
+        ("/MyAFT/Clubs/ClubSearchResult", "post"),
+        ("/MyAFT/Clubs/Index", "get"),
+        ("/MyAFT/Clubs", "get"),
+    ]
+    for pfad, meth in kandidaten:
+        try:
+            fn = s.get if meth == "get" else s.post
+            kw = {"timeout": 45, "headers": {"X-Requested-With": "XMLHttpRequest",
+                                             "Referer": f"{BASE}/MyAFT/"}}
+            r = fn(BASE + pfad, data={"searchtext": "", "searchmode": "1"}, **kw) if meth == "post" else fn(BASE + pfad, **kw)
+            if r.status_code != 200 or len(r.text) < 300:
+                out["treffer"][pfad] = {"http": r.status_code, "laenge": len(r.text)}
+                continue
+            soup = BeautifulSoup(r.text, "html.parser")
+            gefunden = 0
+            for dl in soup.select("dl.grid-data-item"):
+                txt = entschaerfen(dl.get_text(" "))
+                name = entschaerfen(dl.find("dd").get_text(" ")) if dl.find("dd") else ""
+                plz = re.search(r"\b(\d{4})\s+([A-ZÄÖÜÉÈa-zà-ÿ\-\' ]{2,28})", txt)
+                if name and plz:
+                    out["klubs"][name.upper()[:40]] = {"plz": plz.group(1),
+                                                       "gemeinde": plz.group(2).strip()}
+                    gefunden += 1
+            out["treffer"][pfad] = {"http": 200, "laenge": len(r.text), "klubs": gefunden}
+            if gefunden > 20:
+                break
+        except Exception as e:
+            out["treffer"][pfad] = {"fehler": repr(e)}
+    return out
 
 
 def kalender_zeitraum(s, jahr_von, monat_von, monate=9, plz="4750"):
@@ -520,8 +564,13 @@ def kalender_zeitraum(s, jahr_von, monat_von, monate=9, plz="4750"):
     j, mo = jahr_von, monat_von
     for _ in range(monate):
         letzter = calendar.monthrange(j, mo)[1]
-        for von, bis in ((f"01/{mo:02d}/{j}", f"15/{mo:02d}/{j}"),
-                         (f"16/{mo:02d}/{j}", f"{letzter:02d}/{mo:02d}/{j}")):
+        fenster = []
+        tag = 1
+        while tag <= letzter:
+            ende = min(tag + 6, letzter)
+            fenster.append((f"{tag:02d}/{mo:02d}/{j}", f"{ende:02d}/{mo:02d}/{j}"))
+            tag = ende + 1
+        for von, bis in fenster:
             res = kalender_suche(s, von, bis, plz)
             anz = res.get("anzahl_gesamt", 0)
             protokoll.append({
@@ -712,6 +761,19 @@ def lauf():
 
     print("Turniersuche Zeitraum ...")
     ergebnis["kalender_suche"] = kalender_zeitraum(s, 2026, 8, monate=9)
+    print("Hole Klubverzeichnis ...")
+    try:
+        kv = klub_verzeichnis(s)
+        ergebnis["klubverzeichnis"] = {"treffer": kv["treffer"], "anzahl": len(kv["klubs"])}
+        for t in ergebnis["kalender_suche"].get("turniere", []):
+            schl = (t.get("klub") or t.get("ort") or "").upper()[:40]
+            for name, info in kv["klubs"].items():
+                if schl and (schl in name or name in schl):
+                    t["plz"] = info["plz"]
+                    t["gemeinde"] = info["gemeinde"]
+                    break
+    except Exception as e:
+        ergebnis["klubverzeichnis"] = {"fehler": repr(e)}
 
     print("Hole classement previsionnel ...")
     try:
