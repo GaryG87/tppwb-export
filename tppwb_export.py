@@ -26,7 +26,7 @@ UA = (
 
 ergebnis = {
     "zeit": datetime.now(timezone.utc).isoformat(),
-    "version": 16,
+    "version": 18,
     "status": "nicht_gestartet",
 }
 
@@ -420,17 +420,34 @@ def kalender_suche(s, von, bis, plz="4750"):
             volltext = entschaerfen(dl.get_text(" "))
             anm = re.search(r"jusqu'au\s+(\d{2}/\d{2}/\d{4})", volltext)
 
-            kategorien, beschreibung, status = "", "", ""
+            beschreibung, status = "", ""
+            volltext_dl = entschaerfen(dl.get_text(" "))
+
+            # Alle Kategorie-Tokens aus dem gesamten Block einsammeln
+            kat_set = set()
             for dd in dds[1:]:
                 t = entschaerfen(dd.get_text(" "))
-                if t.startswith("-") and re.search(r"[A-Z]\d", t):
-                    kategorien = t.lstrip("- ").strip()
-                elif "CRITERIUM" in t.upper() or "TOURNOI" in t.upper():
-                    beschreibung = t[:120]
-                elif t in ("En cours", "Terminé", "Ouvert", "Clôturé") or "cours" in t.lower():
-                    status = t
+                if t.lstrip().startswith("-"):
+                    for tok in re.findall(r"\b([A-Z]{1,4}\d{1,3}[A-Z]*\*?)\b", t):
+                        kat_set.add(tok)
+                if "CRITERIUM" in t.upper() or "TOURNOI" in t.upper():
+                    beschreibung = t[:140]
+                if t.strip() in ("En cours", "Terminé", "Ouvert", "Clôturé"):
+                    status = t.strip()
 
-            kats = [k.strip() for k in kategorien.split(",") if k.strip()]
+            # Anmeldeöffnung je Kategoriegruppe
+            oeffnungen = []
+            for mm in re.finditer(
+                r"-\s*([A-Z0-9,\s\*]{1,60}?)\s*Ouverture des inscriptions le\s*"
+                r"(\d{2}/\d{2}/\d{4})\s*à partir de\s*(\d{1,2}:\d{2})",
+                volltext_dl,
+            ):
+                gruppe = [g.strip() for g in mm.group(1).split(",") if g.strip()]
+                oeffnungen.append({"kategorien": gruppe, "datum": mm.group(2), "uhrzeit": mm.group(3)})
+                for g in gruppe:
+                    kat_set.add(g)
+
+            kats = sorted(kat_set)
             turniere.append({
                 "id": idm,
                 "ort": ort,
@@ -439,6 +456,7 @@ def kalender_suche(s, von, bis, plz="4750"):
                 "status": status,
                 "beschreibung": beschreibung,
                 "kategorien": kats,
+                "anmeldeoeffnung": oeffnungen,
                 "hat_M6": "M6" in kats,
                 "hat_M356": "M356" in kats,
             })
@@ -459,6 +477,40 @@ def kalender_suche(s, von, bis, plz="4750"):
         return {"fehler": repr(e)}
 
 
+
+def adressen_ergaenzen(s, turniere, max_abrufe=45):
+    """Holt Adresse und PLZ aus dem Turnier-Tooltip für relevante Turniere."""
+    import time as _t
+    start = _t.time()
+    n = 0
+    for t in turniere:
+        if n >= max_abrufe or _t.time() - start > 150:
+            break
+        if not (t.get("hat_M6") or t.get("hat_M356")) or not t.get("id"):
+            continue
+        n += 1
+        try:
+            r = s.get(
+                f"{BASE}/MyAFT/Tooltip/TournamentDetails/{t['id']}",
+                timeout=20,
+                headers={"X-Requested-With": "XMLHttpRequest", "Referer": f"{BASE}/MyAFT/"},
+            )
+            if r.status_code != 200:
+                continue
+            roh = entschaerfen(re.sub(r"<[^>]+>", " ", r.text))
+            m = re.search(r"\b(\d{4})\s+([A-ZÄÖÜÉÈa-zà-ÿ\-\' ]{3,30})", roh)
+            if m:
+                t["plz"] = m.group(1)
+                t["gemeinde"] = m.group(2).strip()
+            adr = re.search(r"((?:Rue|Avenue|Chemin|Route|Chaussée|Clos|Drève|Place)[^0-9]{0,40}\d*[^,]{0,20})", roh)
+            if adr:
+                t["adresse"] = entschaerfen(adr.group(1))[:80]
+            t["tooltip"] = roh[:400]
+        except Exception:
+            continue
+    return n
+
+
 def kalender_zeitraum(s, jahr_von, monat_von, monate=9, plz="4750"):
     """Fragt monatsweise ab, weil der Server bei 100 Treffern abschneidet."""
     import calendar
@@ -468,28 +520,123 @@ def kalender_zeitraum(s, jahr_von, monat_von, monate=9, plz="4750"):
     j, mo = jahr_von, monat_von
     for _ in range(monate):
         letzter = calendar.monthrange(j, mo)[1]
-        von = f"01/{mo:02d}/{j}"
-        bis = f"{letzter:02d}/{mo:02d}/{j}"
-        res = kalender_suche(s, von, bis, plz)
-        anz = res.get("anzahl_gesamt", 0)
-        protokoll.append({
-            "monat": f"{mo:02d}/{j}",
-            "treffer": anz,
-            "abgeschnitten": anz >= 100,
-            "http": res.get("http"),
-        })
-        for t in res.get("turniere", []):
-            alle.setdefault(t["id"] or f"{t['ort']}_{t['start']}", t)
+        for von, bis in ((f"01/{mo:02d}/{j}", f"15/{mo:02d}/{j}"),
+                         (f"16/{mo:02d}/{j}", f"{letzter:02d}/{mo:02d}/{j}")):
+            res = kalender_suche(s, von, bis, plz)
+            anz = res.get("anzahl_gesamt", 0)
+            protokoll.append({
+                "fenster": f"{von}-{bis}",
+                "treffer": anz,
+                "abgeschnitten": anz >= 100,
+                "http": res.get("http"),
+            })
+            for t in res.get("turniere", []):
+                alle.setdefault(t["id"] or f"{t['ort']}_{t['start']}", t)
         mo += 1
         if mo > 12:
             mo, j = 1, j + 1
 
     liste = sorted(alle.values(), key=lambda t: t["start"].split("/")[::-1])
+    geholt = adressen_ergaenzen(s, liste)
+    print(f"Adressen ergaenzt: {geholt}")
     return {
         "protokoll": protokoll,
         "anzahl": len(liste),
         "turniere": liste[:400],
     }
+
+
+
+MCT = "https://mon-classement-tennis.be"
+
+
+def mct_prevision(num):
+    """Holt den classement prévisionnel von mon-classement-tennis.be.
+    Eigene Session ohne TPPWB-Cookies. Sucht zuerst die API in den Next.js-Chunks."""
+    import requests
+    from bs4 import BeautifulSoup
+
+    out = {"kandidaten": [], "treffer": {}}
+    s = requests.Session()
+    s.headers.update({"User-Agent": UA, "Accept-Language": "fr-BE,fr;q=0.9"})
+
+    try:
+        r = s.get(MCT + "/", timeout=45)
+        out["startseite"] = {"http": r.status_code, "laenge": len(r.text)}
+        html = r.text
+    except Exception as e:
+        out["startseite"] = {"fehler": repr(e)}
+        return out
+
+    soup = BeautifulSoup(html, "html.parser")
+    chunks = []
+    for t in soup.find_all("script", src=True):
+        src = t["src"]
+        chunks.append(src if src.startswith("http") else MCT + src)
+    out["chunks_gefunden"] = len(chunks)
+
+    pfade = set()
+    # Inline-JSON von Next.js mitnehmen
+    for m in re.finditer(r'["\'](/api/[A-Za-z0-9_/\-\[\]{}.]+)["\']', html):
+        pfade.add(m.group(1))
+
+    for url in chunks[:40]:
+        try:
+            rj = s.get(url, timeout=25)
+            if rj.status_code != 200:
+                continue
+            for m in re.finditer(r'["\'](/api/[A-Za-z0-9_/\-\[\]{}.]+)["\']', rj.text):
+                pfade.add(m.group(1))
+            # externe API-Basis-URLs
+            for m in re.finditer(r'["\'](https?://[a-z0-9.\-]+/(?:api|v1)[A-Za-z0-9_/\-]*)["\']', rj.text):
+                pfade.add(m.group(1))
+        except Exception:
+            continue
+
+    out["kandidaten"] = sorted(pfade)[:60]
+
+    # Kandidaten mit der Nummer durchprobieren
+    versuche = 0
+    vorlagen = []
+    for p in out["kandidaten"]:
+        voll = p if p.startswith("http") else MCT + p
+        # Platzhalter ersetzen
+        ersetzt = re.sub(r"\[[^\]]+\]|\{[^}]+\}", num, voll)
+        vorlagen.append(ersetzt)
+        if "[" not in voll and "{" not in voll:
+            vorlagen.append(f"{voll}/{num}")
+            vorlagen.append(f"{voll}?numero={num}")
+            vorlagen.append(f"{voll}?affiliationNumber={num}")
+
+    # zusätzlich naheliegende Muster
+    for p in ["/api/player", "/api/players", "/api/classement", "/api/ranking", "/api/joueur"]:
+        vorlagen += [f"{MCT}{p}/{num}", f"{MCT}{p}?numero={num}"]
+
+    for u in list(dict.fromkeys(vorlagen))[:60]:
+        if versuche >= 45:
+            break
+        versuche += 1
+        try:
+            rr = s.get(u, timeout=20, headers={"Accept": "application/json,*/*"})
+            if rr.status_code != 200 or len(rr.text) < 30:
+                continue
+            ct = rr.headers.get("content-type", "")
+            eintrag = {"http": rr.status_code, "content_type": ct[:40], "laenge": len(rr.text)}
+            if "json" in ct:
+                try:
+                    eintrag["daten"] = rr.json()
+                except Exception:
+                    eintrag["auszug"] = rr.text[:1500]
+            elif num in rr.text or "point" in rr.text.lower():
+                eintrag["auszug"] = entschaerfen(re.sub(r"<[^>]+>", " ", rr.text))[:2000]
+            else:
+                continue
+            out["treffer"][u.replace(MCT, "")] = eintrag
+        except Exception:
+            continue
+
+    out["versuche"] = versuche
+    return out
 
 
 def lauf():
@@ -565,6 +712,12 @@ def lauf():
 
     print("Turniersuche Zeitraum ...")
     ergebnis["kalender_suche"] = kalender_zeitraum(s, 2026, 8, monate=9)
+
+    print("Hole classement previsionnel ...")
+    try:
+        ergebnis["prevision"] = mct_prevision(num)
+    except Exception as e:
+        ergebnis["prevision"] = {"fehler": repr(e)}
 
     ergebnis["status"] = "ok"
 
