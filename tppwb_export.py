@@ -26,7 +26,7 @@ UA = (
 
 ergebnis = {
     "zeit": datetime.now(timezone.utc).isoformat(),
-    "version": 19,
+    "version": 21,
     "status": "nicht_gestartet",
 }
 
@@ -374,7 +374,7 @@ def turnierkalender(s):
 
 
 
-def kalender_suche(s, von, bis, plz="4750"):
+def kalender_suche(s, von, bis, plz="4750", region=None):
     """Turniersuche. Format dd/mm/yyyy ist bestätigt; Parsen über <dl class='grid-data-item'>."""
     from bs4 import BeautifulSoup
 
@@ -383,10 +383,9 @@ def kalender_suche(s, von, bis, plz="4750"):
         "periodEndDate": bis,
         "searchmode": "1",
         "searchtext": "",
-        "txtZipCode": plz,
-        "chkRadius": "true",
-        "Radius": "75",
     }
+    if region is not None:
+        payload["Regions"] = str(region)
     try:
         r = s.post(
             f"{BASE}/MyAFT/Competitions/TournamentSearchResultData",
@@ -517,87 +516,72 @@ def adressen_ergaenzen(s, turniere, max_abrufe=45):
 
 
 def klub_verzeichnis(s):
-    """Holt das Klubverzeichnis, um Postleitzahlen zuordnen zu koennen."""
+    """Klubliste holen. Struktur wird mitprotokolliert, damit sie auswertbar ist."""
     from bs4 import BeautifulSoup
     out = {"treffer": {}, "klubs": {}}
+    try:
+        r = s.get(f"{BASE}/MyAFT/Clubs/Index", timeout=60,
+                  headers={"Referer": f"{BASE}/MyAFT/"})
+        out["treffer"]["Index"] = {"http": r.status_code, "laenge": len(r.text)}
+        if r.status_code != 200:
+            return out
+        soup = BeautifulSoup(r.text, "html.parser")
 
-    kandidaten = [
-        ("/MyAFT/Clubs/ClubSearchResultData", "post"),
-        ("/MyAFT/Clubs/SearchResultData", "post"),
-        ("/MyAFT/Clubs/ClubSearchResult", "post"),
-        ("/MyAFT/Clubs/Index", "get"),
-        ("/MyAFT/Clubs", "get"),
-    ]
-    for pfad, meth in kandidaten:
-        try:
-            fn = s.get if meth == "get" else s.post
-            kw = {"timeout": 45, "headers": {"X-Requested-With": "XMLHttpRequest",
-                                             "Referer": f"{BASE}/MyAFT/"}}
-            r = fn(BASE + pfad, data={"searchtext": "", "searchmode": "1"}, **kw) if meth == "post" else fn(BASE + pfad, **kw)
-            if r.status_code != 200 or len(r.text) < 300:
-                out["treffer"][pfad] = {"http": r.status_code, "laenge": len(r.text)}
+        # Alle Links auf Klub-Detailseiten: /MyAFT/Clubs/Detail/4091-BUTGENBACH
+        for a in soup.find_all("a", href=re.compile(r"/Clubs/Detail/")):
+            href = a.get("href", "")
+            m = re.search(r"/Clubs/Detail/(\d+)-(.+)$", href)
+            if not m:
                 continue
-            soup = BeautifulSoup(r.text, "html.parser")
-            gefunden = 0
-            for dl in soup.select("dl.grid-data-item"):
-                txt = entschaerfen(dl.get_text(" "))
-                name = entschaerfen(dl.find("dd").get_text(" ")) if dl.find("dd") else ""
-                plz = re.search(r"\b(\d{4})\s+([A-ZÄÖÜÉÈa-zà-ÿ\-\' ]{2,28})", txt)
-                if name and plz:
-                    out["klubs"][name.upper()[:40]] = {"plz": plz.group(1),
-                                                       "gemeinde": plz.group(2).strip()}
-                    gefunden += 1
-            out["treffer"][pfad] = {"http": 200, "laenge": len(r.text), "klubs": gefunden}
-            if gefunden > 20:
-                break
-        except Exception as e:
-            out["treffer"][pfad] = {"fehler": repr(e)}
+            code, kurz = m.group(1), m.group(2)
+            name = entschaerfen(a.get_text(" ")) or kurz
+            umfeld = entschaerfen(a.parent.get_text(" ") if a.parent else "")
+            plz = re.search(r"\b(\d{4})\b", umfeld)
+            out["klubs"][name.upper()[:40]] = {
+                "code": code, "kurz": kurz,
+                "plz": plz.group(1) if plz else None,
+                "umfeld": umfeld[:120],
+            }
+        out["treffer"]["links_gefunden"] = len(out["klubs"])
+        # Strukturprobe fuer die Fehlersuche
+        out["probe"] = re.sub(r"\s+", " ", r.text[:2500])
+    except Exception as e:
+        out["treffer"]["fehler"] = repr(e)
     return out
 
-
 def kalender_zeitraum(s, jahr_von, monat_von, monate=9, plz="4750"):
-    """Fragt monatsweise ab, weil der Server bei 100 Treffern abschneidet."""
+    """Fragt je Region und Monat ab. Der Zeitfilter allein reicht nicht,
+    weil der Server bei 100 Treffern abschneidet und Turniere ueber Tage laufen."""
     import calendar
+
+    # Nur die für Bütgenbach erreichbaren Provinzen.
+    # Die übrigen (Brabant/Brüssel 1, Hainaut 2, Namur 5) liegen 150 km+ entfernt.
+    REGIONEN = {3: "Liege", 4: "Luxembourg"}
 
     alle = {}
     protokoll = []
-    j, mo = jahr_von, monat_von
-    for _ in range(monate):
-        letzter = calendar.monthrange(j, mo)[1]
-        fenster = []
-        tag = 1
-        while tag <= letzter:
-            ende = min(tag + 6, letzter)
-            fenster.append((f"{tag:02d}/{mo:02d}/{j}", f"{ende:02d}/{mo:02d}/{j}"))
-            tag = ende + 1
-        for von, bis in fenster:
-            res = kalender_suche(s, von, bis, plz)
+    for rid, rname in REGIONEN.items():
+        j, mo = jahr_von, monat_von
+        for _ in range(monate):
+            letzter = calendar.monthrange(j, mo)[1]
+            von = f"01/{mo:02d}/{j}"
+            bis = f"{letzter:02d}/{mo:02d}/{j}"
+            res = kalender_suche(s, von, bis, plz, region=rid)
             anz = res.get("anzahl_gesamt", 0)
-            protokoll.append({
-                "fenster": f"{von}-{bis}",
-                "treffer": anz,
-                "abgeschnitten": anz >= 100,
-                "http": res.get("http"),
-            })
+            if anz:
+                protokoll.append({"region": rname, "monat": f"{mo:02d}/{j}",
+                                  "treffer": anz, "abgeschnitten": anz >= 100})
             for t in res.get("turniere", []):
+                t["region_name"] = rname
                 alle.setdefault(t["id"] or f"{t['ort']}_{t['start']}", t)
-        mo += 1
-        if mo > 12:
-            mo, j = 1, j + 1
+            mo += 1
+            if mo > 12:
+                mo, j = 1, j + 1
 
     liste = sorted(alle.values(), key=lambda t: t["start"].split("/")[::-1])
-    geholt = adressen_ergaenzen(s, liste)
-    print(f"Adressen ergaenzt: {geholt}")
-    return {
-        "protokoll": protokoll,
-        "anzahl": len(liste),
-        "turniere": liste[:400],
-    }
-
-
-
-MCT = "https://mon-classement-tennis.be"
-
+    geholt = adressen_ergaenzen(s, liste, max_abrufe=60)
+    print(f"Tooltips geholt: {geholt}")
+    return {"protokoll": protokoll, "anzahl": len(liste), "turniere": liste[:600]}
 
 def mct_prevision(num):
     """Holt den classement prévisionnel von mon-classement-tennis.be.
@@ -764,7 +748,9 @@ def lauf():
     print("Hole Klubverzeichnis ...")
     try:
         kv = klub_verzeichnis(s)
-        ergebnis["klubverzeichnis"] = {"treffer": kv["treffer"], "anzahl": len(kv["klubs"])}
+        ergebnis["klubverzeichnis"] = {"treffer": kv["treffer"], "anzahl": len(kv["klubs"]),
+                                       "probe": kv.get("probe", "")[:2500],
+                                       "klubs": kv["klubs"]}
         for t in ergebnis["kalender_suche"].get("turniere", []):
             schl = (t.get("klub") or t.get("ort") or "").upper()[:40]
             for name, info in kv["klubs"].items():
