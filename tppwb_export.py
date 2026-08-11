@@ -26,7 +26,7 @@ UA = (
 
 ergebnis = {
     "zeit": datetime.now(timezone.utc).isoformat(),
-    "version": 21,
+    "version": 22,
     "status": "nicht_gestartet",
 }
 
@@ -374,7 +374,7 @@ def turnierkalender(s):
 
 
 
-def kalender_suche(s, von, bis, plz="4750", region=None):
+def kalender_suche(s, von, bis, plz="4750", region=None, kategorie=None, radius_an=False):
     """Turniersuche. Format dd/mm/yyyy ist bestätigt; Parsen über <dl class='grid-data-item'>."""
     from bs4 import BeautifulSoup
 
@@ -386,6 +386,13 @@ def kalender_suche(s, von, bis, plz="4750", region=None):
     }
     if region is not None:
         payload["Regions"] = str(region)
+    if kategorie:
+        payload["ddlSingleCategoryValue"] = kategorie
+        payload["categoryTypes"] = "S"
+    if radius_an:
+        payload["txtZipCode"] = plz
+        payload["chkRadius"] = "on"
+        payload["Radius"] = "80"
     try:
         r = s.post(
             f"{BASE}/MyAFT/Competitions/TournamentSearchResultData",
@@ -550,33 +557,39 @@ def klub_verzeichnis(s):
     return out
 
 def kalender_zeitraum(s, jahr_von, monat_von, monate=9, plz="4750"):
-    """Fragt je Region und Monat ab. Der Zeitfilter allein reicht nicht,
-    weil der Server bei 100 Treffern abschneidet und Turniere ueber Tage laufen."""
+    """Fragt je Kategorie und Monat ab. Region- und Umkreisfilter werden vom
+    Server ignoriert, der Kategoriefilter ist der einzige, der die Menge
+    zuverlaessig verkleinert - und liefert genau die relevanten Turniere."""
     import calendar
 
-    # Nur die für Bütgenbach erreichbaren Provinzen.
-    # Die übrigen (Brabant/Brüssel 1, Hainaut 2, Namur 5) liegen 150 km+ entfernt.
-    REGIONEN = {3: "Liege", 4: "Luxembourg"}
-
+    KATEGORIEN = ["M6", "M356"]
     alle = {}
     protokoll = []
-    for rid, rname in REGIONEN.items():
+
+    for kat in KATEGORIEN:
         j, mo = jahr_von, monat_von
         for _ in range(monate):
             letzter = calendar.monthrange(j, mo)[1]
-            von = f"01/{mo:02d}/{j}"
-            bis = f"{letzter:02d}/{mo:02d}/{j}"
-            res = kalender_suche(s, von, bis, plz, region=rid)
+            res = kalender_suche(s, f"01/{mo:02d}/{j}", f"{letzter:02d}/{mo:02d}/{j}",
+                                 plz, kategorie=kat)
             anz = res.get("anzahl_gesamt", 0)
             if anz:
-                protokoll.append({"region": rname, "monat": f"{mo:02d}/{j}",
+                protokoll.append({"kategorie": kat, "monat": f"{mo:02d}/{j}",
                                   "treffer": anz, "abgeschnitten": anz >= 100})
             for t in res.get("turniere", []):
-                t["region_name"] = rname
-                alle.setdefault(t["id"] or f"{t['ort']}_{t['start']}", t)
+                schl = t["id"] or f"{t['ort']}_{t['start']}"
+                if schl in alle:
+                    alle[schl].setdefault("gefunden_ueber", []).append(kat)
+                else:
+                    t["gefunden_ueber"] = [kat]
+                    alle[schl] = t
             mo += 1
             if mo > 12:
                 mo, j = 1, j + 1
+
+    # Kontrollabfrage: greift der Umkreisfilter mit chkRadius="on"?
+    probe = kalender_suche(s, "01/09/2026", "30/09/2026", plz, radius_an=True)
+    protokoll.append({"kontrolle_umkreis_09_2026": probe.get("anzahl_gesamt")})
 
     liste = sorted(alle.values(), key=lambda t: t["start"].split("/")[::-1])
     geholt = adressen_ergaenzen(s, liste, max_abrufe=60)
@@ -745,9 +758,9 @@ def lauf():
 
     print("Turniersuche Zeitraum ...")
     ergebnis["kalender_suche"] = kalender_zeitraum(s, 2026, 8, monate=9)
-    print("Hole Klubverzeichnis ...")
+    print("Klubverzeichnis uebersprungen (Seite ist JS-Huelle ohne Daten)")
     try:
-        kv = klub_verzeichnis(s)
+        kv = {"treffer": {"hinweis": "uebersprungen"}, "klubs": {}}
         ergebnis["klubverzeichnis"] = {"treffer": kv["treffer"], "anzahl": len(kv["klubs"]),
                                        "probe": kv.get("probe", "")[:2500],
                                        "klubs": kv["klubs"]}
