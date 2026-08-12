@@ -26,7 +26,7 @@ UA = (
 
 ergebnis = {
     "zeit": datetime.now(timezone.utc).isoformat(),
-    "version": 26,
+    "version": 27,
     "status": "nicht_gestartet",
 }
 
@@ -701,46 +701,28 @@ GEGNER = ["OHLES Kim", "JENNIGES Jochen", "HUPPERTZ Christoph", "SARLETTE Yannic
 
 
 def spieler_suchen(s, name):
-    """Findet die Spieler-ID ueber die Autocomplete-Suche."""
+    """Spielersuche. Bestaetigt aus dem HAR: POST mit Feld 'text', Antwort JSON
+    mit den Feldern Nom und NumFed."""
     treffer = []
-    for feld in ("term", "query", "search", "name"):
+    from urllib.parse import quote
+    for wert in (quote(name), name):
         try:
-            r = s.get(f"{BASE}/MyAFT/Players/GetPlayersAutocomplete",
-                      params={feld: name}, timeout=25,
-                      headers={"X-Requested-With": "XMLHttpRequest",
-                               "Referer": f"{BASE}/MyAFT/Players/Search"})
-            if r.status_code != 200 or len(r.text) < 5:
+            r = s.post(f"{BASE}/MyAFT/Players/GetPlayersAutocomplete",
+                       data={"text": wert}, timeout=25,
+                       headers={"X-Requested-With": "XMLHttpRequest",
+                                "Referer": f"{BASE}/MyAFT/Competitions/Tournaments"})
+            if r.status_code != 200:
                 continue
             try:
                 daten = r.json()
             except Exception:
-                daten = None
+                continue
             if daten:
-                treffer.append({"feld": feld, "daten": daten if isinstance(daten, list) else [daten]})
-                break
-            ids = re.findall(r"Players/Detail/(\d+)", r.text)
-            if ids:
-                treffer.append({"feld": feld, "ids": sorted(set(ids))[:5],
-                                "auszug": entschaerfen(re.sub(r"<[^>]+>", " ", r.text))[:400]})
+                treffer.append({"wert": wert, "anzahl": len(daten), "daten": daten[:8]})
                 break
         except Exception:
             continue
-
-    # Fallback: normale Suchseite
-    if not treffer:
-        for pfad, params in (("/MyAFT/Players/Search", {"searchtext": name}),
-                             ("/MyAFT/Players/Index", {"searchtext": name})):
-            try:
-                r = s.post(BASE + pfad, data=params, timeout=25,
-                           headers={"X-Requested-With": "XMLHttpRequest"})
-                ids = re.findall(r"Players/Detail/(\d+)", r.text)
-                if ids:
-                    treffer.append({"pfad": pfad, "ids": sorted(set(ids))[:5]})
-                    break
-            except Exception:
-                continue
     return treffer
-
 
 def spieler_profil(s, pid):
     """Profil und Ergebnisse eines Spielers."""
@@ -774,16 +756,52 @@ def gegner_analyse(s, namen=None):
         eintrag = {"suche": spieler_suchen(s, name)}
         ids = set()
         for t in eintrag["suche"]:
-            for i in t.get("ids", []):
-                ids.add(i)
             for d in t.get("daten", []):
                 if isinstance(d, dict):
-                    for k in ("id", "Id", "value", "Value", "playerId"):
-                        if d.get(k):
-                            ids.add(str(d[k]))
+                    nf = d.get("NumFed") or d.get("numFed")
+                    if nf and str(nf) != "0":
+                        ids.add(str(nf))
         eintrag["ids"] = sorted(ids)[:3]
         eintrag["profile"] = {i: spieler_profil(s, i) for i in eintrag["ids"][:2]}
         out[name] = eintrag
+    return out
+
+
+
+def stvith_tableaus(s, idTournoi="361794"):
+    """Holt die Tableaus aller Kategorien des Turniers. Zeigt Teilnehmerfeld
+    und bereits gespielte Ergebnisse."""
+    out = {"kategorien": {}}
+    try:
+        r = s.get(f"{BASE}/MyAFT/Tooltip/TournamentCategories/{idTournoi}",
+                  params={"displaySubscriptions": "True"}, timeout=30,
+                  headers={"X-Requested-With": "XMLHttpRequest", "Referer": f"{BASE}/MyAFT/"})
+        roh = entschaerfen(re.sub(r"<[^>]+>", " ", r.text))
+        out["uebersicht"] = roh[:6000]
+        out["kat_ids"] = sorted(set(re.findall(r"idCategory=(\d+)", r.text)))[:20]
+    except Exception as e:
+        out["fehler_uebersicht"] = repr(e)
+        out["kat_ids"] = []
+
+    for cid in out.get("kat_ids", [])[:8]:
+        try:
+            rr = s.get(f"{BASE}/MyAFT/Competitions/TournamentDraw",
+                       params={"idTournoi": idTournoi, "idCategory": cid, "drawType": "F"},
+                       timeout=30,
+                       headers={"X-Requested-With": "XMLHttpRequest", "Referer": f"{BASE}/MyAFT/"})
+            if rr.status_code != 200:
+                continue
+            roh = entschaerfen(re.sub(r"<[^>]+>", " ", rr.text))
+            spieler = re.findall(
+                r"([A-ZÄÖÜÉÈ][A-ZÄÖÜÉÈ\-\' ]{1,22}\s+[A-ZÄÖÜÉÈ][a-zà-ÿA-ZÄÖÜÉÈ\-\']{1,18})\s*\(?\s*(C\d{2}(?:\.\d)?|NC)\s*\)?", roh)
+            out["kategorien"][cid] = {
+                "spieler": [{"name": a.strip(), "kl": b} for a, b in spieler][:80],
+                "anzahl": len(spieler),
+                "ids": sorted(set(re.findall(r"Players/Detail/(\d+)", rr.text)))[:60],
+                "text": roh[:5000],
+            }
+        except Exception:
+            continue
     return out
 
 
@@ -894,6 +912,7 @@ def lauf():
     print("Analysiere Gegner ...")
     try:
         ergebnis["gegner"] = gegner_analyse(s)
+        ergebnis["stvith"] = stvith_tableaus(s)
     except Exception as e:
         ergebnis["gegner"] = {"fehler": repr(e)}
 
