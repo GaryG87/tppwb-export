@@ -1,5 +1,5 @@
 {
-  "zeit": "2026-08-13T21:05:24.827428+00:00",
+  "zeit": "2026-08-14T08:02:37.403177+00:00",
   "version": 27,
   "status": "ok",
   "klassierung": [
@@ -916,7 +916,7 @@
   "kalender": {
     "seite": {
       "http": 200,
-      "laenge": 258253
+      "laenge": 258526
     },
     "gefundene_urls": [
       "/MyAFT/Clubs/Search",
@@ -989,7 +989,7 @@
     "treffer": {
       "GET /MyAFT/Competitions/CompetitionsTournamentsByRegion []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 219408,
+        "laenge": 223736,
         "turniere": [
           [
             "ANDENNE",
@@ -1086,6 +1086,10 @@
           [
             "CITADELLE",
             "06/08/2026"
+          ],
+          [
+            "CITADELLE",
+            "15/08/2026"
           ],
           [
             "ENGHIEN",
@@ -1226,17 +1230,13 @@
           [
             "NATHAM",
             "06/08/2026"
-          ],
-          [
-            "NATHAM",
-            "13/08/2026"
           ]
         ],
-        "auszug": "TEMPLOUX 17/08/2026 Ethias Junior Tour - Grade 3 (A) J - G113, G133, G153, F113, F133, F153, U93 Inscriptions clôturées BIEVRE 15/08/2026 Critérium senior by Cornet + Critérium Doubles - Doubles Dames TWB AVSD - DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, M504, M505, M352, M353, M354, M355, M356, D251, D252, D253, D254 Inscriptions clôturées FLEMALLE 15/08/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM5, DM7, DD3, DD5, DD7, DMX1, DMX2, DMX3, M1BC1*, M2, M3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées HAUT CLOCHER 13/08/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB - DM5, DM6, DM7, DD5, DD6, DD7, DMX5, DMX6, DMX7, M1BC1*, D1BC1*, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours HOUSSE 13/08/2026 CRITERIUM ADULTES AVSD - DM2, DM3, DM4, DM5, DMX4, DMX5, DMX6, M352, M353, M354, M355, M356, D251, D252 En cours RACKET CLUB HUY 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM3, DM4, DM5, DD3, DD4, DD5, DD6, DMX4, DMX5, M2, M3, M354, M355, M356, D252, D253, D254 En cours JENA 13/08/2026 CRITERIUM ADULTES - BC SD I* - Doubles Dames TWB JAVSD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M604, D401, D402, D403, D404, D1BC1*, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603 En cours LADRIE 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM1, DM3, DM5, DM7, DD1, DD3, DD5, DD7, DMX1, DMX3, DMX5, DMX7, M502, M503, M504, M505, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LIEGEOIS 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM4, DM5, DM6, DM7, DD4, DD5, DD6, DD7, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254 En cours LONGCHAMPS 13/08/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours CENTENAIRE OUGREE 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AD - DM2, DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SMASH 2000 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB VSD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2,"
+        "auszug": "TEMPLOUX 17/08/2026 Ethias Junior Tour - Grade 3 (A) J - G113, G133, G153, F113, F133, F153, U93 Inscriptions clôturées BIEVRE 15/08/2026 Critérium senior by Cornet + Critérium Doubles - Doubles Dames TWB AVSD - DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, M504, M505, M352, M353, M354, M355, M356, D251, D252, D253, D254 Inscriptions clôturées CITADELLE 15/08/2026 Challenge 12 m JS - U7 Inscriptions clôturées FLEMALLE 15/08/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM5, DM7, DD3, DD5, DD7, DMX1, DMX2, DMX3, M1BC1*, M2, M3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées VAUTOUR 15/08/2026 Challenge Clubs 12M U7 JS - U7 Inscriptions clôturées LAUSPRELLEACADEMYASBL 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet Ethias Junior Tour Gr 2 et 3 JAVS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours MANAGE 13/08/2026 Critérium adultes DOubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours PLAINCHAMP 13/08/2026 Critérium adultes Simples/Criterium Senior By Cornet VS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours CHEMINOTSSTGHISLAIN 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet/ Belgian Circuit M1 1 étoile/D1 1 étoile AVS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours KAIN 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet Ethias Junior Tour Gr 1 à 3 JAVS - G151, F151, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours SMASHINGNIVELLOIS 13/08/2026 Critérium adultes Doubles Ethias Junior To"
       },
       "POST /MyAFT/Competitions/CompetitionsTournamentsByRegion []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 219408,
+        "laenge": 223736,
         "turniere": [
           [
             "ANDENNE",
@@ -1333,6 +1333,10 @@
           [
             "CITADELLE",
             "06/08/2026"
+          ],
+          [
+            "CITADELLE",
+            "15/08/2026"
           ],
           [
             "ENGHIEN",
@@ -1473,17 +1477,13 @@
           [
             "NATHAM",
             "06/08/2026"
-          ],
-          [
-            "NATHAM",
-            "13/08/2026"
           ]
         ],
-        "auszug": "TEMPLOUX 17/08/2026 Ethias Junior Tour - Grade 3 (A) J - G113, G133, G153, F113, F133, F153, U93 Inscriptions clôturées BIEVRE 15/08/2026 Critérium senior by Cornet + Critérium Doubles - Doubles Dames TWB AVSD - DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, M504, M505, M352, M353, M354, M355, M356, D251, D252, D253, D254 Inscriptions clôturées FLEMALLE 15/08/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM5, DM7, DD3, DD5, DD7, DMX1, DMX2, DMX3, M1BC1*, M2, M3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées HAUT CLOCHER 13/08/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB - DM5, DM6, DM7, DD5, DD6, DD7, DMX5, DMX6, DMX7, M1BC1*, D1BC1*, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours HOUSSE 13/08/2026 CRITERIUM ADULTES AVSD - DM2, DM3, DM4, DM5, DMX4, DMX5, DMX6, M352, M353, M354, M355, M356, D251, D252 En cours RACKET CLUB HUY 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM3, DM4, DM5, DD3, DD4, DD5, DD6, DMX4, DMX5, M2, M3, M354, M355, M356, D252, D253, D254 En cours JENA 13/08/2026 CRITERIUM ADULTES - BC SD I* - Doubles Dames TWB JAVSD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M604, D401, D402, D403, D404, D1BC1*, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603 En cours LADRIE 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM1, DM3, DM5, DM7, DD1, DD3, DD5, DD7, DMX1, DMX3, DMX5, DMX7, M502, M503, M504, M505, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LIEGEOIS 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM4, DM5, DM6, DM7, DD4, DD5, DD6, DD7, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254 En cours LONGCHAMPS 13/08/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours CENTENAIRE OUGREE 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AD - DM2, DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SMASH 2000 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB VSD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2,"
+        "auszug": "TEMPLOUX 17/08/2026 Ethias Junior Tour - Grade 3 (A) J - G113, G133, G153, F113, F133, F153, U93 Inscriptions clôturées BIEVRE 15/08/2026 Critérium senior by Cornet + Critérium Doubles - Doubles Dames TWB AVSD - DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, M504, M505, M352, M353, M354, M355, M356, D251, D252, D253, D254 Inscriptions clôturées CITADELLE 15/08/2026 Challenge 12 m JS - U7 Inscriptions clôturées FLEMALLE 15/08/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM5, DM7, DD3, DD5, DD7, DMX1, DMX2, DMX3, M1BC1*, M2, M3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées VAUTOUR 15/08/2026 Challenge Clubs 12M U7 JS - U7 Inscriptions clôturées LAUSPRELLEACADEMYASBL 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet Ethias Junior Tour Gr 2 et 3 JAVS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours MANAGE 13/08/2026 Critérium adultes DOubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours PLAINCHAMP 13/08/2026 Critérium adultes Simples/Criterium Senior By Cornet VS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours CHEMINOTSSTGHISLAIN 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet/ Belgian Circuit M1 1 étoile/D1 1 étoile AVS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours KAIN 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet Ethias Junior Tour Gr 1 à 3 JAVS - G151, F151, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours SMASHINGNIVELLOIS 13/08/2026 Critérium adultes Doubles Ethias Junior To"
       },
       "GET /MyAFT/Competitions/CompetitionsTournamentsByRegion ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 219408,
+        "laenge": 223736,
         "turniere": [
           [
             "ANDENNE",
@@ -1580,6 +1580,10 @@
           [
             "CITADELLE",
             "06/08/2026"
+          ],
+          [
+            "CITADELLE",
+            "15/08/2026"
           ],
           [
             "ENGHIEN",
@@ -1720,17 +1724,13 @@
           [
             "NATHAM",
             "06/08/2026"
-          ],
-          [
-            "NATHAM",
-            "13/08/2026"
           ]
         ],
-        "auszug": "TEMPLOUX 17/08/2026 Ethias Junior Tour - Grade 3 (A) J - G113, G133, G153, F113, F133, F153, U93 Inscriptions clôturées BIEVRE 15/08/2026 Critérium senior by Cornet + Critérium Doubles - Doubles Dames TWB AVSD - DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, M504, M505, M352, M353, M354, M355, M356, D251, D252, D253, D254 Inscriptions clôturées FLEMALLE 15/08/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM5, DM7, DD3, DD5, DD7, DMX1, DMX2, DMX3, M1BC1*, M2, M3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées HAUT CLOCHER 13/08/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB - DM5, DM6, DM7, DD5, DD6, DD7, DMX5, DMX6, DMX7, M1BC1*, D1BC1*, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours HOUSSE 13/08/2026 CRITERIUM ADULTES AVSD - DM2, DM3, DM4, DM5, DMX4, DMX5, DMX6, M352, M353, M354, M355, M356, D251, D252 En cours RACKET CLUB HUY 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM3, DM4, DM5, DD3, DD4, DD5, DD6, DMX4, DMX5, M2, M3, M354, M355, M356, D252, D253, D254 En cours JENA 13/08/2026 CRITERIUM ADULTES - BC SD I* - Doubles Dames TWB JAVSD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M604, D401, D402, D403, D404, D1BC1*, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603 En cours LADRIE 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM1, DM3, DM5, DM7, DD1, DD3, DD5, DD7, DMX1, DMX3, DMX5, DMX7, M502, M503, M504, M505, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LIEGEOIS 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM4, DM5, DM6, DM7, DD4, DD5, DD6, DD7, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254 En cours LONGCHAMPS 13/08/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours CENTENAIRE OUGREE 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AD - DM2, DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SMASH 2000 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB VSD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2,"
+        "auszug": "TEMPLOUX 17/08/2026 Ethias Junior Tour - Grade 3 (A) J - G113, G133, G153, F113, F133, F153, U93 Inscriptions clôturées BIEVRE 15/08/2026 Critérium senior by Cornet + Critérium Doubles - Doubles Dames TWB AVSD - DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, M504, M505, M352, M353, M354, M355, M356, D251, D252, D253, D254 Inscriptions clôturées CITADELLE 15/08/2026 Challenge 12 m JS - U7 Inscriptions clôturées FLEMALLE 15/08/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM5, DM7, DD3, DD5, DD7, DMX1, DMX2, DMX3, M1BC1*, M2, M3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées VAUTOUR 15/08/2026 Challenge Clubs 12M U7 JS - U7 Inscriptions clôturées LAUSPRELLEACADEMYASBL 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet Ethias Junior Tour Gr 2 et 3 JAVS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours MANAGE 13/08/2026 Critérium adultes DOubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours PLAINCHAMP 13/08/2026 Critérium adultes Simples/Criterium Senior By Cornet VS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours CHEMINOTSSTGHISLAIN 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet/ Belgian Circuit M1 1 étoile/D1 1 étoile AVS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours KAIN 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet Ethias Junior Tour Gr 1 à 3 JAVS - G151, F151, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours SMASHINGNIVELLOIS 13/08/2026 Critérium adultes Doubles Ethias Junior To"
       },
       "POST /MyAFT/Competitions/CompetitionsTournamentsByRegion ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 219408,
+        "laenge": 223736,
         "turniere": [
           [
             "ANDENNE",
@@ -1827,6 +1827,10 @@
           [
             "CITADELLE",
             "06/08/2026"
+          ],
+          [
+            "CITADELLE",
+            "15/08/2026"
           ],
           [
             "ENGHIEN",
@@ -1967,17 +1971,13 @@
           [
             "NATHAM",
             "06/08/2026"
-          ],
-          [
-            "NATHAM",
-            "13/08/2026"
           ]
         ],
-        "auszug": "TEMPLOUX 17/08/2026 Ethias Junior Tour - Grade 3 (A) J - G113, G133, G153, F113, F133, F153, U93 Inscriptions clôturées BIEVRE 15/08/2026 Critérium senior by Cornet + Critérium Doubles - Doubles Dames TWB AVSD - DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, M504, M505, M352, M353, M354, M355, M356, D251, D252, D253, D254 Inscriptions clôturées FLEMALLE 15/08/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM5, DM7, DD3, DD5, DD7, DMX1, DMX2, DMX3, M1BC1*, M2, M3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées HAUT CLOCHER 13/08/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB - DM5, DM6, DM7, DD5, DD6, DD7, DMX5, DMX6, DMX7, M1BC1*, D1BC1*, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours HOUSSE 13/08/2026 CRITERIUM ADULTES AVSD - DM2, DM3, DM4, DM5, DMX4, DMX5, DMX6, M352, M353, M354, M355, M356, D251, D252 En cours RACKET CLUB HUY 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM3, DM4, DM5, DD3, DD4, DD5, DD6, DMX4, DMX5, M2, M3, M354, M355, M356, D252, D253, D254 En cours JENA 13/08/2026 CRITERIUM ADULTES - BC SD I* - Doubles Dames TWB JAVSD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M604, D401, D402, D403, D404, D1BC1*, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603 En cours LADRIE 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM1, DM3, DM5, DM7, DD1, DD3, DD5, DD7, DMX1, DMX3, DMX5, DMX7, M502, M503, M504, M505, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LIEGEOIS 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM4, DM5, DM6, DM7, DD4, DD5, DD6, DD7, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254 En cours LONGCHAMPS 13/08/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours CENTENAIRE OUGREE 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AD - DM2, DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SMASH 2000 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB VSD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2,"
+        "auszug": "TEMPLOUX 17/08/2026 Ethias Junior Tour - Grade 3 (A) J - G113, G133, G153, F113, F133, F153, U93 Inscriptions clôturées BIEVRE 15/08/2026 Critérium senior by Cornet + Critérium Doubles - Doubles Dames TWB AVSD - DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, M504, M505, M352, M353, M354, M355, M356, D251, D252, D253, D254 Inscriptions clôturées CITADELLE 15/08/2026 Challenge 12 m JS - U7 Inscriptions clôturées FLEMALLE 15/08/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM5, DM7, DD3, DD5, DD7, DMX1, DMX2, DMX3, M1BC1*, M2, M3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées VAUTOUR 15/08/2026 Challenge Clubs 12M U7 JS - U7 Inscriptions clôturées LAUSPRELLEACADEMYASBL 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet Ethias Junior Tour Gr 2 et 3 JAVS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours MANAGE 13/08/2026 Critérium adultes DOubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours PLAINCHAMP 13/08/2026 Critérium adultes Simples/Criterium Senior By Cornet VS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours CHEMINOTSSTGHISLAIN 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet/ Belgian Circuit M1 1 étoile/D1 1 étoile AVS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours KAIN 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet Ethias Junior Tour Gr 1 à 3 JAVS - G151, F151, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours SMASHINGNIVELLOIS 13/08/2026 Critérium adultes Doubles Ethias Junior To"
       },
       "GET /MyAFT/Competitions/CompetitionsTournamentsByRegion ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 219408,
+        "laenge": 223736,
         "turniere": [
           [
             "ANDENNE",
@@ -2074,6 +2074,10 @@
           [
             "CITADELLE",
             "06/08/2026"
+          ],
+          [
+            "CITADELLE",
+            "15/08/2026"
           ],
           [
             "ENGHIEN",
@@ -2214,17 +2218,13 @@
           [
             "NATHAM",
             "06/08/2026"
-          ],
-          [
-            "NATHAM",
-            "13/08/2026"
           ]
         ],
-        "auszug": "TEMPLOUX 17/08/2026 Ethias Junior Tour - Grade 3 (A) J - G113, G133, G153, F113, F133, F153, U93 Inscriptions clôturées BIEVRE 15/08/2026 Critérium senior by Cornet + Critérium Doubles - Doubles Dames TWB AVSD - DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, M504, M505, M352, M353, M354, M355, M356, D251, D252, D253, D254 Inscriptions clôturées FLEMALLE 15/08/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM5, DM7, DD3, DD5, DD7, DMX1, DMX2, DMX3, M1BC1*, M2, M3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées HAUT CLOCHER 13/08/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB - DM5, DM6, DM7, DD5, DD6, DD7, DMX5, DMX6, DMX7, M1BC1*, D1BC1*, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours HOUSSE 13/08/2026 CRITERIUM ADULTES AVSD - DM2, DM3, DM4, DM5, DMX4, DMX5, DMX6, M352, M353, M354, M355, M356, D251, D252 En cours RACKET CLUB HUY 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM3, DM4, DM5, DD3, DD4, DD5, DD6, DMX4, DMX5, M2, M3, M354, M355, M356, D252, D253, D254 En cours JENA 13/08/2026 CRITERIUM ADULTES - BC SD I* - Doubles Dames TWB JAVSD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M604, D401, D402, D403, D404, D1BC1*, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603 En cours LADRIE 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM1, DM3, DM5, DM7, DD1, DD3, DD5, DD7, DMX1, DMX3, DMX5, DMX7, M502, M503, M504, M505, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LIEGEOIS 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM4, DM5, DM6, DM7, DD4, DD5, DD6, DD7, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254 En cours LONGCHAMPS 13/08/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours CENTENAIRE OUGREE 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AD - DM2, DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SMASH 2000 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB VSD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2,"
+        "auszug": "TEMPLOUX 17/08/2026 Ethias Junior Tour - Grade 3 (A) J - G113, G133, G153, F113, F133, F153, U93 Inscriptions clôturées BIEVRE 15/08/2026 Critérium senior by Cornet + Critérium Doubles - Doubles Dames TWB AVSD - DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, M504, M505, M352, M353, M354, M355, M356, D251, D252, D253, D254 Inscriptions clôturées CITADELLE 15/08/2026 Challenge 12 m JS - U7 Inscriptions clôturées FLEMALLE 15/08/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM5, DM7, DD3, DD5, DD7, DMX1, DMX2, DMX3, M1BC1*, M2, M3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées VAUTOUR 15/08/2026 Challenge Clubs 12M U7 JS - U7 Inscriptions clôturées LAUSPRELLEACADEMYASBL 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet Ethias Junior Tour Gr 2 et 3 JAVS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours MANAGE 13/08/2026 Critérium adultes DOubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours PLAINCHAMP 13/08/2026 Critérium adultes Simples/Criterium Senior By Cornet VS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours CHEMINOTSSTGHISLAIN 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet/ Belgian Circuit M1 1 étoile/D1 1 étoile AVS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours KAIN 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet Ethias Junior Tour Gr 1 à 3 JAVS - G151, F151, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours SMASHINGNIVELLOIS 13/08/2026 Critérium adultes Doubles Ethias Junior To"
       },
       "POST /MyAFT/Competitions/CompetitionsTournamentsByRegion ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 219408,
+        "laenge": 223736,
         "turniere": [
           [
             "ANDENNE",
@@ -2321,6 +2321,10 @@
           [
             "CITADELLE",
             "06/08/2026"
+          ],
+          [
+            "CITADELLE",
+            "15/08/2026"
           ],
           [
             "ENGHIEN",
@@ -2461,17 +2465,13 @@
           [
             "NATHAM",
             "06/08/2026"
-          ],
-          [
-            "NATHAM",
-            "13/08/2026"
           ]
         ],
-        "auszug": "TEMPLOUX 17/08/2026 Ethias Junior Tour - Grade 3 (A) J - G113, G133, G153, F113, F133, F153, U93 Inscriptions clôturées BIEVRE 15/08/2026 Critérium senior by Cornet + Critérium Doubles - Doubles Dames TWB AVSD - DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, M504, M505, M352, M353, M354, M355, M356, D251, D252, D253, D254 Inscriptions clôturées FLEMALLE 15/08/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM5, DM7, DD3, DD5, DD7, DMX1, DMX2, DMX3, M1BC1*, M2, M3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées HAUT CLOCHER 13/08/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB - DM5, DM6, DM7, DD5, DD6, DD7, DMX5, DMX6, DMX7, M1BC1*, D1BC1*, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours HOUSSE 13/08/2026 CRITERIUM ADULTES AVSD - DM2, DM3, DM4, DM5, DMX4, DMX5, DMX6, M352, M353, M354, M355, M356, D251, D252 En cours RACKET CLUB HUY 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM3, DM4, DM5, DD3, DD4, DD5, DD6, DMX4, DMX5, M2, M3, M354, M355, M356, D252, D253, D254 En cours JENA 13/08/2026 CRITERIUM ADULTES - BC SD I* - Doubles Dames TWB JAVSD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M604, D401, D402, D403, D404, D1BC1*, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603 En cours LADRIE 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM1, DM3, DM5, DM7, DD1, DD3, DD5, DD7, DMX1, DMX3, DMX5, DMX7, M502, M503, M504, M505, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LIEGEOIS 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM4, DM5, DM6, DM7, DD4, DD5, DD6, DD7, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254 En cours LONGCHAMPS 13/08/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours CENTENAIRE OUGREE 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AD - DM2, DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SMASH 2000 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB VSD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2,"
+        "auszug": "TEMPLOUX 17/08/2026 Ethias Junior Tour - Grade 3 (A) J - G113, G133, G153, F113, F133, F153, U93 Inscriptions clôturées BIEVRE 15/08/2026 Critérium senior by Cornet + Critérium Doubles - Doubles Dames TWB AVSD - DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, M504, M505, M352, M353, M354, M355, M356, D251, D252, D253, D254 Inscriptions clôturées CITADELLE 15/08/2026 Challenge 12 m JS - U7 Inscriptions clôturées FLEMALLE 15/08/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM5, DM7, DD3, DD5, DD7, DMX1, DMX2, DMX3, M1BC1*, M2, M3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées VAUTOUR 15/08/2026 Challenge Clubs 12M U7 JS - U7 Inscriptions clôturées LAUSPRELLEACADEMYASBL 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet Ethias Junior Tour Gr 2 et 3 JAVS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours MANAGE 13/08/2026 Critérium adultes DOubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours PLAINCHAMP 13/08/2026 Critérium adultes Simples/Criterium Senior By Cornet VS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours CHEMINOTSSTGHISLAIN 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet/ Belgian Circuit M1 1 étoile/D1 1 étoile AVS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours KAIN 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet Ethias Junior Tour Gr 1 à 3 JAVS - G151, F151, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours SMASHINGNIVELLOIS 13/08/2026 Critérium adultes Doubles Ethias Junior To"
       },
       "GET /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 219257,
+        "laenge": 223585,
         "turniere": [
           [
             "ANDENNE",
@@ -2568,6 +2568,10 @@
           [
             "CITADELLE",
             "06/08/2026"
+          ],
+          [
+            "CITADELLE",
+            "15/08/2026"
           ],
           [
             "ENGHIEN",
@@ -2708,17 +2712,13 @@
           [
             "NATHAM",
             "06/08/2026"
-          ],
-          [
-            "NATHAM",
-            "13/08/2026"
           ]
         ],
-        "auszug": "TEMPLOUX 17/08/2026 Ethias Junior Tour - Grade 3 (A) J - G113, G133, G153, F113, F133, F153, U93 Inscriptions clôturées BIEVRE 15/08/2026 Critérium senior by Cornet + Critérium Doubles - Doubles Dames TWB AVSD - DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, M504, M505, M352, M353, M354, M355, M356, D251, D252, D253, D254 Inscriptions clôturées FLEMALLE 15/08/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM5, DM7, DD3, DD5, DD7, DMX1, DMX2, DMX3, M1BC1*, M2, M3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées HAUT CLOCHER 13/08/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB - DM5, DM6, DM7, DD5, DD6, DD7, DMX5, DMX6, DMX7, M1BC1*, D1BC1*, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours HOUSSE 13/08/2026 CRITERIUM ADULTES AVSD - DM2, DM3, DM4, DM5, DMX4, DMX5, DMX6, M352, M353, M354, M355, M356, D251, D252 En cours RACKET CLUB HUY 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM3, DM4, DM5, DD3, DD4, DD5, DD6, DMX4, DMX5, M2, M3, M354, M355, M356, D252, D253, D254 En cours JENA 13/08/2026 CRITERIUM ADULTES - BC SD I* - Doubles Dames TWB JAVSD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M604, D401, D402, D403, D404, D1BC1*, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603 En cours LADRIE 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM1, DM3, DM5, DM7, DD1, DD3, DD5, DD7, DMX1, DMX3, DMX5, DMX7, M502, M503, M504, M505, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LIEGEOIS 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM4, DM5, DM6, DM7, DD4, DD5, DD6, DD7, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254 En cours LONGCHAMPS 13/08/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours CENTENAIRE OUGREE 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AD - DM2, DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SMASH 2000 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB VSD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2,"
+        "auszug": "TEMPLOUX 17/08/2026 Ethias Junior Tour - Grade 3 (A) J - G113, G133, G153, F113, F133, F153, U93 Inscriptions clôturées BIEVRE 15/08/2026 Critérium senior by Cornet + Critérium Doubles - Doubles Dames TWB AVSD - DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, M504, M505, M352, M353, M354, M355, M356, D251, D252, D253, D254 Inscriptions clôturées CITADELLE 15/08/2026 Challenge 12 m JS - U7 Inscriptions clôturées FLEMALLE 15/08/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM5, DM7, DD3, DD5, DD7, DMX1, DMX2, DMX3, M1BC1*, M2, M3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées VAUTOUR 15/08/2026 Challenge Clubs 12M U7 JS - U7 Inscriptions clôturées LAUSPRELLEACADEMYASBL 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet Ethias Junior Tour Gr 2 et 3 JAVS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours MANAGE 13/08/2026 Critérium adultes DOubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours PLAINCHAMP 13/08/2026 Critérium adultes Simples/Criterium Senior By Cornet VS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours CHEMINOTSSTGHISLAIN 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet/ Belgian Circuit M1 1 étoile/D1 1 étoile AVS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours KAIN 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet Ethias Junior Tour Gr 1 à 3 JAVS - G151, F151, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours SMASHINGNIVELLOIS 13/08/2026 Critérium adultes Doubles Ethias Junior To"
       },
       "POST /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 219257,
+        "laenge": 223585,
         "turniere": [
           [
             "ANDENNE",
@@ -2815,6 +2815,10 @@
           [
             "CITADELLE",
             "06/08/2026"
+          ],
+          [
+            "CITADELLE",
+            "15/08/2026"
           ],
           [
             "ENGHIEN",
@@ -2955,17 +2959,13 @@
           [
             "NATHAM",
             "06/08/2026"
-          ],
-          [
-            "NATHAM",
-            "13/08/2026"
           ]
         ],
-        "auszug": "TEMPLOUX 17/08/2026 Ethias Junior Tour - Grade 3 (A) J - G113, G133, G153, F113, F133, F153, U93 Inscriptions clôturées BIEVRE 15/08/2026 Critérium senior by Cornet + Critérium Doubles - Doubles Dames TWB AVSD - DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, M504, M505, M352, M353, M354, M355, M356, D251, D252, D253, D254 Inscriptions clôturées FLEMALLE 15/08/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM5, DM7, DD3, DD5, DD7, DMX1, DMX2, DMX3, M1BC1*, M2, M3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées HAUT CLOCHER 13/08/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB - DM5, DM6, DM7, DD5, DD6, DD7, DMX5, DMX6, DMX7, M1BC1*, D1BC1*, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours HOUSSE 13/08/2026 CRITERIUM ADULTES AVSD - DM2, DM3, DM4, DM5, DMX4, DMX5, DMX6, M352, M353, M354, M355, M356, D251, D252 En cours RACKET CLUB HUY 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM3, DM4, DM5, DD3, DD4, DD5, DD6, DMX4, DMX5, M2, M3, M354, M355, M356, D252, D253, D254 En cours JENA 13/08/2026 CRITERIUM ADULTES - BC SD I* - Doubles Dames TWB JAVSD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M604, D401, D402, D403, D404, D1BC1*, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603 En cours LADRIE 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM1, DM3, DM5, DM7, DD1, DD3, DD5, DD7, DMX1, DMX3, DMX5, DMX7, M502, M503, M504, M505, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LIEGEOIS 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM4, DM5, DM6, DM7, DD4, DD5, DD6, DD7, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254 En cours LONGCHAMPS 13/08/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours CENTENAIRE OUGREE 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AD - DM2, DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SMASH 2000 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB VSD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2,"
+        "auszug": "TEMPLOUX 17/08/2026 Ethias Junior Tour - Grade 3 (A) J - G113, G133, G153, F113, F133, F153, U93 Inscriptions clôturées BIEVRE 15/08/2026 Critérium senior by Cornet + Critérium Doubles - Doubles Dames TWB AVSD - DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, M504, M505, M352, M353, M354, M355, M356, D251, D252, D253, D254 Inscriptions clôturées CITADELLE 15/08/2026 Challenge 12 m JS - U7 Inscriptions clôturées FLEMALLE 15/08/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM5, DM7, DD3, DD5, DD7, DMX1, DMX2, DMX3, M1BC1*, M2, M3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées VAUTOUR 15/08/2026 Challenge Clubs 12M U7 JS - U7 Inscriptions clôturées LAUSPRELLEACADEMYASBL 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet Ethias Junior Tour Gr 2 et 3 JAVS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours MANAGE 13/08/2026 Critérium adultes DOubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours PLAINCHAMP 13/08/2026 Critérium adultes Simples/Criterium Senior By Cornet VS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours CHEMINOTSSTGHISLAIN 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet/ Belgian Circuit M1 1 étoile/D1 1 étoile AVS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours KAIN 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet Ethias Junior Tour Gr 1 à 3 JAVS - G151, F151, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours SMASHINGNIVELLOIS 13/08/2026 Critérium adultes Doubles Ethias Junior To"
       },
       "GET /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 219257,
+        "laenge": 223585,
         "turniere": [
           [
             "ANDENNE",
@@ -3062,6 +3062,10 @@
           [
             "CITADELLE",
             "06/08/2026"
+          ],
+          [
+            "CITADELLE",
+            "15/08/2026"
           ],
           [
             "ENGHIEN",
@@ -3202,17 +3206,13 @@
           [
             "NATHAM",
             "06/08/2026"
-          ],
-          [
-            "NATHAM",
-            "13/08/2026"
           ]
         ],
-        "auszug": "TEMPLOUX 17/08/2026 Ethias Junior Tour - Grade 3 (A) J - G113, G133, G153, F113, F133, F153, U93 Inscriptions clôturées BIEVRE 15/08/2026 Critérium senior by Cornet + Critérium Doubles - Doubles Dames TWB AVSD - DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, M504, M505, M352, M353, M354, M355, M356, D251, D252, D253, D254 Inscriptions clôturées FLEMALLE 15/08/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM5, DM7, DD3, DD5, DD7, DMX1, DMX2, DMX3, M1BC1*, M2, M3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées HAUT CLOCHER 13/08/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB - DM5, DM6, DM7, DD5, DD6, DD7, DMX5, DMX6, DMX7, M1BC1*, D1BC1*, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours HOUSSE 13/08/2026 CRITERIUM ADULTES AVSD - DM2, DM3, DM4, DM5, DMX4, DMX5, DMX6, M352, M353, M354, M355, M356, D251, D252 En cours RACKET CLUB HUY 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM3, DM4, DM5, DD3, DD4, DD5, DD6, DMX4, DMX5, M2, M3, M354, M355, M356, D252, D253, D254 En cours JENA 13/08/2026 CRITERIUM ADULTES - BC SD I* - Doubles Dames TWB JAVSD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M604, D401, D402, D403, D404, D1BC1*, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603 En cours LADRIE 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM1, DM3, DM5, DM7, DD1, DD3, DD5, DD7, DMX1, DMX3, DMX5, DMX7, M502, M503, M504, M505, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LIEGEOIS 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM4, DM5, DM6, DM7, DD4, DD5, DD6, DD7, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254 En cours LONGCHAMPS 13/08/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours CENTENAIRE OUGREE 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AD - DM2, DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SMASH 2000 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB VSD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2,"
+        "auszug": "TEMPLOUX 17/08/2026 Ethias Junior Tour - Grade 3 (A) J - G113, G133, G153, F113, F133, F153, U93 Inscriptions clôturées BIEVRE 15/08/2026 Critérium senior by Cornet + Critérium Doubles - Doubles Dames TWB AVSD - DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, M504, M505, M352, M353, M354, M355, M356, D251, D252, D253, D254 Inscriptions clôturées CITADELLE 15/08/2026 Challenge 12 m JS - U7 Inscriptions clôturées FLEMALLE 15/08/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM5, DM7, DD3, DD5, DD7, DMX1, DMX2, DMX3, M1BC1*, M2, M3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées VAUTOUR 15/08/2026 Challenge Clubs 12M U7 JS - U7 Inscriptions clôturées LAUSPRELLEACADEMYASBL 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet Ethias Junior Tour Gr 2 et 3 JAVS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours MANAGE 13/08/2026 Critérium adultes DOubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours PLAINCHAMP 13/08/2026 Critérium adultes Simples/Criterium Senior By Cornet VS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours CHEMINOTSSTGHISLAIN 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet/ Belgian Circuit M1 1 étoile/D1 1 étoile AVS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours KAIN 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet Ethias Junior Tour Gr 1 à 3 JAVS - G151, F151, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours SMASHINGNIVELLOIS 13/08/2026 Critérium adultes Doubles Ethias Junior To"
       },
       "POST /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 219257,
+        "laenge": 223585,
         "turniere": [
           [
             "ANDENNE",
@@ -3309,6 +3309,10 @@
           [
             "CITADELLE",
             "06/08/2026"
+          ],
+          [
+            "CITADELLE",
+            "15/08/2026"
           ],
           [
             "ENGHIEN",
@@ -3449,17 +3453,13 @@
           [
             "NATHAM",
             "06/08/2026"
-          ],
-          [
-            "NATHAM",
-            "13/08/2026"
           ]
         ],
-        "auszug": "TEMPLOUX 17/08/2026 Ethias Junior Tour - Grade 3 (A) J - G113, G133, G153, F113, F133, F153, U93 Inscriptions clôturées BIEVRE 15/08/2026 Critérium senior by Cornet + Critérium Doubles - Doubles Dames TWB AVSD - DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, M504, M505, M352, M353, M354, M355, M356, D251, D252, D253, D254 Inscriptions clôturées FLEMALLE 15/08/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM5, DM7, DD3, DD5, DD7, DMX1, DMX2, DMX3, M1BC1*, M2, M3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées HAUT CLOCHER 13/08/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB - DM5, DM6, DM7, DD5, DD6, DD7, DMX5, DMX6, DMX7, M1BC1*, D1BC1*, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours HOUSSE 13/08/2026 CRITERIUM ADULTES AVSD - DM2, DM3, DM4, DM5, DMX4, DMX5, DMX6, M352, M353, M354, M355, M356, D251, D252 En cours RACKET CLUB HUY 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM3, DM4, DM5, DD3, DD4, DD5, DD6, DMX4, DMX5, M2, M3, M354, M355, M356, D252, D253, D254 En cours JENA 13/08/2026 CRITERIUM ADULTES - BC SD I* - Doubles Dames TWB JAVSD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M604, D401, D402, D403, D404, D1BC1*, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603 En cours LADRIE 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM1, DM3, DM5, DM7, DD1, DD3, DD5, DD7, DMX1, DMX3, DMX5, DMX7, M502, M503, M504, M505, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LIEGEOIS 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM4, DM5, DM6, DM7, DD4, DD5, DD6, DD7, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254 En cours LONGCHAMPS 13/08/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours CENTENAIRE OUGREE 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AD - DM2, DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SMASH 2000 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB VSD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2,"
+        "auszug": "TEMPLOUX 17/08/2026 Ethias Junior Tour - Grade 3 (A) J - G113, G133, G153, F113, F133, F153, U93 Inscriptions clôturées BIEVRE 15/08/2026 Critérium senior by Cornet + Critérium Doubles - Doubles Dames TWB AVSD - DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, M504, M505, M352, M353, M354, M355, M356, D251, D252, D253, D254 Inscriptions clôturées CITADELLE 15/08/2026 Challenge 12 m JS - U7 Inscriptions clôturées FLEMALLE 15/08/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM5, DM7, DD3, DD5, DD7, DMX1, DMX2, DMX3, M1BC1*, M2, M3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées VAUTOUR 15/08/2026 Challenge Clubs 12M U7 JS - U7 Inscriptions clôturées LAUSPRELLEACADEMYASBL 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet Ethias Junior Tour Gr 2 et 3 JAVS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours MANAGE 13/08/2026 Critérium adultes DOubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours PLAINCHAMP 13/08/2026 Critérium adultes Simples/Criterium Senior By Cornet VS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours CHEMINOTSSTGHISLAIN 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet/ Belgian Circuit M1 1 étoile/D1 1 étoile AVS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours KAIN 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet Ethias Junior Tour Gr 1 à 3 JAVS - G151, F151, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours SMASHINGNIVELLOIS 13/08/2026 Critérium adultes Doubles Ethias Junior To"
       },
       "GET /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 219257,
+        "laenge": 223585,
         "turniere": [
           [
             "ANDENNE",
@@ -3556,6 +3556,10 @@
           [
             "CITADELLE",
             "06/08/2026"
+          ],
+          [
+            "CITADELLE",
+            "15/08/2026"
           ],
           [
             "ENGHIEN",
@@ -3696,17 +3700,13 @@
           [
             "NATHAM",
             "06/08/2026"
-          ],
-          [
-            "NATHAM",
-            "13/08/2026"
           ]
         ],
-        "auszug": "TEMPLOUX 17/08/2026 Ethias Junior Tour - Grade 3 (A) J - G113, G133, G153, F113, F133, F153, U93 Inscriptions clôturées BIEVRE 15/08/2026 Critérium senior by Cornet + Critérium Doubles - Doubles Dames TWB AVSD - DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, M504, M505, M352, M353, M354, M355, M356, D251, D252, D253, D254 Inscriptions clôturées FLEMALLE 15/08/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM5, DM7, DD3, DD5, DD7, DMX1, DMX2, DMX3, M1BC1*, M2, M3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées HAUT CLOCHER 13/08/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB - DM5, DM6, DM7, DD5, DD6, DD7, DMX5, DMX6, DMX7, M1BC1*, D1BC1*, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours HOUSSE 13/08/2026 CRITERIUM ADULTES AVSD - DM2, DM3, DM4, DM5, DMX4, DMX5, DMX6, M352, M353, M354, M355, M356, D251, D252 En cours RACKET CLUB HUY 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM3, DM4, DM5, DD3, DD4, DD5, DD6, DMX4, DMX5, M2, M3, M354, M355, M356, D252, D253, D254 En cours JENA 13/08/2026 CRITERIUM ADULTES - BC SD I* - Doubles Dames TWB JAVSD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M604, D401, D402, D403, D404, D1BC1*, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603 En cours LADRIE 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM1, DM3, DM5, DM7, DD1, DD3, DD5, DD7, DMX1, DMX3, DMX5, DMX7, M502, M503, M504, M505, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LIEGEOIS 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM4, DM5, DM6, DM7, DD4, DD5, DD6, DD7, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254 En cours LONGCHAMPS 13/08/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours CENTENAIRE OUGREE 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AD - DM2, DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SMASH 2000 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB VSD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2,"
+        "auszug": "TEMPLOUX 17/08/2026 Ethias Junior Tour - Grade 3 (A) J - G113, G133, G153, F113, F133, F153, U93 Inscriptions clôturées BIEVRE 15/08/2026 Critérium senior by Cornet + Critérium Doubles - Doubles Dames TWB AVSD - DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, M504, M505, M352, M353, M354, M355, M356, D251, D252, D253, D254 Inscriptions clôturées CITADELLE 15/08/2026 Challenge 12 m JS - U7 Inscriptions clôturées FLEMALLE 15/08/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM5, DM7, DD3, DD5, DD7, DMX1, DMX2, DMX3, M1BC1*, M2, M3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées VAUTOUR 15/08/2026 Challenge Clubs 12M U7 JS - U7 Inscriptions clôturées LAUSPRELLEACADEMYASBL 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet Ethias Junior Tour Gr 2 et 3 JAVS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours MANAGE 13/08/2026 Critérium adultes DOubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours PLAINCHAMP 13/08/2026 Critérium adultes Simples/Criterium Senior By Cornet VS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours CHEMINOTSSTGHISLAIN 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet/ Belgian Circuit M1 1 étoile/D1 1 étoile AVS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours KAIN 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet Ethias Junior Tour Gr 1 à 3 JAVS - G151, F151, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours SMASHINGNIVELLOIS 13/08/2026 Critérium adultes Doubles Ethias Junior To"
       },
       "POST /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 219257,
+        "laenge": 223585,
         "turniere": [
           [
             "ANDENNE",
@@ -3803,6 +3803,10 @@
           [
             "CITADELLE",
             "06/08/2026"
+          ],
+          [
+            "CITADELLE",
+            "15/08/2026"
           ],
           [
             "ENGHIEN",
@@ -3943,17 +3947,13 @@
           [
             "NATHAM",
             "06/08/2026"
-          ],
-          [
-            "NATHAM",
-            "13/08/2026"
           ]
         ],
-        "auszug": "TEMPLOUX 17/08/2026 Ethias Junior Tour - Grade 3 (A) J - G113, G133, G153, F113, F133, F153, U93 Inscriptions clôturées BIEVRE 15/08/2026 Critérium senior by Cornet + Critérium Doubles - Doubles Dames TWB AVSD - DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, M504, M505, M352, M353, M354, M355, M356, D251, D252, D253, D254 Inscriptions clôturées FLEMALLE 15/08/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM5, DM7, DD3, DD5, DD7, DMX1, DMX2, DMX3, M1BC1*, M2, M3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées HAUT CLOCHER 13/08/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB - DM5, DM6, DM7, DD5, DD6, DD7, DMX5, DMX6, DMX7, M1BC1*, D1BC1*, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours HOUSSE 13/08/2026 CRITERIUM ADULTES AVSD - DM2, DM3, DM4, DM5, DMX4, DMX5, DMX6, M352, M353, M354, M355, M356, D251, D252 En cours RACKET CLUB HUY 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM3, DM4, DM5, DD3, DD4, DD5, DD6, DMX4, DMX5, M2, M3, M354, M355, M356, D252, D253, D254 En cours JENA 13/08/2026 CRITERIUM ADULTES - BC SD I* - Doubles Dames TWB JAVSD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M604, D401, D402, D403, D404, D1BC1*, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603 En cours LADRIE 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM1, DM3, DM5, DM7, DD1, DD3, DD5, DD7, DMX1, DMX3, DMX5, DMX7, M502, M503, M504, M505, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LIEGEOIS 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM4, DM5, DM6, DM7, DD4, DD5, DD6, DD7, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254 En cours LONGCHAMPS 13/08/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours CENTENAIRE OUGREE 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB AD - DM2, DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SMASH 2000 13/08/2026 CRITERIUM ADULTES - Doubles Dames TWB VSD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2,"
+        "auszug": "TEMPLOUX 17/08/2026 Ethias Junior Tour - Grade 3 (A) J - G113, G133, G153, F113, F133, F153, U93 Inscriptions clôturées BIEVRE 15/08/2026 Critérium senior by Cornet + Critérium Doubles - Doubles Dames TWB AVSD - DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, M504, M505, M352, M353, M354, M355, M356, D251, D252, D253, D254 Inscriptions clôturées CITADELLE 15/08/2026 Challenge 12 m JS - U7 Inscriptions clôturées FLEMALLE 15/08/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM5, DM7, DD3, DD5, DD7, DMX1, DMX2, DMX3, M1BC1*, M2, M3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées VAUTOUR 15/08/2026 Challenge Clubs 12M U7 JS - U7 Inscriptions clôturées LAUSPRELLEACADEMYASBL 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet Ethias Junior Tour Gr 2 et 3 JAVS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours MANAGE 13/08/2026 Critérium adultes DOubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours PLAINCHAMP 13/08/2026 Critérium adultes Simples/Criterium Senior By Cornet VS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours CHEMINOTSSTGHISLAIN 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet/ Belgian Circuit M1 1 étoile/D1 1 étoile AVS - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours KAIN 13/08/2026 Critérium adultes Simples/Critérium senior by Cornet Ethias Junior Tour Gr 1 à 3 JAVS - G151, F151, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours SMASHINGNIVELLOIS 13/08/2026 Critérium adultes Doubles Ethias Junior To"
       },
       "GET /MyAFT/Competitions/TournamentNews []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 111443,
+        "laenge": 111716,
         "turniere": [
           [
             "ASA TENNIS",
@@ -4096,7 +4096,7 @@
       },
       "POST /MyAFT/Competitions/TournamentNews []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 111443,
+        "laenge": 111716,
         "turniere": [
           [
             "ASA TENNIS",
@@ -4239,7 +4239,7 @@
       },
       "GET /MyAFT/Competitions/TournamentNews ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 111443,
+        "laenge": 111716,
         "turniere": [
           [
             "ASA TENNIS",
@@ -4382,7 +4382,7 @@
       },
       "POST /MyAFT/Competitions/TournamentNews ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 111443,
+        "laenge": 111716,
         "turniere": [
           [
             "ASA TENNIS",
@@ -4525,7 +4525,7 @@
       },
       "GET /MyAFT/Competitions/TournamentNews ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 111443,
+        "laenge": 111716,
         "turniere": [
           [
             "ASA TENNIS",
@@ -4668,7 +4668,7 @@
       },
       "POST /MyAFT/Competitions/TournamentNews ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 111443,
+        "laenge": 111716,
         "turniere": [
           [
             "ASA TENNIS",
@@ -5054,7 +5054,7 @@
             "18/12/2025"
           ]
         ],
-        "auszug": "HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M501, M503, F151, G151, M502, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DD3, DM3, DD6, DMX3, DM6, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G131, G132, G152, G153, F111, F112, F131, F132, F152, F153, U91, U92 Terminé PLAINCHAMP 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé KALYPSO 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - F151, G151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DM2, DM3, DM1, DM5, DD6, DMX5, DD1, DD2, DMX1, DMX6, DD4, DMX3, DMX4, DMX7, DM6, DD7, DM7, DM4, DD5, DMX2, DD3 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3"
+        "auszug": "HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M502, M503, M501, G151, F151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DD3, DM3, DD6, DMX3, DM6, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G131, G132, G152, G153, F111, F112, F131, F132, F152, F153, U91, U92 Terminé PLAINCHAMP 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé KALYPSO 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - F151, G151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD3, DMX7, DD6, DMX5, DM7, DM6, DD7, DD5, DMX2, DD4, DMX3, DMX4, DM1, DM5, DMX6, DD2, DMX1, DM2, DM3, DM4, DD1 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3"
       },
       "POST /MyAFT/Competitions/TournamentSearchResultData ['regionId']": {
         "content_type": "text/html; charset=utf-8",
@@ -5301,7 +5301,7 @@
             "18/12/2025"
           ]
         ],
-        "auszug": "HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M503, M502, G151, M501, F151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DD3, DM6, DMX3, DD6, DM3, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G131, G132, G152, G153, F111, F112, F131, F132, F152, F153, U91, U92 Terminé PLAINCHAMP 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé KALYPSO 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - F151, G151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD2, DMX1, DMX6, DD1, DM6, DD7, DD4, DMX3, DMX4, DM1, DM5, DD3, DD6, DMX5, DM7, DM2, DM3, DMX7, DM4, DD5, DMX2 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3"
+        "auszug": "BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD6, DMX5, DM7, DD3, DM6, DD7, DD4, DMX3, DMX4, DMX7, DD1, DD5, DMX2, DMX6, DM2, DM3, DD2, DMX1, DM4, DM1, DM5 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3, M4, M5, M6, D2, D3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé HAILLOT 16/10/2025 AD Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD7, DD4, DD5, DD6 Terminé LAMBERMONT (BRABANT) 18/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes & Ethias Junior Tour - G151, M504, M505, F151, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - G151, M502, M503, M501, F151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DD3, DMX3, DM6, DM3, DD6, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G13"
       },
       "POST /MyAFT/Competitions/TournamentSearchResultData ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
@@ -5548,11 +5548,11 @@
             "18/12/2025"
           ]
         ],
-        "auszug": "HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - F151, M502, G151, M501, M503, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DD3, DD6, DM6, DM3, DMX6, DMX3, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G131, G132, G152, G153, F111, F112, F131, F132, F152, F153, U91, U92 Terminé PLAINCHAMP 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - F151, G151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé KALYPSO 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DM6, DD7, DD6, DMX5, DMX7, DD3, DM7, DD4, DMX3, DMX4, DD5, DMX2, DM1, DM5, DM2, DM3, DMX6, DD2, DMX1, DD1, DM4 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3"
+        "auszug": "BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DM1, DM5, DM7, DM6, DD7, DM2, DM3, DD4, DMX3, DMX4, DD6, DMX5, DMX7, DM4, DD5, DD3, DMX2, DD2, DMX1, DMX6, DD1 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3, M4, M5, M6, D2, D3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé HAILLOT 16/10/2025 AD Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD4, DD7, DD6, DD5 Terminé LAMBERMONT (BRABANT) 18/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes & Ethias Junior Tour - M504, M505, G151, F151, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M501, M503, F151, M502, G151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DM6, DMX3, DD6, DD3, DM3, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G13"
       },
       "GET /MyAFT/Competitions/Tournaments []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 258253,
+        "laenge": 258526,
         "turniere": [
           [
             "ASA TENNIS",
@@ -5695,7 +5695,7 @@
       },
       "POST /MyAFT/Competitions/Tournaments []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 258253,
+        "laenge": 258526,
         "turniere": [
           [
             "ASA TENNIS",
@@ -5838,7 +5838,7 @@
       },
       "GET /MyAFT/Competitions/Tournaments ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 258253,
+        "laenge": 258526,
         "turniere": [
           [
             "ASA TENNIS",
@@ -5981,7 +5981,7 @@
       },
       "POST /MyAFT/Competitions/Tournaments ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 258253,
+        "laenge": 258526,
         "turniere": [
           [
             "ASA TENNIS",
@@ -6124,7 +6124,7 @@
       },
       "GET /MyAFT/Competitions/Tournaments ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 258253,
+        "laenge": 258526,
         "turniere": [
           [
             "ASA TENNIS",
@@ -6267,7 +6267,7 @@
       },
       "POST /MyAFT/Competitions/Tournaments ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 258253,
+        "laenge": 258526,
         "turniere": [
           [
             "ASA TENNIS",
@@ -11394,6 +11394,53 @@
         "provinz": "Brabant/Bruessel"
       },
       {
+        "id": "361815",
+        "ort": "SMASH 51",
+        "start": "27/08/2026",
+        "anmeldung_bis": "25/08/2026",
+        "status": "",
+        "beschreibung": "CRITERIUM ADULTES - BC SD I* - Doubles Dames TWB",
+        "kategorien": [
+          "D2",
+          "D3",
+          "D4",
+          "D5",
+          "DD2",
+          "DD3",
+          "DD4",
+          "DD5",
+          "DD6",
+          "DM1",
+          "DM2",
+          "DM3",
+          "DM4",
+          "DM5",
+          "DM6",
+          "DMX1",
+          "DMX2",
+          "DMX3",
+          "DMX4",
+          "DMX5",
+          "DMX6",
+          "M351",
+          "M352",
+          "M353",
+          "M354",
+          "M355",
+          "M356",
+          "M503",
+          "M504",
+          "M505"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": true,
+        "fuer_c306": true,
+        "klubcode": "4015",
+        "klub_voll": "T.C. SMASH 51",
+        "provinz": "Luettich"
+      },
+      {
         "id": "361816",
         "ort": "STANDARD",
         "start": "27/08/2026",
@@ -11467,53 +11514,6 @@
         "klubcode": "6050",
         "klub_voll": "T.C. INCOURT",
         "provinz": "Luxemburg"
-      },
-      {
-        "id": "361815",
-        "ort": "SMASH 51",
-        "start": "27/08/2026",
-        "anmeldung_bis": "25/08/2026",
-        "status": "",
-        "beschreibung": "CRITERIUM ADULTES - BC SD I* - Doubles Dames TWB",
-        "kategorien": [
-          "D2",
-          "D3",
-          "D4",
-          "D5",
-          "DD2",
-          "DD3",
-          "DD4",
-          "DD5",
-          "DD6",
-          "DM1",
-          "DM2",
-          "DM3",
-          "DM4",
-          "DM5",
-          "DM6",
-          "DMX1",
-          "DMX2",
-          "DMX3",
-          "DMX4",
-          "DMX5",
-          "DMX6",
-          "M351",
-          "M352",
-          "M353",
-          "M354",
-          "M355",
-          "M356",
-          "M503",
-          "M504",
-          "M505"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": false,
-        "hat_M356": true,
-        "fuer_c306": true,
-        "klubcode": "4015",
-        "klub_voll": "T.C. SMASH 51",
-        "provinz": "Luettich"
       },
       {
         "id": "362250",
@@ -12127,6 +12127,22 @@
         "provinz": "?"
       },
       {
+        "id": "361966",
+        "ort": "BAUDOUIN (Brabant)",
+        "start": "27/08/2026",
+        "anmeldung_bis": "25/08/2026",
+        "status": "",
+        "beschreibung": "",
+        "kategorien": [],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": false,
+        "fuer_c306": true,
+        "klubcode": "1005",
+        "klub_voll": "R. BAUDOUIN CLUB (Brabant)",
+        "provinz": "Brabant/Bruessel"
+      },
+      {
         "id": "362381",
         "ort": "ATH",
         "start": "27/08/2026",
@@ -12344,48 +12360,6 @@
         "fuer_c306": true
       },
       {
-        "id": "361966",
-        "ort": "BAUDOUIN (Brabant)",
-        "start": "27/08/2026",
-        "anmeldung_bis": "25/08/2026",
-        "status": "",
-        "beschreibung": "",
-        "kategorien": [],
-        "anmeldeoeffnung": [],
-        "hat_M6": false,
-        "hat_M356": false,
-        "fuer_c306": true,
-        "klubcode": "1005",
-        "klub_voll": "R. BAUDOUIN CLUB (Brabant)",
-        "provinz": "Brabant/Bruessel"
-      },
-      {
-        "id": "361970",
-        "ort": "MOUNIER",
-        "start": "27/08/2026",
-        "anmeldung_bis": "25/08/2026",
-        "status": "",
-        "beschreibung": "",
-        "kategorien": [
-          "D2",
-          "D3",
-          "D4",
-          "D5",
-          "M2",
-          "M3",
-          "M4",
-          "M5",
-          "M6"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": true,
-        "hat_M356": false,
-        "fuer_c306": true,
-        "klubcode": "1099",
-        "klub_voll": "T.C. MOUNIER",
-        "provinz": "Brabant/Bruessel"
-      },
-      {
         "id": "361967",
         "ort": "B. SPORTS",
         "start": "27/08/2026",
@@ -12425,6 +12399,32 @@
         "fuer_c306": true,
         "klubcode": "1095",
         "klub_voll": "B.SPORTS",
+        "provinz": "Brabant/Bruessel"
+      },
+      {
+        "id": "361970",
+        "ort": "MOUNIER",
+        "start": "27/08/2026",
+        "anmeldung_bis": "25/08/2026",
+        "status": "",
+        "beschreibung": "",
+        "kategorien": [
+          "D2",
+          "D3",
+          "D4",
+          "D5",
+          "M2",
+          "M3",
+          "M4",
+          "M5",
+          "M6"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": true,
+        "hat_M356": false,
+        "fuer_c306": true,
+        "klubcode": "1099",
+        "klub_voll": "T.C. MOUNIER",
         "provinz": "Brabant/Bruessel"
       },
       {
@@ -12642,8 +12642,44 @@
         "provinz": "Luxemburg"
       },
       {
-        "id": "362389",
-        "ort": "FONTAINOIS",
+        "id": "362262",
+        "ort": "LA BRUYERE",
+        "start": "03/09/2026",
+        "anmeldung_bis": "01/09/2026",
+        "status": "",
+        "beschreibung": "",
+        "kategorien": [
+          "D2",
+          "D251",
+          "D252",
+          "D253",
+          "D254",
+          "D3",
+          "D4",
+          "D5",
+          "M351",
+          "M352",
+          "M353",
+          "M354",
+          "M355",
+          "M356",
+          "M501",
+          "M502",
+          "M503",
+          "M504",
+          "M505"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": true,
+        "fuer_c306": true,
+        "klubcode": "6026",
+        "klub_voll": "T.C. LA BRUYERE",
+        "provinz": "Luxemburg"
+      },
+      {
+        "id": "362263",
+        "ort": "LIBRAMONT",
         "start": "03/09/2026",
         "anmeldung_bis": "01/09/2026",
         "status": "",
@@ -12675,19 +12711,18 @@
         "hat_M6": false,
         "hat_M356": false,
         "fuer_c306": true,
-        "klubcode": "3016",
-        "klub_voll": "T.C. FONTAINOIS",
-        "provinz": "?"
+        "klubcode": "4133",
+        "klub_voll": "T.C. MONT",
+        "provinz": "Luettich"
       },
       {
-        "id": "362390",
-        "ort": "NAASTTENNIS",
+        "id": "361819",
+        "ort": "COINTE",
         "start": "03/09/2026",
         "anmeldung_bis": "01/09/2026",
         "status": "",
-        "beschreibung": "",
+        "beschreibung": "CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB",
         "kategorien": [
-          "DD1",
           "DD2",
           "DD3",
           "DD4",
@@ -12712,11 +12747,50 @@
         "anmeldeoeffnung": [],
         "hat_M6": false,
         "hat_M356": false,
-        "fuer_c306": true
+        "fuer_c306": true,
+        "klubcode": "4030",
+        "klub_voll": "R.T.C. COINTE",
+        "provinz": "Luettich"
       },
       {
-        "id": "362388",
-        "ort": "BEAUMONT",
+        "id": "361820",
+        "ort": "GRIVEGNEE",
+        "start": "03/09/2026",
+        "anmeldung_bis": "01/09/2026",
+        "status": "",
+        "beschreibung": "CRITERIUM ADULTES - Doubles Dames TWB",
+        "kategorien": [
+          "D2",
+          "D3",
+          "D4",
+          "D401",
+          "D402",
+          "D403",
+          "D404",
+          "D5",
+          "DD3",
+          "DD4",
+          "DD5",
+          "DM3",
+          "DM4",
+          "DM5",
+          "M2",
+          "M3",
+          "M4",
+          "M5",
+          "M6"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": true,
+        "hat_M356": false,
+        "fuer_c306": true,
+        "klubcode": "4069",
+        "klub_voll": "R.T.C. GRIVEGNEE",
+        "provinz": "Luettich"
+      },
+      {
+        "id": "362392",
+        "ort": "MOUSCRONTC",
         "start": "03/09/2026",
         "anmeldung_bis": "01/09/2026",
         "status": "",
@@ -12760,10 +12834,42 @@
         "anmeldeoeffnung": [],
         "hat_M6": true,
         "hat_M356": true,
-        "fuer_c306": true,
-        "klubcode": "3067",
-        "klub_voll": "Grand Vivier Beaumontois",
-        "provinz": "?"
+        "fuer_c306": true
+      },
+      {
+        "id": "362393",
+        "ort": "MOUSCRONTU",
+        "start": "03/09/2026",
+        "anmeldung_bis": "01/09/2026",
+        "status": "",
+        "beschreibung": "",
+        "kategorien": [
+          "DD1",
+          "DD2",
+          "DD3",
+          "DD4",
+          "DD5",
+          "DD6",
+          "DD7",
+          "DM1",
+          "DM2",
+          "DM3",
+          "DM4",
+          "DM5",
+          "DM6",
+          "DM7",
+          "DMX1",
+          "DMX2",
+          "DMX3",
+          "DMX4",
+          "DMX5",
+          "DMX6",
+          "DMX7"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": false,
+        "fuer_c306": true
       },
       {
         "id": "361971",
@@ -12812,100 +12918,6 @@
         "hat_M6": true,
         "hat_M356": true,
         "fuer_c306": true
-      },
-      {
-        "id": "362386",
-        "ort": "MANAGE",
-        "start": "03/09/2026",
-        "anmeldung_bis": "01/09/2026",
-        "status": "",
-        "beschreibung": "",
-        "kategorien": [
-          "D251",
-          "D252",
-          "D253",
-          "D254",
-          "D401",
-          "D402",
-          "D403",
-          "D404",
-          "D551",
-          "D552",
-          "D553",
-          "M351",
-          "M352",
-          "M353",
-          "M354",
-          "M355",
-          "M356",
-          "M501",
-          "M502",
-          "M503",
-          "M504",
-          "M505",
-          "M601",
-          "M602",
-          "M603",
-          "M604"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": false,
-        "hat_M356": true,
-        "fuer_c306": true,
-        "klubcode": "3038",
-        "klub_voll": "T.C. MANAGE",
-        "provinz": "?"
-      },
-      {
-        "id": "362387",
-        "ort": "TC DOUR - LE BELVÉDÈRE",
-        "start": "03/09/2026",
-        "anmeldung_bis": "01/09/2026",
-        "status": "",
-        "beschreibung": "",
-        "kategorien": [
-          "D2",
-          "D251",
-          "D252",
-          "D253",
-          "D254",
-          "D3",
-          "D4",
-          "D401",
-          "D402",
-          "D403",
-          "D404",
-          "D5",
-          "D551",
-          "D552",
-          "D553",
-          "M2",
-          "M3",
-          "M352",
-          "M353",
-          "M354",
-          "M355",
-          "M356",
-          "M4",
-          "M5",
-          "M501",
-          "M502",
-          "M503",
-          "M504",
-          "M505",
-          "M6",
-          "M601",
-          "M602",
-          "M603",
-          "M604"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": true,
-        "hat_M356": true,
-        "fuer_c306": true,
-        "klubcode": "3060",
-        "klub_voll": "TC DOUR - Le Belvédère",
-        "provinz": "?"
       },
       {
         "id": "361972",
@@ -13049,8 +13061,51 @@
         "provinz": "?"
       },
       {
-        "id": "362392",
-        "ort": "MOUSCRONTC",
+        "id": "362386",
+        "ort": "MANAGE",
+        "start": "03/09/2026",
+        "anmeldung_bis": "01/09/2026",
+        "status": "",
+        "beschreibung": "",
+        "kategorien": [
+          "D251",
+          "D252",
+          "D253",
+          "D254",
+          "D401",
+          "D402",
+          "D403",
+          "D404",
+          "D551",
+          "D552",
+          "D553",
+          "M351",
+          "M352",
+          "M353",
+          "M354",
+          "M355",
+          "M356",
+          "M501",
+          "M502",
+          "M503",
+          "M504",
+          "M505",
+          "M601",
+          "M602",
+          "M603",
+          "M604"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": true,
+        "fuer_c306": true,
+        "klubcode": "3038",
+        "klub_voll": "T.C. MANAGE",
+        "provinz": "?"
+      },
+      {
+        "id": "362387",
+        "ort": "TC DOUR - LE BELVÉDÈRE",
         "start": "03/09/2026",
         "anmeldung_bis": "01/09/2026",
         "status": "",
@@ -13094,11 +13149,103 @@
         "anmeldeoeffnung": [],
         "hat_M6": true,
         "hat_M356": true,
-        "fuer_c306": true
+        "fuer_c306": true,
+        "klubcode": "3060",
+        "klub_voll": "TC DOUR - Le Belvédère",
+        "provinz": "?"
       },
       {
-        "id": "362393",
-        "ort": "MOUSCRONTU",
+        "id": "362388",
+        "ort": "BEAUMONT",
+        "start": "03/09/2026",
+        "anmeldung_bis": "01/09/2026",
+        "status": "",
+        "beschreibung": "",
+        "kategorien": [
+          "D2",
+          "D251",
+          "D252",
+          "D253",
+          "D254",
+          "D3",
+          "D4",
+          "D401",
+          "D402",
+          "D403",
+          "D404",
+          "D5",
+          "D551",
+          "D552",
+          "D553",
+          "M2",
+          "M3",
+          "M352",
+          "M353",
+          "M354",
+          "M355",
+          "M356",
+          "M4",
+          "M5",
+          "M501",
+          "M502",
+          "M503",
+          "M504",
+          "M505",
+          "M6",
+          "M601",
+          "M602",
+          "M603",
+          "M604"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": true,
+        "hat_M356": true,
+        "fuer_c306": true,
+        "klubcode": "3067",
+        "klub_voll": "Grand Vivier Beaumontois",
+        "provinz": "?"
+      },
+      {
+        "id": "362389",
+        "ort": "FONTAINOIS",
+        "start": "03/09/2026",
+        "anmeldung_bis": "01/09/2026",
+        "status": "",
+        "beschreibung": "",
+        "kategorien": [
+          "DD1",
+          "DD2",
+          "DD3",
+          "DD4",
+          "DD5",
+          "DD6",
+          "DD7",
+          "DM1",
+          "DM2",
+          "DM3",
+          "DM4",
+          "DM5",
+          "DM6",
+          "DM7",
+          "DMX1",
+          "DMX2",
+          "DMX3",
+          "DMX4",
+          "DMX5",
+          "DMX6",
+          "DMX7"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": false,
+        "fuer_c306": true,
+        "klubcode": "3016",
+        "klub_voll": "T.C. FONTAINOIS",
+        "provinz": "?"
+      },
+      {
+        "id": "362390",
+        "ort": "NAASTTENNIS",
         "start": "03/09/2026",
         "anmeldung_bis": "01/09/2026",
         "status": "",
@@ -13255,153 +13402,6 @@
         "klubcode": "6033",
         "klub_voll": "T.C. FOSSES-LA-VILLE",
         "provinz": "Luxemburg"
-      },
-      {
-        "id": "362262",
-        "ort": "LA BRUYERE",
-        "start": "03/09/2026",
-        "anmeldung_bis": "01/09/2026",
-        "status": "",
-        "beschreibung": "",
-        "kategorien": [
-          "D2",
-          "D251",
-          "D252",
-          "D253",
-          "D254",
-          "D3",
-          "D4",
-          "D5",
-          "M351",
-          "M352",
-          "M353",
-          "M354",
-          "M355",
-          "M356",
-          "M501",
-          "M502",
-          "M503",
-          "M504",
-          "M505"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": false,
-        "hat_M356": true,
-        "fuer_c306": true,
-        "klubcode": "6026",
-        "klub_voll": "T.C. LA BRUYERE",
-        "provinz": "Luxemburg"
-      },
-      {
-        "id": "362263",
-        "ort": "LIBRAMONT",
-        "start": "03/09/2026",
-        "anmeldung_bis": "01/09/2026",
-        "status": "",
-        "beschreibung": "",
-        "kategorien": [
-          "DD1",
-          "DD2",
-          "DD3",
-          "DD4",
-          "DD5",
-          "DD6",
-          "DD7",
-          "DM1",
-          "DM2",
-          "DM3",
-          "DM4",
-          "DM5",
-          "DM6",
-          "DM7",
-          "DMX1",
-          "DMX2",
-          "DMX3",
-          "DMX4",
-          "DMX5",
-          "DMX6",
-          "DMX7"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": false,
-        "hat_M356": false,
-        "fuer_c306": true,
-        "klubcode": "4133",
-        "klub_voll": "T.C. MONT",
-        "provinz": "Luettich"
-      },
-      {
-        "id": "361819",
-        "ort": "COINTE",
-        "start": "03/09/2026",
-        "anmeldung_bis": "01/09/2026",
-        "status": "",
-        "beschreibung": "CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB",
-        "kategorien": [
-          "DD2",
-          "DD3",
-          "DD4",
-          "DD5",
-          "DD6",
-          "DD7",
-          "DM1",
-          "DM2",
-          "DM3",
-          "DM4",
-          "DM5",
-          "DM6",
-          "DM7",
-          "DMX1",
-          "DMX2",
-          "DMX3",
-          "DMX4",
-          "DMX5",
-          "DMX6",
-          "DMX7"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": false,
-        "hat_M356": false,
-        "fuer_c306": true,
-        "klubcode": "4030",
-        "klub_voll": "R.T.C. COINTE",
-        "provinz": "Luettich"
-      },
-      {
-        "id": "361820",
-        "ort": "GRIVEGNEE",
-        "start": "03/09/2026",
-        "anmeldung_bis": "01/09/2026",
-        "status": "",
-        "beschreibung": "CRITERIUM ADULTES - Doubles Dames TWB",
-        "kategorien": [
-          "D2",
-          "D3",
-          "D4",
-          "D401",
-          "D402",
-          "D403",
-          "D404",
-          "D5",
-          "DD3",
-          "DD4",
-          "DD5",
-          "DM3",
-          "DM4",
-          "DM5",
-          "M2",
-          "M3",
-          "M4",
-          "M5",
-          "M6"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": true,
-        "hat_M356": false,
-        "fuer_c306": true,
-        "klubcode": "4069",
-        "klub_voll": "R.T.C. GRIVEGNEE",
-        "provinz": "Luettich"
       },
       {
         "id": "362264",
@@ -14288,12 +14288,12 @@
         "/MyAFT/Competitions/TournamentDetailCategories?idTournoi=361794&amp;subscrStartDate=20%2F07%2F2026&amp;subscrEndDate=11%2F08%2F2026&amp;displaySubscriptions=False&amp;maxSubscriptions=259&amp;tournoiDescription=SAINT-VITH%2020%2F07%2F2026",
         "/MyAFT/Competitions/TournamentDetailDraw?idTournoi=361794",
         "/MyAFT/Competitions/TournamentDetailRegisters?idTournoi=361794",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=130820261106539784&amp;IdTournoi=361671&amp;PathRules=361671_4067.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=130820261106539799&amp;IdTournoi=361706&amp;PathRules=361706_4091.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=130820261106539814&amp;IdTournoi=361794&amp;PathRules=361794_4077.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=130820261106539829&amp;IdTournoi=361804&amp;PathRules=361804_4081.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=False&amp;IsPublishedDraws=False&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=130820261106539849&amp;IdTournoi=361818&amp;PathRules=361818_4001.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=False&amp;IsPublishedDraws=False&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=130820261106539864&amp;IdTournoi=361825&amp;PathRules=361825_4049.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=False&amp;IsPublishedDraws=False&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=140820261004088578&amp;IdTournoi=361671&amp;PathRules=361671_4067.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=140820261004088593&amp;IdTournoi=361706&amp;PathRules=361706_4091.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=140820261004088608&amp;IdTournoi=361794&amp;PathRules=361794_4077.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=140820261004088624&amp;IdTournoi=361804&amp;PathRules=361804_4081.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=False&amp;IsPublishedDraws=False&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=140820261004088643&amp;IdTournoi=361818&amp;PathRules=361818_4001.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=False&amp;IsPublishedDraws=False&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=140820261004088663&amp;IdTournoi=361825&amp;PathRules=361825_4049.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=False&amp;IsPublishedDraws=False&amp;IsNamurLuxembourg=False",
         "/MyAFT/Players",
         "/MyAFT/Players/Detail",
         "/MyAFT/Players/GetPlayersAutocomplete",
@@ -14313,6 +14313,24 @@
       ],
       "treffer": {
         "/MyAFT/Players/Index ['idTournoi']": {
+          "anzahl": 3,
+          "spieler": [
+            {
+              "name": "ITF Junior",
+              "klassierung": "Arlon"
+            },
+            {
+              "name": "TWB Niveau",
+              "klassierung": "Aspirant"
+            },
+            {
+              "name": "TODO Tam",
+              "klassierung": "AFTGDPR"
+            }
+          ],
+          "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tenni"
+        },
+        "/MyAFT/Players ['idTournoi']": {
           "anzahl": 3,
           "spieler": [
             {
