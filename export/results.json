@@ -1,5 +1,5 @@
 {
-  "zeit": "2026-08-16T05:00:01.858075+00:00",
+  "zeit": "2026-08-16T15:34:27.620137+00:00",
   "version": 27,
   "status": "ok",
   "klassierung": [
@@ -944,9 +944,13 @@
     },
     "meine_anmeldungen": {
       "http": 200,
-      "laenge": 2535,
-      "text": "SAINT-VITH 13/08/2026 Messieurs 6 N.C. $(function () { activeHoverForContextMenu($(\"#divMyRegistrationsData\").find(\".hamburger\")); }); function refreshMyRegistrationsData() { var url = \"/MyAFT/MyTournois/MyRegistrationsData\"; $(\"#divMyRegistrationsData\").load(url, function () { activeHoverForContextMenu($(\"#divMyRegistrationsData\").find(\".hamburger\")); }); }",
+      "laenge": 4516,
+      "text": "SAINT-VITH 13/08/2026 Messieurs 6 N.C. AYWAILLE 03/09/2026 Messieurs 35 6 N.C. $(function () { activeHoverForContextMenu($(\"#divMyRegistrationsData\").find(\".hamburger\")); }); function refreshMyRegistrationsData() { var url = \"/MyAFT/MyTournois/MyRegistrationsData\"; $(\"#divMyRegistrationsData\").load(url, function () { activeHoverForContextMenu($(\"#divMyRegistrationsData\").find(\".hamburger\")); }); }",
       "turniere": [
+        [
+          "N.C. AYWAILLE ",
+          "03/09/2026"
+        ],
         [
           "SAINT-VITH ",
           "13/08/2026"
@@ -1060,7 +1064,7 @@
     "treffer": {
       "GET /MyAFT/Competitions/CompetitionsTournamentsByRegion []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 223660,
+        "laenge": 223668,
         "turniere": [
           [
             "ANDENNE",
@@ -1307,7 +1311,7 @@
       },
       "POST /MyAFT/Competitions/CompetitionsTournamentsByRegion []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 223660,
+        "laenge": 223668,
         "turniere": [
           [
             "ANDENNE",
@@ -1554,7 +1558,7 @@
       },
       "GET /MyAFT/Competitions/CompetitionsTournamentsByRegion ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 223660,
+        "laenge": 223668,
         "turniere": [
           [
             "ANDENNE",
@@ -1801,7 +1805,7 @@
       },
       "POST /MyAFT/Competitions/CompetitionsTournamentsByRegion ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 223660,
+        "laenge": 223668,
         "turniere": [
           [
             "ANDENNE",
@@ -2048,7 +2052,7 @@
       },
       "GET /MyAFT/Competitions/CompetitionsTournamentsByRegion ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 223660,
+        "laenge": 223668,
         "turniere": [
           [
             "ANDENNE",
@@ -2295,7 +2299,7 @@
       },
       "POST /MyAFT/Competitions/CompetitionsTournamentsByRegion ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 223660,
+        "laenge": 223668,
         "turniere": [
           [
             "ANDENNE",
@@ -2542,7 +2546,7 @@
       },
       "GET /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 223509,
+        "laenge": 223517,
         "turniere": [
           [
             "ANDENNE",
@@ -2789,7 +2793,7 @@
       },
       "POST /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 223509,
+        "laenge": 223517,
         "turniere": [
           [
             "ANDENNE",
@@ -3036,7 +3040,7 @@
       },
       "GET /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 223509,
+        "laenge": 223517,
         "turniere": [
           [
             "ANDENNE",
@@ -3283,7 +3287,7 @@
       },
       "POST /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 223509,
+        "laenge": 223517,
         "turniere": [
           [
             "ANDENNE",
@@ -3530,7 +3534,7 @@
       },
       "GET /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 223509,
+        "laenge": 223517,
         "turniere": [
           [
             "ANDENNE",
@@ -3777,7 +3781,7 @@
       },
       "POST /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 223509,
+        "laenge": 223517,
         "turniere": [
           [
             "ANDENNE",
@@ -5125,7 +5129,7 @@
             "18/12/2025"
           ]
         ],
-        "auszug": "BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DM1, DM5, DM2, DM3, DM7, DMX7, DD3, DM6, DD7, DD6, DMX5, DD4, DMX3, DMX4, DM4, DD1, DD2, DMX1, DMX6, DD5, DMX2 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3, M4, M5, M6, D2, D3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé HAILLOT 16/10/2025 AD Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD6, DD7, DD4, DD5 Terminé LAMBERMONT (BRABANT) 18/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes & Ethias Junior Tour - M504, M505, G151, F151, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - G151, M502, M501, M503, F151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DD6, DD3, DMX3, DM3, DM6, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G13"
+        "auszug": "BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD4, DMX3, DMX4, DM6, DD7, DD6, DMX5, DMX7, DD3, DM7, DD5, DMX2, DD2, DMX1, DMX6, DM1, DM5, DD1, DM2, DM3, DM4 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3, M4, M5, M6, D2, D3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé HAILLOT 16/10/2025 AD Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD7, DD6, DD4, DD5 Terminé LAMBERMONT (BRABANT) 18/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes & Ethias Junior Tour - G151, F151, M504, M505, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M503, M502, F151, G151, M501, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DD3, DM3, DM6, DD6, DMX3, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G13"
       },
       "POST /MyAFT/Competitions/TournamentSearchResultData ['regionId']": {
         "content_type": "text/html; charset=utf-8",
@@ -5372,7 +5376,7 @@
             "18/12/2025"
           ]
         ],
-        "auszug": "BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD6, DMX5, DM6, DD7, DD4, DMX3, DMX4, DD3, DM7, DMX7, DM1, DM5, DMX6, DD2, DMX1, DM2, DM3, DD5, DMX2, DM4, DD1 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3, M4, M5, M6, D2, D3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé HAILLOT 16/10/2025 AD Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD6, DD7, DD4, DD5 Terminé LAMBERMONT (BRABANT) 18/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes & Ethias Junior Tour - M504, M505, G151, F151, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M501, M503, M502, F151, G151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DM6, DMX3, DD6, DD3, DM3, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G13"
+        "auszug": "HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - G151, M502, M501, M503, F151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DD3, DD6, DMX3, DM6, DM3, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G131, G132, G152, G153, F111, F112, F131, F132, F152, F153, U91, U92 Terminé PLAINCHAMP 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé KALYPSO 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD6, DMX5, DD3, DD5, DMX2, DM4, DD4, DMX3, DMX4, DM7, DM6, DD7, DMX7, DM2, DM3, DM1, DM5, DMX6, DD2, DMX1, DD1 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3"
       },
       "POST /MyAFT/Competitions/TournamentSearchResultData ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
@@ -5619,7 +5623,7 @@
             "18/12/2025"
           ]
         ],
-        "auszug": "BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD6, DMX5, DM1, DM5, DM7, DD4, DMX3, DMX4, DD3, DD1, DM6, DD7, DMX7, DM2, DM3, DMX6, DD2, DMX1, DD5, DMX2, DM4 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3, M4, M5, M6, D2, D3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé HAILLOT 16/10/2025 AD Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD7, DD4, DD6, DD5 Terminé LAMBERMONT (BRABANT) 18/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes & Ethias Junior Tour - M504, M505, F151, G151, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M502, M501, M503, F151, G151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DD6, DM3, DM6, DMX3, DD3, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G13"
+        "auszug": "HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M501, M503, G151, M502, F151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DMX3, DM3, DD3, DM6, DD6, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G131, G132, G152, G153, F111, F112, F131, F132, F152, F153, U91, U92 Terminé PLAINCHAMP 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - F151, G151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé KALYPSO 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD4, DMX3, DMX4, DM6, DD7, DM7, DMX7, DD6, DMX5, DD3, DD5, DMX2, DM2, DM3, DM1, DM5, DM4, DD2, DMX1, DMX6, DD1 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3"
       },
       "GET /MyAFT/Competitions/Tournaments []": {
         "content_type": "text/html; charset=utf-8",
@@ -10935,7 +10939,7 @@
         "ort": "HAILLOT",
         "start": "06/08/2026",
         "anmeldung_bis": "04/08/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "DD3",
@@ -14490,12 +14494,12 @@
         "/MyAFT/Competitions/TournamentDetailCategories?idTournoi=361794&amp;subscrStartDate=20%2F07%2F2026&amp;subscrEndDate=11%2F08%2F2026&amp;displaySubscriptions=False&amp;maxSubscriptions=259&amp;tournoiDescription=SAINT-VITH%2020%2F07%2F2026",
         "/MyAFT/Competitions/TournamentDetailDraw?idTournoi=361794",
         "/MyAFT/Competitions/TournamentDetailRegisters?idTournoi=361794",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=160820260701306159&amp;IdTournoi=361671&amp;PathRules=361671_4067.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=160820260701306179&amp;IdTournoi=361706&amp;PathRules=361706_4091.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=160820260701306194&amp;IdTournoi=361794&amp;PathRules=361794_4077.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=160820260701306209&amp;IdTournoi=361804&amp;PathRules=361804_4081.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=False&amp;IsPublishedDraws=False&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=160820260701306229&amp;IdTournoi=361818&amp;PathRules=361818_4001.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=False&amp;IsPublishedDraws=False&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=160820260701306244&amp;IdTournoi=361825&amp;PathRules=361825_4049.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=False&amp;IsPublishedDraws=False&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=160820260536503709&amp;IdTournoi=361671&amp;PathRules=361671_4067.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=160820260536503724&amp;IdTournoi=361706&amp;PathRules=361706_4091.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=160820260536503739&amp;IdTournoi=361794&amp;PathRules=361794_4077.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=160820260536503754&amp;IdTournoi=361804&amp;PathRules=361804_4081.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=False&amp;IsPublishedDraws=False&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=160820260536503769&amp;IdTournoi=361818&amp;PathRules=361818_4001.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=False&amp;IsPublishedDraws=False&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=160820260536503784&amp;IdTournoi=361825&amp;PathRules=361825_4049.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=False&amp;IsPublishedDraws=False&amp;IsNamurLuxembourg=False",
         "/MyAFT/Players",
         "/MyAFT/Players/Detail",
         "/MyAFT/Players/GetPlayersAutocomplete",
@@ -14514,24 +14518,6 @@
         "/MyAFT/Tooltip/TournamentDetails/361671"
       ],
       "treffer": {
-        "/MyAFT/Players/Index ['idTournoi']": {
-          "anzahl": 3,
-          "spieler": [
-            {
-              "name": "ITF Junior",
-              "klassierung": "Arlon"
-            },
-            {
-              "name": "TWB Niveau",
-              "klassierung": "Aspirant"
-            },
-            {
-              "name": "TODO Tam",
-              "klassierung": "AFTGDPR"
-            }
-          ],
-          "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tenni"
-        },
         "/MyAFT/Players/Search ['idTournoi']": {
           "anzahl": 3,
           "spieler": [
@@ -14550,7 +14536,7 @@
           ],
           "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tenni"
         },
-        "/MyAFT/Players ['idTournoi']": {
+        "/MyAFT/Players/Index ['idTournoi']": {
           "anzahl": 3,
           "spieler": [
             {
