@@ -26,7 +26,7 @@ UA = (
 
 ergebnis = {
     "zeit": datetime.now(timezone.utc).isoformat(),
-    "version": 27,
+    "version": 28,
     "status": "nicht_gestartet",
 }
 
@@ -805,6 +805,139 @@ def stvith_tableaus(s, idTournoi="361794"):
     return out
 
 
+def mct_prevision(s, num):
+    """Classement previsionnel – die Vorausberechnung der Klassierung.
+
+    Der Endpunkt steht in keiner Dokumentation und war im Skript nur
+    aufgerufen, nie geschrieben (daher der NameError).
+
+    Statt Pfade zu raten – das hat beim Aufbau schon zwei Runden gekostet –
+    durchsucht diese Funktion die bereits erreichbaren Seiten nach Links,
+    die auf die Vorausberechnung zeigen, und ruft die Treffer ab. Erst
+    danach kommen einige geraten Pfade als Rueckfallebene, jeweils mit
+    Statuscode und Textprobe protokolliert. Ein einziger Lauf zeigt damit,
+    welcher Weg traegt.
+    """
+    from bs4 import BeautifulSoup
+    from urllib.parse import urljoin
+
+    out = {
+        "gefundene_links": [],
+        "abrufe": {},
+        "prevision": None,
+        "hinweis": (
+            "Traegt ein Pfad, kann die Suche beim naechsten Mal entfallen – "
+            "dann den funktionierenden Pfad fest eintragen."
+        ),
+    }
+
+    kopf = {"X-Requested-With": "XMLHttpRequest", "Referer": f"{BASE}/MyAFT/"}
+    muster = re.compile(r"prevision|previsionnel|classement|ranking|mct",
+                        re.IGNORECASE)
+
+    # --- Schritt 1: Links auf den bekannten Seiten einsammeln ---
+    kandidaten = []
+    for quelle in ("/MyAFT/", "/MyAFT/MyAFT/MyResultsPage",
+                   "/MyAFT/MyAFT/MyProfilePage"):
+        try:
+            r = s.get(BASE + quelle, timeout=30, headers=kopf)
+            if r.status_code != 200:
+                continue
+            soup = BeautifulSoup(r.text, "html.parser")
+            for a in soup.find_all(["a", "div", "li"]):
+                ziel = a.get("href") or a.get("data-url") or a.get("data-href")
+                if not ziel or ziel.startswith("#"):
+                    continue
+                text = " ".join(a.get_text(" ", strip=True).split())[:80]
+                if muster.search(ziel) or muster.search(text):
+                    voll = urljoin(BASE + quelle, ziel)
+                    if voll.startswith(BASE) and voll not in kandidaten:
+                        kandidaten.append(voll)
+                        out["gefundene_links"].append(
+                            {"quelle": quelle, "url": voll, "text": text}
+                        )
+            # auch in JavaScript eingebettete Pfade finden
+            for m in re.finditer(r'["\'](/MyAFT/[A-Za-z0-9/_\-?=&{}]{4,120})["\']',
+                                 r.text):
+                pfad = m.group(1)
+                if muster.search(pfad):
+                    voll = BASE + pfad
+                    if voll not in kandidaten:
+                        kandidaten.append(voll)
+                        out["gefundene_links"].append(
+                            {"quelle": quelle + " (JS)", "url": voll, "text": ""}
+                        )
+        except Exception as e:
+            out["abrufe"][quelle] = {"fehler": repr(e)}
+
+    # --- Schritt 2: Rueckfallebene, falls die Suche nichts findet ---
+    rueckfall = [
+        f"{BASE}/MyAFT/MyResults/PrevisionalRanking",
+        f"{BASE}/MyAFT/MyResults/Prevision",
+        f"{BASE}/MyAFT/MyAFT/MyRankingPage",
+        f"{BASE}/MyAFT/MyRanking/Prevision",
+        f"{BASE}/MyAFT/MyClassement/Previsionnel",
+    ]
+    for u in rueckfall:
+        if u not in kandidaten:
+            kandidaten.append(u)
+
+    # --- Schritt 3: Kandidaten abrufen und auswerten ---
+    for url in kandidaten[:12]:
+        schluessel = url.replace(BASE, "")
+        try:
+            r = s.get(url, timeout=30, headers=kopf)
+            eintrag = {"http": r.status_code, "laenge": len(r.text)}
+            if r.status_code == 200 and len(r.text) > 150:
+                roh = entschaerfen(re.sub(r"<[^>]+>", " ", r.text))
+                roh = " ".join(roh.split())
+                eintrag["text"] = roh[:3000]
+
+                # Punkte und Klassierung herausziehen
+                treffer = []
+                for m in re.finditer(
+                    r"(SIMPLES|DOUBLES).{0,220}?"
+                    r"Classement (\d{4}):\s*([A-Z0-9.]+).*?([\d.,]+)\s*pts",
+                    r.text, re.S,
+                ):
+                    treffer.append({
+                        "sparte": m.group(1), "jahr": m.group(2),
+                        "klassierung": m.group(3), "punkte": m.group(4),
+                    })
+                if not treffer:
+                    for m in re.finditer(r"([A-C]\d{2}\.\d)\D{0,60}?([\d]+[.,]\d+)\s*pts",
+                                         roh):
+                        treffer.append({"klassierung": m.group(1),
+                                        "punkte": m.group(2)})
+                if treffer:
+                    eintrag["klassierung"] = treffer
+                    if out["prevision"] is None:
+                        out["prevision"] = {"quelle": schluessel,
+                                            "werte": treffer}
+
+                # Einzelergebnisse, falls die Seite welche enthaelt
+                try:
+                    eintraege = ergebnisse_parsen(r.text)
+                    if eintraege:
+                        eintrag["anzahl_ergebnisse"] = len(eintraege)
+                        eintrag["ergebnisse"] = eintraege[:40]
+                except Exception:
+                    pass
+            out["abrufe"][schluessel] = eintrag
+        except Exception as e:
+            out["abrufe"][schluessel] = {"fehler": repr(e)}
+
+    if out["prevision"] is None:
+        out["hinweis"] = (
+            "Keine Vorausberechnung gefunden. Die Abrufe unten zeigen, was die "
+            "geprueften Pfade geliefert haben. Falls nichts passt: im Browser "
+            "die Seite oeffnen, F12 druecken, Reiter Network, Seite neu laden, "
+            "Rechtsklick auf einen Eintrag und 'Save all as HAR' – daraus laesst "
+            "sich der richtige Endpunkt ablesen."
+        )
+    return out
+
+
 def lauf():
     import requests
 
@@ -896,7 +1029,7 @@ def lauf():
 
     print("Hole classement previsionnel ...")
     try:
-        ergebnis["prevision"] = mct_prevision(num)
+        ergebnis["prevision"] = mct_prevision(s, num)
     except Exception as e:
         ergebnis["prevision"] = {"fehler": repr(e)}
 
