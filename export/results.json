@@ -1,5 +1,5 @@
 {
-  "zeit": "2026-09-06T03:25:48.155374+00:00",
+  "zeit": "2026-09-07T03:27:40.693037+00:00",
   "version": 28,
   "status": "ok",
   "klassierung": [
@@ -1193,19 +1193,11 @@
     "treffer": {
       "GET /MyAFT/Competitions/CompetitionsTournamentsByRegion []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 154986,
+        "laenge": 70323,
         "turniere": [
-          [
-            "ANIMER WEZEMBEEK",
-            "28/08/2026"
-          ],
           [
             "AYWAILLE",
             "03/09/2026"
-          ],
-          [
-            "B. SPORTS",
-            "27/08/2026"
           ],
           [
             "BEAUMONT",
@@ -1228,32 +1220,12 @@
             "03/09/2026"
           ],
           [
-            "CRSPC ANDERLECHT",
-            "27/08/2026"
-          ],
-          [
-            "EMBOURG",
-            "27/08/2026"
-          ],
-          [
-            "ESNEUX",
-            "27/08/2026"
-          ],
-          [
-            "FLEMALLE",
-            "27/08/2026"
-          ],
-          [
             "FONTAINOIS",
             "03/09/2026"
           ],
           [
             "FOSSES",
             "03/09/2026"
-          ],
-          [
-            "GEDINNE",
-            "27/08/2026"
           ],
           [
             "GOSSELIES",
@@ -1264,68 +1236,24 @@
             "03/09/2026"
           ],
           [
-            "HALANZY",
-            "27/08/2026"
-          ],
-          [
-            "HOUFFALIZE",
-            "31/08/2026"
-          ],
-          [
-            "INCOURT",
-            "27/08/2026"
-          ],
-          [
-            "JAMIOULX",
-            "29/08/2026"
-          ],
-          [
             "JENA",
             "03/09/2026"
-          ],
-          [
-            "JUMETEXC",
-            "27/08/2026"
           ],
           [
             "LA BRUYERE",
             "03/09/2026"
           ],
           [
-            "LA CLOSIERE",
-            "27/08/2026"
-          ],
-          [
             "LE BOSQUET",
             "03/09/2026"
-          ],
-          [
-            "LE CHATELET",
-            "27/08/2026"
           ],
           [
             "LIBRAMONT",
             "03/09/2026"
           ],
           [
-            "LIEGEOIS",
-            "27/08/2026"
-          ],
-          [
-            "LONGCHAMPS",
-            "27/08/2026"
-          ],
-          [
-            "MALONNE",
-            "27/08/2026"
-          ],
-          [
             "MANAGE",
             "03/09/2026"
-          ],
-          [
-            "METTET",
-            "27/08/2026"
           ],
           [
             "MOHA",
@@ -1336,14 +1264,6 @@
             "03/09/2026"
           ],
           [
-            "MONTAGNARD",
-            "27/08/2026"
-          ],
-          [
-            "MOUNIER",
-            "27/08/2026"
-          ],
-          [
             "MOUSCRONTC",
             "03/09/2026"
           ],
@@ -1352,44 +1272,12 @@
             "03/09/2026"
           ],
           [
-            "MOUSCRONTU",
-            "27/08/2026"
-          ],
-          [
             "NAASTTENNIS",
             "03/09/2026"
           ],
           [
-            "NISMES",
-            "27/08/2026"
-          ],
-          [
             "OHEY",
             "03/09/2026"
-          ],
-          [
-            "OHEY",
-            "27/08/2026"
-          ],
-          [
-            "OREE DU BOIS",
-            "27/08/2026"
-          ],
-          [
-            "PARIVAL",
-            "27/08/2026"
-          ],
-          [
-            "PLAINCHAMP",
-            "27/08/2026"
-          ],
-          [
-            "RACKET CLUB HUY",
-            "29/08/2026"
-          ],
-          [
-            "RAIL",
-            "27/08/2026"
           ],
           [
             "RAQUETTE WAVRE",
@@ -1400,10 +1288,6 @@
             "03/09/2026"
           ],
           [
-            "STANDARD",
-            "27/08/2026"
-          ],
-          [
             "TAMINES",
             "03/09/2026"
           ],
@@ -1412,27 +1296,23 @@
             "03/09/2026"
           ],
           [
-            "TC DOUR - LE BELVÉDÈRE",
-            "27/08/2026"
-          ],
-          [
             "TEMPLIER",
             "03/09/2026"
-          ],
-          [
-            "TEMPLOUX",
-            "27/08/2026"
           ],
           [
             "THEUX",
             "03/09/2026"
           ],
           [
-            "TIEBREAK",
-            "27/08/2026"
+            "UCCLE SPORT",
+            "03/09/2026"
           ],
           [
-            "UCCLE SPORT",
+            "WALTZING",
+            "03/09/2026"
+          ],
+          [
+            "WAREMMIEN",
             "03/09/2026"
           ]
         ],
@@ -1440,19 +1320,11 @@
       },
       "POST /MyAFT/Competitions/CompetitionsTournamentsByRegion []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 154986,
+        "laenge": 70323,
         "turniere": [
-          [
-            "ANIMER WEZEMBEEK",
-            "28/08/2026"
-          ],
           [
             "AYWAILLE",
             "03/09/2026"
-          ],
-          [
-            "B. SPORTS",
-            "27/08/2026"
           ],
           [
             "BEAUMONT",
@@ -1475,32 +1347,12 @@
             "03/09/2026"
           ],
           [
-            "CRSPC ANDERLECHT",
-            "27/08/2026"
-          ],
-          [
-            "EMBOURG",
-            "27/08/2026"
-          ],
-          [
-            "ESNEUX",
-            "27/08/2026"
-          ],
-          [
-            "FLEMALLE",
-            "27/08/2026"
-          ],
-          [
             "FONTAINOIS",
             "03/09/2026"
           ],
           [
             "FOSSES",
             "03/09/2026"
-          ],
-          [
-            "GEDINNE",
-            "27/08/2026"
           ],
           [
             "GOSSELIES",
@@ -1511,68 +1363,24 @@
             "03/09/2026"
           ],
           [
-            "HALANZY",
-            "27/08/2026"
-          ],
-          [
-            "HOUFFALIZE",
-            "31/08/2026"
-          ],
-          [
-            "INCOURT",
-            "27/08/2026"
-          ],
-          [
-            "JAMIOULX",
-            "29/08/2026"
-          ],
-          [
             "JENA",
             "03/09/2026"
-          ],
-          [
-            "JUMETEXC",
-            "27/08/2026"
           ],
           [
             "LA BRUYERE",
             "03/09/2026"
           ],
           [
-            "LA CLOSIERE",
-            "27/08/2026"
-          ],
-          [
             "LE BOSQUET",
             "03/09/2026"
-          ],
-          [
-            "LE CHATELET",
-            "27/08/2026"
           ],
           [
             "LIBRAMONT",
             "03/09/2026"
           ],
           [
-            "LIEGEOIS",
-            "27/08/2026"
-          ],
-          [
-            "LONGCHAMPS",
-            "27/08/2026"
-          ],
-          [
-            "MALONNE",
-            "27/08/2026"
-          ],
-          [
             "MANAGE",
             "03/09/2026"
-          ],
-          [
-            "METTET",
-            "27/08/2026"
           ],
           [
             "MOHA",
@@ -1583,14 +1391,6 @@
             "03/09/2026"
           ],
           [
-            "MONTAGNARD",
-            "27/08/2026"
-          ],
-          [
-            "MOUNIER",
-            "27/08/2026"
-          ],
-          [
             "MOUSCRONTC",
             "03/09/2026"
           ],
@@ -1599,44 +1399,12 @@
             "03/09/2026"
           ],
           [
-            "MOUSCRONTU",
-            "27/08/2026"
-          ],
-          [
             "NAASTTENNIS",
             "03/09/2026"
           ],
           [
-            "NISMES",
-            "27/08/2026"
-          ],
-          [
             "OHEY",
             "03/09/2026"
-          ],
-          [
-            "OHEY",
-            "27/08/2026"
-          ],
-          [
-            "OREE DU BOIS",
-            "27/08/2026"
-          ],
-          [
-            "PARIVAL",
-            "27/08/2026"
-          ],
-          [
-            "PLAINCHAMP",
-            "27/08/2026"
-          ],
-          [
-            "RACKET CLUB HUY",
-            "29/08/2026"
-          ],
-          [
-            "RAIL",
-            "27/08/2026"
           ],
           [
             "RAQUETTE WAVRE",
@@ -1647,10 +1415,6 @@
             "03/09/2026"
           ],
           [
-            "STANDARD",
-            "27/08/2026"
-          ],
-          [
             "TAMINES",
             "03/09/2026"
           ],
@@ -1659,27 +1423,23 @@
             "03/09/2026"
           ],
           [
-            "TC DOUR - LE BELVÉDÈRE",
-            "27/08/2026"
-          ],
-          [
             "TEMPLIER",
             "03/09/2026"
-          ],
-          [
-            "TEMPLOUX",
-            "27/08/2026"
           ],
           [
             "THEUX",
             "03/09/2026"
           ],
           [
-            "TIEBREAK",
-            "27/08/2026"
+            "UCCLE SPORT",
+            "03/09/2026"
           ],
           [
-            "UCCLE SPORT",
+            "WALTZING",
+            "03/09/2026"
+          ],
+          [
+            "WAREMMIEN",
             "03/09/2026"
           ]
         ],
@@ -1687,19 +1447,11 @@
       },
       "GET /MyAFT/Competitions/CompetitionsTournamentsByRegion ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 154986,
+        "laenge": 70323,
         "turniere": [
-          [
-            "ANIMER WEZEMBEEK",
-            "28/08/2026"
-          ],
           [
             "AYWAILLE",
             "03/09/2026"
-          ],
-          [
-            "B. SPORTS",
-            "27/08/2026"
           ],
           [
             "BEAUMONT",
@@ -1722,32 +1474,12 @@
             "03/09/2026"
           ],
           [
-            "CRSPC ANDERLECHT",
-            "27/08/2026"
-          ],
-          [
-            "EMBOURG",
-            "27/08/2026"
-          ],
-          [
-            "ESNEUX",
-            "27/08/2026"
-          ],
-          [
-            "FLEMALLE",
-            "27/08/2026"
-          ],
-          [
             "FONTAINOIS",
             "03/09/2026"
           ],
           [
             "FOSSES",
             "03/09/2026"
-          ],
-          [
-            "GEDINNE",
-            "27/08/2026"
           ],
           [
             "GOSSELIES",
@@ -1758,68 +1490,24 @@
             "03/09/2026"
           ],
           [
-            "HALANZY",
-            "27/08/2026"
-          ],
-          [
-            "HOUFFALIZE",
-            "31/08/2026"
-          ],
-          [
-            "INCOURT",
-            "27/08/2026"
-          ],
-          [
-            "JAMIOULX",
-            "29/08/2026"
-          ],
-          [
             "JENA",
             "03/09/2026"
-          ],
-          [
-            "JUMETEXC",
-            "27/08/2026"
           ],
           [
             "LA BRUYERE",
             "03/09/2026"
           ],
           [
-            "LA CLOSIERE",
-            "27/08/2026"
-          ],
-          [
             "LE BOSQUET",
             "03/09/2026"
-          ],
-          [
-            "LE CHATELET",
-            "27/08/2026"
           ],
           [
             "LIBRAMONT",
             "03/09/2026"
           ],
           [
-            "LIEGEOIS",
-            "27/08/2026"
-          ],
-          [
-            "LONGCHAMPS",
-            "27/08/2026"
-          ],
-          [
-            "MALONNE",
-            "27/08/2026"
-          ],
-          [
             "MANAGE",
             "03/09/2026"
-          ],
-          [
-            "METTET",
-            "27/08/2026"
           ],
           [
             "MOHA",
@@ -1830,14 +1518,6 @@
             "03/09/2026"
           ],
           [
-            "MONTAGNARD",
-            "27/08/2026"
-          ],
-          [
-            "MOUNIER",
-            "27/08/2026"
-          ],
-          [
             "MOUSCRONTC",
             "03/09/2026"
           ],
@@ -1846,44 +1526,12 @@
             "03/09/2026"
           ],
           [
-            "MOUSCRONTU",
-            "27/08/2026"
-          ],
-          [
             "NAASTTENNIS",
             "03/09/2026"
           ],
           [
-            "NISMES",
-            "27/08/2026"
-          ],
-          [
             "OHEY",
             "03/09/2026"
-          ],
-          [
-            "OHEY",
-            "27/08/2026"
-          ],
-          [
-            "OREE DU BOIS",
-            "27/08/2026"
-          ],
-          [
-            "PARIVAL",
-            "27/08/2026"
-          ],
-          [
-            "PLAINCHAMP",
-            "27/08/2026"
-          ],
-          [
-            "RACKET CLUB HUY",
-            "29/08/2026"
-          ],
-          [
-            "RAIL",
-            "27/08/2026"
           ],
           [
             "RAQUETTE WAVRE",
@@ -1894,10 +1542,6 @@
             "03/09/2026"
           ],
           [
-            "STANDARD",
-            "27/08/2026"
-          ],
-          [
             "TAMINES",
             "03/09/2026"
           ],
@@ -1906,27 +1550,23 @@
             "03/09/2026"
           ],
           [
-            "TC DOUR - LE BELVÉDÈRE",
-            "27/08/2026"
-          ],
-          [
             "TEMPLIER",
             "03/09/2026"
-          ],
-          [
-            "TEMPLOUX",
-            "27/08/2026"
           ],
           [
             "THEUX",
             "03/09/2026"
           ],
           [
-            "TIEBREAK",
-            "27/08/2026"
+            "UCCLE SPORT",
+            "03/09/2026"
           ],
           [
-            "UCCLE SPORT",
+            "WALTZING",
+            "03/09/2026"
+          ],
+          [
+            "WAREMMIEN",
             "03/09/2026"
           ]
         ],
@@ -1934,19 +1574,11 @@
       },
       "POST /MyAFT/Competitions/CompetitionsTournamentsByRegion ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 154986,
+        "laenge": 70323,
         "turniere": [
-          [
-            "ANIMER WEZEMBEEK",
-            "28/08/2026"
-          ],
           [
             "AYWAILLE",
             "03/09/2026"
-          ],
-          [
-            "B. SPORTS",
-            "27/08/2026"
           ],
           [
             "BEAUMONT",
@@ -1969,32 +1601,12 @@
             "03/09/2026"
           ],
           [
-            "CRSPC ANDERLECHT",
-            "27/08/2026"
-          ],
-          [
-            "EMBOURG",
-            "27/08/2026"
-          ],
-          [
-            "ESNEUX",
-            "27/08/2026"
-          ],
-          [
-            "FLEMALLE",
-            "27/08/2026"
-          ],
-          [
             "FONTAINOIS",
             "03/09/2026"
           ],
           [
             "FOSSES",
             "03/09/2026"
-          ],
-          [
-            "GEDINNE",
-            "27/08/2026"
           ],
           [
             "GOSSELIES",
@@ -2005,68 +1617,24 @@
             "03/09/2026"
           ],
           [
-            "HALANZY",
-            "27/08/2026"
-          ],
-          [
-            "HOUFFALIZE",
-            "31/08/2026"
-          ],
-          [
-            "INCOURT",
-            "27/08/2026"
-          ],
-          [
-            "JAMIOULX",
-            "29/08/2026"
-          ],
-          [
             "JENA",
             "03/09/2026"
-          ],
-          [
-            "JUMETEXC",
-            "27/08/2026"
           ],
           [
             "LA BRUYERE",
             "03/09/2026"
           ],
           [
-            "LA CLOSIERE",
-            "27/08/2026"
-          ],
-          [
             "LE BOSQUET",
             "03/09/2026"
-          ],
-          [
-            "LE CHATELET",
-            "27/08/2026"
           ],
           [
             "LIBRAMONT",
             "03/09/2026"
           ],
           [
-            "LIEGEOIS",
-            "27/08/2026"
-          ],
-          [
-            "LONGCHAMPS",
-            "27/08/2026"
-          ],
-          [
-            "MALONNE",
-            "27/08/2026"
-          ],
-          [
             "MANAGE",
             "03/09/2026"
-          ],
-          [
-            "METTET",
-            "27/08/2026"
           ],
           [
             "MOHA",
@@ -2077,14 +1645,6 @@
             "03/09/2026"
           ],
           [
-            "MONTAGNARD",
-            "27/08/2026"
-          ],
-          [
-            "MOUNIER",
-            "27/08/2026"
-          ],
-          [
             "MOUSCRONTC",
             "03/09/2026"
           ],
@@ -2093,44 +1653,12 @@
             "03/09/2026"
           ],
           [
-            "MOUSCRONTU",
-            "27/08/2026"
-          ],
-          [
             "NAASTTENNIS",
             "03/09/2026"
           ],
           [
-            "NISMES",
-            "27/08/2026"
-          ],
-          [
             "OHEY",
             "03/09/2026"
-          ],
-          [
-            "OHEY",
-            "27/08/2026"
-          ],
-          [
-            "OREE DU BOIS",
-            "27/08/2026"
-          ],
-          [
-            "PARIVAL",
-            "27/08/2026"
-          ],
-          [
-            "PLAINCHAMP",
-            "27/08/2026"
-          ],
-          [
-            "RACKET CLUB HUY",
-            "29/08/2026"
-          ],
-          [
-            "RAIL",
-            "27/08/2026"
           ],
           [
             "RAQUETTE WAVRE",
@@ -2141,10 +1669,6 @@
             "03/09/2026"
           ],
           [
-            "STANDARD",
-            "27/08/2026"
-          ],
-          [
             "TAMINES",
             "03/09/2026"
           ],
@@ -2153,27 +1677,23 @@
             "03/09/2026"
           ],
           [
-            "TC DOUR - LE BELVÉDÈRE",
-            "27/08/2026"
-          ],
-          [
             "TEMPLIER",
             "03/09/2026"
-          ],
-          [
-            "TEMPLOUX",
-            "27/08/2026"
           ],
           [
             "THEUX",
             "03/09/2026"
           ],
           [
-            "TIEBREAK",
-            "27/08/2026"
+            "UCCLE SPORT",
+            "03/09/2026"
           ],
           [
-            "UCCLE SPORT",
+            "WALTZING",
+            "03/09/2026"
+          ],
+          [
+            "WAREMMIEN",
             "03/09/2026"
           ]
         ],
@@ -2181,19 +1701,11 @@
       },
       "GET /MyAFT/Competitions/CompetitionsTournamentsByRegion ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 154986,
+        "laenge": 70323,
         "turniere": [
-          [
-            "ANIMER WEZEMBEEK",
-            "28/08/2026"
-          ],
           [
             "AYWAILLE",
             "03/09/2026"
-          ],
-          [
-            "B. SPORTS",
-            "27/08/2026"
           ],
           [
             "BEAUMONT",
@@ -2216,32 +1728,12 @@
             "03/09/2026"
           ],
           [
-            "CRSPC ANDERLECHT",
-            "27/08/2026"
-          ],
-          [
-            "EMBOURG",
-            "27/08/2026"
-          ],
-          [
-            "ESNEUX",
-            "27/08/2026"
-          ],
-          [
-            "FLEMALLE",
-            "27/08/2026"
-          ],
-          [
             "FONTAINOIS",
             "03/09/2026"
           ],
           [
             "FOSSES",
             "03/09/2026"
-          ],
-          [
-            "GEDINNE",
-            "27/08/2026"
           ],
           [
             "GOSSELIES",
@@ -2252,68 +1744,24 @@
             "03/09/2026"
           ],
           [
-            "HALANZY",
-            "27/08/2026"
-          ],
-          [
-            "HOUFFALIZE",
-            "31/08/2026"
-          ],
-          [
-            "INCOURT",
-            "27/08/2026"
-          ],
-          [
-            "JAMIOULX",
-            "29/08/2026"
-          ],
-          [
             "JENA",
             "03/09/2026"
-          ],
-          [
-            "JUMETEXC",
-            "27/08/2026"
           ],
           [
             "LA BRUYERE",
             "03/09/2026"
           ],
           [
-            "LA CLOSIERE",
-            "27/08/2026"
-          ],
-          [
             "LE BOSQUET",
             "03/09/2026"
-          ],
-          [
-            "LE CHATELET",
-            "27/08/2026"
           ],
           [
             "LIBRAMONT",
             "03/09/2026"
           ],
           [
-            "LIEGEOIS",
-            "27/08/2026"
-          ],
-          [
-            "LONGCHAMPS",
-            "27/08/2026"
-          ],
-          [
-            "MALONNE",
-            "27/08/2026"
-          ],
-          [
             "MANAGE",
             "03/09/2026"
-          ],
-          [
-            "METTET",
-            "27/08/2026"
           ],
           [
             "MOHA",
@@ -2324,14 +1772,6 @@
             "03/09/2026"
           ],
           [
-            "MONTAGNARD",
-            "27/08/2026"
-          ],
-          [
-            "MOUNIER",
-            "27/08/2026"
-          ],
-          [
             "MOUSCRONTC",
             "03/09/2026"
           ],
@@ -2340,44 +1780,12 @@
             "03/09/2026"
           ],
           [
-            "MOUSCRONTU",
-            "27/08/2026"
-          ],
-          [
             "NAASTTENNIS",
             "03/09/2026"
           ],
           [
-            "NISMES",
-            "27/08/2026"
-          ],
-          [
             "OHEY",
             "03/09/2026"
-          ],
-          [
-            "OHEY",
-            "27/08/2026"
-          ],
-          [
-            "OREE DU BOIS",
-            "27/08/2026"
-          ],
-          [
-            "PARIVAL",
-            "27/08/2026"
-          ],
-          [
-            "PLAINCHAMP",
-            "27/08/2026"
-          ],
-          [
-            "RACKET CLUB HUY",
-            "29/08/2026"
-          ],
-          [
-            "RAIL",
-            "27/08/2026"
           ],
           [
             "RAQUETTE WAVRE",
@@ -2388,10 +1796,6 @@
             "03/09/2026"
           ],
           [
-            "STANDARD",
-            "27/08/2026"
-          ],
-          [
             "TAMINES",
             "03/09/2026"
           ],
@@ -2400,27 +1804,23 @@
             "03/09/2026"
           ],
           [
-            "TC DOUR - LE BELVÉDÈRE",
-            "27/08/2026"
-          ],
-          [
             "TEMPLIER",
             "03/09/2026"
-          ],
-          [
-            "TEMPLOUX",
-            "27/08/2026"
           ],
           [
             "THEUX",
             "03/09/2026"
           ],
           [
-            "TIEBREAK",
-            "27/08/2026"
+            "UCCLE SPORT",
+            "03/09/2026"
           ],
           [
-            "UCCLE SPORT",
+            "WALTZING",
+            "03/09/2026"
+          ],
+          [
+            "WAREMMIEN",
             "03/09/2026"
           ]
         ],
@@ -2428,19 +1828,11 @@
       },
       "POST /MyAFT/Competitions/CompetitionsTournamentsByRegion ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 154986,
+        "laenge": 70323,
         "turniere": [
-          [
-            "ANIMER WEZEMBEEK",
-            "28/08/2026"
-          ],
           [
             "AYWAILLE",
             "03/09/2026"
-          ],
-          [
-            "B. SPORTS",
-            "27/08/2026"
           ],
           [
             "BEAUMONT",
@@ -2463,32 +1855,12 @@
             "03/09/2026"
           ],
           [
-            "CRSPC ANDERLECHT",
-            "27/08/2026"
-          ],
-          [
-            "EMBOURG",
-            "27/08/2026"
-          ],
-          [
-            "ESNEUX",
-            "27/08/2026"
-          ],
-          [
-            "FLEMALLE",
-            "27/08/2026"
-          ],
-          [
             "FONTAINOIS",
             "03/09/2026"
           ],
           [
             "FOSSES",
             "03/09/2026"
-          ],
-          [
-            "GEDINNE",
-            "27/08/2026"
           ],
           [
             "GOSSELIES",
@@ -2499,68 +1871,24 @@
             "03/09/2026"
           ],
           [
-            "HALANZY",
-            "27/08/2026"
-          ],
-          [
-            "HOUFFALIZE",
-            "31/08/2026"
-          ],
-          [
-            "INCOURT",
-            "27/08/2026"
-          ],
-          [
-            "JAMIOULX",
-            "29/08/2026"
-          ],
-          [
             "JENA",
             "03/09/2026"
-          ],
-          [
-            "JUMETEXC",
-            "27/08/2026"
           ],
           [
             "LA BRUYERE",
             "03/09/2026"
           ],
           [
-            "LA CLOSIERE",
-            "27/08/2026"
-          ],
-          [
             "LE BOSQUET",
             "03/09/2026"
-          ],
-          [
-            "LE CHATELET",
-            "27/08/2026"
           ],
           [
             "LIBRAMONT",
             "03/09/2026"
           ],
           [
-            "LIEGEOIS",
-            "27/08/2026"
-          ],
-          [
-            "LONGCHAMPS",
-            "27/08/2026"
-          ],
-          [
-            "MALONNE",
-            "27/08/2026"
-          ],
-          [
             "MANAGE",
             "03/09/2026"
-          ],
-          [
-            "METTET",
-            "27/08/2026"
           ],
           [
             "MOHA",
@@ -2571,14 +1899,6 @@
             "03/09/2026"
           ],
           [
-            "MONTAGNARD",
-            "27/08/2026"
-          ],
-          [
-            "MOUNIER",
-            "27/08/2026"
-          ],
-          [
             "MOUSCRONTC",
             "03/09/2026"
           ],
@@ -2587,44 +1907,12 @@
             "03/09/2026"
           ],
           [
-            "MOUSCRONTU",
-            "27/08/2026"
-          ],
-          [
             "NAASTTENNIS",
             "03/09/2026"
           ],
           [
-            "NISMES",
-            "27/08/2026"
-          ],
-          [
             "OHEY",
             "03/09/2026"
-          ],
-          [
-            "OHEY",
-            "27/08/2026"
-          ],
-          [
-            "OREE DU BOIS",
-            "27/08/2026"
-          ],
-          [
-            "PARIVAL",
-            "27/08/2026"
-          ],
-          [
-            "PLAINCHAMP",
-            "27/08/2026"
-          ],
-          [
-            "RACKET CLUB HUY",
-            "29/08/2026"
-          ],
-          [
-            "RAIL",
-            "27/08/2026"
           ],
           [
             "RAQUETTE WAVRE",
@@ -2635,10 +1923,6 @@
             "03/09/2026"
           ],
           [
-            "STANDARD",
-            "27/08/2026"
-          ],
-          [
             "TAMINES",
             "03/09/2026"
           ],
@@ -2647,27 +1931,23 @@
             "03/09/2026"
           ],
           [
-            "TC DOUR - LE BELVÉDÈRE",
-            "27/08/2026"
-          ],
-          [
             "TEMPLIER",
             "03/09/2026"
-          ],
-          [
-            "TEMPLOUX",
-            "27/08/2026"
           ],
           [
             "THEUX",
             "03/09/2026"
           ],
           [
-            "TIEBREAK",
-            "27/08/2026"
+            "UCCLE SPORT",
+            "03/09/2026"
           ],
           [
-            "UCCLE SPORT",
+            "WALTZING",
+            "03/09/2026"
+          ],
+          [
+            "WAREMMIEN",
             "03/09/2026"
           ]
         ],
@@ -2675,19 +1955,11 @@
       },
       "GET /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 154835,
+        "laenge": 70172,
         "turniere": [
-          [
-            "ANIMER WEZEMBEEK",
-            "28/08/2026"
-          ],
           [
             "AYWAILLE",
             "03/09/2026"
-          ],
-          [
-            "B. SPORTS",
-            "27/08/2026"
           ],
           [
             "BEAUMONT",
@@ -2710,32 +1982,12 @@
             "03/09/2026"
           ],
           [
-            "CRSPC ANDERLECHT",
-            "27/08/2026"
-          ],
-          [
-            "EMBOURG",
-            "27/08/2026"
-          ],
-          [
-            "ESNEUX",
-            "27/08/2026"
-          ],
-          [
-            "FLEMALLE",
-            "27/08/2026"
-          ],
-          [
             "FONTAINOIS",
             "03/09/2026"
           ],
           [
             "FOSSES",
             "03/09/2026"
-          ],
-          [
-            "GEDINNE",
-            "27/08/2026"
           ],
           [
             "GOSSELIES",
@@ -2746,68 +1998,24 @@
             "03/09/2026"
           ],
           [
-            "HALANZY",
-            "27/08/2026"
-          ],
-          [
-            "HOUFFALIZE",
-            "31/08/2026"
-          ],
-          [
-            "INCOURT",
-            "27/08/2026"
-          ],
-          [
-            "JAMIOULX",
-            "29/08/2026"
-          ],
-          [
             "JENA",
             "03/09/2026"
-          ],
-          [
-            "JUMETEXC",
-            "27/08/2026"
           ],
           [
             "LA BRUYERE",
             "03/09/2026"
           ],
           [
-            "LA CLOSIERE",
-            "27/08/2026"
-          ],
-          [
             "LE BOSQUET",
             "03/09/2026"
-          ],
-          [
-            "LE CHATELET",
-            "27/08/2026"
           ],
           [
             "LIBRAMONT",
             "03/09/2026"
           ],
           [
-            "LIEGEOIS",
-            "27/08/2026"
-          ],
-          [
-            "LONGCHAMPS",
-            "27/08/2026"
-          ],
-          [
-            "MALONNE",
-            "27/08/2026"
-          ],
-          [
             "MANAGE",
             "03/09/2026"
-          ],
-          [
-            "METTET",
-            "27/08/2026"
           ],
           [
             "MOHA",
@@ -2818,14 +2026,6 @@
             "03/09/2026"
           ],
           [
-            "MONTAGNARD",
-            "27/08/2026"
-          ],
-          [
-            "MOUNIER",
-            "27/08/2026"
-          ],
-          [
             "MOUSCRONTC",
             "03/09/2026"
           ],
@@ -2834,44 +2034,12 @@
             "03/09/2026"
           ],
           [
-            "MOUSCRONTU",
-            "27/08/2026"
-          ],
-          [
             "NAASTTENNIS",
             "03/09/2026"
           ],
           [
-            "NISMES",
-            "27/08/2026"
-          ],
-          [
             "OHEY",
             "03/09/2026"
-          ],
-          [
-            "OHEY",
-            "27/08/2026"
-          ],
-          [
-            "OREE DU BOIS",
-            "27/08/2026"
-          ],
-          [
-            "PARIVAL",
-            "27/08/2026"
-          ],
-          [
-            "PLAINCHAMP",
-            "27/08/2026"
-          ],
-          [
-            "RACKET CLUB HUY",
-            "29/08/2026"
-          ],
-          [
-            "RAIL",
-            "27/08/2026"
           ],
           [
             "RAQUETTE WAVRE",
@@ -2882,10 +2050,6 @@
             "03/09/2026"
           ],
           [
-            "STANDARD",
-            "27/08/2026"
-          ],
-          [
             "TAMINES",
             "03/09/2026"
           ],
@@ -2894,27 +2058,23 @@
             "03/09/2026"
           ],
           [
-            "TC DOUR - LE BELVÉDÈRE",
-            "27/08/2026"
-          ],
-          [
             "TEMPLIER",
             "03/09/2026"
-          ],
-          [
-            "TEMPLOUX",
-            "27/08/2026"
           ],
           [
             "THEUX",
             "03/09/2026"
           ],
           [
-            "TIEBREAK",
-            "27/08/2026"
+            "UCCLE SPORT",
+            "03/09/2026"
           ],
           [
-            "UCCLE SPORT",
+            "WALTZING",
+            "03/09/2026"
+          ],
+          [
+            "WAREMMIEN",
             "03/09/2026"
           ]
         ],
@@ -2922,19 +2082,11 @@
       },
       "POST /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 154835,
+        "laenge": 70172,
         "turniere": [
-          [
-            "ANIMER WEZEMBEEK",
-            "28/08/2026"
-          ],
           [
             "AYWAILLE",
             "03/09/2026"
-          ],
-          [
-            "B. SPORTS",
-            "27/08/2026"
           ],
           [
             "BEAUMONT",
@@ -2957,32 +2109,12 @@
             "03/09/2026"
           ],
           [
-            "CRSPC ANDERLECHT",
-            "27/08/2026"
-          ],
-          [
-            "EMBOURG",
-            "27/08/2026"
-          ],
-          [
-            "ESNEUX",
-            "27/08/2026"
-          ],
-          [
-            "FLEMALLE",
-            "27/08/2026"
-          ],
-          [
             "FONTAINOIS",
             "03/09/2026"
           ],
           [
             "FOSSES",
             "03/09/2026"
-          ],
-          [
-            "GEDINNE",
-            "27/08/2026"
           ],
           [
             "GOSSELIES",
@@ -2993,68 +2125,24 @@
             "03/09/2026"
           ],
           [
-            "HALANZY",
-            "27/08/2026"
-          ],
-          [
-            "HOUFFALIZE",
-            "31/08/2026"
-          ],
-          [
-            "INCOURT",
-            "27/08/2026"
-          ],
-          [
-            "JAMIOULX",
-            "29/08/2026"
-          ],
-          [
             "JENA",
             "03/09/2026"
-          ],
-          [
-            "JUMETEXC",
-            "27/08/2026"
           ],
           [
             "LA BRUYERE",
             "03/09/2026"
           ],
           [
-            "LA CLOSIERE",
-            "27/08/2026"
-          ],
-          [
             "LE BOSQUET",
             "03/09/2026"
-          ],
-          [
-            "LE CHATELET",
-            "27/08/2026"
           ],
           [
             "LIBRAMONT",
             "03/09/2026"
           ],
           [
-            "LIEGEOIS",
-            "27/08/2026"
-          ],
-          [
-            "LONGCHAMPS",
-            "27/08/2026"
-          ],
-          [
-            "MALONNE",
-            "27/08/2026"
-          ],
-          [
             "MANAGE",
             "03/09/2026"
-          ],
-          [
-            "METTET",
-            "27/08/2026"
           ],
           [
             "MOHA",
@@ -3065,14 +2153,6 @@
             "03/09/2026"
           ],
           [
-            "MONTAGNARD",
-            "27/08/2026"
-          ],
-          [
-            "MOUNIER",
-            "27/08/2026"
-          ],
-          [
             "MOUSCRONTC",
             "03/09/2026"
           ],
@@ -3081,44 +2161,12 @@
             "03/09/2026"
           ],
           [
-            "MOUSCRONTU",
-            "27/08/2026"
-          ],
-          [
             "NAASTTENNIS",
             "03/09/2026"
           ],
           [
-            "NISMES",
-            "27/08/2026"
-          ],
-          [
             "OHEY",
             "03/09/2026"
-          ],
-          [
-            "OHEY",
-            "27/08/2026"
-          ],
-          [
-            "OREE DU BOIS",
-            "27/08/2026"
-          ],
-          [
-            "PARIVAL",
-            "27/08/2026"
-          ],
-          [
-            "PLAINCHAMP",
-            "27/08/2026"
-          ],
-          [
-            "RACKET CLUB HUY",
-            "29/08/2026"
-          ],
-          [
-            "RAIL",
-            "27/08/2026"
           ],
           [
             "RAQUETTE WAVRE",
@@ -3129,10 +2177,6 @@
             "03/09/2026"
           ],
           [
-            "STANDARD",
-            "27/08/2026"
-          ],
-          [
             "TAMINES",
             "03/09/2026"
           ],
@@ -3141,27 +2185,23 @@
             "03/09/2026"
           ],
           [
-            "TC DOUR - LE BELVÉDÈRE",
-            "27/08/2026"
-          ],
-          [
             "TEMPLIER",
             "03/09/2026"
-          ],
-          [
-            "TEMPLOUX",
-            "27/08/2026"
           ],
           [
             "THEUX",
             "03/09/2026"
           ],
           [
-            "TIEBREAK",
-            "27/08/2026"
+            "UCCLE SPORT",
+            "03/09/2026"
           ],
           [
-            "UCCLE SPORT",
+            "WALTZING",
+            "03/09/2026"
+          ],
+          [
+            "WAREMMIEN",
             "03/09/2026"
           ]
         ],
@@ -3169,19 +2209,11 @@
       },
       "GET /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 154835,
+        "laenge": 70172,
         "turniere": [
-          [
-            "ANIMER WEZEMBEEK",
-            "28/08/2026"
-          ],
           [
             "AYWAILLE",
             "03/09/2026"
-          ],
-          [
-            "B. SPORTS",
-            "27/08/2026"
           ],
           [
             "BEAUMONT",
@@ -3204,32 +2236,12 @@
             "03/09/2026"
           ],
           [
-            "CRSPC ANDERLECHT",
-            "27/08/2026"
-          ],
-          [
-            "EMBOURG",
-            "27/08/2026"
-          ],
-          [
-            "ESNEUX",
-            "27/08/2026"
-          ],
-          [
-            "FLEMALLE",
-            "27/08/2026"
-          ],
-          [
             "FONTAINOIS",
             "03/09/2026"
           ],
           [
             "FOSSES",
             "03/09/2026"
-          ],
-          [
-            "GEDINNE",
-            "27/08/2026"
           ],
           [
             "GOSSELIES",
@@ -3240,68 +2252,24 @@
             "03/09/2026"
           ],
           [
-            "HALANZY",
-            "27/08/2026"
-          ],
-          [
-            "HOUFFALIZE",
-            "31/08/2026"
-          ],
-          [
-            "INCOURT",
-            "27/08/2026"
-          ],
-          [
-            "JAMIOULX",
-            "29/08/2026"
-          ],
-          [
             "JENA",
             "03/09/2026"
-          ],
-          [
-            "JUMETEXC",
-            "27/08/2026"
           ],
           [
             "LA BRUYERE",
             "03/09/2026"
           ],
           [
-            "LA CLOSIERE",
-            "27/08/2026"
-          ],
-          [
             "LE BOSQUET",
             "03/09/2026"
-          ],
-          [
-            "LE CHATELET",
-            "27/08/2026"
           ],
           [
             "LIBRAMONT",
             "03/09/2026"
           ],
           [
-            "LIEGEOIS",
-            "27/08/2026"
-          ],
-          [
-            "LONGCHAMPS",
-            "27/08/2026"
-          ],
-          [
-            "MALONNE",
-            "27/08/2026"
-          ],
-          [
             "MANAGE",
             "03/09/2026"
-          ],
-          [
-            "METTET",
-            "27/08/2026"
           ],
           [
             "MOHA",
@@ -3312,14 +2280,6 @@
             "03/09/2026"
           ],
           [
-            "MONTAGNARD",
-            "27/08/2026"
-          ],
-          [
-            "MOUNIER",
-            "27/08/2026"
-          ],
-          [
             "MOUSCRONTC",
             "03/09/2026"
           ],
@@ -3328,44 +2288,12 @@
             "03/09/2026"
           ],
           [
-            "MOUSCRONTU",
-            "27/08/2026"
-          ],
-          [
             "NAASTTENNIS",
             "03/09/2026"
           ],
           [
-            "NISMES",
-            "27/08/2026"
-          ],
-          [
             "OHEY",
             "03/09/2026"
-          ],
-          [
-            "OHEY",
-            "27/08/2026"
-          ],
-          [
-            "OREE DU BOIS",
-            "27/08/2026"
-          ],
-          [
-            "PARIVAL",
-            "27/08/2026"
-          ],
-          [
-            "PLAINCHAMP",
-            "27/08/2026"
-          ],
-          [
-            "RACKET CLUB HUY",
-            "29/08/2026"
-          ],
-          [
-            "RAIL",
-            "27/08/2026"
           ],
           [
             "RAQUETTE WAVRE",
@@ -3376,10 +2304,6 @@
             "03/09/2026"
           ],
           [
-            "STANDARD",
-            "27/08/2026"
-          ],
-          [
             "TAMINES",
             "03/09/2026"
           ],
@@ -3388,27 +2312,23 @@
             "03/09/2026"
           ],
           [
-            "TC DOUR - LE BELVÉDÈRE",
-            "27/08/2026"
-          ],
-          [
             "TEMPLIER",
             "03/09/2026"
-          ],
-          [
-            "TEMPLOUX",
-            "27/08/2026"
           ],
           [
             "THEUX",
             "03/09/2026"
           ],
           [
-            "TIEBREAK",
-            "27/08/2026"
+            "UCCLE SPORT",
+            "03/09/2026"
           ],
           [
-            "UCCLE SPORT",
+            "WALTZING",
+            "03/09/2026"
+          ],
+          [
+            "WAREMMIEN",
             "03/09/2026"
           ]
         ],
@@ -3416,19 +2336,11 @@
       },
       "POST /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 154835,
+        "laenge": 70172,
         "turniere": [
-          [
-            "ANIMER WEZEMBEEK",
-            "28/08/2026"
-          ],
           [
             "AYWAILLE",
             "03/09/2026"
-          ],
-          [
-            "B. SPORTS",
-            "27/08/2026"
           ],
           [
             "BEAUMONT",
@@ -3451,32 +2363,12 @@
             "03/09/2026"
           ],
           [
-            "CRSPC ANDERLECHT",
-            "27/08/2026"
-          ],
-          [
-            "EMBOURG",
-            "27/08/2026"
-          ],
-          [
-            "ESNEUX",
-            "27/08/2026"
-          ],
-          [
-            "FLEMALLE",
-            "27/08/2026"
-          ],
-          [
             "FONTAINOIS",
             "03/09/2026"
           ],
           [
             "FOSSES",
             "03/09/2026"
-          ],
-          [
-            "GEDINNE",
-            "27/08/2026"
           ],
           [
             "GOSSELIES",
@@ -3487,68 +2379,24 @@
             "03/09/2026"
           ],
           [
-            "HALANZY",
-            "27/08/2026"
-          ],
-          [
-            "HOUFFALIZE",
-            "31/08/2026"
-          ],
-          [
-            "INCOURT",
-            "27/08/2026"
-          ],
-          [
-            "JAMIOULX",
-            "29/08/2026"
-          ],
-          [
             "JENA",
             "03/09/2026"
-          ],
-          [
-            "JUMETEXC",
-            "27/08/2026"
           ],
           [
             "LA BRUYERE",
             "03/09/2026"
           ],
           [
-            "LA CLOSIERE",
-            "27/08/2026"
-          ],
-          [
             "LE BOSQUET",
             "03/09/2026"
-          ],
-          [
-            "LE CHATELET",
-            "27/08/2026"
           ],
           [
             "LIBRAMONT",
             "03/09/2026"
           ],
           [
-            "LIEGEOIS",
-            "27/08/2026"
-          ],
-          [
-            "LONGCHAMPS",
-            "27/08/2026"
-          ],
-          [
-            "MALONNE",
-            "27/08/2026"
-          ],
-          [
             "MANAGE",
             "03/09/2026"
-          ],
-          [
-            "METTET",
-            "27/08/2026"
           ],
           [
             "MOHA",
@@ -3559,14 +2407,6 @@
             "03/09/2026"
           ],
           [
-            "MONTAGNARD",
-            "27/08/2026"
-          ],
-          [
-            "MOUNIER",
-            "27/08/2026"
-          ],
-          [
             "MOUSCRONTC",
             "03/09/2026"
           ],
@@ -3575,44 +2415,12 @@
             "03/09/2026"
           ],
           [
-            "MOUSCRONTU",
-            "27/08/2026"
-          ],
-          [
             "NAASTTENNIS",
             "03/09/2026"
           ],
           [
-            "NISMES",
-            "27/08/2026"
-          ],
-          [
             "OHEY",
             "03/09/2026"
-          ],
-          [
-            "OHEY",
-            "27/08/2026"
-          ],
-          [
-            "OREE DU BOIS",
-            "27/08/2026"
-          ],
-          [
-            "PARIVAL",
-            "27/08/2026"
-          ],
-          [
-            "PLAINCHAMP",
-            "27/08/2026"
-          ],
-          [
-            "RACKET CLUB HUY",
-            "29/08/2026"
-          ],
-          [
-            "RAIL",
-            "27/08/2026"
           ],
           [
             "RAQUETTE WAVRE",
@@ -3623,10 +2431,6 @@
             "03/09/2026"
           ],
           [
-            "STANDARD",
-            "27/08/2026"
-          ],
-          [
             "TAMINES",
             "03/09/2026"
           ],
@@ -3635,27 +2439,23 @@
             "03/09/2026"
           ],
           [
-            "TC DOUR - LE BELVÉDÈRE",
-            "27/08/2026"
-          ],
-          [
             "TEMPLIER",
             "03/09/2026"
-          ],
-          [
-            "TEMPLOUX",
-            "27/08/2026"
           ],
           [
             "THEUX",
             "03/09/2026"
           ],
           [
-            "TIEBREAK",
-            "27/08/2026"
+            "UCCLE SPORT",
+            "03/09/2026"
           ],
           [
-            "UCCLE SPORT",
+            "WALTZING",
+            "03/09/2026"
+          ],
+          [
+            "WAREMMIEN",
             "03/09/2026"
           ]
         ],
@@ -3663,19 +2463,11 @@
       },
       "GET /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 154835,
+        "laenge": 70172,
         "turniere": [
-          [
-            "ANIMER WEZEMBEEK",
-            "28/08/2026"
-          ],
           [
             "AYWAILLE",
             "03/09/2026"
-          ],
-          [
-            "B. SPORTS",
-            "27/08/2026"
           ],
           [
             "BEAUMONT",
@@ -3698,32 +2490,12 @@
             "03/09/2026"
           ],
           [
-            "CRSPC ANDERLECHT",
-            "27/08/2026"
-          ],
-          [
-            "EMBOURG",
-            "27/08/2026"
-          ],
-          [
-            "ESNEUX",
-            "27/08/2026"
-          ],
-          [
-            "FLEMALLE",
-            "27/08/2026"
-          ],
-          [
             "FONTAINOIS",
             "03/09/2026"
           ],
           [
             "FOSSES",
             "03/09/2026"
-          ],
-          [
-            "GEDINNE",
-            "27/08/2026"
           ],
           [
             "GOSSELIES",
@@ -3734,68 +2506,24 @@
             "03/09/2026"
           ],
           [
-            "HALANZY",
-            "27/08/2026"
-          ],
-          [
-            "HOUFFALIZE",
-            "31/08/2026"
-          ],
-          [
-            "INCOURT",
-            "27/08/2026"
-          ],
-          [
-            "JAMIOULX",
-            "29/08/2026"
-          ],
-          [
             "JENA",
             "03/09/2026"
-          ],
-          [
-            "JUMETEXC",
-            "27/08/2026"
           ],
           [
             "LA BRUYERE",
             "03/09/2026"
           ],
           [
-            "LA CLOSIERE",
-            "27/08/2026"
-          ],
-          [
             "LE BOSQUET",
             "03/09/2026"
-          ],
-          [
-            "LE CHATELET",
-            "27/08/2026"
           ],
           [
             "LIBRAMONT",
             "03/09/2026"
           ],
           [
-            "LIEGEOIS",
-            "27/08/2026"
-          ],
-          [
-            "LONGCHAMPS",
-            "27/08/2026"
-          ],
-          [
-            "MALONNE",
-            "27/08/2026"
-          ],
-          [
             "MANAGE",
             "03/09/2026"
-          ],
-          [
-            "METTET",
-            "27/08/2026"
           ],
           [
             "MOHA",
@@ -3806,14 +2534,6 @@
             "03/09/2026"
           ],
           [
-            "MONTAGNARD",
-            "27/08/2026"
-          ],
-          [
-            "MOUNIER",
-            "27/08/2026"
-          ],
-          [
             "MOUSCRONTC",
             "03/09/2026"
           ],
@@ -3822,44 +2542,12 @@
             "03/09/2026"
           ],
           [
-            "MOUSCRONTU",
-            "27/08/2026"
-          ],
-          [
             "NAASTTENNIS",
             "03/09/2026"
           ],
           [
-            "NISMES",
-            "27/08/2026"
-          ],
-          [
             "OHEY",
             "03/09/2026"
-          ],
-          [
-            "OHEY",
-            "27/08/2026"
-          ],
-          [
-            "OREE DU BOIS",
-            "27/08/2026"
-          ],
-          [
-            "PARIVAL",
-            "27/08/2026"
-          ],
-          [
-            "PLAINCHAMP",
-            "27/08/2026"
-          ],
-          [
-            "RACKET CLUB HUY",
-            "29/08/2026"
-          ],
-          [
-            "RAIL",
-            "27/08/2026"
           ],
           [
             "RAQUETTE WAVRE",
@@ -3870,10 +2558,6 @@
             "03/09/2026"
           ],
           [
-            "STANDARD",
-            "27/08/2026"
-          ],
-          [
             "TAMINES",
             "03/09/2026"
           ],
@@ -3882,27 +2566,23 @@
             "03/09/2026"
           ],
           [
-            "TC DOUR - LE BELVÉDÈRE",
-            "27/08/2026"
-          ],
-          [
             "TEMPLIER",
             "03/09/2026"
-          ],
-          [
-            "TEMPLOUX",
-            "27/08/2026"
           ],
           [
             "THEUX",
             "03/09/2026"
           ],
           [
-            "TIEBREAK",
-            "27/08/2026"
+            "UCCLE SPORT",
+            "03/09/2026"
           ],
           [
-            "UCCLE SPORT",
+            "WALTZING",
+            "03/09/2026"
+          ],
+          [
+            "WAREMMIEN",
             "03/09/2026"
           ]
         ],
@@ -3910,19 +2590,11 @@
       },
       "POST /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 154835,
+        "laenge": 70172,
         "turniere": [
-          [
-            "ANIMER WEZEMBEEK",
-            "28/08/2026"
-          ],
           [
             "AYWAILLE",
             "03/09/2026"
-          ],
-          [
-            "B. SPORTS",
-            "27/08/2026"
           ],
           [
             "BEAUMONT",
@@ -3945,32 +2617,12 @@
             "03/09/2026"
           ],
           [
-            "CRSPC ANDERLECHT",
-            "27/08/2026"
-          ],
-          [
-            "EMBOURG",
-            "27/08/2026"
-          ],
-          [
-            "ESNEUX",
-            "27/08/2026"
-          ],
-          [
-            "FLEMALLE",
-            "27/08/2026"
-          ],
-          [
             "FONTAINOIS",
             "03/09/2026"
           ],
           [
             "FOSSES",
             "03/09/2026"
-          ],
-          [
-            "GEDINNE",
-            "27/08/2026"
           ],
           [
             "GOSSELIES",
@@ -3981,68 +2633,24 @@
             "03/09/2026"
           ],
           [
-            "HALANZY",
-            "27/08/2026"
-          ],
-          [
-            "HOUFFALIZE",
-            "31/08/2026"
-          ],
-          [
-            "INCOURT",
-            "27/08/2026"
-          ],
-          [
-            "JAMIOULX",
-            "29/08/2026"
-          ],
-          [
             "JENA",
             "03/09/2026"
-          ],
-          [
-            "JUMETEXC",
-            "27/08/2026"
           ],
           [
             "LA BRUYERE",
             "03/09/2026"
           ],
           [
-            "LA CLOSIERE",
-            "27/08/2026"
-          ],
-          [
             "LE BOSQUET",
             "03/09/2026"
-          ],
-          [
-            "LE CHATELET",
-            "27/08/2026"
           ],
           [
             "LIBRAMONT",
             "03/09/2026"
           ],
           [
-            "LIEGEOIS",
-            "27/08/2026"
-          ],
-          [
-            "LONGCHAMPS",
-            "27/08/2026"
-          ],
-          [
-            "MALONNE",
-            "27/08/2026"
-          ],
-          [
             "MANAGE",
             "03/09/2026"
-          ],
-          [
-            "METTET",
-            "27/08/2026"
           ],
           [
             "MOHA",
@@ -4053,14 +2661,6 @@
             "03/09/2026"
           ],
           [
-            "MONTAGNARD",
-            "27/08/2026"
-          ],
-          [
-            "MOUNIER",
-            "27/08/2026"
-          ],
-          [
             "MOUSCRONTC",
             "03/09/2026"
           ],
@@ -4069,44 +2669,12 @@
             "03/09/2026"
           ],
           [
-            "MOUSCRONTU",
-            "27/08/2026"
-          ],
-          [
             "NAASTTENNIS",
             "03/09/2026"
           ],
           [
-            "NISMES",
-            "27/08/2026"
-          ],
-          [
             "OHEY",
             "03/09/2026"
-          ],
-          [
-            "OHEY",
-            "27/08/2026"
-          ],
-          [
-            "OREE DU BOIS",
-            "27/08/2026"
-          ],
-          [
-            "PARIVAL",
-            "27/08/2026"
-          ],
-          [
-            "PLAINCHAMP",
-            "27/08/2026"
-          ],
-          [
-            "RACKET CLUB HUY",
-            "29/08/2026"
-          ],
-          [
-            "RAIL",
-            "27/08/2026"
           ],
           [
             "RAQUETTE WAVRE",
@@ -4117,10 +2685,6 @@
             "03/09/2026"
           ],
           [
-            "STANDARD",
-            "27/08/2026"
-          ],
-          [
             "TAMINES",
             "03/09/2026"
           ],
@@ -4129,27 +2693,23 @@
             "03/09/2026"
           ],
           [
-            "TC DOUR - LE BELVÉDÈRE",
-            "27/08/2026"
-          ],
-          [
             "TEMPLIER",
             "03/09/2026"
-          ],
-          [
-            "TEMPLOUX",
-            "27/08/2026"
           ],
           [
             "THEUX",
             "03/09/2026"
           ],
           [
-            "TIEBREAK",
-            "27/08/2026"
+            "UCCLE SPORT",
+            "03/09/2026"
           ],
           [
-            "UCCLE SPORT",
+            "WALTZING",
+            "03/09/2026"
+          ],
+          [
+            "WAREMMIEN",
             "03/09/2026"
           ]
         ],
@@ -4586,7 +3146,7 @@
             "18/12/2025"
           ]
         ],
-        "auszug": "HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M501, M502, G151, M503, F151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DD6, DM3, DD3, DM6, DMX3, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G131, G132, G152, G153, F111, F112, F131, F132, F152, F153, U91, U92 Terminé PLAINCHAMP 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé KALYPSO 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DM6, DD7, DD3, DD6, DMX5, DM1, DM5, DM7, DD4, DMX3, DMX4, DMX7, DM2, DM3, DD5, DMX2, DD1, DMX6, DD2, DMX1, DM4 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3"
+        "auszug": "HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M501, M503, M502, F151, G151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DM3, DD6, DD3, DM6, DMX3, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G131, G132, G152, G153, F111, F112, F131, F132, F152, F153, U91, U92 Terminé PLAINCHAMP 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - F151, G151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé KALYPSO 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DM6, DD7, DMX7, DD4, DMX3, DMX4, DM7, DD6, DMX5, DD1, DM1, DM5, DM2, DM3, DD3, DD2, DMX1, DMX6, DD5, DMX2, DM4 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3"
       },
       "POST /MyAFT/Competitions/TournamentSearchResultData ['regionId']": {
         "content_type": "text/html; charset=utf-8",
@@ -4833,7 +3393,7 @@
             "18/12/2025"
           ]
         ],
-        "auszug": "HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M502, M503, M501, F151, G151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DD3, DD6, DM6, DMX3, DM3, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G131, G132, G152, G153, F111, F112, F131, F132, F152, F153, U91, U92 Terminé PLAINCHAMP 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - F151, G151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé KALYPSO 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - F151, G151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD3, DD6, DMX5, DD4, DMX3, DMX4, DM6, DD7, DM7, DMX7, DM1, DM5, DM2, DM3, DD1, DD5, DMX2, DD2, DMX1, DMX6, DM4 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3"
+        "auszug": "BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD6, DMX5, DM1, DM5, DM7, DM6, DD7, DMX7, DM2, DM3, DD4, DMX3, DMX4, DD3, DD5, DMX2, DM4, DD1, DMX6, DD2, DMX1 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3, M4, M5, M6, D2, D3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé HAILLOT 16/10/2025 AD Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD6, DD7, DD5, DD4 Terminé LAMBERMONT (BRABANT) 18/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes & Ethias Junior Tour - M504, M505, G151, F151, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M501, M502, M503, G151, F151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DD6, DM3, DD3, DMX3, DM6, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G13"
       },
       "POST /MyAFT/Competitions/TournamentSearchResultData ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
@@ -5080,7 +3640,7 @@
             "18/12/2025"
           ]
         ],
-        "auszug": "BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DM1, DM5, DD6, DMX5, DD2, DMX1, DMX6, DD1, DM7, DD3, DM2, DM3, DMX7, DM6, DD7, DD4, DMX3, DMX4, DM4, DD5, DMX2 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3, M4, M5, M6, D2, D3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé HAILLOT 16/10/2025 AD Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD6, DD7, DD4, DD5 Terminé LAMBERMONT (BRABANT) 18/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes & Ethias Junior Tour - M504, M505, G151, F151, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M501, M502, F151, M503, G151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DD6, DD3, DM6, DM3, DMX3, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G13"
+        "auszug": "HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M502, M501, M503, F151, G151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DM6, DM3, DD6, DD3, DMX3, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G131, G132, G152, G153, F111, F112, F131, F132, F152, F153, U91, U92 Terminé PLAINCHAMP 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé KALYPSO 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DM6, DD7, DD4, DMX3, DMX4, DM7, DM1, DM5, DD3, DD6, DMX5, DM2, DM3, DMX7, DD1, DM4, DD5, DMX2, DMX6, DD2, DMX1 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3"
       },
       "GET /MyAFT/Competitions/Tournaments []": {
         "content_type": "text/html; charset=utf-8",
@@ -7471,6 +6031,91 @@
         "provinz": "Brabant/Bruessel"
       },
       {
+        "id": "362188",
+        "ort": "LA LIGNE",
+        "start": "30/07/2026",
+        "anmeldung_bis": "28/07/2026",
+        "status": "Terminé",
+        "beschreibung": "",
+        "kategorien": [
+          "D251",
+          "D252",
+          "D253",
+          "D254",
+          "D551",
+          "D552",
+          "D553",
+          "DD1",
+          "DD3",
+          "DD4",
+          "DD5",
+          "DD7",
+          "DM1",
+          "DM3",
+          "DM4",
+          "DM5",
+          "DM7",
+          "DMX1",
+          "DMX3",
+          "DMX4",
+          "DMX5",
+          "DMX7",
+          "M352",
+          "M353",
+          "M354",
+          "M355",
+          "M356",
+          "M501",
+          "M502",
+          "M503",
+          "M504",
+          "M505"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": true,
+        "fuer_c306": true,
+        "zeitraum_von": "30/07/2026",
+        "zeitraum_bis": "09/08/2026",
+        "klub": "LA LIGNE",
+        "schiedsrichter": "BAUWIN Damien",
+        "klubcode": "6038",
+        "klub_voll": "T.C. DE LA LIGNE",
+        "provinz": "Luxemburg"
+      },
+      {
+        "id": "362189",
+        "ort": "GODINNE",
+        "start": "30/07/2026",
+        "anmeldung_bis": "28/07/2026",
+        "status": "Terminé",
+        "beschreibung": "",
+        "kategorien": [
+          "DD2",
+          "DD3",
+          "DD4",
+          "DD5",
+          "DD6",
+          "DM2",
+          "DM3",
+          "DM4",
+          "DM5",
+          "DM6",
+          "DMX2",
+          "DMX3",
+          "DMX4",
+          "DMX5",
+          "DMX6"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": false,
+        "fuer_c306": true,
+        "klubcode": "6024",
+        "klub_voll": "T.C. GODINNE",
+        "provinz": "Luxemburg"
+      },
+      {
         "id": "361949",
         "ort": "BEAUVECHAIN",
         "start": "30/07/2026",
@@ -7797,91 +6442,6 @@
         "schiedsrichter": "GILLES Viviane",
         "klubcode": "6025",
         "klub_voll": "T.C. HASTIERE",
-        "provinz": "Luxemburg"
-      },
-      {
-        "id": "362188",
-        "ort": "LA LIGNE",
-        "start": "30/07/2026",
-        "anmeldung_bis": "28/07/2026",
-        "status": "Terminé",
-        "beschreibung": "",
-        "kategorien": [
-          "D251",
-          "D252",
-          "D253",
-          "D254",
-          "D551",
-          "D552",
-          "D553",
-          "DD1",
-          "DD3",
-          "DD4",
-          "DD5",
-          "DD7",
-          "DM1",
-          "DM3",
-          "DM4",
-          "DM5",
-          "DM7",
-          "DMX1",
-          "DMX3",
-          "DMX4",
-          "DMX5",
-          "DMX7",
-          "M352",
-          "M353",
-          "M354",
-          "M355",
-          "M356",
-          "M501",
-          "M502",
-          "M503",
-          "M504",
-          "M505"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": false,
-        "hat_M356": true,
-        "fuer_c306": true,
-        "zeitraum_von": "30/07/2026",
-        "zeitraum_bis": "09/08/2026",
-        "klub": "LA LIGNE",
-        "schiedsrichter": "BAUWIN Damien",
-        "klubcode": "6038",
-        "klub_voll": "T.C. DE LA LIGNE",
-        "provinz": "Luxemburg"
-      },
-      {
-        "id": "362189",
-        "ort": "GODINNE",
-        "start": "30/07/2026",
-        "anmeldung_bis": "28/07/2026",
-        "status": "Terminé",
-        "beschreibung": "",
-        "kategorien": [
-          "DD2",
-          "DD3",
-          "DD4",
-          "DD5",
-          "DD6",
-          "DM2",
-          "DM3",
-          "DM4",
-          "DM5",
-          "DM6",
-          "DMX2",
-          "DMX3",
-          "DMX4",
-          "DMX5",
-          "DMX6"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": false,
-        "hat_M356": false,
-        "fuer_c306": true,
-        "klubcode": "6024",
-        "klub_voll": "T.C. GODINNE",
         "provinz": "Luxemburg"
       },
       {
@@ -9571,7 +8131,7 @@
         "ort": "SMASH 51",
         "start": "27/08/2026",
         "anmeldung_bis": "25/08/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "CRITERIUM ADULTES - BC SD I* - Doubles Dames TWB",
         "kategorien": [
           "D2",
@@ -9618,7 +8178,7 @@
         "ort": "STANDARD",
         "start": "27/08/2026",
         "anmeldung_bis": "25/08/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "CRITERIUM ADULTES - Doubles Dames TWB",
         "kategorien": [
           "D251",
@@ -9660,7 +8220,7 @@
         "ort": "INCOURT",
         "start": "27/08/2026",
         "anmeldung_bis": "25/08/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "DD3",
@@ -9864,7 +8424,7 @@
         "ort": "OHEY",
         "start": "27/08/2026",
         "anmeldung_bis": "25/08/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "DD1",
@@ -9998,7 +8558,7 @@
         "ort": "JUMETEXC",
         "start": "27/08/2026",
         "anmeldung_bis": "25/08/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "D2",
@@ -10021,7 +8581,7 @@
         "ort": "TIEBREAK",
         "start": "27/08/2026",
         "anmeldung_bis": "25/08/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "D2",
@@ -10073,7 +8633,7 @@
         "ort": "VENERIE",
         "start": "27/08/2026",
         "anmeldung_bis": "25/08/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "D2",
@@ -10120,7 +8680,7 @@
         "ort": "PLAINCHAMP",
         "start": "27/08/2026",
         "anmeldung_bis": "25/08/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "D2",
@@ -10228,7 +8788,7 @@
         "ort": "TC DOUR - LE BELVÉDÈRE",
         "start": "27/08/2026",
         "anmeldung_bis": "25/08/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "DD1",
@@ -10266,7 +8826,7 @@
         "ort": "MONTAGNARD",
         "start": "27/08/2026",
         "anmeldung_bis": "25/08/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "DD1",
@@ -10304,7 +8864,7 @@
         "ort": "ATH",
         "start": "27/08/2026",
         "anmeldung_bis": "25/08/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "DD1",
@@ -10363,7 +8923,7 @@
         "ort": "MOUSCRONTU",
         "start": "27/08/2026",
         "anmeldung_bis": "25/08/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "D2",
@@ -10411,7 +8971,7 @@
         "ort": "CRSPC ANDERLECHT",
         "start": "27/08/2026",
         "anmeldung_bis": "25/08/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "D2",
@@ -10470,7 +9030,7 @@
         "ort": "B. SPORTS",
         "start": "27/08/2026",
         "anmeldung_bis": "25/08/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "D2",
@@ -10512,7 +9072,7 @@
         "ort": "EMBOURG",
         "start": "27/08/2026",
         "anmeldung_bis": "25/08/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "F111",
@@ -10550,7 +9110,7 @@
         "ort": "ESNEUX",
         "start": "27/08/2026",
         "anmeldung_bis": "25/08/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB",
         "kategorien": [
           "DD3",
@@ -10618,7 +9178,7 @@
         "ort": "LIEGEOIS",
         "start": "27/08/2026",
         "anmeldung_bis": "25/08/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "F111",
@@ -10686,7 +9246,7 @@
         "ort": "BAUDOUIN (Brabant)",
         "start": "27/08/2026",
         "anmeldung_bis": "25/08/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [],
         "anmeldeoeffnung": [],
@@ -10702,7 +9262,7 @@
         "ort": "MOUNIER",
         "start": "27/08/2026",
         "anmeldung_bis": "25/08/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "D2",
@@ -10872,7 +9432,7 @@
         "ort": "ANIMER WEZEMBEEK",
         "start": "28/08/2026",
         "anmeldung_bis": "25/08/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "D2",
@@ -10907,7 +9467,7 @@
         "ort": "JAMIOULX",
         "start": "29/08/2026",
         "anmeldung_bis": "25/08/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "D2",
@@ -12816,12 +11376,12 @@
         "/MyAFT/Competitions/TournamentDetailCategories?idTournoi=361794&amp;subscrStartDate=20%2F07%2F2026&amp;subscrEndDate=11%2F08%2F2026&amp;displaySubscriptions=False&amp;maxSubscriptions=259&amp;tournoiDescription=SAINT-VITH%2020%2F07%2F2026",
         "/MyAFT/Competitions/TournamentDetailDraw?idTournoi=361794",
         "/MyAFT/Competitions/TournamentDetailRegisters?idTournoi=361794",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=060920260527297843&amp;IdTournoi=361671&amp;PathRules=361671_4067.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=060920260527297863&amp;IdTournoi=361706&amp;PathRules=361706_4091.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=060920260527297883&amp;IdTournoi=361794&amp;PathRules=361794_4077.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=060920260527297898&amp;IdTournoi=361804&amp;PathRules=361804_4081.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=060920260527297913&amp;IdTournoi=361818&amp;PathRules=361818_4001.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=060920260527297928&amp;IdTournoi=361825&amp;PathRules=361825_4049.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=070920260529112693&amp;IdTournoi=361671&amp;PathRules=361671_4067.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=070920260529112708&amp;IdTournoi=361706&amp;PathRules=361706_4091.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=070920260529112723&amp;IdTournoi=361794&amp;PathRules=361794_4077.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=070920260529112738&amp;IdTournoi=361804&amp;PathRules=361804_4081.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=070920260529112753&amp;IdTournoi=361818&amp;PathRules=361818_4001.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=070920260529112768&amp;IdTournoi=361825&amp;PathRules=361825_4049.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
         "/MyAFT/Players",
         "/MyAFT/Players/Detail",
         "/MyAFT/Players/GetPlayersAutocomplete",
@@ -12841,6 +11401,24 @@
       ],
       "treffer": {
         "/MyAFT/Players/Index ['idTournoi']": {
+          "anzahl": 3,
+          "spieler": [
+            {
+              "name": "ITF Junior",
+              "klassierung": "Arlon"
+            },
+            {
+              "name": "TWB Niveau",
+              "klassierung": "Aspirant"
+            },
+            {
+              "name": "TODO Tam",
+              "klassierung": "AFTGDPR"
+            }
+          ],
+          "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tenni"
+        },
+        "/MyAFT/Players ['idTournoi']": {
           "anzahl": 3,
           "spieler": [
             {
