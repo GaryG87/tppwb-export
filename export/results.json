@@ -1,5 +1,5 @@
 {
-  "zeit": "2026-09-14T08:54:51.549995+00:00",
+  "zeit": "2026-09-15T08:40:33.120134+00:00",
   "version": 28,
   "status": "ok",
   "klassierung": [
@@ -1198,7 +1198,7 @@
     "treffer": {
       "GET /MyAFT/Competitions/CompetitionsTournamentsByRegion []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 24939,
+        "laenge": 29480,
         "turniere": [
           [
             "ACACIAS",
@@ -1217,6 +1217,10 @@
             "10/09/2026"
           ],
           [
+            "MARCHE",
+            "16/09/2026"
+          ],
+          [
             "PENSERY",
             "10/09/2026"
           ],
@@ -1233,6 +1237,10 @@
             "10/09/2026"
           ],
           [
+            "THUIN",
+            "16/09/2026"
+          ],
+          [
             "VAUTOUR",
             "12/09/2026"
           ],
@@ -1241,11 +1249,11 @@
             "10/09/2026"
           ]
         ],
-        "auszug": "ACACIAS 14/09/2026 Tournoi Télévie Simples/Vétérans/Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours VAUTOUR 12/09/2026 Masters de simples du Hainaut - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours LAMBERMONT (BRABANT) 12/09/2026 Circuit Allan Sport AD - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX4, DMX5, DMX6 En cours FOSSES 10/09/2026 Critérium senior by Cornet V - M503, M504, M505, M352, M353, M354, M355, D251, D252 En cours LA BRUYERE 10/09/2026 Critérium Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SAINT FIACRE 10/09/2026 Critérium senior by Cornet + M35 I V - M351, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours TAMINES 10/09/2026 Critérium adultes AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours THEUX 10/09/2026 TOURNOI INTIME JAS - IG13, IF13, IG11, IF11, IM, IM, IM, IM, ID, ID, ID En cours CONDROZ 10/09/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM6, DM7, DD1, DD2, DD6, DD7, DMX1, DMX2, DMX6, DMX7, M504, M505, D401, D402, D403, D404, M1BC1*, M2, M6, D1BC1*, D2, M355, M356 En cours PENSERY 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB D - DM3, DM4, DM5, DM6, DD3, DD4, DD5, DD6, DMX4 En cours WAREMMIEN 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB AD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6 En cours"
+        "auszug": "THUIN 16/09/2026 Masters du Hainaut de doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées MARCHE 16/09/2026 Ethias Junior Masters - U91, U92, U93, G111, G112, G113, F111, F112, F113, G131, G132, G133, F131, F132, F133, G151, G152, G153, F151, F152, F153 Inscriptions clôturées ACACIAS 14/09/2026 Tournoi Télévie Simples/Vétérans/Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours VAUTOUR 12/09/2026 Masters de simples du Hainaut - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours LAMBERMONT (BRABANT) 12/09/2026 Circuit Allan Sport AD - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX4, DMX5, DMX6 En cours FOSSES 10/09/2026 Critérium senior by Cornet V - M503, M504, M505, M352, M353, M354, M355, D251, D252 En cours LA BRUYERE 10/09/2026 Critérium Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SAINT FIACRE 10/09/2026 Critérium senior by Cornet + M35 I V - M351, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours TAMINES 10/09/2026 Critérium adultes AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours CONDROZ 10/09/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM6, DM7, DD1, DD2, DD6, DD7, DMX1, DMX2, DMX6, DMX7, M504, M505, D401, D402, D403, D404, M1BC1*, M2, M6, D1BC1*, D2, M355, M356 En cours PENSERY 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB D - DM3, DM4, DM5, DM6, DD3, DD4, DD5, DD6, DMX4 En cours WAREMMIEN 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB AD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6 En cours THEUX 10/09/2026 TOURNOI INTIME JAS - IG13, IF13, IG11, IF11, IM, IM, IM, IM, ID, ID, ID En cours"
       },
       "POST /MyAFT/Competitions/CompetitionsTournamentsByRegion []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 24939,
+        "laenge": 29480,
         "turniere": [
           [
             "ACACIAS",
@@ -1264,6 +1272,10 @@
             "10/09/2026"
           ],
           [
+            "MARCHE",
+            "16/09/2026"
+          ],
+          [
             "PENSERY",
             "10/09/2026"
           ],
@@ -1280,6 +1292,10 @@
             "10/09/2026"
           ],
           [
+            "THUIN",
+            "16/09/2026"
+          ],
+          [
             "VAUTOUR",
             "12/09/2026"
           ],
@@ -1288,11 +1304,11 @@
             "10/09/2026"
           ]
         ],
-        "auszug": "ACACIAS 14/09/2026 Tournoi Télévie Simples/Vétérans/Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours VAUTOUR 12/09/2026 Masters de simples du Hainaut - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours LAMBERMONT (BRABANT) 12/09/2026 Circuit Allan Sport AD - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX4, DMX5, DMX6 En cours FOSSES 10/09/2026 Critérium senior by Cornet V - M503, M504, M505, M352, M353, M354, M355, D251, D252 En cours LA BRUYERE 10/09/2026 Critérium Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SAINT FIACRE 10/09/2026 Critérium senior by Cornet + M35 I V - M351, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours TAMINES 10/09/2026 Critérium adultes AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours THEUX 10/09/2026 TOURNOI INTIME JAS - IG13, IF13, IG11, IF11, IM, IM, IM, IM, ID, ID, ID En cours CONDROZ 10/09/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM6, DM7, DD1, DD2, DD6, DD7, DMX1, DMX2, DMX6, DMX7, M504, M505, D401, D402, D403, D404, M1BC1*, M2, M6, D1BC1*, D2, M355, M356 En cours PENSERY 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB D - DM3, DM4, DM5, DM6, DD3, DD4, DD5, DD6, DMX4 En cours WAREMMIEN 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB AD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6 En cours"
+        "auszug": "THUIN 16/09/2026 Masters du Hainaut de doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées MARCHE 16/09/2026 Ethias Junior Masters - U91, U92, U93, G111, G112, G113, F111, F112, F113, G131, G132, G133, F131, F132, F133, G151, G152, G153, F151, F152, F153 Inscriptions clôturées ACACIAS 14/09/2026 Tournoi Télévie Simples/Vétérans/Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours VAUTOUR 12/09/2026 Masters de simples du Hainaut - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours LAMBERMONT (BRABANT) 12/09/2026 Circuit Allan Sport AD - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX4, DMX5, DMX6 En cours FOSSES 10/09/2026 Critérium senior by Cornet V - M503, M504, M505, M352, M353, M354, M355, D251, D252 En cours LA BRUYERE 10/09/2026 Critérium Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SAINT FIACRE 10/09/2026 Critérium senior by Cornet + M35 I V - M351, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours TAMINES 10/09/2026 Critérium adultes AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours CONDROZ 10/09/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM6, DM7, DD1, DD2, DD6, DD7, DMX1, DMX2, DMX6, DMX7, M504, M505, D401, D402, D403, D404, M1BC1*, M2, M6, D1BC1*, D2, M355, M356 En cours PENSERY 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB D - DM3, DM4, DM5, DM6, DD3, DD4, DD5, DD6, DMX4 En cours WAREMMIEN 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB AD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6 En cours THEUX 10/09/2026 TOURNOI INTIME JAS - IG13, IF13, IG11, IF11, IM, IM, IM, IM, ID, ID, ID En cours"
       },
       "GET /MyAFT/Competitions/CompetitionsTournamentsByRegion ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 24939,
+        "laenge": 29480,
         "turniere": [
           [
             "ACACIAS",
@@ -1311,6 +1327,10 @@
             "10/09/2026"
           ],
           [
+            "MARCHE",
+            "16/09/2026"
+          ],
+          [
             "PENSERY",
             "10/09/2026"
           ],
@@ -1327,6 +1347,10 @@
             "10/09/2026"
           ],
           [
+            "THUIN",
+            "16/09/2026"
+          ],
+          [
             "VAUTOUR",
             "12/09/2026"
           ],
@@ -1335,11 +1359,11 @@
             "10/09/2026"
           ]
         ],
-        "auszug": "ACACIAS 14/09/2026 Tournoi Télévie Simples/Vétérans/Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours VAUTOUR 12/09/2026 Masters de simples du Hainaut - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours LAMBERMONT (BRABANT) 12/09/2026 Circuit Allan Sport AD - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX4, DMX5, DMX6 En cours FOSSES 10/09/2026 Critérium senior by Cornet V - M503, M504, M505, M352, M353, M354, M355, D251, D252 En cours LA BRUYERE 10/09/2026 Critérium Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SAINT FIACRE 10/09/2026 Critérium senior by Cornet + M35 I V - M351, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours TAMINES 10/09/2026 Critérium adultes AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours THEUX 10/09/2026 TOURNOI INTIME JAS - IG13, IF13, IG11, IF11, IM, IM, IM, IM, ID, ID, ID En cours CONDROZ 10/09/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM6, DM7, DD1, DD2, DD6, DD7, DMX1, DMX2, DMX6, DMX7, M504, M505, D401, D402, D403, D404, M1BC1*, M2, M6, D1BC1*, D2, M355, M356 En cours PENSERY 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB D - DM3, DM4, DM5, DM6, DD3, DD4, DD5, DD6, DMX4 En cours WAREMMIEN 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB AD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6 En cours"
+        "auszug": "THUIN 16/09/2026 Masters du Hainaut de doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées MARCHE 16/09/2026 Ethias Junior Masters - U91, U92, U93, G111, G112, G113, F111, F112, F113, G131, G132, G133, F131, F132, F133, G151, G152, G153, F151, F152, F153 Inscriptions clôturées ACACIAS 14/09/2026 Tournoi Télévie Simples/Vétérans/Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours VAUTOUR 12/09/2026 Masters de simples du Hainaut - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours LAMBERMONT (BRABANT) 12/09/2026 Circuit Allan Sport AD - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX4, DMX5, DMX6 En cours FOSSES 10/09/2026 Critérium senior by Cornet V - M503, M504, M505, M352, M353, M354, M355, D251, D252 En cours LA BRUYERE 10/09/2026 Critérium Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SAINT FIACRE 10/09/2026 Critérium senior by Cornet + M35 I V - M351, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours TAMINES 10/09/2026 Critérium adultes AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours CONDROZ 10/09/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM6, DM7, DD1, DD2, DD6, DD7, DMX1, DMX2, DMX6, DMX7, M504, M505, D401, D402, D403, D404, M1BC1*, M2, M6, D1BC1*, D2, M355, M356 En cours PENSERY 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB D - DM3, DM4, DM5, DM6, DD3, DD4, DD5, DD6, DMX4 En cours WAREMMIEN 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB AD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6 En cours THEUX 10/09/2026 TOURNOI INTIME JAS - IG13, IF13, IG11, IF11, IM, IM, IM, IM, ID, ID, ID En cours"
       },
       "POST /MyAFT/Competitions/CompetitionsTournamentsByRegion ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 24939,
+        "laenge": 29480,
         "turniere": [
           [
             "ACACIAS",
@@ -1358,6 +1382,10 @@
             "10/09/2026"
           ],
           [
+            "MARCHE",
+            "16/09/2026"
+          ],
+          [
             "PENSERY",
             "10/09/2026"
           ],
@@ -1374,6 +1402,10 @@
             "10/09/2026"
           ],
           [
+            "THUIN",
+            "16/09/2026"
+          ],
+          [
             "VAUTOUR",
             "12/09/2026"
           ],
@@ -1382,11 +1414,11 @@
             "10/09/2026"
           ]
         ],
-        "auszug": "ACACIAS 14/09/2026 Tournoi Télévie Simples/Vétérans/Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours VAUTOUR 12/09/2026 Masters de simples du Hainaut - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours LAMBERMONT (BRABANT) 12/09/2026 Circuit Allan Sport AD - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX4, DMX5, DMX6 En cours FOSSES 10/09/2026 Critérium senior by Cornet V - M503, M504, M505, M352, M353, M354, M355, D251, D252 En cours LA BRUYERE 10/09/2026 Critérium Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SAINT FIACRE 10/09/2026 Critérium senior by Cornet + M35 I V - M351, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours TAMINES 10/09/2026 Critérium adultes AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours THEUX 10/09/2026 TOURNOI INTIME JAS - IG13, IF13, IG11, IF11, IM, IM, IM, IM, ID, ID, ID En cours CONDROZ 10/09/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM6, DM7, DD1, DD2, DD6, DD7, DMX1, DMX2, DMX6, DMX7, M504, M505, D401, D402, D403, D404, M1BC1*, M2, M6, D1BC1*, D2, M355, M356 En cours PENSERY 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB D - DM3, DM4, DM5, DM6, DD3, DD4, DD5, DD6, DMX4 En cours WAREMMIEN 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB AD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6 En cours"
+        "auszug": "THUIN 16/09/2026 Masters du Hainaut de doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées MARCHE 16/09/2026 Ethias Junior Masters - U91, U92, U93, G111, G112, G113, F111, F112, F113, G131, G132, G133, F131, F132, F133, G151, G152, G153, F151, F152, F153 Inscriptions clôturées ACACIAS 14/09/2026 Tournoi Télévie Simples/Vétérans/Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours VAUTOUR 12/09/2026 Masters de simples du Hainaut - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours LAMBERMONT (BRABANT) 12/09/2026 Circuit Allan Sport AD - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX4, DMX5, DMX6 En cours FOSSES 10/09/2026 Critérium senior by Cornet V - M503, M504, M505, M352, M353, M354, M355, D251, D252 En cours LA BRUYERE 10/09/2026 Critérium Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SAINT FIACRE 10/09/2026 Critérium senior by Cornet + M35 I V - M351, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours TAMINES 10/09/2026 Critérium adultes AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours CONDROZ 10/09/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM6, DM7, DD1, DD2, DD6, DD7, DMX1, DMX2, DMX6, DMX7, M504, M505, D401, D402, D403, D404, M1BC1*, M2, M6, D1BC1*, D2, M355, M356 En cours PENSERY 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB D - DM3, DM4, DM5, DM6, DD3, DD4, DD5, DD6, DMX4 En cours WAREMMIEN 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB AD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6 En cours THEUX 10/09/2026 TOURNOI INTIME JAS - IG13, IF13, IG11, IF11, IM, IM, IM, IM, ID, ID, ID En cours"
       },
       "GET /MyAFT/Competitions/CompetitionsTournamentsByRegion ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 24939,
+        "laenge": 29480,
         "turniere": [
           [
             "ACACIAS",
@@ -1405,6 +1437,10 @@
             "10/09/2026"
           ],
           [
+            "MARCHE",
+            "16/09/2026"
+          ],
+          [
             "PENSERY",
             "10/09/2026"
           ],
@@ -1421,6 +1457,10 @@
             "10/09/2026"
           ],
           [
+            "THUIN",
+            "16/09/2026"
+          ],
+          [
             "VAUTOUR",
             "12/09/2026"
           ],
@@ -1429,11 +1469,11 @@
             "10/09/2026"
           ]
         ],
-        "auszug": "ACACIAS 14/09/2026 Tournoi Télévie Simples/Vétérans/Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours VAUTOUR 12/09/2026 Masters de simples du Hainaut - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours LAMBERMONT (BRABANT) 12/09/2026 Circuit Allan Sport AD - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX4, DMX5, DMX6 En cours FOSSES 10/09/2026 Critérium senior by Cornet V - M503, M504, M505, M352, M353, M354, M355, D251, D252 En cours LA BRUYERE 10/09/2026 Critérium Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SAINT FIACRE 10/09/2026 Critérium senior by Cornet + M35 I V - M351, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours TAMINES 10/09/2026 Critérium adultes AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours THEUX 10/09/2026 TOURNOI INTIME JAS - IG13, IF13, IG11, IF11, IM, IM, IM, IM, ID, ID, ID En cours CONDROZ 10/09/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM6, DM7, DD1, DD2, DD6, DD7, DMX1, DMX2, DMX6, DMX7, M504, M505, D401, D402, D403, D404, M1BC1*, M2, M6, D1BC1*, D2, M355, M356 En cours PENSERY 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB D - DM3, DM4, DM5, DM6, DD3, DD4, DD5, DD6, DMX4 En cours WAREMMIEN 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB AD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6 En cours"
+        "auszug": "THUIN 16/09/2026 Masters du Hainaut de doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées MARCHE 16/09/2026 Ethias Junior Masters - U91, U92, U93, G111, G112, G113, F111, F112, F113, G131, G132, G133, F131, F132, F133, G151, G152, G153, F151, F152, F153 Inscriptions clôturées ACACIAS 14/09/2026 Tournoi Télévie Simples/Vétérans/Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours VAUTOUR 12/09/2026 Masters de simples du Hainaut - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours LAMBERMONT (BRABANT) 12/09/2026 Circuit Allan Sport AD - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX4, DMX5, DMX6 En cours FOSSES 10/09/2026 Critérium senior by Cornet V - M503, M504, M505, M352, M353, M354, M355, D251, D252 En cours LA BRUYERE 10/09/2026 Critérium Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SAINT FIACRE 10/09/2026 Critérium senior by Cornet + M35 I V - M351, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours TAMINES 10/09/2026 Critérium adultes AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours CONDROZ 10/09/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM6, DM7, DD1, DD2, DD6, DD7, DMX1, DMX2, DMX6, DMX7, M504, M505, D401, D402, D403, D404, M1BC1*, M2, M6, D1BC1*, D2, M355, M356 En cours PENSERY 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB D - DM3, DM4, DM5, DM6, DD3, DD4, DD5, DD6, DMX4 En cours WAREMMIEN 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB AD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6 En cours THEUX 10/09/2026 TOURNOI INTIME JAS - IG13, IF13, IG11, IF11, IM, IM, IM, IM, ID, ID, ID En cours"
       },
       "POST /MyAFT/Competitions/CompetitionsTournamentsByRegion ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 24939,
+        "laenge": 29480,
         "turniere": [
           [
             "ACACIAS",
@@ -1452,6 +1492,10 @@
             "10/09/2026"
           ],
           [
+            "MARCHE",
+            "16/09/2026"
+          ],
+          [
             "PENSERY",
             "10/09/2026"
           ],
@@ -1468,6 +1512,10 @@
             "10/09/2026"
           ],
           [
+            "THUIN",
+            "16/09/2026"
+          ],
+          [
             "VAUTOUR",
             "12/09/2026"
           ],
@@ -1476,11 +1524,11 @@
             "10/09/2026"
           ]
         ],
-        "auszug": "ACACIAS 14/09/2026 Tournoi Télévie Simples/Vétérans/Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours VAUTOUR 12/09/2026 Masters de simples du Hainaut - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours LAMBERMONT (BRABANT) 12/09/2026 Circuit Allan Sport AD - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX4, DMX5, DMX6 En cours FOSSES 10/09/2026 Critérium senior by Cornet V - M503, M504, M505, M352, M353, M354, M355, D251, D252 En cours LA BRUYERE 10/09/2026 Critérium Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SAINT FIACRE 10/09/2026 Critérium senior by Cornet + M35 I V - M351, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours TAMINES 10/09/2026 Critérium adultes AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours THEUX 10/09/2026 TOURNOI INTIME JAS - IG13, IF13, IG11, IF11, IM, IM, IM, IM, ID, ID, ID En cours CONDROZ 10/09/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM6, DM7, DD1, DD2, DD6, DD7, DMX1, DMX2, DMX6, DMX7, M504, M505, D401, D402, D403, D404, M1BC1*, M2, M6, D1BC1*, D2, M355, M356 En cours PENSERY 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB D - DM3, DM4, DM5, DM6, DD3, DD4, DD5, DD6, DMX4 En cours WAREMMIEN 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB AD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6 En cours"
+        "auszug": "THUIN 16/09/2026 Masters du Hainaut de doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées MARCHE 16/09/2026 Ethias Junior Masters - U91, U92, U93, G111, G112, G113, F111, F112, F113, G131, G132, G133, F131, F132, F133, G151, G152, G153, F151, F152, F153 Inscriptions clôturées ACACIAS 14/09/2026 Tournoi Télévie Simples/Vétérans/Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours VAUTOUR 12/09/2026 Masters de simples du Hainaut - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours LAMBERMONT (BRABANT) 12/09/2026 Circuit Allan Sport AD - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX4, DMX5, DMX6 En cours FOSSES 10/09/2026 Critérium senior by Cornet V - M503, M504, M505, M352, M353, M354, M355, D251, D252 En cours LA BRUYERE 10/09/2026 Critérium Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SAINT FIACRE 10/09/2026 Critérium senior by Cornet + M35 I V - M351, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours TAMINES 10/09/2026 Critérium adultes AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours CONDROZ 10/09/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM6, DM7, DD1, DD2, DD6, DD7, DMX1, DMX2, DMX6, DMX7, M504, M505, D401, D402, D403, D404, M1BC1*, M2, M6, D1BC1*, D2, M355, M356 En cours PENSERY 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB D - DM3, DM4, DM5, DM6, DD3, DD4, DD5, DD6, DMX4 En cours WAREMMIEN 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB AD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6 En cours THEUX 10/09/2026 TOURNOI INTIME JAS - IG13, IF13, IG11, IF11, IM, IM, IM, IM, ID, ID, ID En cours"
       },
       "GET /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 24788,
+        "laenge": 29329,
         "turniere": [
           [
             "ACACIAS",
@@ -1499,6 +1547,10 @@
             "10/09/2026"
           ],
           [
+            "MARCHE",
+            "16/09/2026"
+          ],
+          [
             "PENSERY",
             "10/09/2026"
           ],
@@ -1515,6 +1567,10 @@
             "10/09/2026"
           ],
           [
+            "THUIN",
+            "16/09/2026"
+          ],
+          [
             "VAUTOUR",
             "12/09/2026"
           ],
@@ -1523,11 +1579,11 @@
             "10/09/2026"
           ]
         ],
-        "auszug": "ACACIAS 14/09/2026 Tournoi Télévie Simples/Vétérans/Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours VAUTOUR 12/09/2026 Masters de simples du Hainaut - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours LAMBERMONT (BRABANT) 12/09/2026 Circuit Allan Sport AD - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX4, DMX5, DMX6 En cours FOSSES 10/09/2026 Critérium senior by Cornet V - M503, M504, M505, M352, M353, M354, M355, D251, D252 En cours LA BRUYERE 10/09/2026 Critérium Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SAINT FIACRE 10/09/2026 Critérium senior by Cornet + M35 I V - M351, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours TAMINES 10/09/2026 Critérium adultes AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours THEUX 10/09/2026 TOURNOI INTIME JAS - IG13, IF13, IG11, IF11, IM, IM, IM, IM, ID, ID, ID En cours CONDROZ 10/09/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM6, DM7, DD1, DD2, DD6, DD7, DMX1, DMX2, DMX6, DMX7, M504, M505, D401, D402, D403, D404, M1BC1*, M2, M6, D1BC1*, D2, M355, M356 En cours PENSERY 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB D - DM3, DM4, DM5, DM6, DD3, DD4, DD5, DD6, DMX4 En cours WAREMMIEN 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB AD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6 En cours"
+        "auszug": "THUIN 16/09/2026 Masters du Hainaut de doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées MARCHE 16/09/2026 Ethias Junior Masters - U91, U92, U93, G111, G112, G113, F111, F112, F113, G131, G132, G133, F131, F132, F133, G151, G152, G153, F151, F152, F153 Inscriptions clôturées ACACIAS 14/09/2026 Tournoi Télévie Simples/Vétérans/Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours VAUTOUR 12/09/2026 Masters de simples du Hainaut - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours LAMBERMONT (BRABANT) 12/09/2026 Circuit Allan Sport AD - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX4, DMX5, DMX6 En cours FOSSES 10/09/2026 Critérium senior by Cornet V - M503, M504, M505, M352, M353, M354, M355, D251, D252 En cours LA BRUYERE 10/09/2026 Critérium Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SAINT FIACRE 10/09/2026 Critérium senior by Cornet + M35 I V - M351, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours TAMINES 10/09/2026 Critérium adultes AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours CONDROZ 10/09/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM6, DM7, DD1, DD2, DD6, DD7, DMX1, DMX2, DMX6, DMX7, M504, M505, D401, D402, D403, D404, M1BC1*, M2, M6, D1BC1*, D2, M355, M356 En cours PENSERY 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB D - DM3, DM4, DM5, DM6, DD3, DD4, DD5, DD6, DMX4 En cours WAREMMIEN 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB AD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6 En cours THEUX 10/09/2026 TOURNOI INTIME JAS - IG13, IF13, IG11, IF11, IM, IM, IM, IM, ID, ID, ID En cours"
       },
       "POST /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 24788,
+        "laenge": 29329,
         "turniere": [
           [
             "ACACIAS",
@@ -1546,6 +1602,10 @@
             "10/09/2026"
           ],
           [
+            "MARCHE",
+            "16/09/2026"
+          ],
+          [
             "PENSERY",
             "10/09/2026"
           ],
@@ -1562,6 +1622,10 @@
             "10/09/2026"
           ],
           [
+            "THUIN",
+            "16/09/2026"
+          ],
+          [
             "VAUTOUR",
             "12/09/2026"
           ],
@@ -1570,11 +1634,11 @@
             "10/09/2026"
           ]
         ],
-        "auszug": "ACACIAS 14/09/2026 Tournoi Télévie Simples/Vétérans/Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours VAUTOUR 12/09/2026 Masters de simples du Hainaut - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours LAMBERMONT (BRABANT) 12/09/2026 Circuit Allan Sport AD - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX4, DMX5, DMX6 En cours FOSSES 10/09/2026 Critérium senior by Cornet V - M503, M504, M505, M352, M353, M354, M355, D251, D252 En cours LA BRUYERE 10/09/2026 Critérium Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SAINT FIACRE 10/09/2026 Critérium senior by Cornet + M35 I V - M351, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours TAMINES 10/09/2026 Critérium adultes AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours THEUX 10/09/2026 TOURNOI INTIME JAS - IG13, IF13, IG11, IF11, IM, IM, IM, IM, ID, ID, ID En cours CONDROZ 10/09/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM6, DM7, DD1, DD2, DD6, DD7, DMX1, DMX2, DMX6, DMX7, M504, M505, D401, D402, D403, D404, M1BC1*, M2, M6, D1BC1*, D2, M355, M356 En cours PENSERY 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB D - DM3, DM4, DM5, DM6, DD3, DD4, DD5, DD6, DMX4 En cours WAREMMIEN 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB AD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6 En cours"
+        "auszug": "THUIN 16/09/2026 Masters du Hainaut de doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées MARCHE 16/09/2026 Ethias Junior Masters - U91, U92, U93, G111, G112, G113, F111, F112, F113, G131, G132, G133, F131, F132, F133, G151, G152, G153, F151, F152, F153 Inscriptions clôturées ACACIAS 14/09/2026 Tournoi Télévie Simples/Vétérans/Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours VAUTOUR 12/09/2026 Masters de simples du Hainaut - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours LAMBERMONT (BRABANT) 12/09/2026 Circuit Allan Sport AD - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX4, DMX5, DMX6 En cours FOSSES 10/09/2026 Critérium senior by Cornet V - M503, M504, M505, M352, M353, M354, M355, D251, D252 En cours LA BRUYERE 10/09/2026 Critérium Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SAINT FIACRE 10/09/2026 Critérium senior by Cornet + M35 I V - M351, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours TAMINES 10/09/2026 Critérium adultes AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours CONDROZ 10/09/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM6, DM7, DD1, DD2, DD6, DD7, DMX1, DMX2, DMX6, DMX7, M504, M505, D401, D402, D403, D404, M1BC1*, M2, M6, D1BC1*, D2, M355, M356 En cours PENSERY 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB D - DM3, DM4, DM5, DM6, DD3, DD4, DD5, DD6, DMX4 En cours WAREMMIEN 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB AD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6 En cours THEUX 10/09/2026 TOURNOI INTIME JAS - IG13, IF13, IG11, IF11, IM, IM, IM, IM, ID, ID, ID En cours"
       },
       "GET /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 24788,
+        "laenge": 29329,
         "turniere": [
           [
             "ACACIAS",
@@ -1593,6 +1657,10 @@
             "10/09/2026"
           ],
           [
+            "MARCHE",
+            "16/09/2026"
+          ],
+          [
             "PENSERY",
             "10/09/2026"
           ],
@@ -1609,6 +1677,10 @@
             "10/09/2026"
           ],
           [
+            "THUIN",
+            "16/09/2026"
+          ],
+          [
             "VAUTOUR",
             "12/09/2026"
           ],
@@ -1617,11 +1689,11 @@
             "10/09/2026"
           ]
         ],
-        "auszug": "ACACIAS 14/09/2026 Tournoi Télévie Simples/Vétérans/Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours VAUTOUR 12/09/2026 Masters de simples du Hainaut - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours LAMBERMONT (BRABANT) 12/09/2026 Circuit Allan Sport AD - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX4, DMX5, DMX6 En cours FOSSES 10/09/2026 Critérium senior by Cornet V - M503, M504, M505, M352, M353, M354, M355, D251, D252 En cours LA BRUYERE 10/09/2026 Critérium Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SAINT FIACRE 10/09/2026 Critérium senior by Cornet + M35 I V - M351, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours TAMINES 10/09/2026 Critérium adultes AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours THEUX 10/09/2026 TOURNOI INTIME JAS - IG13, IF13, IG11, IF11, IM, IM, IM, IM, ID, ID, ID En cours CONDROZ 10/09/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM6, DM7, DD1, DD2, DD6, DD7, DMX1, DMX2, DMX6, DMX7, M504, M505, D401, D402, D403, D404, M1BC1*, M2, M6, D1BC1*, D2, M355, M356 En cours PENSERY 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB D - DM3, DM4, DM5, DM6, DD3, DD4, DD5, DD6, DMX4 En cours WAREMMIEN 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB AD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6 En cours"
+        "auszug": "THUIN 16/09/2026 Masters du Hainaut de doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées MARCHE 16/09/2026 Ethias Junior Masters - U91, U92, U93, G111, G112, G113, F111, F112, F113, G131, G132, G133, F131, F132, F133, G151, G152, G153, F151, F152, F153 Inscriptions clôturées ACACIAS 14/09/2026 Tournoi Télévie Simples/Vétérans/Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours VAUTOUR 12/09/2026 Masters de simples du Hainaut - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours LAMBERMONT (BRABANT) 12/09/2026 Circuit Allan Sport AD - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX4, DMX5, DMX6 En cours FOSSES 10/09/2026 Critérium senior by Cornet V - M503, M504, M505, M352, M353, M354, M355, D251, D252 En cours LA BRUYERE 10/09/2026 Critérium Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SAINT FIACRE 10/09/2026 Critérium senior by Cornet + M35 I V - M351, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours TAMINES 10/09/2026 Critérium adultes AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours CONDROZ 10/09/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM6, DM7, DD1, DD2, DD6, DD7, DMX1, DMX2, DMX6, DMX7, M504, M505, D401, D402, D403, D404, M1BC1*, M2, M6, D1BC1*, D2, M355, M356 En cours PENSERY 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB D - DM3, DM4, DM5, DM6, DD3, DD4, DD5, DD6, DMX4 En cours WAREMMIEN 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB AD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6 En cours THEUX 10/09/2026 TOURNOI INTIME JAS - IG13, IF13, IG11, IF11, IM, IM, IM, IM, ID, ID, ID En cours"
       },
       "POST /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 24788,
+        "laenge": 29329,
         "turniere": [
           [
             "ACACIAS",
@@ -1640,6 +1712,10 @@
             "10/09/2026"
           ],
           [
+            "MARCHE",
+            "16/09/2026"
+          ],
+          [
             "PENSERY",
             "10/09/2026"
           ],
@@ -1656,6 +1732,10 @@
             "10/09/2026"
           ],
           [
+            "THUIN",
+            "16/09/2026"
+          ],
+          [
             "VAUTOUR",
             "12/09/2026"
           ],
@@ -1664,11 +1744,11 @@
             "10/09/2026"
           ]
         ],
-        "auszug": "ACACIAS 14/09/2026 Tournoi Télévie Simples/Vétérans/Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours VAUTOUR 12/09/2026 Masters de simples du Hainaut - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours LAMBERMONT (BRABANT) 12/09/2026 Circuit Allan Sport AD - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX4, DMX5, DMX6 En cours FOSSES 10/09/2026 Critérium senior by Cornet V - M503, M504, M505, M352, M353, M354, M355, D251, D252 En cours LA BRUYERE 10/09/2026 Critérium Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SAINT FIACRE 10/09/2026 Critérium senior by Cornet + M35 I V - M351, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours TAMINES 10/09/2026 Critérium adultes AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours THEUX 10/09/2026 TOURNOI INTIME JAS - IG13, IF13, IG11, IF11, IM, IM, IM, IM, ID, ID, ID En cours CONDROZ 10/09/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM6, DM7, DD1, DD2, DD6, DD7, DMX1, DMX2, DMX6, DMX7, M504, M505, D401, D402, D403, D404, M1BC1*, M2, M6, D1BC1*, D2, M355, M356 En cours PENSERY 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB D - DM3, DM4, DM5, DM6, DD3, DD4, DD5, DD6, DMX4 En cours WAREMMIEN 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB AD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6 En cours"
+        "auszug": "THUIN 16/09/2026 Masters du Hainaut de doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées MARCHE 16/09/2026 Ethias Junior Masters - U91, U92, U93, G111, G112, G113, F111, F112, F113, G131, G132, G133, F131, F132, F133, G151, G152, G153, F151, F152, F153 Inscriptions clôturées ACACIAS 14/09/2026 Tournoi Télévie Simples/Vétérans/Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours VAUTOUR 12/09/2026 Masters de simples du Hainaut - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours LAMBERMONT (BRABANT) 12/09/2026 Circuit Allan Sport AD - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX4, DMX5, DMX6 En cours FOSSES 10/09/2026 Critérium senior by Cornet V - M503, M504, M505, M352, M353, M354, M355, D251, D252 En cours LA BRUYERE 10/09/2026 Critérium Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SAINT FIACRE 10/09/2026 Critérium senior by Cornet + M35 I V - M351, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours TAMINES 10/09/2026 Critérium adultes AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours CONDROZ 10/09/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM6, DM7, DD1, DD2, DD6, DD7, DMX1, DMX2, DMX6, DMX7, M504, M505, D401, D402, D403, D404, M1BC1*, M2, M6, D1BC1*, D2, M355, M356 En cours PENSERY 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB D - DM3, DM4, DM5, DM6, DD3, DD4, DD5, DD6, DMX4 En cours WAREMMIEN 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB AD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6 En cours THEUX 10/09/2026 TOURNOI INTIME JAS - IG13, IF13, IG11, IF11, IM, IM, IM, IM, ID, ID, ID En cours"
       },
       "GET /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 24788,
+        "laenge": 29329,
         "turniere": [
           [
             "ACACIAS",
@@ -1687,6 +1767,10 @@
             "10/09/2026"
           ],
           [
+            "MARCHE",
+            "16/09/2026"
+          ],
+          [
             "PENSERY",
             "10/09/2026"
           ],
@@ -1703,6 +1787,10 @@
             "10/09/2026"
           ],
           [
+            "THUIN",
+            "16/09/2026"
+          ],
+          [
             "VAUTOUR",
             "12/09/2026"
           ],
@@ -1711,11 +1799,11 @@
             "10/09/2026"
           ]
         ],
-        "auszug": "ACACIAS 14/09/2026 Tournoi Télévie Simples/Vétérans/Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours VAUTOUR 12/09/2026 Masters de simples du Hainaut - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours LAMBERMONT (BRABANT) 12/09/2026 Circuit Allan Sport AD - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX4, DMX5, DMX6 En cours FOSSES 10/09/2026 Critérium senior by Cornet V - M503, M504, M505, M352, M353, M354, M355, D251, D252 En cours LA BRUYERE 10/09/2026 Critérium Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SAINT FIACRE 10/09/2026 Critérium senior by Cornet + M35 I V - M351, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours TAMINES 10/09/2026 Critérium adultes AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours THEUX 10/09/2026 TOURNOI INTIME JAS - IG13, IF13, IG11, IF11, IM, IM, IM, IM, ID, ID, ID En cours CONDROZ 10/09/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM6, DM7, DD1, DD2, DD6, DD7, DMX1, DMX2, DMX6, DMX7, M504, M505, D401, D402, D403, D404, M1BC1*, M2, M6, D1BC1*, D2, M355, M356 En cours PENSERY 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB D - DM3, DM4, DM5, DM6, DD3, DD4, DD5, DD6, DMX4 En cours WAREMMIEN 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB AD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6 En cours"
+        "auszug": "THUIN 16/09/2026 Masters du Hainaut de doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées MARCHE 16/09/2026 Ethias Junior Masters - U91, U92, U93, G111, G112, G113, F111, F112, F113, G131, G132, G133, F131, F132, F133, G151, G152, G153, F151, F152, F153 Inscriptions clôturées ACACIAS 14/09/2026 Tournoi Télévie Simples/Vétérans/Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours VAUTOUR 12/09/2026 Masters de simples du Hainaut - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours LAMBERMONT (BRABANT) 12/09/2026 Circuit Allan Sport AD - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX4, DMX5, DMX6 En cours FOSSES 10/09/2026 Critérium senior by Cornet V - M503, M504, M505, M352, M353, M354, M355, D251, D252 En cours LA BRUYERE 10/09/2026 Critérium Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SAINT FIACRE 10/09/2026 Critérium senior by Cornet + M35 I V - M351, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours TAMINES 10/09/2026 Critérium adultes AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours CONDROZ 10/09/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM6, DM7, DD1, DD2, DD6, DD7, DMX1, DMX2, DMX6, DMX7, M504, M505, D401, D402, D403, D404, M1BC1*, M2, M6, D1BC1*, D2, M355, M356 En cours PENSERY 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB D - DM3, DM4, DM5, DM6, DD3, DD4, DD5, DD6, DMX4 En cours WAREMMIEN 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB AD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6 En cours THEUX 10/09/2026 TOURNOI INTIME JAS - IG13, IF13, IG11, IF11, IM, IM, IM, IM, ID, ID, ID En cours"
       },
       "POST /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 24788,
+        "laenge": 29329,
         "turniere": [
           [
             "ACACIAS",
@@ -1734,6 +1822,10 @@
             "10/09/2026"
           ],
           [
+            "MARCHE",
+            "16/09/2026"
+          ],
+          [
             "PENSERY",
             "10/09/2026"
           ],
@@ -1750,6 +1842,10 @@
             "10/09/2026"
           ],
           [
+            "THUIN",
+            "16/09/2026"
+          ],
+          [
             "VAUTOUR",
             "12/09/2026"
           ],
@@ -1758,7 +1854,7 @@
             "10/09/2026"
           ]
         ],
-        "auszug": "ACACIAS 14/09/2026 Tournoi Télévie Simples/Vétérans/Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours VAUTOUR 12/09/2026 Masters de simples du Hainaut - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours LAMBERMONT (BRABANT) 12/09/2026 Circuit Allan Sport AD - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX4, DMX5, DMX6 En cours FOSSES 10/09/2026 Critérium senior by Cornet V - M503, M504, M505, M352, M353, M354, M355, D251, D252 En cours LA BRUYERE 10/09/2026 Critérium Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SAINT FIACRE 10/09/2026 Critérium senior by Cornet + M35 I V - M351, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours TAMINES 10/09/2026 Critérium adultes AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours THEUX 10/09/2026 TOURNOI INTIME JAS - IG13, IF13, IG11, IF11, IM, IM, IM, IM, ID, ID, ID En cours CONDROZ 10/09/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM6, DM7, DD1, DD2, DD6, DD7, DMX1, DMX2, DMX6, DMX7, M504, M505, D401, D402, D403, D404, M1BC1*, M2, M6, D1BC1*, D2, M355, M356 En cours PENSERY 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB D - DM3, DM4, DM5, DM6, DD3, DD4, DD5, DD6, DMX4 En cours WAREMMIEN 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB AD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6 En cours"
+        "auszug": "THUIN 16/09/2026 Masters du Hainaut de doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées MARCHE 16/09/2026 Ethias Junior Masters - U91, U92, U93, G111, G112, G113, F111, F112, F113, G131, G132, G133, F131, F132, F133, G151, G152, G153, F151, F152, F153 Inscriptions clôturées ACACIAS 14/09/2026 Tournoi Télévie Simples/Vétérans/Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours VAUTOUR 12/09/2026 Masters de simples du Hainaut - M502, M503, M504, M505, M604, D401, D402, D403, D404, M501, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553 En cours LAMBERMONT (BRABANT) 12/09/2026 Circuit Allan Sport AD - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX4, DMX5, DMX6 En cours FOSSES 10/09/2026 Critérium senior by Cornet V - M503, M504, M505, M352, M353, M354, M355, D251, D252 En cours LA BRUYERE 10/09/2026 Critérium Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours SAINT FIACRE 10/09/2026 Critérium senior by Cornet + M35 I V - M351, M352, M353, M354, M355, M356, D251, D252, D253, D254 En cours TAMINES 10/09/2026 Critérium adultes AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours CONDROZ 10/09/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Doubles Dames TWB AVSD - DM1, DM2, DM3, DM6, DM7, DD1, DD2, DD6, DD7, DMX1, DMX2, DMX6, DMX7, M504, M505, D401, D402, D403, D404, M1BC1*, M2, M6, D1BC1*, D2, M355, M356 En cours PENSERY 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB D - DM3, DM4, DM5, DM6, DD3, DD4, DD5, DD6, DMX4 En cours WAREMMIEN 10/09/2026 CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB AD - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6 En cours THEUX 10/09/2026 TOURNOI INTIME JAS - IG13, IF13, IG11, IF11, IM, IM, IM, IM, ID, ID, ID En cours"
       },
       "GET /MyAFT/Competitions/TournamentNews []": {
         "content_type": "text/html; charset=utf-8",
@@ -2119,7 +2215,7 @@
             "18/12/2025"
           ]
         ],
-        "auszug": "HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M502, G151, M501, M503, F151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DD6, DM3, DD3, DM6, DMX6, DMX3, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G131, G132, G152, G153, F111, F112, F131, F132, F152, F153, U91, U92 Terminé PLAINCHAMP 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé KALYPSO 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - F151, G151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DMX7, DM6, DD7, DD6, DMX5, DD5, DMX2, DM7, DD3, DM1, DM5, DM2, DM3, DD1, DD4, DMX3, DMX4, DM4, DD2, DMX1, DMX6 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3"
+        "auszug": "HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M501, M502, M503, G151, F151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DD6, DM3, DD3, DMX3, DM6, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G131, G132, G152, G153, F111, F112, F131, F132, F152, F153, U91, U92 Terminé PLAINCHAMP 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé KALYPSO 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DM1, DM5, DD3, DD4, DMX3, DMX4, DM2, DM3, DMX7, DM6, DD7, DD1, DD6, DMX5, DM7, DMX6, DD2, DMX1, DM4, DD5, DMX2 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3"
       },
       "POST /MyAFT/Competitions/TournamentSearchResultData ['regionId']": {
         "content_type": "text/html; charset=utf-8",
@@ -2366,7 +2462,7 @@
             "18/12/2025"
           ]
         ],
-        "auszug": "BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DM7, DD4, DMX3, DMX4, DMX7, DM2, DM3, DD3, DM6, DD7, DD5, DMX2, DM4, DD6, DMX5, DM1, DM5, DD2, DMX1, DMX6, DD1 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3, M4, M5, M6, D2, D3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé HAILLOT 16/10/2025 AD Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD4, DD5, DD7, DD6 Terminé LAMBERMONT (BRABANT) 18/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes & Ethias Junior Tour - G151, M504, M505, F151, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M502, M501, M503, G151, F151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DD3, DM3, DMX3, DD6, DM6, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G13"
+        "auszug": "HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M502, G151, M501, M503, F151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DD3, DM6, DMX3, DM3, DD6, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G131, G132, G152, G153, F111, F112, F131, F132, F152, F153, U91, U92 Terminé PLAINCHAMP 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé KALYPSO 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - F151, G151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DMX6, DD2, DMX1, DM6, DD7, DM4, DM2, DM3, DMX7, DD4, DMX3, DMX4, DD5, DMX2, DM1, DM7, DM5, DD3, DD1, DD6, DMX5 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3"
       },
       "POST /MyAFT/Competitions/TournamentSearchResultData ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
@@ -2613,7 +2709,7 @@
             "18/12/2025"
           ]
         ],
-        "auszug": "HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M501, M502, G151, M503, F151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DM6, DMX3, DD3, DD6, DM3, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G131, G132, G152, G153, F111, F112, F131, F132, F152, F153, U91, U92 Terminé PLAINCHAMP 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - F151, G151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé KALYPSO 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - F151, G151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DM1, DM5, DM7, DM2, DM3, DM6, DD7, DD4, DMX3, DMX4, DD3, DD6, DMX5, DM4, DD5, DMX2, DMX7, DMX6, DD2, DMX1, DD1 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3"
+        "auszug": "BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD1, DD2, DMX1, DMX6, DM6, DD7, DM7, DD3, DM1, DM5, DD6, DMX5, DM2, DM3, DMX7, DM4, DD5, DMX2, DD4, DMX3, DMX4 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3, M4, M5, M6, D2, D3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé HAILLOT 16/10/2025 AD Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD7, DD6, DD4, DD5 Terminé LAMBERMONT (BRABANT) 18/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes & Ethias Junior Tour - M504, M505, G151, F151, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M503, M501, M502, G151, F151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DM3, DM6, DMX3, DD3, DD6, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G13"
       },
       "GET /MyAFT/Competitions/Tournaments []": {
         "content_type": "text/html; charset=utf-8",
@@ -4920,6 +5016,91 @@
         "provinz": "Brabant/Bruessel"
       },
       {
+        "id": "362188",
+        "ort": "LA LIGNE",
+        "start": "30/07/2026",
+        "anmeldung_bis": "28/07/2026",
+        "status": "Terminé",
+        "beschreibung": "",
+        "kategorien": [
+          "D251",
+          "D252",
+          "D253",
+          "D254",
+          "D551",
+          "D552",
+          "D553",
+          "DD1",
+          "DD3",
+          "DD4",
+          "DD5",
+          "DD7",
+          "DM1",
+          "DM3",
+          "DM4",
+          "DM5",
+          "DM7",
+          "DMX1",
+          "DMX3",
+          "DMX4",
+          "DMX5",
+          "DMX7",
+          "M352",
+          "M353",
+          "M354",
+          "M355",
+          "M356",
+          "M501",
+          "M502",
+          "M503",
+          "M504",
+          "M505"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": true,
+        "fuer_c306": true,
+        "zeitraum_von": "30/07/2026",
+        "zeitraum_bis": "09/08/2026",
+        "klub": "LA LIGNE",
+        "schiedsrichter": "BAUWIN Damien",
+        "klubcode": "6038",
+        "klub_voll": "T.C. DE LA LIGNE",
+        "provinz": "Luxemburg"
+      },
+      {
+        "id": "362189",
+        "ort": "GODINNE",
+        "start": "30/07/2026",
+        "anmeldung_bis": "28/07/2026",
+        "status": "Terminé",
+        "beschreibung": "",
+        "kategorien": [
+          "DD2",
+          "DD3",
+          "DD4",
+          "DD5",
+          "DD6",
+          "DM2",
+          "DM3",
+          "DM4",
+          "DM5",
+          "DM6",
+          "DMX2",
+          "DMX3",
+          "DMX4",
+          "DMX5",
+          "DMX6"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": false,
+        "fuer_c306": true,
+        "klubcode": "6024",
+        "klub_voll": "T.C. GODINNE",
+        "provinz": "Luxemburg"
+      },
+      {
         "id": "361949",
         "ort": "BEAUVECHAIN",
         "start": "30/07/2026",
@@ -5246,91 +5427,6 @@
         "schiedsrichter": "GILLES Viviane",
         "klubcode": "6025",
         "klub_voll": "T.C. HASTIERE",
-        "provinz": "Luxemburg"
-      },
-      {
-        "id": "362188",
-        "ort": "LA LIGNE",
-        "start": "30/07/2026",
-        "anmeldung_bis": "28/07/2026",
-        "status": "Terminé",
-        "beschreibung": "",
-        "kategorien": [
-          "D251",
-          "D252",
-          "D253",
-          "D254",
-          "D551",
-          "D552",
-          "D553",
-          "DD1",
-          "DD3",
-          "DD4",
-          "DD5",
-          "DD7",
-          "DM1",
-          "DM3",
-          "DM4",
-          "DM5",
-          "DM7",
-          "DMX1",
-          "DMX3",
-          "DMX4",
-          "DMX5",
-          "DMX7",
-          "M352",
-          "M353",
-          "M354",
-          "M355",
-          "M356",
-          "M501",
-          "M502",
-          "M503",
-          "M504",
-          "M505"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": false,
-        "hat_M356": true,
-        "fuer_c306": true,
-        "zeitraum_von": "30/07/2026",
-        "zeitraum_bis": "09/08/2026",
-        "klub": "LA LIGNE",
-        "schiedsrichter": "BAUWIN Damien",
-        "klubcode": "6038",
-        "klub_voll": "T.C. DE LA LIGNE",
-        "provinz": "Luxemburg"
-      },
-      {
-        "id": "362189",
-        "ort": "GODINNE",
-        "start": "30/07/2026",
-        "anmeldung_bis": "28/07/2026",
-        "status": "Terminé",
-        "beschreibung": "",
-        "kategorien": [
-          "DD2",
-          "DD3",
-          "DD4",
-          "DD5",
-          "DD6",
-          "DM2",
-          "DM3",
-          "DM4",
-          "DM5",
-          "DM6",
-          "DMX2",
-          "DMX3",
-          "DMX4",
-          "DMX5",
-          "DMX6"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": false,
-        "hat_M356": false,
-        "fuer_c306": true,
-        "klubcode": "6024",
-        "klub_voll": "T.C. GODINNE",
         "provinz": "Luxemburg"
       },
       {
@@ -8423,7 +8519,7 @@
         "ort": "HOUFFALIZE",
         "start": "31/08/2026",
         "anmeldung_bis": "25/08/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "DD2",
@@ -8521,7 +8617,7 @@
         "ort": "LIBRAMONT",
         "start": "03/09/2026",
         "anmeldung_bis": "01/09/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "DD1",
@@ -8559,7 +8655,7 @@
         "ort": "TAMINES",
         "start": "03/09/2026",
         "anmeldung_bis": "01/09/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "D251",
@@ -8627,7 +8723,7 @@
         "ort": "MOUSCRONTC",
         "start": "03/09/2026",
         "anmeldung_bis": "01/09/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "D2",
@@ -9205,7 +9301,7 @@
         "ort": "BOIS DU LOUP",
         "start": "03/09/2026",
         "anmeldung_bis": "01/09/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "D2",
@@ -9240,7 +9336,7 @@
         "ort": "CINEY",
         "start": "03/09/2026",
         "anmeldung_bis": "01/09/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "DD1",
@@ -9278,7 +9374,7 @@
         "ort": "AYWAILLE",
         "start": "03/09/2026",
         "anmeldung_bis": "01/09/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "CRITERIUM ADULTES - BC SD I* - Doubles Dames TWB",
         "kategorien": [
           "D2",
@@ -9314,7 +9410,7 @@
         "ort": "COINTE",
         "start": "03/09/2026",
         "anmeldung_bis": "01/09/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "CRITERIUM ADULTES - DOUBLES - Doubles Dames TWB",
         "kategorien": [
           "DD2",
@@ -9387,7 +9483,7 @@
         "ort": "JENA",
         "start": "03/09/2026",
         "anmeldung_bis": "01/09/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3",
         "kategorien": [
           "D251",
@@ -9864,7 +9960,7 @@
         "ort": "HOUFFALIZE",
         "start": "12/09/2026",
         "anmeldung_bis": "11/09/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "U7",
@@ -10008,7 +10104,7 @@
         "id": "362563",
         "ort": "MARCHE",
         "start": "16/09/2026",
-        "anmeldung_bis": "15/09/2026",
+        "anmeldung_bis": "08/09/2026",
         "status": "",
         "beschreibung": "",
         "kategorien": [
@@ -10046,7 +10142,7 @@
         "id": "362474",
         "ort": "THUIN",
         "start": "16/09/2026",
-        "anmeldung_bis": "15/09/2026",
+        "anmeldung_bis": "13/09/2026",
         "status": "",
         "beschreibung": "",
         "kategorien": [
@@ -10368,16 +10464,16 @@
         "anmeldeoeffnung": [
           {
             "kategorien": [
+              "DD4",
+              "DMX4",
+              "DM5",
+              "DD6",
+              "DMX5",
+              "DM6",
+              "DMX6",
               "DM2",
               "DM3",
-              "DM4",
-              "DM5",
-              "DM6",
-              "DD4",
-              "DD6",
-              "DMX4",
-              "DMX5",
-              "DMX6"
+              "DM4"
             ],
             "datum": "05/10/2026",
             "uhrzeit": "20:00"
@@ -10450,8 +10546,8 @@
         "anmeldeoeffnung": [
           {
             "kategorien": [
-              "DM4",
               "DMX4",
+              "DM4",
               "D3",
               "D4",
               "D5"
@@ -10554,12 +10650,12 @@
         "/MyAFT/Competitions/TournamentDetailCategories?idTournoi=361794&amp;subscrStartDate=20%2F07%2F2026&amp;subscrEndDate=11%2F08%2F2026&amp;displaySubscriptions=False&amp;maxSubscriptions=259&amp;tournoiDescription=SAINT-VITH%2020%2F07%2F2026",
         "/MyAFT/Competitions/TournamentDetailDraw?idTournoi=361794",
         "/MyAFT/Competitions/TournamentDetailRegisters?idTournoi=361794",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=140920261056450909&amp;IdTournoi=361671&amp;PathRules=361671_4067.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=140920261056450929&amp;IdTournoi=361706&amp;PathRules=361706_4091.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=140920261056450944&amp;IdTournoi=361794&amp;PathRules=361794_4077.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=140920261056450959&amp;IdTournoi=361804&amp;PathRules=361804_4081.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=140920261056450974&amp;IdTournoi=361818&amp;PathRules=361818_4001.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=140920261056450989&amp;IdTournoi=361825&amp;PathRules=361825_4049.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=150920261042266374&amp;IdTournoi=361671&amp;PathRules=361671_4067.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=150920261042266394&amp;IdTournoi=361706&amp;PathRules=361706_4091.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=150920261042266414&amp;IdTournoi=361794&amp;PathRules=361794_4077.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=150920261042266429&amp;IdTournoi=361804&amp;PathRules=361804_4081.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=150920261042266444&amp;IdTournoi=361818&amp;PathRules=361818_4001.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=150920261042266459&amp;IdTournoi=361825&amp;PathRules=361825_4049.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
         "/MyAFT/Players",
         "/MyAFT/Players/Detail",
         "/MyAFT/Players/GetPlayersAutocomplete",
@@ -10577,26 +10673,7 @@
         "/MyAFT/Tooltip/TournamentDetails/361794",
         "/MyAFT/Tooltip/TournamentDetails/361804"
       ],
-      "treffer": {
-        "/MyAFT/Players/Index ['idTournoi']": {
-          "anzahl": 3,
-          "spieler": [
-            {
-              "name": "ITF Junior",
-              "klassierung": "Arlon"
-            },
-            {
-              "name": "TWB Niveau",
-              "klassierung": "Aspirant"
-            },
-            {
-              "name": "TODO Tam",
-              "klassierung": "AFTGDPR"
-            }
-          ],
-          "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tenni"
-        }
-      }
+      "treffer": {}
     }
   },
   "gegner": {
