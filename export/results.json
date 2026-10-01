@@ -1,5 +1,5 @@
 {
-  "zeit": "2026-09-30T09:42:07.348425+00:00",
+  "zeit": "2026-10-01T10:07:48.557422+00:00",
   "version": 28,
   "status": "ok",
   "klassierung": [
@@ -1498,7 +1498,7 @@
   "kalender": {
     "seite": {
       "http": 200,
-      "laenge": 178883
+      "laenge": 178970
     },
     "gefundene_urls": [
       "/MyAFT/Clubs/Search",
@@ -1571,7 +1571,7 @@
     "treffer": {
       "GET /MyAFT/Competitions/CompetitionsTournamentsByRegion []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 6841,
+        "laenge": 6817,
         "turniere": [
           [
             "CHAPELLE",
@@ -1586,11 +1586,11 @@
             "24/09/2026"
           ]
         ],
-        "auszug": "CHAPELLE 02/10/2026 Masters TPPWB Doubles - DM1, DM5, DD6, DMX5, DM2, DM3, DMX7, DM7, DM4, DD5, DMX2, DD4, DMX3, DMX4, DD1, DM6, DD7, DD3, DD2, DMX1, DMX6 Inscriptions clôturées LES ALLOUX 01/10/2026 Critérium Doubles AD - DM2, DM4, DD5, DMX2, DMX4, DM6, DD7, DD3, DMX6 Inscriptions clôturées LES ALLOUX 24/09/2026 Critérium Doubles AD - DM5, DD6, DMX5, DM3, DMX7, DM7, DD4, DMX3, DD2 En cours"
+        "auszug": "CHAPELLE 02/10/2026 Masters TPPWB Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées LES ALLOUX 01/10/2026 Critérium Doubles AD - DM2, DM4, DM6, DD3, DD5, DD7, DMX2, DMX4, DMX6 En cours LES ALLOUX 24/09/2026 Critérium Doubles AD - DM3, DM5, DM7, DD2, DD4, DD6, DMX3, DMX5, DMX7 En cours"
       },
       "POST /MyAFT/Competitions/CompetitionsTournamentsByRegion []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 6841,
+        "laenge": 6817,
         "turniere": [
           [
             "CHAPELLE",
@@ -1605,11 +1605,11 @@
             "24/09/2026"
           ]
         ],
-        "auszug": "CHAPELLE 02/10/2026 Masters TPPWB Doubles - DM1, DM5, DD6, DMX5, DM2, DM3, DMX7, DD3, DM7, DMX6, DM4, DD5, DMX2, DD1, DD2, DMX1, DM6, DD7, DD4, DMX3, DMX4 Inscriptions clôturées LES ALLOUX 01/10/2026 Critérium Doubles AD - DM2, DD3, DMX6, DM4, DD5, DMX2, DM6, DD7, DMX4 Inscriptions clôturées LES ALLOUX 24/09/2026 Critérium Doubles AD - DM5, DD6, DMX5, DM3, DMX7, DM7, DD2, DD4, DMX3 En cours"
+        "auszug": "CHAPELLE 02/10/2026 Masters TPPWB Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées LES ALLOUX 01/10/2026 Critérium Doubles AD - DM2, DM4, DM6, DD3, DD5, DD7, DMX2, DMX4, DMX6 En cours LES ALLOUX 24/09/2026 Critérium Doubles AD - DM3, DM5, DM7, DD2, DD4, DD6, DMX3, DMX5, DMX7 En cours"
       },
       "GET /MyAFT/Competitions/CompetitionsTournamentsByRegion ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 6841,
+        "laenge": 6817,
         "turniere": [
           [
             "CHAPELLE",
@@ -1624,11 +1624,11 @@
             "24/09/2026"
           ]
         ],
-        "auszug": "CHAPELLE 02/10/2026 Masters TPPWB Doubles - DM1, DM5, DD6, DMX5, DD3, DD2, DMX1, DM2, DM3, DMX7, DMX6, DM4, DD5, DMX2, DD4, DMX3, DMX4, DM6, DD7, DD1, DM7 Inscriptions clôturées LES ALLOUX 01/10/2026 Critérium Doubles AD - DD3, DM2, DMX6, DM4, DD5, DMX2, DMX4, DM6, DD7 Inscriptions clôturées LES ALLOUX 24/09/2026 Critérium Doubles AD - DM5, DD6, DMX5, DD2, DM3, DMX7, DD4, DMX3, DM7 En cours"
+        "auszug": "CHAPELLE 02/10/2026 Masters TPPWB Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées LES ALLOUX 01/10/2026 Critérium Doubles AD - DM2, DM4, DM6, DD3, DD5, DD7, DMX2, DMX4, DMX6 En cours LES ALLOUX 24/09/2026 Critérium Doubles AD - DM3, DM5, DM7, DD2, DD4, DD6, DMX3, DMX5, DMX7 En cours"
       },
       "POST /MyAFT/Competitions/CompetitionsTournamentsByRegion ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 6841,
+        "laenge": 6817,
         "turniere": [
           [
             "CHAPELLE",
@@ -1643,11 +1643,11 @@
             "24/09/2026"
           ]
         ],
-        "auszug": "CHAPELLE 02/10/2026 Masters TPPWB Doubles - DD4, DMX3, DMX4, DD3, DD1, DMX6, DD2, DMX1, DM6, DD7, DM1, DM5, DD6, DMX5, DM4, DD5, DMX2, DM2, DM3, DMX7, DM7 Inscriptions clôturées LES ALLOUX 01/10/2026 Critérium Doubles AD - DMX4, DD3, DMX6, DM6, DD7, DM4, DD5, DMX2, DM2 Inscriptions clôturées LES ALLOUX 24/09/2026 Critérium Doubles AD - DD4, DMX3, DD2, DM5, DD6, DMX5, DM3, DMX7, DM7 En cours"
+        "auszug": "CHAPELLE 02/10/2026 Masters TPPWB Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées LES ALLOUX 01/10/2026 Critérium Doubles AD - DM2, DM4, DM6, DD3, DD5, DD7, DMX2, DMX4, DMX6 En cours LES ALLOUX 24/09/2026 Critérium Doubles AD - DM3, DM5, DM7, DD2, DD4, DD6, DMX3, DMX5, DMX7 En cours"
       },
       "GET /MyAFT/Competitions/CompetitionsTournamentsByRegion ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 6841,
+        "laenge": 6817,
         "turniere": [
           [
             "CHAPELLE",
@@ -1662,11 +1662,11 @@
             "24/09/2026"
           ]
         ],
-        "auszug": "CHAPELLE 02/10/2026 Masters TPPWB Doubles - DD4, DMX3, DMX4, DM1, DM5, DD6, DMX5, DM6, DD7, DD3, DMX6, DD1, DM2, DM3, DMX7, DD2, DMX1, DM7, DM4, DD5, DMX2 Inscriptions clôturées LES ALLOUX 01/10/2026 Critérium Doubles AD - DMX4, DM6, DD7, DD3, DMX6, DM2, DM4, DD5, DMX2 Inscriptions clôturées LES ALLOUX 24/09/2026 Critérium Doubles AD - DD4, DMX3, DM5, DD6, DMX5, DM3, DMX7, DD2, DM7 En cours"
+        "auszug": "CHAPELLE 02/10/2026 Masters TPPWB Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées LES ALLOUX 01/10/2026 Critérium Doubles AD - DM2, DM4, DM6, DD3, DD5, DD7, DMX2, DMX4, DMX6 En cours LES ALLOUX 24/09/2026 Critérium Doubles AD - DM3, DM5, DM7, DD2, DD4, DD6, DMX3, DMX5, DMX7 En cours"
       },
       "POST /MyAFT/Competitions/CompetitionsTournamentsByRegion ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 6841,
+        "laenge": 6817,
         "turniere": [
           [
             "CHAPELLE",
@@ -1681,11 +1681,11 @@
             "24/09/2026"
           ]
         ],
-        "auszug": "CHAPELLE 02/10/2026 Masters TPPWB Doubles - DM1, DM5, DD6, DMX5, DD4, DMX3, DMX4, DM6, DD7, DD2, DMX1, DD3, DD1, DM2, DM3, DMX7, DM7, DM4, DD5, DMX2, DMX6 Inscriptions clôturées LES ALLOUX 01/10/2026 Critérium Doubles AD - DMX4, DM6, DD7, DD3, DM2, DM4, DD5, DMX2, DMX6 Inscriptions clôturées LES ALLOUX 24/09/2026 Critérium Doubles AD - DM5, DD6, DMX5, DD4, DMX3, DD2, DM3, DMX7, DM7 En cours"
+        "auszug": "CHAPELLE 02/10/2026 Masters TPPWB Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées LES ALLOUX 01/10/2026 Critérium Doubles AD - DM2, DM4, DM6, DD3, DD5, DD7, DMX2, DMX4, DMX6 En cours LES ALLOUX 24/09/2026 Critérium Doubles AD - DM3, DM5, DM7, DD2, DD4, DD6, DMX3, DMX5, DMX7 En cours"
       },
       "GET /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 6690,
+        "laenge": 6666,
         "turniere": [
           [
             "CHAPELLE",
@@ -1700,11 +1700,11 @@
             "24/09/2026"
           ]
         ],
-        "auszug": "CHAPELLE 02/10/2026 Masters TPPWB Doubles - DM1, DM5, DD6, DMX5, DD3, DM6, DD7, DD4, DMX3, DMX4, DM2, DM3, DMX7, DM7, DD1, DMX6, DD2, DMX1, DM4, DD5, DMX2 Inscriptions clôturées LES ALLOUX 01/10/2026 Critérium Doubles AD - DD3, DM6, DD7, DMX4, DM2, DMX6, DM4, DD5, DMX2 Inscriptions clôturées LES ALLOUX 24/09/2026 Critérium Doubles AD - DM5, DD6, DMX5, DD4, DMX3, DM3, DMX7, DM7, DD2 En cours"
+        "auszug": "CHAPELLE 02/10/2026 Masters TPPWB Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées LES ALLOUX 01/10/2026 Critérium Doubles AD - DM2, DM4, DM6, DD3, DD5, DD7, DMX2, DMX4, DMX6 En cours LES ALLOUX 24/09/2026 Critérium Doubles AD - DM3, DM5, DM7, DD2, DD4, DD6, DMX3, DMX5, DMX7 En cours"
       },
       "POST /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 6690,
+        "laenge": 6666,
         "turniere": [
           [
             "CHAPELLE",
@@ -1719,11 +1719,11 @@
             "24/09/2026"
           ]
         ],
-        "auszug": "CHAPELLE 02/10/2026 Masters TPPWB Doubles - DM1, DM5, DD6, DMX5, DD4, DMX3, DMX4, DD3, DM6, DD7, DMX6, DD2, DMX1, DM7, DM4, DD5, DMX2, DM2, DM3, DMX7, DD1 Inscriptions clôturées LES ALLOUX 01/10/2026 Critérium Doubles AD - DMX4, DD3, DM6, DD7, DMX6, DM4, DD5, DMX2, DM2 Inscriptions clôturées LES ALLOUX 24/09/2026 Critérium Doubles AD - DM5, DD6, DMX5, DD4, DMX3, DD2, DM7, DM3, DMX7 En cours"
+        "auszug": "CHAPELLE 02/10/2026 Masters TPPWB Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées LES ALLOUX 01/10/2026 Critérium Doubles AD - DM2, DM4, DM6, DD3, DD5, DD7, DMX2, DMX4, DMX6 En cours LES ALLOUX 24/09/2026 Critérium Doubles AD - DM3, DM5, DM7, DD2, DD4, DD6, DMX3, DMX5, DMX7 En cours"
       },
       "GET /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 6690,
+        "laenge": 6666,
         "turniere": [
           [
             "CHAPELLE",
@@ -1738,11 +1738,11 @@
             "24/09/2026"
           ]
         ],
-        "auszug": "CHAPELLE 02/10/2026 Masters TPPWB Doubles - DD4, DMX3, DMX4, DM1, DM5, DD6, DMX5, DD2, DMX1, DMX6, DD1, DM7, DD3, DM4, DD5, DMX2, DM2, DM3, DMX7, DM6, DD7 Inscriptions clôturées LES ALLOUX 01/10/2026 Critérium Doubles AD - DMX4, DMX6, DD3, DM4, DD5, DMX2, DM2, DM6, DD7 Inscriptions clôturées LES ALLOUX 24/09/2026 Critérium Doubles AD - DD4, DMX3, DM5, DD6, DMX5, DD2, DM7, DM3, DMX7 En cours"
+        "auszug": "CHAPELLE 02/10/2026 Masters TPPWB Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées LES ALLOUX 01/10/2026 Critérium Doubles AD - DM2, DM4, DM6, DD3, DD5, DD7, DMX2, DMX4, DMX6 En cours LES ALLOUX 24/09/2026 Critérium Doubles AD - DM3, DM5, DM7, DD2, DD4, DD6, DMX3, DMX5, DMX7 En cours"
       },
       "POST /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 6690,
+        "laenge": 6666,
         "turniere": [
           [
             "CHAPELLE",
@@ -1757,11 +1757,11 @@
             "24/09/2026"
           ]
         ],
-        "auszug": "CHAPELLE 02/10/2026 Masters TPPWB Doubles - DM1, DM5, DD6, DMX5, DM2, DM3, DMX7, DD2, DMX1, DD1, DM7, DM6, DD7, DD4, DMX3, DMX4, DM4, DD5, DMX2, DD3, DMX6 Inscriptions clôturées LES ALLOUX 01/10/2026 Critérium Doubles AD - DM2, DM6, DD7, DMX4, DM4, DD5, DMX2, DD3, DMX6 Inscriptions clôturées LES ALLOUX 24/09/2026 Critérium Doubles AD - DM5, DD6, DMX5, DM3, DMX7, DD2, DM7, DD4, DMX3 En cours"
+        "auszug": "CHAPELLE 02/10/2026 Masters TPPWB Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées LES ALLOUX 01/10/2026 Critérium Doubles AD - DM2, DM4, DM6, DD3, DD5, DD7, DMX2, DMX4, DMX6 En cours LES ALLOUX 24/09/2026 Critérium Doubles AD - DM3, DM5, DM7, DD2, DD4, DD6, DMX3, DMX5, DMX7 En cours"
       },
       "GET /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 6690,
+        "laenge": 6666,
         "turniere": [
           [
             "CHAPELLE",
@@ -1776,11 +1776,11 @@
             "24/09/2026"
           ]
         ],
-        "auszug": "CHAPELLE 02/10/2026 Masters TPPWB Doubles - DD4, DMX3, DMX4, DM1, DM5, DD6, DMX5, DM6, DD7, DD3, DD2, DMX1, DM7, DMX6, DM2, DM3, DMX7, DD1, DM4, DD5, DMX2 Inscriptions clôturées LES ALLOUX 01/10/2026 Critérium Doubles AD - DMX4, DM6, DD7, DD3, DMX6, DM2, DM4, DD5, DMX2 Inscriptions clôturées LES ALLOUX 24/09/2026 Critérium Doubles AD - DD4, DMX3, DM5, DD6, DMX5, DD2, DM7, DM3, DMX7 En cours"
+        "auszug": "CHAPELLE 02/10/2026 Masters TPPWB Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées LES ALLOUX 01/10/2026 Critérium Doubles AD - DM2, DM4, DM6, DD3, DD5, DD7, DMX2, DMX4, DMX6 En cours LES ALLOUX 24/09/2026 Critérium Doubles AD - DM3, DM5, DM7, DD2, DD4, DD6, DMX3, DMX5, DMX7 En cours"
       },
       "POST /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 6690,
+        "laenge": 6666,
         "turniere": [
           [
             "CHAPELLE",
@@ -1795,11 +1795,11 @@
             "24/09/2026"
           ]
         ],
-        "auszug": "CHAPELLE 02/10/2026 Masters TPPWB Doubles - DM1, DM5, DD6, DMX5, DM6, DD7, DD3, DMX6, DD4, DMX3, DMX4, DM7, DM2, DM3, DMX7, DD2, DMX1, DD1, DM4, DD5, DMX2 Inscriptions clôturées LES ALLOUX 01/10/2026 Critérium Doubles AD - DM6, DD7, DD3, DMX6, DMX4, DM2, DM4, DD5, DMX2 Inscriptions clôturées LES ALLOUX 24/09/2026 Critérium Doubles AD - DM5, DD6, DMX5, DD4, DMX3, DM7, DM3, DMX7, DD2 En cours"
+        "auszug": "CHAPELLE 02/10/2026 Masters TPPWB Doubles - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées LES ALLOUX 01/10/2026 Critérium Doubles AD - DM2, DM4, DM6, DD3, DD5, DD7, DMX2, DMX4, DMX6 En cours LES ALLOUX 24/09/2026 Critérium Doubles AD - DM3, DM5, DM7, DD2, DD4, DD6, DMX3, DMX5, DMX7 En cours"
       },
       "GET /MyAFT/Competitions/TournamentNews []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 32617,
+        "laenge": 32704,
         "turniere": [
           [
             "FAYEN BOIS",
@@ -1834,11 +1834,11 @@
             "22/10/2026"
           ]
         ],
-        "auszug": "Actualités tournois En cours A venir Passés Tous Afficher les onglets Près de chez moi Brabant Hainaut Liège Namur-Luxembourg Mes tournois Sélectionnez un mois... Novembre 2025 Décembre 2025 Janvier 2026 Février 2026 Mars 2026 Avril 2026 Mai 2026 Juin 2026 Juillet 2026 Août 2026 Septembre 2026 Octobre 2026 Novembre 2026 Décembre 2026 Semaine... du 29/08 au 06/09 du 05/09 au 13/09 du 12/09 au 20/09 du 19/09 au 27/09 du 26/09 au 04/10 Catégorie... Trier par... Tri par club Tri par date HAUT CLOCHER 15/10/2026 CRITERIUM ADULTES AS - D2, D3 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M355, M356, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 NEUPRE 15/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Ouverture des inscriptions le 05/10/2026 à partir de 19:00 - DM5, DD6, DMX5, DM6, DMX6, DD5, D2, D3, D4 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M356, D252, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M5 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 LIEGEOIS 17/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JVS - F151, G151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Ouverture des inscriptions le 05/10/2026 à partir de 19:00 - M353, M354, M355, M356, D252, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - D252, D253 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M5, M6 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 MOHA 22/10/2026 CRITERIUM ADULTES A - D3, D4 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M5, M6 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 TENNISSIMO 22/10/2026 CRITERIUM ADULTES - BC SM I* / BC SD I"
+        "auszug": "Actualités tournois En cours A venir Passés Tous Afficher les onglets Près de chez moi Brabant Hainaut Liège Namur-Luxembourg Mes tournois Sélectionnez un mois... Novembre 2025 Décembre 2025 Janvier 2026 Février 2026 Mars 2026 Avril 2026 Mai 2026 Juin 2026 Juillet 2026 Août 2026 Septembre 2026 Octobre 2026 Novembre 2026 Décembre 2026 Semaine... du 26/09 au 04/10 du 03/10 au 11/10 du 10/10 au 18/10 du 17/10 au 25/10 du 24/10 au 01/11 du 31/10 au 08/11 Catégorie... Trier par... Tri par club Tri par date HAUT CLOCHER 15/10/2026 CRITERIUM ADULTES AS - D2, D3 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M355, M356, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 NEUPRE 15/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Ouverture des inscriptions le 05/10/2026 à partir de 19:00 - DM5, DM6, DD5, DD6, DMX5, DMX6, D2, D3, D4 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M356, D252, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M5 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 LIEGEOIS 17/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JVS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Ouverture des inscriptions le 05/10/2026 à partir de 19:00 - M353, M354, M355, M356, D252, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - D252, D253 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M5, M6 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 MOHA 22/10/2026 CRITERIUM ADULTES A - D3, D4 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M5, M6 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 TENNISSIMO 22/10/2026 CRITERIUM ADULTES - "
       },
       "POST /MyAFT/Competitions/TournamentNews []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 32617,
+        "laenge": 32704,
         "turniere": [
           [
             "FAYEN BOIS",
@@ -1873,11 +1873,11 @@
             "22/10/2026"
           ]
         ],
-        "auszug": "Actualités tournois En cours A venir Passés Tous Afficher les onglets Près de chez moi Brabant Hainaut Liège Namur-Luxembourg Mes tournois Sélectionnez un mois... Novembre 2025 Décembre 2025 Janvier 2026 Février 2026 Mars 2026 Avril 2026 Mai 2026 Juin 2026 Juillet 2026 Août 2026 Septembre 2026 Octobre 2026 Novembre 2026 Décembre 2026 Semaine... du 29/08 au 06/09 du 05/09 au 13/09 du 12/09 au 20/09 du 19/09 au 27/09 du 26/09 au 04/10 Catégorie... Trier par... Tri par club Tri par date HAUT CLOCHER 15/10/2026 CRITERIUM ADULTES AS - D2, D3 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M355, M356, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 NEUPRE 15/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Ouverture des inscriptions le 05/10/2026 à partir de 19:00 - DM5, DD6, DMX5, DM6, DMX6, DD5, D2, D3, D4 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M356, D252, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M5 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 LIEGEOIS 17/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JVS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Ouverture des inscriptions le 05/10/2026 à partir de 19:00 - M353, M354, M355, M356, D252, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - D252, D253 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M5, M6 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 MOHA 22/10/2026 CRITERIUM ADULTES A - D3, D4 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M5, M6 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 TENNISSIMO 22/10/2026 CRITERIUM ADULTES - BC SM I* / BC SD I"
+        "auszug": "Actualités tournois En cours A venir Passés Tous Afficher les onglets Près de chez moi Brabant Hainaut Liège Namur-Luxembourg Mes tournois Sélectionnez un mois... Novembre 2025 Décembre 2025 Janvier 2026 Février 2026 Mars 2026 Avril 2026 Mai 2026 Juin 2026 Juillet 2026 Août 2026 Septembre 2026 Octobre 2026 Novembre 2026 Décembre 2026 Semaine... du 26/09 au 04/10 du 03/10 au 11/10 du 10/10 au 18/10 du 17/10 au 25/10 du 24/10 au 01/11 du 31/10 au 08/11 Catégorie... Trier par... Tri par club Tri par date HAUT CLOCHER 15/10/2026 CRITERIUM ADULTES AS - D2, D3 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M355, M356, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 NEUPRE 15/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Ouverture des inscriptions le 05/10/2026 à partir de 19:00 - DM5, DM6, DD5, DD6, DMX5, DMX6, D2, D3, D4 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M356, D252, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M5 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 LIEGEOIS 17/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JVS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Ouverture des inscriptions le 05/10/2026 à partir de 19:00 - M353, M354, M355, M356, D252, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - D252, D253 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M5, M6 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 MOHA 22/10/2026 CRITERIUM ADULTES A - D3, D4 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M5, M6 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 TENNISSIMO 22/10/2026 CRITERIUM ADULTES - "
       },
       "GET /MyAFT/Competitions/TournamentNews ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 32617,
+        "laenge": 32704,
         "turniere": [
           [
             "FAYEN BOIS",
@@ -1912,11 +1912,11 @@
             "22/10/2026"
           ]
         ],
-        "auszug": "Actualités tournois En cours A venir Passés Tous Afficher les onglets Près de chez moi Brabant Hainaut Liège Namur-Luxembourg Mes tournois Sélectionnez un mois... Novembre 2025 Décembre 2025 Janvier 2026 Février 2026 Mars 2026 Avril 2026 Mai 2026 Juin 2026 Juillet 2026 Août 2026 Septembre 2026 Octobre 2026 Novembre 2026 Décembre 2026 Semaine... du 29/08 au 06/09 du 05/09 au 13/09 du 12/09 au 20/09 du 19/09 au 27/09 du 26/09 au 04/10 Catégorie... Trier par... Tri par club Tri par date HAUT CLOCHER 15/10/2026 CRITERIUM ADULTES AS - D2, D3 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M355, M356, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 NEUPRE 15/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Ouverture des inscriptions le 05/10/2026 à partir de 19:00 - DM5, DD6, DMX5, DMX6, DM6, DD5, D2, D3, D4 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M356, D252, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M5 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 LIEGEOIS 17/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JVS - F151, G151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Ouverture des inscriptions le 05/10/2026 à partir de 19:00 - M353, M354, M355, M356, D252, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - D252, D253 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M5, M6 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 MOHA 22/10/2026 CRITERIUM ADULTES A - D3, D4 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M5, M6 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 TENNISSIMO 22/10/2026 CRITERIUM ADULTES - BC SM I* / BC SD I"
+        "auszug": "Actualités tournois En cours A venir Passés Tous Afficher les onglets Près de chez moi Brabant Hainaut Liège Namur-Luxembourg Mes tournois Sélectionnez un mois... Novembre 2025 Décembre 2025 Janvier 2026 Février 2026 Mars 2026 Avril 2026 Mai 2026 Juin 2026 Juillet 2026 Août 2026 Septembre 2026 Octobre 2026 Novembre 2026 Décembre 2026 Semaine... du 26/09 au 04/10 du 03/10 au 11/10 du 10/10 au 18/10 du 17/10 au 25/10 du 24/10 au 01/11 du 31/10 au 08/11 Catégorie... Trier par... Tri par club Tri par date HAUT CLOCHER 15/10/2026 CRITERIUM ADULTES AS - D2, D3 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M355, M356, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 NEUPRE 15/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Ouverture des inscriptions le 05/10/2026 à partir de 19:00 - DM5, DM6, DD5, DD6, DMX5, DMX6, D2, D3, D4 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M356, D252, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M5 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 LIEGEOIS 17/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JVS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Ouverture des inscriptions le 05/10/2026 à partir de 19:00 - M353, M354, M355, M356, D252, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - D252, D253 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M5, M6 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 MOHA 22/10/2026 CRITERIUM ADULTES A - D3, D4 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M5, M6 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 TENNISSIMO 22/10/2026 CRITERIUM ADULTES - "
       },
       "POST /MyAFT/Competitions/TournamentNews ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 32617,
+        "laenge": 32704,
         "turniere": [
           [
             "FAYEN BOIS",
@@ -1951,11 +1951,11 @@
             "22/10/2026"
           ]
         ],
-        "auszug": "Actualités tournois En cours A venir Passés Tous Afficher les onglets Près de chez moi Brabant Hainaut Liège Namur-Luxembourg Mes tournois Sélectionnez un mois... Novembre 2025 Décembre 2025 Janvier 2026 Février 2026 Mars 2026 Avril 2026 Mai 2026 Juin 2026 Juillet 2026 Août 2026 Septembre 2026 Octobre 2026 Novembre 2026 Décembre 2026 Semaine... du 29/08 au 06/09 du 05/09 au 13/09 du 12/09 au 20/09 du 19/09 au 27/09 du 26/09 au 04/10 Catégorie... Trier par... Tri par club Tri par date HAUT CLOCHER 15/10/2026 CRITERIUM ADULTES AS - D2, D3 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M355, M356, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 NEUPRE 15/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Ouverture des inscriptions le 05/10/2026 à partir de 19:00 - DM5, DD6, DMX5, DM6, DD5, DMX6, D2, D3, D4 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M356, D252, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M5 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 LIEGEOIS 17/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JVS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Ouverture des inscriptions le 05/10/2026 à partir de 19:00 - M353, M354, M355, M356, D252, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - D252, D253 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M5, M6 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 MOHA 22/10/2026 CRITERIUM ADULTES A - D3, D4 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M5, M6 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 TENNISSIMO 22/10/2026 CRITERIUM ADULTES - BC SM I* / BC SD I"
+        "auszug": "Actualités tournois En cours A venir Passés Tous Afficher les onglets Près de chez moi Brabant Hainaut Liège Namur-Luxembourg Mes tournois Sélectionnez un mois... Novembre 2025 Décembre 2025 Janvier 2026 Février 2026 Mars 2026 Avril 2026 Mai 2026 Juin 2026 Juillet 2026 Août 2026 Septembre 2026 Octobre 2026 Novembre 2026 Décembre 2026 Semaine... du 26/09 au 04/10 du 03/10 au 11/10 du 10/10 au 18/10 du 17/10 au 25/10 du 24/10 au 01/11 du 31/10 au 08/11 Catégorie... Trier par... Tri par club Tri par date HAUT CLOCHER 15/10/2026 CRITERIUM ADULTES AS - D2, D3 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M355, M356, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 NEUPRE 15/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Ouverture des inscriptions le 05/10/2026 à partir de 19:00 - DM5, DM6, DD5, DD6, DMX5, DMX6, D2, D3, D4 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M356, D252, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M5 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 LIEGEOIS 17/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JVS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Ouverture des inscriptions le 05/10/2026 à partir de 19:00 - M353, M354, M355, M356, D252, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - D252, D253 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M5, M6 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 MOHA 22/10/2026 CRITERIUM ADULTES A - D3, D4 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M5, M6 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 TENNISSIMO 22/10/2026 CRITERIUM ADULTES - "
       },
       "GET /MyAFT/Competitions/TournamentNews ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 32617,
+        "laenge": 32704,
         "turniere": [
           [
             "FAYEN BOIS",
@@ -1990,11 +1990,11 @@
             "22/10/2026"
           ]
         ],
-        "auszug": "Actualités tournois En cours A venir Passés Tous Afficher les onglets Près de chez moi Brabant Hainaut Liège Namur-Luxembourg Mes tournois Sélectionnez un mois... Novembre 2025 Décembre 2025 Janvier 2026 Février 2026 Mars 2026 Avril 2026 Mai 2026 Juin 2026 Juillet 2026 Août 2026 Septembre 2026 Octobre 2026 Novembre 2026 Décembre 2026 Semaine... du 29/08 au 06/09 du 05/09 au 13/09 du 12/09 au 20/09 du 19/09 au 27/09 du 26/09 au 04/10 Catégorie... Trier par... Tri par club Tri par date HAUT CLOCHER 15/10/2026 CRITERIUM ADULTES AS - D2, D3 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M355, M356, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 NEUPRE 15/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Ouverture des inscriptions le 05/10/2026 à partir de 19:00 - DM5, DD6, DMX5, DD5, DM6, DMX6, D2, D3, D4 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M356, D252, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M5 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 LIEGEOIS 17/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JVS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Ouverture des inscriptions le 05/10/2026 à partir de 19:00 - M353, M354, M355, M356, D252, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - D252, D253 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M5, M6 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 MOHA 22/10/2026 CRITERIUM ADULTES A - D3, D4 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M5, M6 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 TENNISSIMO 22/10/2026 CRITERIUM ADULTES - BC SM I* / BC SD I"
+        "auszug": "Actualités tournois En cours A venir Passés Tous Afficher les onglets Près de chez moi Brabant Hainaut Liège Namur-Luxembourg Mes tournois Sélectionnez un mois... Novembre 2025 Décembre 2025 Janvier 2026 Février 2026 Mars 2026 Avril 2026 Mai 2026 Juin 2026 Juillet 2026 Août 2026 Septembre 2026 Octobre 2026 Novembre 2026 Décembre 2026 Semaine... du 26/09 au 04/10 du 03/10 au 11/10 du 10/10 au 18/10 du 17/10 au 25/10 du 24/10 au 01/11 du 31/10 au 08/11 Catégorie... Trier par... Tri par club Tri par date HAUT CLOCHER 15/10/2026 CRITERIUM ADULTES AS - D2, D3 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M355, M356, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 NEUPRE 15/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Ouverture des inscriptions le 05/10/2026 à partir de 19:00 - DM5, DM6, DD5, DD6, DMX5, DMX6, D2, D3, D4 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M356, D252, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M5 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 LIEGEOIS 17/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JVS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Ouverture des inscriptions le 05/10/2026 à partir de 19:00 - M353, M354, M355, M356, D252, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - D252, D253 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M5, M6 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 MOHA 22/10/2026 CRITERIUM ADULTES A - D3, D4 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M5, M6 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 TENNISSIMO 22/10/2026 CRITERIUM ADULTES - "
       },
       "POST /MyAFT/Competitions/TournamentNews ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 32617,
+        "laenge": 32704,
         "turniere": [
           [
             "FAYEN BOIS",
@@ -2029,7 +2029,7 @@
             "22/10/2026"
           ]
         ],
-        "auszug": "Actualités tournois En cours A venir Passés Tous Afficher les onglets Près de chez moi Brabant Hainaut Liège Namur-Luxembourg Mes tournois Sélectionnez un mois... Novembre 2025 Décembre 2025 Janvier 2026 Février 2026 Mars 2026 Avril 2026 Mai 2026 Juin 2026 Juillet 2026 Août 2026 Septembre 2026 Octobre 2026 Novembre 2026 Décembre 2026 Semaine... du 29/08 au 06/09 du 05/09 au 13/09 du 12/09 au 20/09 du 19/09 au 27/09 du 26/09 au 04/10 Catégorie... Trier par... Tri par club Tri par date HAUT CLOCHER 15/10/2026 CRITERIUM ADULTES AS - D2, D3 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M355, M356, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 NEUPRE 15/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Ouverture des inscriptions le 05/10/2026 à partir de 19:00 - DM5, DD6, DMX5, DMX6, DD5, DM6, D2, D3, D4 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M356, D252, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M5 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 LIEGEOIS 17/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JVS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Ouverture des inscriptions le 05/10/2026 à partir de 19:00 - M353, M354, M355, M356, D252, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - D252, D253 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M5, M6 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 MOHA 22/10/2026 CRITERIUM ADULTES A - D3, D4 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M5, M6 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 TENNISSIMO 22/10/2026 CRITERIUM ADULTES - BC SM I* / BC SD I"
+        "auszug": "Actualités tournois En cours A venir Passés Tous Afficher les onglets Près de chez moi Brabant Hainaut Liège Namur-Luxembourg Mes tournois Sélectionnez un mois... Novembre 2025 Décembre 2025 Janvier 2026 Février 2026 Mars 2026 Avril 2026 Mai 2026 Juin 2026 Juillet 2026 Août 2026 Septembre 2026 Octobre 2026 Novembre 2026 Décembre 2026 Semaine... du 26/09 au 04/10 du 03/10 au 11/10 du 10/10 au 18/10 du 17/10 au 25/10 du 24/10 au 01/11 du 31/10 au 08/11 Catégorie... Trier par... Tri par club Tri par date HAUT CLOCHER 15/10/2026 CRITERIUM ADULTES AS - D2, D3 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M355, M356, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 NEUPRE 15/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Ouverture des inscriptions le 05/10/2026 à partir de 19:00 - DM5, DM6, DD5, DD6, DMX5, DMX6, D2, D3, D4 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M356, D252, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M5 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 LIEGEOIS 17/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JVS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Ouverture des inscriptions le 05/10/2026 à partir de 19:00 - M353, M354, M355, M356, D252, D253, D254 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - D252, D253 Ouverture des inscriptions le 05/10/2026 à partir de 21:00 - M5, M6 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 MOHA 22/10/2026 CRITERIUM ADULTES A - D3, D4 Ouverture des inscriptions le 05/10/2026 à partir de 20:00 - M5, M6 Ouverture des inscriptions le 06/10/2026 à partir de 19:00 - M3, M4 Ouverture des inscriptions le 06/10/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 06/10/2026 à partir de 21:00 TENNISSIMO 22/10/2026 CRITERIUM ADULTES - "
       },
       "POST /MyAFT/Competitions/TournamentSearchResultData []": {
         "content_type": "text/html; charset=utf-8",
@@ -2276,7 +2276,7 @@
             "18/12/2025"
           ]
         ],
-        "auszug": "BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD3, DD6, DMX5, DM7, DM6, DD7, DD4, DMX3, DMX4, DMX7, DD2, DMX1, DM2, DM3, DM1, DM5, DD5, DMX2, DM4, DMX6, DD1 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3, M4, M5, M6, D2, D3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé HAILLOT 16/10/2025 AD Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD7, DD6, DD4, DD5 Terminé LAMBERMONT (BRABANT) 18/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes & Ethias Junior Tour - G151, M504, M505, F151, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M503, M501, M502, G151, F151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DD3, DM6, DMX3, DM3, DD6, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G13"
+        "auszug": "HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M502, M501, G151, M503, F151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DD3, DD6, DM6, DMX6, DM3, DMX3, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G131, G132, G152, G153, F111, F112, F131, F132, F152, F153, U91, U92 Terminé PLAINCHAMP 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé KALYPSO 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DM6, DD7, DD6, DMX5, DMX7, DD4, DMX3, DMX4, DM7, DD3, DM1, DM5, DD2, DMX1, DM2, DM3, DMX6, DD5, DMX2, DM4, DD1 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3"
       },
       "POST /MyAFT/Competitions/TournamentSearchResultData ['regionId']": {
         "content_type": "text/html; charset=utf-8",
@@ -2523,7 +2523,7 @@
             "18/12/2025"
           ]
         ],
-        "auszug": "BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DM6, DD7, DD6, DMX5, DD3, DMX7, DM7, DD4, DMX3, DM2, DM3, DMX4, DD5, DMX2, DD1, DM1, DM5, DD2, DMX1, DMX6, DM4 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3, M4, M5, M6, D2, D3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé HAILLOT 16/10/2025 AD Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD6, DD7, DD4, DD5 Terminé LAMBERMONT (BRABANT) 18/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes & Ethias Junior Tour - G151, M504, M505, F151, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M502, M501, G151, M503, F151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DM6, DMX3, DD6, DD3, DM3, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G13"
+        "auszug": "HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M502, M501, M503, G151, F151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DD3, DMX3, DD6, DM6, DM3, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G131, G132, G152, G153, F111, F112, F131, F132, F152, F153, U91, U92 Terminé PLAINCHAMP 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé KALYPSO 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD6, DMX5, DD3, DM6, DD7, DM1, DM5, DD4, DMX3, DMX4, DD5, DMX2, DM7, DMX6, DM4, DD2, DMX1, DD1, DMX7, DM2, DM3 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3"
       },
       "POST /MyAFT/Competitions/TournamentSearchResultData ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
@@ -2770,11 +2770,11 @@
             "18/12/2025"
           ]
         ],
-        "auszug": "BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD6, DMX5, DD4, DMX3, DMX4, DM7, DD3, DD5, DMX2, DM6, DD7, DMX7, DM1, DM5, DD1, DD2, DMX1, DM4, DMX6, DM2, DM3 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3, M4, M5, M6, D2, D3, D4, D5, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé HAILLOT 16/10/2025 AD Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DD6, DD4, DD5, DD7 Terminé LAMBERMONT (BRABANT) 18/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes & Ethias Junior Tour - G151, M504, M505, F151, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M501, M503, M502, G151, F151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DD3, DMX3, DD6, DM3, DM6, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G13"
+        "auszug": "HAUT CLOCHER 16/10/2025 AS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 Terminé LIEGEOIS 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - M502, G151, M503, M501, F151, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Terminé NEUPRE 16/10/2025 JAVSD Inscriptions jusqu'au 14/10/2025 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames Tennis Wallonie-Bruxelles - DD3, DMX3, DD6, DM3, DM6, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Terminé ARGAYON 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour - G151, F151, G111, G112, G131, G132, G152, G153, F111, F112, F131, F132, F152, F153, U91, U92 Terminé PLAINCHAMP 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé KALYPSO 16/10/2025 J Inscriptions jusqu'au 14/10/2025 Ethias Junior Tour Gr 1 à 3 - F151, G151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé BOUILLON 16/10/2025 D Inscriptions jusqu'au 14/10/2025 Critérium Doubles - DMX7, DM2, DM3, DD6, DMX5, DD4, DMX3, DMX4, DM6, DD7, DM1, DM5, DD3, DD5, DMX2, DM4, DM7, DD1, DD2, DMX1, DMX6 Terminé GARISART 16/10/2025 JAVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* BC + Critérium senior by Cornet + Ethias Junior Tour - Grades 1, 2 et 3 (B) - G151, F151, M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé GEMBLOUX 16/10/2025 AVS Inscriptions jusqu'au 14/10/2025 Critérium adultes + Critérium senior by Cornet - M2, M3, M4, M5, M6, M352, M353, M354, M355, M356, D251, D252, D253, D254 Terminé ANDENNE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 Terminé MARCHE 16/10/2025 A Inscriptions jusqu'au 14/10/2025 Critérium adultes + MI* et DI* BC - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5 Terminé TOURNAISIEN 16/10/2025 JAS Inscriptions jusqu'au 14/10/2025 Critérium adultes/ Simples Ethias Junior Tour Gr. 2 et 3 - M2, M3"
       },
       "GET /MyAFT/Competitions/Tournaments []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 178883,
+        "laenge": 178970,
         "turniere": [
           [
             "FAYEN BOIS",
@@ -2813,7 +2813,7 @@
       },
       "POST /MyAFT/Competitions/Tournaments []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 178883,
+        "laenge": 178970,
         "turniere": [
           [
             "FAYEN BOIS",
@@ -2852,7 +2852,7 @@
       },
       "GET /MyAFT/Competitions/Tournaments ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 178883,
+        "laenge": 178970,
         "turniere": [
           [
             "FAYEN BOIS",
@@ -2891,7 +2891,7 @@
       },
       "POST /MyAFT/Competitions/Tournaments ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 178883,
+        "laenge": 178970,
         "turniere": [
           [
             "FAYEN BOIS",
@@ -2930,7 +2930,7 @@
       },
       "GET /MyAFT/Competitions/Tournaments ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 178883,
+        "laenge": 178970,
         "turniere": [
           [
             "FAYEN BOIS",
@@ -2969,7 +2969,7 @@
       },
       "POST /MyAFT/Competitions/Tournaments ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 178883,
+        "laenge": 178970,
         "turniere": [
           [
             "FAYEN BOIS",
@@ -3025,13 +3025,13 @@
       {
         "monat": "10/2026",
         "filter": "C30.6",
-        "treffer": 21,
+        "treffer": 26,
         "abgeschnitten": false
       },
       {
         "monat": "11/2026",
         "filter": "C30.6",
-        "treffer": 9,
+        "treffer": 12,
         "abgeschnitten": false
       },
       {
@@ -3072,10 +3072,10 @@
       },
       {
         "klubliste": 375,
-        "provinz_zugeordnet": 175
+        "provinz_zugeordnet": 180
       }
     ],
-    "anzahl": 203,
+    "anzahl": 208,
     "turniere": [
       {
         "id": "362418",
@@ -5179,91 +5179,6 @@
         "provinz": "Brabant/Bruessel"
       },
       {
-        "id": "362188",
-        "ort": "LA LIGNE",
-        "start": "30/07/2026",
-        "anmeldung_bis": "28/07/2026",
-        "status": "Terminé",
-        "beschreibung": "",
-        "kategorien": [
-          "D251",
-          "D252",
-          "D253",
-          "D254",
-          "D551",
-          "D552",
-          "D553",
-          "DD1",
-          "DD3",
-          "DD4",
-          "DD5",
-          "DD7",
-          "DM1",
-          "DM3",
-          "DM4",
-          "DM5",
-          "DM7",
-          "DMX1",
-          "DMX3",
-          "DMX4",
-          "DMX5",
-          "DMX7",
-          "M352",
-          "M353",
-          "M354",
-          "M355",
-          "M356",
-          "M501",
-          "M502",
-          "M503",
-          "M504",
-          "M505"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": false,
-        "hat_M356": true,
-        "fuer_c306": true,
-        "zeitraum_von": "30/07/2026",
-        "zeitraum_bis": "09/08/2026",
-        "klub": "LA LIGNE",
-        "schiedsrichter": "BAUWIN Damien",
-        "klubcode": "6038",
-        "klub_voll": "T.C. DE LA LIGNE",
-        "provinz": "Luxemburg"
-      },
-      {
-        "id": "362189",
-        "ort": "GODINNE",
-        "start": "30/07/2026",
-        "anmeldung_bis": "28/07/2026",
-        "status": "Terminé",
-        "beschreibung": "",
-        "kategorien": [
-          "DD2",
-          "DD3",
-          "DD4",
-          "DD5",
-          "DD6",
-          "DM2",
-          "DM3",
-          "DM4",
-          "DM5",
-          "DM6",
-          "DMX2",
-          "DMX3",
-          "DMX4",
-          "DMX5",
-          "DMX6"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": false,
-        "hat_M356": false,
-        "fuer_c306": true,
-        "klubcode": "6024",
-        "klub_voll": "T.C. GODINNE",
-        "provinz": "Luxemburg"
-      },
-      {
         "id": "361949",
         "ort": "BEAUVECHAIN",
         "start": "30/07/2026",
@@ -5590,6 +5505,91 @@
         "schiedsrichter": "GILLES Viviane",
         "klubcode": "6025",
         "klub_voll": "T.C. HASTIERE",
+        "provinz": "Luxemburg"
+      },
+      {
+        "id": "362188",
+        "ort": "LA LIGNE",
+        "start": "30/07/2026",
+        "anmeldung_bis": "28/07/2026",
+        "status": "Terminé",
+        "beschreibung": "",
+        "kategorien": [
+          "D251",
+          "D252",
+          "D253",
+          "D254",
+          "D551",
+          "D552",
+          "D553",
+          "DD1",
+          "DD3",
+          "DD4",
+          "DD5",
+          "DD7",
+          "DM1",
+          "DM3",
+          "DM4",
+          "DM5",
+          "DM7",
+          "DMX1",
+          "DMX3",
+          "DMX4",
+          "DMX5",
+          "DMX7",
+          "M352",
+          "M353",
+          "M354",
+          "M355",
+          "M356",
+          "M501",
+          "M502",
+          "M503",
+          "M504",
+          "M505"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": true,
+        "fuer_c306": true,
+        "zeitraum_von": "30/07/2026",
+        "zeitraum_bis": "09/08/2026",
+        "klub": "LA LIGNE",
+        "schiedsrichter": "BAUWIN Damien",
+        "klubcode": "6038",
+        "klub_voll": "T.C. DE LA LIGNE",
+        "provinz": "Luxemburg"
+      },
+      {
+        "id": "362189",
+        "ort": "GODINNE",
+        "start": "30/07/2026",
+        "anmeldung_bis": "28/07/2026",
+        "status": "Terminé",
+        "beschreibung": "",
+        "kategorien": [
+          "DD2",
+          "DD3",
+          "DD4",
+          "DD5",
+          "DD6",
+          "DM2",
+          "DM3",
+          "DM4",
+          "DM5",
+          "DM6",
+          "DMX2",
+          "DMX3",
+          "DMX4",
+          "DMX5",
+          "DMX6"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": false,
+        "fuer_c306": true,
+        "klubcode": "6024",
+        "klub_voll": "T.C. GODINNE",
         "provinz": "Luxemburg"
       },
       {
@@ -10096,7 +10096,7 @@
         "ort": "LAMBERMONT (BRABANT)",
         "start": "12/09/2026",
         "anmeldung_bis": "08/09/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "DD4",
@@ -10554,7 +10554,7 @@
         "ort": "LES ALLOUX",
         "start": "01/10/2026",
         "anmeldung_bis": "29/09/2026",
-        "status": "",
+        "status": "En cours",
         "beschreibung": "",
         "kategorien": [
           "DD3",
@@ -10811,37 +10811,42 @@
         "provinz": "Luxemburg"
       },
       {
-        "id": "362550",
-        "ort": "ARGAYON",
+        "id": "362632",
+        "ort": "HAILLOT",
         "start": "15/10/2026",
         "anmeldung_bis": "13/10/2026",
         "status": "",
         "beschreibung": "",
         "kategorien": [
-          "F111",
-          "F112",
-          "F131",
-          "F132",
-          "F151",
-          "F152",
-          "F153",
-          "G111",
-          "G112",
-          "G131",
-          "G132",
-          "G151",
-          "G152",
-          "G153",
-          "U91",
-          "U92"
+          "D253",
+          "D254",
+          "M352",
+          "M353",
+          "M354",
+          "M355",
+          "M356"
         ],
-        "anmeldeoeffnung": [],
+        "anmeldeoeffnung": [
+          {
+            "kategorien": [
+              "M352",
+              "M353",
+              "M354",
+              "M355",
+              "M356",
+              "D253",
+              "D254"
+            ],
+            "datum": "05/10/2026",
+            "uhrzeit": "21:00"
+          }
+        ],
         "hat_M6": false,
-        "hat_M356": false,
+        "hat_M356": true,
         "fuer_c306": true,
-        "klubcode": "1006",
-        "klub_voll": "T.C. ARGAYON",
-        "provinz": "Brabant/Bruessel"
+        "klubcode": "6063",
+        "klub_voll": "T.C. HAILLOT",
+        "provinz": "Luxemburg"
       },
       {
         "id": "362508",
@@ -10947,11 +10952,11 @@
           {
             "kategorien": [
               "DM5",
+              "DM6",
+              "DD5",
               "DD6",
               "DMX5",
               "DMX6",
-              "DD5",
-              "DM6",
               "D2",
               "D3",
               "D4"
@@ -11000,16 +11005,46 @@
         "provinz": "Luettich"
       },
       {
-        "id": "362509",
-        "ort": "LIEGEOIS",
-        "start": "17/10/2026",
+        "id": "362550",
+        "ort": "ARGAYON",
+        "start": "15/10/2026",
         "anmeldung_bis": "13/10/2026",
         "status": "",
-        "beschreibung": "CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3",
+        "beschreibung": "",
         "kategorien": [
-          "D252",
-          "D253",
-          "D254",
+          "F111",
+          "F112",
+          "F131",
+          "F132",
+          "F151",
+          "F152",
+          "F153",
+          "G111",
+          "G112",
+          "G131",
+          "G132",
+          "G151",
+          "G152",
+          "G153",
+          "U91",
+          "U92"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": false,
+        "fuer_c306": true,
+        "klubcode": "1006",
+        "klub_voll": "T.C. ARGAYON",
+        "provinz": "Brabant/Bruessel"
+      },
+      {
+        "id": "362660",
+        "ort": "PLAINCHAMP",
+        "start": "15/10/2026",
+        "anmeldung_bis": "13/10/2026",
+        "status": "",
+        "beschreibung": "Tournoi de jeunes Grades 1 à 3",
+        "kategorien": [
           "F111",
           "F112",
           "F113",
@@ -11028,35 +11063,17 @@
           "G151",
           "G152",
           "G153",
-          "M353",
-          "M354",
-          "M355",
-          "M356",
           "U91",
           "U92",
           "U93"
         ],
-        "anmeldeoeffnung": [
-          {
-            "kategorien": [
-              "M353",
-              "M354",
-              "M355",
-              "M356",
-              "D252",
-              "D253",
-              "D254"
-            ],
-            "datum": "05/10/2026",
-            "uhrzeit": "21:00"
-          }
-        ],
+        "anmeldeoeffnung": [],
         "hat_M6": false,
-        "hat_M356": true,
+        "hat_M356": false,
         "fuer_c306": true,
-        "klubcode": "4012",
-        "klub_voll": "R.F.C. LIEGEOIS",
-        "provinz": "Luettich"
+        "klubcode": "3103",
+        "klub_voll": "T.C. PLAINCHAMP",
+        "provinz": "?"
       },
       {
         "id": "362551",
@@ -11162,6 +11179,65 @@
         "provinz": "Brabant/Bruessel"
       },
       {
+        "id": "362509",
+        "ort": "LIEGEOIS",
+        "start": "17/10/2026",
+        "anmeldung_bis": "13/10/2026",
+        "status": "",
+        "beschreibung": "CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3",
+        "kategorien": [
+          "D252",
+          "D253",
+          "D254",
+          "F111",
+          "F112",
+          "F113",
+          "F131",
+          "F132",
+          "F133",
+          "F151",
+          "F152",
+          "F153",
+          "G111",
+          "G112",
+          "G113",
+          "G131",
+          "G132",
+          "G133",
+          "G151",
+          "G152",
+          "G153",
+          "M353",
+          "M354",
+          "M355",
+          "M356",
+          "U91",
+          "U92",
+          "U93"
+        ],
+        "anmeldeoeffnung": [
+          {
+            "kategorien": [
+              "M353",
+              "M354",
+              "M355",
+              "M356",
+              "D252",
+              "D253",
+              "D254"
+            ],
+            "datum": "05/10/2026",
+            "uhrzeit": "21:00"
+          }
+        ],
+        "hat_M6": false,
+        "hat_M356": true,
+        "fuer_c306": true,
+        "klubcode": "4012",
+        "klub_voll": "R.F.C. LIEGEOIS",
+        "provinz": "Luettich"
+      },
+      {
         "id": "362634",
         "ort": "LA BRUYERE",
         "start": "19/10/2026",
@@ -11200,17 +11276,13 @@
         "provinz": "Luxemburg"
       },
       {
-        "id": "362574",
-        "ort": "TENNISSIMO",
+        "id": "362638",
+        "ort": "JEMELLE",
         "start": "22/10/2026",
         "anmeldung_bis": "20/10/2026",
         "status": "",
-        "beschreibung": "CRITERIUM ADULTES - BC SM I* / BC SD I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3",
+        "beschreibung": "",
         "kategorien": [
-          "D1BC1*",
-          "D2",
-          "D3",
-          "D4",
           "F111",
           "F112",
           "F113",
@@ -11229,86 +11301,17 @@
           "G151",
           "G152",
           "G153",
-          "M1BC1*",
-          "M2",
-          "M3",
-          "M4",
           "U91",
           "U92",
           "U93"
         ],
-        "anmeldeoeffnung": [
-          {
-            "kategorien": [
-              "D1BC1*",
-              "D2",
-              "D3",
-              "D4"
-            ],
-            "datum": "05/10/2026",
-            "uhrzeit": "20:00"
-          },
-          {
-            "kategorien": [
-              "M3",
-              "M4"
-            ],
-            "datum": "06/10/2026",
-            "uhrzeit": "20:00"
-          },
-          {
-            "kategorien": [
-              "M1BC1*",
-              "M2"
-            ],
-            "datum": "06/10/2026",
-            "uhrzeit": "21:00"
-          }
-        ],
+        "anmeldeoeffnung": [],
         "hat_M6": false,
         "hat_M356": false,
         "fuer_c306": true,
-        "klubcode": "4101",
-        "klub_voll": "T.C. TENNISSIMO",
-        "provinz": "Luettich"
-      },
-      {
-        "id": "362585",
-        "ort": "PRIMEROSE",
-        "start": "22/10/2026",
-        "anmeldung_bis": "20/10/2026",
-        "status": "",
-        "beschreibung": "",
-        "kategorien": [
-          "F112",
-          "F132",
-          "F152",
-          "G112",
-          "G132",
-          "G152",
-          "U92"
-        ],
-        "anmeldeoeffnung": [
-          {
-            "kategorien": [
-              "G112",
-              "G132",
-              "G152",
-              "F112",
-              "F132",
-              "F152",
-              "U92"
-            ],
-            "datum": "05/10/2026",
-            "uhrzeit": "19:00"
-          }
-        ],
-        "hat_M6": false,
-        "hat_M356": false,
-        "fuer_c306": true,
-        "klubcode": "1034",
-        "klub_voll": "R. PRIMEROSE C.B.",
-        "provinz": "Brabant/Bruessel"
+        "klubcode": "6077",
+        "klub_voll": "T.C. JEMELLE",
+        "provinz": "Luxemburg"
       },
       {
         "id": "362425",
@@ -11334,14 +11337,14 @@
             "kategorien": [
               "DM2",
               "DM3",
+              "DM4",
               "DM5",
+              "DM6",
+              "DD4",
               "DD6",
               "DMX5",
               "DMX6",
-              "DD4",
-              "DMX4",
-              "DM4",
-              "DM6"
+              "DMX4"
             ],
             "datum": "05/10/2026",
             "uhrzeit": "20:00"
@@ -11465,6 +11468,155 @@
         "klubcode": "4040",
         "klub_voll": "C.T.B. MOHA",
         "provinz": "Luettich"
+      },
+      {
+        "id": "362574",
+        "ort": "TENNISSIMO",
+        "start": "22/10/2026",
+        "anmeldung_bis": "20/10/2026",
+        "status": "",
+        "beschreibung": "CRITERIUM ADULTES - BC SM I* / BC SD I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3",
+        "kategorien": [
+          "D1BC1*",
+          "D2",
+          "D3",
+          "D4",
+          "F111",
+          "F112",
+          "F113",
+          "F131",
+          "F132",
+          "F133",
+          "F151",
+          "F152",
+          "F153",
+          "G111",
+          "G112",
+          "G113",
+          "G131",
+          "G132",
+          "G133",
+          "G151",
+          "G152",
+          "G153",
+          "M1BC1*",
+          "M2",
+          "M3",
+          "M4",
+          "U91",
+          "U92",
+          "U93"
+        ],
+        "anmeldeoeffnung": [
+          {
+            "kategorien": [
+              "D1BC1*",
+              "D2",
+              "D3",
+              "D4"
+            ],
+            "datum": "05/10/2026",
+            "uhrzeit": "20:00"
+          },
+          {
+            "kategorien": [
+              "M3",
+              "M4"
+            ],
+            "datum": "06/10/2026",
+            "uhrzeit": "20:00"
+          },
+          {
+            "kategorien": [
+              "M1BC1*",
+              "M2"
+            ],
+            "datum": "06/10/2026",
+            "uhrzeit": "21:00"
+          }
+        ],
+        "hat_M6": false,
+        "hat_M356": false,
+        "fuer_c306": true,
+        "klubcode": "4101",
+        "klub_voll": "T.C. TENNISSIMO",
+        "provinz": "Luettich"
+      },
+      {
+        "id": "362585",
+        "ort": "PRIMEROSE",
+        "start": "22/10/2026",
+        "anmeldung_bis": "20/10/2026",
+        "status": "",
+        "beschreibung": "",
+        "kategorien": [
+          "F112",
+          "F132",
+          "F152",
+          "G112",
+          "G132",
+          "G152",
+          "U92"
+        ],
+        "anmeldeoeffnung": [
+          {
+            "kategorien": [
+              "G112",
+              "G132",
+              "G152",
+              "F112",
+              "F132",
+              "F152",
+              "U92"
+            ],
+            "datum": "05/10/2026",
+            "uhrzeit": "19:00"
+          }
+        ],
+        "hat_M6": false,
+        "hat_M356": false,
+        "fuer_c306": true,
+        "klubcode": "1034",
+        "klub_voll": "R. PRIMEROSE C.B.",
+        "provinz": "Brabant/Bruessel"
+      },
+      {
+        "id": "362666",
+        "ort": "THUIN",
+        "start": "22/10/2026",
+        "anmeldung_bis": "20/10/2026",
+        "status": "",
+        "beschreibung": "Tournoi jeunes Grades 1 à 3",
+        "kategorien": [
+          "F111",
+          "F112",
+          "F113",
+          "F131",
+          "F132",
+          "F133",
+          "F151",
+          "F152",
+          "F153",
+          "G111",
+          "G112",
+          "G113",
+          "G131",
+          "G132",
+          "G133",
+          "G151",
+          "G152",
+          "G153",
+          "U91",
+          "U92",
+          "U93"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": false,
+        "fuer_c306": true,
+        "klubcode": "3041",
+        "klub_voll": "T.C. DE THUIN",
+        "provinz": "?"
       },
       {
         "id": "362589",
@@ -11625,6 +11777,37 @@
         "provinz": "Luettich"
       },
       {
+        "id": "362640",
+        "ort": "WEPION",
+        "start": "26/10/2026",
+        "anmeldung_bis": "20/10/2026",
+        "status": "",
+        "beschreibung": "",
+        "kategorien": [
+          "F112",
+          "F113",
+          "F132",
+          "F133",
+          "F152",
+          "F153",
+          "G112",
+          "G113",
+          "G132",
+          "G133",
+          "G152",
+          "G153",
+          "U92",
+          "U93"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": false,
+        "fuer_c306": true,
+        "klubcode": "6011",
+        "klub_voll": "R.C.N.S.M. WEPION",
+        "provinz": "Luxemburg"
+      },
+      {
         "id": "362516",
         "ort": "MARMOTTE",
         "start": "29/10/2026",
@@ -11662,11 +11845,11 @@
           {
             "kategorien": [
               "DM5",
+              "DM6",
+              "DD5",
               "DD6",
               "DMX5",
               "DMX6",
-              "DD5",
-              "DM6",
               "D2",
               "D3"
             ],
@@ -11814,12 +11997,12 @@
         "anmeldeoeffnung": [
           {
             "kategorien": [
+              "DM3",
+              "DM4",
+              "DD3",
               "DD4",
               "DMX3",
               "DMX4",
-              "DM4",
-              "DD3",
-              "DM3",
               "D4",
               "D5"
             ],
@@ -11940,8 +12123,8 @@
         "anmeldeoeffnung": [
           {
             "kategorien": [
-              "DMX4",
               "DM4",
+              "DMX4",
               "D3",
               "D4",
               "D5"
@@ -12092,12 +12275,12 @@
         "/MyAFT/Competitions/TournamentDetailCategories?idTournoi=361794&amp;subscrStartDate=20%2F07%2F2026&amp;subscrEndDate=11%2F08%2F2026&amp;displaySubscriptions=False&amp;maxSubscriptions=259&amp;tournoiDescription=SAINT-VITH%2020%2F07%2F2026",
         "/MyAFT/Competitions/TournamentDetailDraw?idTournoi=361794",
         "/MyAFT/Competitions/TournamentDetailRegisters?idTournoi=361794",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=300920261145255638&amp;IdTournoi=361671&amp;PathRules=361671_4067.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=300920261145255658&amp;IdTournoi=361706&amp;PathRules=361706_4091.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=300920261145255678&amp;IdTournoi=361794&amp;PathRules=361794_4077.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=300920261145255693&amp;IdTournoi=361804&amp;PathRules=361804_4081.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=300920261145255708&amp;IdTournoi=361818&amp;PathRules=361818_4001.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=300920261145255723&amp;IdTournoi=361825&amp;PathRules=361825_4049.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=011020261210599833&amp;IdTournoi=361671&amp;PathRules=361671_4067.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=011020261210599853&amp;IdTournoi=361706&amp;PathRules=361706_4091.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=011020261210599868&amp;IdTournoi=361794&amp;PathRules=361794_4077.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=011020261210599883&amp;IdTournoi=361804&amp;PathRules=361804_4081.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=011020261210599898&amp;IdTournoi=361818&amp;PathRules=361818_4001.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=011020261210599913&amp;IdTournoi=361825&amp;PathRules=361825_4049.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
         "/MyAFT/Players",
         "/MyAFT/Players/Detail",
         "/MyAFT/Players/GetPlayersAutocomplete",
@@ -12115,44 +12298,7 @@
         "/MyAFT/Tooltip/TournamentDetails/361794",
         "/MyAFT/Tooltip/TournamentDetails/361804"
       ],
-      "treffer": {
-        "/MyAFT/Players ['idTournoi']": {
-          "anzahl": 3,
-          "spieler": [
-            {
-              "name": "ITF Junior",
-              "klassierung": "Arlon"
-            },
-            {
-              "name": "TWB Niveau",
-              "klassierung": "Aspirant"
-            },
-            {
-              "name": "TODO Tam",
-              "klassierung": "AFTGDPR"
-            }
-          ],
-          "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tenni"
-        },
-        "/MyAFT/Players/Search ['idTournoi']": {
-          "anzahl": 3,
-          "spieler": [
-            {
-              "name": "ITF Junior",
-              "klassierung": "Arlon"
-            },
-            {
-              "name": "TWB Niveau",
-              "klassierung": "Aspirant"
-            },
-            {
-              "name": "TODO Tam",
-              "klassierung": "AFTGDPR"
-            }
-          ],
-          "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tenni"
-        }
-      }
+      "treffer": {}
     }
   },
   "gegner": {
