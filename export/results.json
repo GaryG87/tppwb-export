@@ -1,5 +1,5 @@
 {
-  "zeit": "2026-10-23T08:32:16.252504+00:00",
+  "zeit": "2026-10-24T08:07:19.800501+00:00",
   "version": 28,
   "status": "ok",
   "klassierung": [
@@ -1498,7 +1498,7 @@
   "kalender": {
     "seite": {
       "http": 200,
-      "laenge": 272714
+      "laenge": 279207
     },
     "gefundene_urls": [
       "/MyAFT/Clubs/Search",
@@ -1538,9 +1538,9 @@
       "/MyAFT/Tooltip/TournamentCategories/362526",
       "/MyAFT/Tooltip/TournamentCategories/362527",
       "/MyAFT/Tooltip/TournamentCategories/362528",
-      "/MyAFT/Tooltip/TournamentCategories/362535",
-      "/MyAFT/Tooltip/TournamentCategories/362536",
-      "/MyAFT/Tooltip/TournamentCategories/362537"
+      "/MyAFT/Tooltip/TournamentCategories/362529",
+      "/MyAFT/Tooltip/TournamentCategories/362533",
+      "/MyAFT/Tooltip/TournamentCategories/362535"
     ],
     "formularfelder": [
       "LocationGroup",
@@ -1571,7 +1571,7 @@
     "treffer": {
       "GET /MyAFT/Competitions/CompetitionsTournamentsByRegion []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 90599,
+        "laenge": 90527,
         "turniere": [
           [
             "AMAY",
@@ -1730,11 +1730,11 @@
             "26/10/2026"
           ]
         ],
-        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Inscriptions clôturées HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 Inscriptions clôturées OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 Inscriptions clôturées HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Inscriptions clôturées LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, M504, M505, M604, D401, D402, D403, D404, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONTAGNARD 22/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours THUIN 22/10/2026 Tournoi jeunes Grades 1 à 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours R.T.C. NIMY 22/10/2026 Criterium Adultes Simples AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, "
+        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Inscriptions clôturées HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, M504, M505, M604, D401, D402, D403, D404, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONTAGNARD 22/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours THUIN 22/10/2026 Tournoi jeunes Grades 1 à 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours R.T.C. NIMY 22/10/2026 Criterium Adultes Simples AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, "
       },
       "POST /MyAFT/Competitions/CompetitionsTournamentsByRegion []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 90599,
+        "laenge": 90527,
         "turniere": [
           [
             "AMAY",
@@ -1893,11 +1893,11 @@
             "26/10/2026"
           ]
         ],
-        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Inscriptions clôturées HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 Inscriptions clôturées OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 Inscriptions clôturées HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Inscriptions clôturées LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, M504, M505, M604, D401, D402, D403, D404, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONTAGNARD 22/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours THUIN 22/10/2026 Tournoi jeunes Grades 1 à 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours R.T.C. NIMY 22/10/2026 Criterium Adultes Simples AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, "
+        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Inscriptions clôturées HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, M504, M505, M604, D401, D402, D403, D404, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONTAGNARD 22/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours THUIN 22/10/2026 Tournoi jeunes Grades 1 à 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours R.T.C. NIMY 22/10/2026 Criterium Adultes Simples AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, "
       },
       "GET /MyAFT/Competitions/CompetitionsTournamentsByRegion ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 90599,
+        "laenge": 90527,
         "turniere": [
           [
             "AMAY",
@@ -2056,11 +2056,11 @@
             "26/10/2026"
           ]
         ],
-        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Inscriptions clôturées HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 Inscriptions clôturées OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 Inscriptions clôturées HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Inscriptions clôturées LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, M504, M505, M604, D401, D402, D403, D404, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONTAGNARD 22/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours THUIN 22/10/2026 Tournoi jeunes Grades 1 à 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours R.T.C. NIMY 22/10/2026 Criterium Adultes Simples AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, "
+        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Inscriptions clôturées HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, M504, M505, M604, D401, D402, D403, D404, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONTAGNARD 22/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours THUIN 22/10/2026 Tournoi jeunes Grades 1 à 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours R.T.C. NIMY 22/10/2026 Criterium Adultes Simples AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, "
       },
       "POST /MyAFT/Competitions/CompetitionsTournamentsByRegion ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 90599,
+        "laenge": 90527,
         "turniere": [
           [
             "AMAY",
@@ -2219,11 +2219,11 @@
             "26/10/2026"
           ]
         ],
-        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Inscriptions clôturées HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 Inscriptions clôturées OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 Inscriptions clôturées HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Inscriptions clôturées LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, M504, M505, M604, D401, D402, D403, D404, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONTAGNARD 22/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours THUIN 22/10/2026 Tournoi jeunes Grades 1 à 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours R.T.C. NIMY 22/10/2026 Criterium Adultes Simples AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, "
+        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Inscriptions clôturées HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, M504, M505, M604, D401, D402, D403, D404, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONTAGNARD 22/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours THUIN 22/10/2026 Tournoi jeunes Grades 1 à 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours R.T.C. NIMY 22/10/2026 Criterium Adultes Simples AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, "
       },
       "GET /MyAFT/Competitions/CompetitionsTournamentsByRegion ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 90599,
+        "laenge": 90527,
         "turniere": [
           [
             "AMAY",
@@ -2382,11 +2382,11 @@
             "26/10/2026"
           ]
         ],
-        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Inscriptions clôturées HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 Inscriptions clôturées OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 Inscriptions clôturées HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Inscriptions clôturées LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, M504, M505, M604, D401, D402, D403, D404, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONTAGNARD 22/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours THUIN 22/10/2026 Tournoi jeunes Grades 1 à 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours R.T.C. NIMY 22/10/2026 Criterium Adultes Simples AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, "
+        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Inscriptions clôturées HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, M504, M505, M604, D401, D402, D403, D404, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONTAGNARD 22/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours THUIN 22/10/2026 Tournoi jeunes Grades 1 à 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours R.T.C. NIMY 22/10/2026 Criterium Adultes Simples AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, "
       },
       "POST /MyAFT/Competitions/CompetitionsTournamentsByRegion ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 90599,
+        "laenge": 90527,
         "turniere": [
           [
             "AMAY",
@@ -2545,11 +2545,11 @@
             "26/10/2026"
           ]
         ],
-        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Inscriptions clôturées HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 Inscriptions clôturées OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 Inscriptions clôturées HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Inscriptions clôturées LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, M504, M505, M604, D401, D402, D403, D404, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONTAGNARD 22/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours THUIN 22/10/2026 Tournoi jeunes Grades 1 à 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours R.T.C. NIMY 22/10/2026 Criterium Adultes Simples AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, "
+        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Inscriptions clôturées HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, M504, M505, M604, D401, D402, D403, D404, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONTAGNARD 22/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours THUIN 22/10/2026 Tournoi jeunes Grades 1 à 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours R.T.C. NIMY 22/10/2026 Criterium Adultes Simples AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, "
       },
       "GET /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 90448,
+        "laenge": 90376,
         "turniere": [
           [
             "AMAY",
@@ -2708,11 +2708,11 @@
             "26/10/2026"
           ]
         ],
-        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Inscriptions clôturées HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 Inscriptions clôturées OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 Inscriptions clôturées HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Inscriptions clôturées LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, M504, M505, M604, D401, D402, D403, D404, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONTAGNARD 22/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours THUIN 22/10/2026 Tournoi jeunes Grades 1 à 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours R.T.C. NIMY 22/10/2026 Criterium Adultes Simples AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, "
+        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Inscriptions clôturées HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, M504, M505, M604, D401, D402, D403, D404, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONTAGNARD 22/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours THUIN 22/10/2026 Tournoi jeunes Grades 1 à 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours R.T.C. NIMY 22/10/2026 Criterium Adultes Simples AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, "
       },
       "POST /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 90448,
+        "laenge": 90376,
         "turniere": [
           [
             "AMAY",
@@ -2871,11 +2871,11 @@
             "26/10/2026"
           ]
         ],
-        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Inscriptions clôturées HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 Inscriptions clôturées OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 Inscriptions clôturées HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Inscriptions clôturées LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, M504, M505, M604, D401, D402, D403, D404, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONTAGNARD 22/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours THUIN 22/10/2026 Tournoi jeunes Grades 1 à 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours R.T.C. NIMY 22/10/2026 Criterium Adultes Simples AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, "
+        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Inscriptions clôturées HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, M504, M505, M604, D401, D402, D403, D404, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONTAGNARD 22/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours THUIN 22/10/2026 Tournoi jeunes Grades 1 à 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours R.T.C. NIMY 22/10/2026 Criterium Adultes Simples AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, "
       },
       "GET /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 90448,
+        "laenge": 90376,
         "turniere": [
           [
             "AMAY",
@@ -3034,11 +3034,11 @@
             "26/10/2026"
           ]
         ],
-        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Inscriptions clôturées HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 Inscriptions clôturées OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 Inscriptions clôturées HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Inscriptions clôturées LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, M504, M505, M604, D401, D402, D403, D404, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONTAGNARD 22/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours THUIN 22/10/2026 Tournoi jeunes Grades 1 à 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours R.T.C. NIMY 22/10/2026 Criterium Adultes Simples AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, "
+        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Inscriptions clôturées HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, M504, M505, M604, D401, D402, D403, D404, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONTAGNARD 22/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours THUIN 22/10/2026 Tournoi jeunes Grades 1 à 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours R.T.C. NIMY 22/10/2026 Criterium Adultes Simples AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, "
       },
       "POST /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 90448,
+        "laenge": 90376,
         "turniere": [
           [
             "AMAY",
@@ -3197,11 +3197,11 @@
             "26/10/2026"
           ]
         ],
-        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Inscriptions clôturées HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 Inscriptions clôturées OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 Inscriptions clôturées HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Inscriptions clôturées LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, M504, M505, M604, D401, D402, D403, D404, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONTAGNARD 22/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours THUIN 22/10/2026 Tournoi jeunes Grades 1 à 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours R.T.C. NIMY 22/10/2026 Criterium Adultes Simples AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, "
+        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Inscriptions clôturées HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, M504, M505, M604, D401, D402, D403, D404, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONTAGNARD 22/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours THUIN 22/10/2026 Tournoi jeunes Grades 1 à 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours R.T.C. NIMY 22/10/2026 Criterium Adultes Simples AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, "
       },
       "GET /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 90448,
+        "laenge": 90376,
         "turniere": [
           [
             "AMAY",
@@ -3360,11 +3360,11 @@
             "26/10/2026"
           ]
         ],
-        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Inscriptions clôturées HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 Inscriptions clôturées OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 Inscriptions clôturées HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Inscriptions clôturées LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, M504, M505, M604, D401, D402, D403, D404, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONTAGNARD 22/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours THUIN 22/10/2026 Tournoi jeunes Grades 1 à 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours R.T.C. NIMY 22/10/2026 Criterium Adultes Simples AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, "
+        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Inscriptions clôturées HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, M504, M505, M604, D401, D402, D403, D404, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONTAGNARD 22/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours THUIN 22/10/2026 Tournoi jeunes Grades 1 à 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours R.T.C. NIMY 22/10/2026 Criterium Adultes Simples AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, "
       },
       "POST /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 90448,
+        "laenge": 90376,
         "turniere": [
           [
             "AMAY",
@@ -3523,11 +3523,11 @@
             "26/10/2026"
           ]
         ],
-        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Inscriptions clôturées HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 Inscriptions clôturées OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 Inscriptions clôturées HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Inscriptions clôturées LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, M504, M505, M604, D401, D402, D403, D404, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONTAGNARD 22/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours THUIN 22/10/2026 Tournoi jeunes Grades 1 à 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours R.T.C. NIMY 22/10/2026 Criterium Adultes Simples AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, "
+        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Inscriptions clôturées HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, M504, M505, M604, D401, D402, D403, D404, M351, M352, M353, M354, M355, M356, M601, M602, M603, D251, D252, D253, D254, D551, D552, D553, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours MONTAGNARD 22/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours THUIN 22/10/2026 Tournoi jeunes Grades 1 à 3 J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours R.T.C. NIMY 22/10/2026 Criterium Adultes Simples AS - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, "
       },
       "GET /MyAFT/Competitions/TournamentNews []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 129245,
+        "laenge": 135738,
         "turniere": [
           [
             "BEAUFAYS",
@@ -3652,6 +3652,18 @@
           [
             "RAEREN",
             "08/04/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "06/01/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "07/01/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "31/12/2026"
           ],
           [
             "THEUX",
@@ -3674,7 +3686,7 @@
       },
       "POST /MyAFT/Competitions/TournamentNews []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 129245,
+        "laenge": 135738,
         "turniere": [
           [
             "BEAUFAYS",
@@ -3799,6 +3811,18 @@
           [
             "RAEREN",
             "08/04/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "06/01/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "07/01/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "31/12/2026"
           ],
           [
             "THEUX",
@@ -3821,7 +3845,7 @@
       },
       "GET /MyAFT/Competitions/TournamentNews ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 129245,
+        "laenge": 135738,
         "turniere": [
           [
             "BEAUFAYS",
@@ -3946,6 +3970,18 @@
           [
             "RAEREN",
             "08/04/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "06/01/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "07/01/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "31/12/2026"
           ],
           [
             "THEUX",
@@ -3968,7 +4004,7 @@
       },
       "POST /MyAFT/Competitions/TournamentNews ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 129245,
+        "laenge": 135738,
         "turniere": [
           [
             "BEAUFAYS",
@@ -4093,6 +4129,18 @@
           [
             "RAEREN",
             "08/04/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "06/01/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "07/01/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "31/12/2026"
           ],
           [
             "THEUX",
@@ -4115,7 +4163,7 @@
       },
       "GET /MyAFT/Competitions/TournamentNews ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 129245,
+        "laenge": 135738,
         "turniere": [
           [
             "BEAUFAYS",
@@ -4240,6 +4288,18 @@
           [
             "RAEREN",
             "08/04/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "06/01/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "07/01/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "31/12/2026"
           ],
           [
             "THEUX",
@@ -4262,7 +4322,7 @@
       },
       "POST /MyAFT/Competitions/TournamentNews ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 129245,
+        "laenge": 135738,
         "turniere": [
           [
             "BEAUFAYS",
@@ -4387,6 +4447,18 @@
           [
             "RAEREN",
             "08/04/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "06/01/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "07/01/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "31/12/2026"
           ],
           [
             "THEUX",
@@ -4409,7 +4481,7 @@
       },
       "POST /MyAFT/Competitions/TournamentSearchResultData []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 244840,
+        "laenge": 243118,
         "turniere": [
           [
             "AMAY",
@@ -4437,7 +4509,7 @@
           ],
           [
             "BASTOGNE",
-            "16/11/2026"
+            "21/11/2026"
           ],
           [
             "BASTOGNE",
@@ -4461,10 +4533,6 @@
           ],
           [
             "CALAMINE",
-            "11/03/2027"
-          ],
-          [
-            "CALAMINE",
             "19/11/2026"
           ],
           [
@@ -4474,10 +4542,6 @@
           [
             "CASTLE CLUB",
             "29/10/2026"
-          ],
-          [
-            "CHENEE",
-            "11/03/2027"
           ],
           [
             "CHENEE",
@@ -4558,10 +4622,6 @@
           [
             "HERSTAL",
             "04/03/2027"
-          ],
-          [
-            "HIT THE BALL",
-            "07/03/2027"
           ],
           [
             "JEMAPPIEN",
@@ -4650,13 +4710,25 @@
           [
             "MARCHE",
             "04/01/2026"
+          ],
+          [
+            "MARCHE",
+            "16/10/2026"
+          ],
+          [
+            "MARMOTTE",
+            "21/01/2027"
+          ],
+          [
+            "MARMOTTE",
+            "29/10/2026"
           ]
         ],
         "auszug": "LAMBERMONT (BRABANT) 17/10/2026 JAVS Inscriptions jusqu'au 13/10/2026 Ethias Junior Tour + Critérium Adultes - G151, F151, M504, M505, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours HAUT CLOCHER 15/10/2026 AS Inscriptions jusqu'au 13/10/2026 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 En cours LIEGEOIS 15/10/2026 JVS Inscriptions jusqu'au 13/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - G151, F151, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours NEUPRE 15/10/2026 JAVSD Inscriptions jusqu'au 13/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB - DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours ARGAYON 15/10/2026 J Inscriptions jusqu'au 13/10/2026 Ethias Junior Tour - G151, F151, G111, G112, G131, G132, G152, G153, F111, F112, F131, F132, F152, F153, U91, U92 En cours ANDENNE 15/10/2026 A Inscriptions jusqu'au 13/10/2026 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours BOUILLON 15/10/2026 D Inscriptions jusqu'au 13/10/2026 Critérium Doubles - DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DD7, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, DM1, DD1, DMX1 En cours GARISART 15/10/2026 JAVS Inscriptions jusqu'au 13/10/2026 Critérium adultes + Critérium Senior by Cornet + Ethias Junior Tour Grade 1,2 et 3(B) . - G151, F151, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U92, U93 En cours HAILLOT 15/10/2026 AVS Inscriptions jusqu'au 13/10/2026 Critérium Senior by Cornet . - M352, M353, M354, M355, M356, D253, D254 En cours PLAINCHAMP 15/10/2026 J Inscriptions jusqu'au 13/10/2026 Tournoi de jeunes Grades 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours KALYPSO 15/10/2026 J Inscriptions jusqu'au 13/10/2026 Tournoi de jeunes Grades 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours TOURNAISI"
       },
       "POST /MyAFT/Competitions/TournamentSearchResultData ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 244840,
+        "laenge": 243118,
         "turniere": [
           [
             "AMAY",
@@ -4684,7 +4756,7 @@
           ],
           [
             "BASTOGNE",
-            "16/11/2026"
+            "21/11/2026"
           ],
           [
             "BASTOGNE",
@@ -4708,10 +4780,6 @@
           ],
           [
             "CALAMINE",
-            "11/03/2027"
-          ],
-          [
-            "CALAMINE",
             "19/11/2026"
           ],
           [
@@ -4721,10 +4789,6 @@
           [
             "CASTLE CLUB",
             "29/10/2026"
-          ],
-          [
-            "CHENEE",
-            "11/03/2027"
           ],
           [
             "CHENEE",
@@ -4805,10 +4869,6 @@
           [
             "HERSTAL",
             "04/03/2027"
-          ],
-          [
-            "HIT THE BALL",
-            "07/03/2027"
           ],
           [
             "JEMAPPIEN",
@@ -4897,13 +4957,25 @@
           [
             "MARCHE",
             "04/01/2026"
+          ],
+          [
+            "MARCHE",
+            "16/10/2026"
+          ],
+          [
+            "MARMOTTE",
+            "21/01/2027"
+          ],
+          [
+            "MARMOTTE",
+            "29/10/2026"
           ]
         ],
         "auszug": "LAMBERMONT (BRABANT) 17/10/2026 JAVS Inscriptions jusqu'au 13/10/2026 Ethias Junior Tour + Critérium Adultes - G151, F151, M504, M505, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours HAUT CLOCHER 15/10/2026 AS Inscriptions jusqu'au 13/10/2026 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 En cours LIEGEOIS 15/10/2026 JVS Inscriptions jusqu'au 13/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - G151, F151, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours NEUPRE 15/10/2026 JAVSD Inscriptions jusqu'au 13/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB - DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours ARGAYON 15/10/2026 J Inscriptions jusqu'au 13/10/2026 Ethias Junior Tour - G151, F151, G111, G112, G131, G132, G152, G153, F111, F112, F131, F132, F152, F153, U91, U92 En cours ANDENNE 15/10/2026 A Inscriptions jusqu'au 13/10/2026 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours BOUILLON 15/10/2026 D Inscriptions jusqu'au 13/10/2026 Critérium Doubles - DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DD7, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, DM1, DD1, DMX1 En cours GARISART 15/10/2026 JAVS Inscriptions jusqu'au 13/10/2026 Critérium adultes + Critérium Senior by Cornet + Ethias Junior Tour Grade 1,2 et 3(B) . - G151, F151, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U92, U93 En cours HAILLOT 15/10/2026 AVS Inscriptions jusqu'au 13/10/2026 Critérium Senior by Cornet . - M352, M353, M354, M355, M356, D253, D254 En cours PLAINCHAMP 15/10/2026 J Inscriptions jusqu'au 13/10/2026 Tournoi de jeunes Grades 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours KALYPSO 15/10/2026 J Inscriptions jusqu'au 13/10/2026 Tournoi de jeunes Grades 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours TOURNAISI"
       },
       "POST /MyAFT/Competitions/TournamentSearchResultData ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 244840,
+        "laenge": 243118,
         "turniere": [
           [
             "AMAY",
@@ -4931,7 +5003,7 @@
           ],
           [
             "BASTOGNE",
-            "16/11/2026"
+            "21/11/2026"
           ],
           [
             "BASTOGNE",
@@ -4955,10 +5027,6 @@
           ],
           [
             "CALAMINE",
-            "11/03/2027"
-          ],
-          [
-            "CALAMINE",
             "19/11/2026"
           ],
           [
@@ -4968,10 +5036,6 @@
           [
             "CASTLE CLUB",
             "29/10/2026"
-          ],
-          [
-            "CHENEE",
-            "11/03/2027"
           ],
           [
             "CHENEE",
@@ -5052,10 +5116,6 @@
           [
             "HERSTAL",
             "04/03/2027"
-          ],
-          [
-            "HIT THE BALL",
-            "07/03/2027"
           ],
           [
             "JEMAPPIEN",
@@ -5144,13 +5204,25 @@
           [
             "MARCHE",
             "04/01/2026"
+          ],
+          [
+            "MARCHE",
+            "16/10/2026"
+          ],
+          [
+            "MARMOTTE",
+            "21/01/2027"
+          ],
+          [
+            "MARMOTTE",
+            "29/10/2026"
           ]
         ],
         "auszug": "LAMBERMONT (BRABANT) 17/10/2026 JAVS Inscriptions jusqu'au 13/10/2026 Ethias Junior Tour + Critérium Adultes - G151, F151, M504, M505, M2, M3, M4, M5, M6, D2, D3, D4, D5, M351, M352, M353, M354, M355, M356, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours HAUT CLOCHER 15/10/2026 AS Inscriptions jusqu'au 13/10/2026 CRITERIUM ADULTES - M2, M3, M4, D2, D3, M355, M356, D253, D254 En cours LIEGEOIS 15/10/2026 JVS Inscriptions jusqu'au 13/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - G151, F151, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours NEUPRE 15/10/2026 JAVSD Inscriptions jusqu'au 13/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB - DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, M5, D2, D3, D4, M356, D252, D253, D254, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours ARGAYON 15/10/2026 J Inscriptions jusqu'au 13/10/2026 Ethias Junior Tour - G151, F151, G111, G112, G131, G132, G152, G153, F111, F112, F131, F132, F152, F153, U91, U92 En cours ANDENNE 15/10/2026 A Inscriptions jusqu'au 13/10/2026 Critérium adultes - M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours BOUILLON 15/10/2026 D Inscriptions jusqu'au 13/10/2026 Critérium Doubles - DM2, DM3, DM4, DM5, DM6, DM7, DD2, DD3, DD4, DD5, DD6, DD7, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, DM1, DD1, DMX1 En cours GARISART 15/10/2026 JAVS Inscriptions jusqu'au 13/10/2026 Critérium adultes + Critérium Senior by Cornet + Ethias Junior Tour Grade 1,2 et 3(B) . - G151, F151, M2, M3, M4, M5, M6, D2, D3, D4, D5, M352, M353, M354, M355, M356, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U92, U93 En cours HAILLOT 15/10/2026 AVS Inscriptions jusqu'au 13/10/2026 Critérium Senior by Cornet . - M352, M353, M354, M355, M356, D253, D254 En cours PLAINCHAMP 15/10/2026 J Inscriptions jusqu'au 13/10/2026 Tournoi de jeunes Grades 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours KALYPSO 15/10/2026 J Inscriptions jusqu'au 13/10/2026 Tournoi de jeunes Grades 1 à 3 - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours TOURNAISI"
       },
       "GET /MyAFT/Competitions/Tournaments []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 272714,
+        "laenge": 279207,
         "turniere": [
           [
             "BEAUFAYS",
@@ -5277,6 +5349,18 @@
             "08/04/2027"
           ],
           [
+            "SAINT-VITH",
+            "06/01/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "07/01/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "31/12/2026"
+          ],
+          [
             "THEUX",
             "18/02/2027"
           ],
@@ -5293,11 +5377,11 @@
             "25/02/2027"
           ]
         ],
-        "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tennis Contact Suggestion A propos Branding Structure générale Régions FRBT Padel Règlements Documents FAQ Liens utiles Nos partenaires Inscriptions tournois Responsive menu GASPARD Gary (4111231) | Log out ACCUEIL + Actualité News JOUEURS + Affiliés Transferts Recherche Affiliés Affiliation Joueurs Assurances Documents Tennis en chaise CLUBS + Clubs Labellisation Girls Tennis Days Mon Club Tennis Wallonie-Bruxelles Recherche de Clubs Documents Clubs tennis en chaise Fêtes du tennis en club TENNIS QUIZZ - Le match COMPETITIONS + Tournois Tournois TWB Calendrier des tournois 2026 Ladies, Gentlemen & Senior Masters Masters de double Ethias Junior Masters Belgian Junior Circuit Challenge 12 mètres Lotto Belgian Circuit Les tournois internationaux seniors en belgique Belgian Wheelchair Tennis Tour Top 100 Championnats Championnats de Belgique vétérans Championnats de Belgique de tennis en chaise Championnats de Belgique jeunes Championnats d'Europe individuels Compétitions par équipes Coupe Davis Billie Jean King Cup Interclubs Ethias Winter Cups Summer Cups European Youth Olympics Festival Tennis Europe Nations Challenge Règlements des compétitions et des classements 2026 Règlements et contacts Cuts des classements TOP TENNIS + La compétition La compétition nationale Catégories en AFT La"
+        "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tennis Contact Suggestion A propos Branding Structure générale Régions FRBT Padel Règlements Documents FAQ Liens utiles Nos partenaires Inscriptions tournois Responsive menu GASPARD Gary (4111231) | Log out ACCUEIL + Actualité News JOUEURS + Affiliés Transferts Recherche Affiliés Affiliation Joueurs Assurances Documents Tennis en chaise CLUBS + Clubs Labellisation Girls Tennis Days Mon Club Tennis Wallonie-Bruxelles Recherche de Clubs Documents Clubs tennis en chaise Fêtes du tennis en club TENNIS QUIZZ - Le match COMPETITIONS + Tournois Tournois TWB Calendrier des tournois 2026 Ladies, Gentlemen & Senior Masters Masters de double Ethias Junior Masters Belgian Junior Circuit Challenge 12 mètres Lotto Belgian Circuit Les tournois internationaux seniors en belgique Belgian Wheelchair Tennis Tour Top 100 Championnats Championnats de Belgique jeunes Championnats de Belgique vétérans Championnats de Belgique de tennis en chaise Championnats d'Europe individuels Compétitions par équipes Coupe Davis Billie Jean King Cup Interclubs Ethias Winter Cups Summer Cups European Youth Olympics Festival Tennis Europe Nations Challenge Règlements des compétitions et des classements 2026 Règlements et contacts Cuts des classements TOP TENNIS + La compétition La compétition nationale Catégories en AFT La"
       },
       "POST /MyAFT/Competitions/Tournaments []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 272714,
+        "laenge": 279207,
         "turniere": [
           [
             "BEAUFAYS",
@@ -5424,6 +5508,18 @@
             "08/04/2027"
           ],
           [
+            "SAINT-VITH",
+            "06/01/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "07/01/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "31/12/2026"
+          ],
+          [
             "THEUX",
             "18/02/2027"
           ],
@@ -5440,11 +5536,11 @@
             "25/02/2027"
           ]
         ],
-        "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tennis Contact Suggestion A propos Branding Structure générale Régions FRBT Padel Règlements Documents FAQ Liens utiles Nos partenaires Inscriptions tournois Responsive menu GASPARD Gary (4111231) | Log out ACCUEIL + Actualité News JOUEURS + Affiliés Transferts Recherche Affiliés Affiliation Joueurs Assurances Documents Tennis en chaise CLUBS + Clubs Labellisation Girls Tennis Days Mon Club Tennis Wallonie-Bruxelles Recherche de Clubs Documents Clubs tennis en chaise Fêtes du tennis en club TENNIS QUIZZ - Le match COMPETITIONS + Tournois Tournois TWB Calendrier des tournois 2026 Ladies, Gentlemen & Senior Masters Masters de double Ethias Junior Masters Belgian Junior Circuit Challenge 12 mètres Lotto Belgian Circuit Les tournois internationaux seniors en belgique Belgian Wheelchair Tennis Tour Top 100 Championnats Championnats de Belgique vétérans Championnats de Belgique de tennis en chaise Championnats de Belgique jeunes Championnats d'Europe individuels Compétitions par équipes Coupe Davis Billie Jean King Cup Interclubs Ethias Winter Cups Summer Cups European Youth Olympics Festival Tennis Europe Nations Challenge Règlements des compétitions et des classements 2026 Règlements et contacts Cuts des classements TOP TENNIS + La compétition La compétition nationale Catégories en AFT La"
+        "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tennis Contact Suggestion A propos Branding Structure générale Régions FRBT Padel Règlements Documents FAQ Liens utiles Nos partenaires Inscriptions tournois Responsive menu GASPARD Gary (4111231) | Log out ACCUEIL + Actualité News JOUEURS + Affiliés Transferts Recherche Affiliés Affiliation Joueurs Assurances Documents Tennis en chaise CLUBS + Clubs Labellisation Girls Tennis Days Mon Club Tennis Wallonie-Bruxelles Recherche de Clubs Documents Clubs tennis en chaise Fêtes du tennis en club TENNIS QUIZZ - Le match COMPETITIONS + Tournois Tournois TWB Calendrier des tournois 2026 Ladies, Gentlemen & Senior Masters Masters de double Ethias Junior Masters Belgian Junior Circuit Challenge 12 mètres Lotto Belgian Circuit Les tournois internationaux seniors en belgique Belgian Wheelchair Tennis Tour Top 100 Championnats Championnats de Belgique jeunes Championnats de Belgique vétérans Championnats de Belgique de tennis en chaise Championnats d'Europe individuels Compétitions par équipes Coupe Davis Billie Jean King Cup Interclubs Ethias Winter Cups Summer Cups European Youth Olympics Festival Tennis Europe Nations Challenge Règlements des compétitions et des classements 2026 Règlements et contacts Cuts des classements TOP TENNIS + La compétition La compétition nationale Catégories en AFT La"
       },
       "GET /MyAFT/Competitions/Tournaments ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 272714,
+        "laenge": 279207,
         "turniere": [
           [
             "BEAUFAYS",
@@ -5571,6 +5667,18 @@
             "08/04/2027"
           ],
           [
+            "SAINT-VITH",
+            "06/01/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "07/01/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "31/12/2026"
+          ],
+          [
             "THEUX",
             "18/02/2027"
           ],
@@ -5587,11 +5695,11 @@
             "25/02/2027"
           ]
         ],
-        "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tennis Contact Suggestion A propos Branding Structure générale Régions FRBT Padel Règlements Documents FAQ Liens utiles Nos partenaires Inscriptions tournois Responsive menu GASPARD Gary (4111231) | Log out ACCUEIL + Actualité News JOUEURS + Affiliés Transferts Recherche Affiliés Affiliation Joueurs Assurances Documents Tennis en chaise CLUBS + Clubs Labellisation Girls Tennis Days Mon Club Tennis Wallonie-Bruxelles Recherche de Clubs Documents Clubs tennis en chaise Fêtes du tennis en club TENNIS QUIZZ - Le match COMPETITIONS + Tournois Tournois TWB Calendrier des tournois 2026 Ladies, Gentlemen & Senior Masters Masters de double Ethias Junior Masters Belgian Junior Circuit Challenge 12 mètres Lotto Belgian Circuit Les tournois internationaux seniors en belgique Belgian Wheelchair Tennis Tour Top 100 Championnats Championnats de Belgique vétérans Championnats de Belgique de tennis en chaise Championnats de Belgique jeunes Championnats d'Europe individuels Compétitions par équipes Coupe Davis Billie Jean King Cup Interclubs Ethias Winter Cups Summer Cups European Youth Olympics Festival Tennis Europe Nations Challenge Règlements des compétitions et des classements 2026 Règlements et contacts Cuts des classements TOP TENNIS + La compétition La compétition nationale Catégories en AFT La"
+        "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tennis Contact Suggestion A propos Branding Structure générale Régions FRBT Padel Règlements Documents FAQ Liens utiles Nos partenaires Inscriptions tournois Responsive menu GASPARD Gary (4111231) | Log out ACCUEIL + Actualité News JOUEURS + Affiliés Transferts Recherche Affiliés Affiliation Joueurs Assurances Documents Tennis en chaise CLUBS + Clubs Labellisation Girls Tennis Days Mon Club Tennis Wallonie-Bruxelles Recherche de Clubs Documents Clubs tennis en chaise Fêtes du tennis en club TENNIS QUIZZ - Le match COMPETITIONS + Tournois Tournois TWB Calendrier des tournois 2026 Ladies, Gentlemen & Senior Masters Masters de double Ethias Junior Masters Belgian Junior Circuit Challenge 12 mètres Lotto Belgian Circuit Les tournois internationaux seniors en belgique Belgian Wheelchair Tennis Tour Top 100 Championnats Championnats de Belgique jeunes Championnats de Belgique vétérans Championnats de Belgique de tennis en chaise Championnats d'Europe individuels Compétitions par équipes Coupe Davis Billie Jean King Cup Interclubs Ethias Winter Cups Summer Cups European Youth Olympics Festival Tennis Europe Nations Challenge Règlements des compétitions et des classements 2026 Règlements et contacts Cuts des classements TOP TENNIS + La compétition La compétition nationale Catégories en AFT La"
       },
       "POST /MyAFT/Competitions/Tournaments ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 272714,
+        "laenge": 279207,
         "turniere": [
           [
             "BEAUFAYS",
@@ -5718,6 +5826,18 @@
             "08/04/2027"
           ],
           [
+            "SAINT-VITH",
+            "06/01/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "07/01/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "31/12/2026"
+          ],
+          [
             "THEUX",
             "18/02/2027"
           ],
@@ -5734,11 +5854,11 @@
             "25/02/2027"
           ]
         ],
-        "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tennis Contact Suggestion A propos Branding Structure générale Régions FRBT Padel Règlements Documents FAQ Liens utiles Nos partenaires Inscriptions tournois Responsive menu GASPARD Gary (4111231) | Log out ACCUEIL + Actualité News JOUEURS + Affiliés Transferts Recherche Affiliés Affiliation Joueurs Assurances Documents Tennis en chaise CLUBS + Clubs Labellisation Girls Tennis Days Mon Club Tennis Wallonie-Bruxelles Recherche de Clubs Documents Clubs tennis en chaise Fêtes du tennis en club TENNIS QUIZZ - Le match COMPETITIONS + Tournois Tournois TWB Calendrier des tournois 2026 Ladies, Gentlemen & Senior Masters Masters de double Ethias Junior Masters Belgian Junior Circuit Challenge 12 mètres Lotto Belgian Circuit Les tournois internationaux seniors en belgique Belgian Wheelchair Tennis Tour Top 100 Championnats Championnats de Belgique vétérans Championnats de Belgique de tennis en chaise Championnats de Belgique jeunes Championnats d'Europe individuels Compétitions par équipes Coupe Davis Billie Jean King Cup Interclubs Ethias Winter Cups Summer Cups European Youth Olympics Festival Tennis Europe Nations Challenge Règlements des compétitions et des classements 2026 Règlements et contacts Cuts des classements TOP TENNIS + La compétition La compétition nationale Catégories en AFT La"
+        "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tennis Contact Suggestion A propos Branding Structure générale Régions FRBT Padel Règlements Documents FAQ Liens utiles Nos partenaires Inscriptions tournois Responsive menu GASPARD Gary (4111231) | Log out ACCUEIL + Actualité News JOUEURS + Affiliés Transferts Recherche Affiliés Affiliation Joueurs Assurances Documents Tennis en chaise CLUBS + Clubs Labellisation Girls Tennis Days Mon Club Tennis Wallonie-Bruxelles Recherche de Clubs Documents Clubs tennis en chaise Fêtes du tennis en club TENNIS QUIZZ - Le match COMPETITIONS + Tournois Tournois TWB Calendrier des tournois 2026 Ladies, Gentlemen & Senior Masters Masters de double Ethias Junior Masters Belgian Junior Circuit Challenge 12 mètres Lotto Belgian Circuit Les tournois internationaux seniors en belgique Belgian Wheelchair Tennis Tour Top 100 Championnats Championnats de Belgique jeunes Championnats de Belgique vétérans Championnats de Belgique de tennis en chaise Championnats d'Europe individuels Compétitions par équipes Coupe Davis Billie Jean King Cup Interclubs Ethias Winter Cups Summer Cups European Youth Olympics Festival Tennis Europe Nations Challenge Règlements des compétitions et des classements 2026 Règlements et contacts Cuts des classements TOP TENNIS + La compétition La compétition nationale Catégories en AFT La"
       },
       "GET /MyAFT/Competitions/Tournaments ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 272714,
+        "laenge": 279207,
         "turniere": [
           [
             "BEAUFAYS",
@@ -5865,6 +5985,18 @@
             "08/04/2027"
           ],
           [
+            "SAINT-VITH",
+            "06/01/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "07/01/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "31/12/2026"
+          ],
+          [
             "THEUX",
             "18/02/2027"
           ],
@@ -5881,11 +6013,11 @@
             "25/02/2027"
           ]
         ],
-        "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tennis Contact Suggestion A propos Branding Structure générale Régions FRBT Padel Règlements Documents FAQ Liens utiles Nos partenaires Inscriptions tournois Responsive menu GASPARD Gary (4111231) | Log out ACCUEIL + Actualité News JOUEURS + Affiliés Transferts Recherche Affiliés Affiliation Joueurs Assurances Documents Tennis en chaise CLUBS + Clubs Labellisation Girls Tennis Days Mon Club Tennis Wallonie-Bruxelles Recherche de Clubs Documents Clubs tennis en chaise Fêtes du tennis en club TENNIS QUIZZ - Le match COMPETITIONS + Tournois Tournois TWB Calendrier des tournois 2026 Ladies, Gentlemen & Senior Masters Masters de double Ethias Junior Masters Belgian Junior Circuit Challenge 12 mètres Lotto Belgian Circuit Les tournois internationaux seniors en belgique Belgian Wheelchair Tennis Tour Top 100 Championnats Championnats de Belgique vétérans Championnats de Belgique de tennis en chaise Championnats de Belgique jeunes Championnats d'Europe individuels Compétitions par équipes Coupe Davis Billie Jean King Cup Interclubs Ethias Winter Cups Summer Cups European Youth Olympics Festival Tennis Europe Nations Challenge Règlements des compétitions et des classements 2026 Règlements et contacts Cuts des classements TOP TENNIS + La compétition La compétition nationale Catégories en AFT La"
+        "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tennis Contact Suggestion A propos Branding Structure générale Régions FRBT Padel Règlements Documents FAQ Liens utiles Nos partenaires Inscriptions tournois Responsive menu GASPARD Gary (4111231) | Log out ACCUEIL + Actualité News JOUEURS + Affiliés Transferts Recherche Affiliés Affiliation Joueurs Assurances Documents Tennis en chaise CLUBS + Clubs Labellisation Girls Tennis Days Mon Club Tennis Wallonie-Bruxelles Recherche de Clubs Documents Clubs tennis en chaise Fêtes du tennis en club TENNIS QUIZZ - Le match COMPETITIONS + Tournois Tournois TWB Calendrier des tournois 2026 Ladies, Gentlemen & Senior Masters Masters de double Ethias Junior Masters Belgian Junior Circuit Challenge 12 mètres Lotto Belgian Circuit Les tournois internationaux seniors en belgique Belgian Wheelchair Tennis Tour Top 100 Championnats Championnats de Belgique jeunes Championnats de Belgique vétérans Championnats de Belgique de tennis en chaise Championnats d'Europe individuels Compétitions par équipes Coupe Davis Billie Jean King Cup Interclubs Ethias Winter Cups Summer Cups European Youth Olympics Festival Tennis Europe Nations Challenge Règlements des compétitions et des classements 2026 Règlements et contacts Cuts des classements TOP TENNIS + La compétition La compétition nationale Catégories en AFT La"
       },
       "POST /MyAFT/Competitions/Tournaments ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 272714,
+        "laenge": 279207,
         "turniere": [
           [
             "BEAUFAYS",
@@ -6012,6 +6144,18 @@
             "08/04/2027"
           ],
           [
+            "SAINT-VITH",
+            "06/01/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "07/01/2027"
+          ],
+          [
+            "SAINT-VITH",
+            "31/12/2026"
+          ],
+          [
             "THEUX",
             "18/02/2027"
           ],
@@ -6028,7 +6172,7 @@
             "25/02/2027"
           ]
         ],
-        "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tennis Contact Suggestion A propos Branding Structure générale Régions FRBT Padel Règlements Documents FAQ Liens utiles Nos partenaires Inscriptions tournois Responsive menu GASPARD Gary (4111231) | Log out ACCUEIL + Actualité News JOUEURS + Affiliés Transferts Recherche Affiliés Affiliation Joueurs Assurances Documents Tennis en chaise CLUBS + Clubs Labellisation Girls Tennis Days Mon Club Tennis Wallonie-Bruxelles Recherche de Clubs Documents Clubs tennis en chaise Fêtes du tennis en club TENNIS QUIZZ - Le match COMPETITIONS + Tournois Tournois TWB Calendrier des tournois 2026 Ladies, Gentlemen & Senior Masters Masters de double Ethias Junior Masters Belgian Junior Circuit Challenge 12 mètres Lotto Belgian Circuit Les tournois internationaux seniors en belgique Belgian Wheelchair Tennis Tour Top 100 Championnats Championnats de Belgique vétérans Championnats de Belgique de tennis en chaise Championnats de Belgique jeunes Championnats d'Europe individuels Compétitions par équipes Coupe Davis Billie Jean King Cup Interclubs Ethias Winter Cups Summer Cups European Youth Olympics Festival Tennis Europe Nations Challenge Règlements des compétitions et des classements 2026 Règlements et contacts Cuts des classements TOP TENNIS + La compétition La compétition nationale Catégories en AFT La"
+        "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tennis Contact Suggestion A propos Branding Structure générale Régions FRBT Padel Règlements Documents FAQ Liens utiles Nos partenaires Inscriptions tournois Responsive menu GASPARD Gary (4111231) | Log out ACCUEIL + Actualité News JOUEURS + Affiliés Transferts Recherche Affiliés Affiliation Joueurs Assurances Documents Tennis en chaise CLUBS + Clubs Labellisation Girls Tennis Days Mon Club Tennis Wallonie-Bruxelles Recherche de Clubs Documents Clubs tennis en chaise Fêtes du tennis en club TENNIS QUIZZ - Le match COMPETITIONS + Tournois Tournois TWB Calendrier des tournois 2026 Ladies, Gentlemen & Senior Masters Masters de double Ethias Junior Masters Belgian Junior Circuit Challenge 12 mètres Lotto Belgian Circuit Les tournois internationaux seniors en belgique Belgian Wheelchair Tennis Tour Top 100 Championnats Championnats de Belgique jeunes Championnats de Belgique vétérans Championnats de Belgique de tennis en chaise Championnats d'Europe individuels Compétitions par équipes Coupe Davis Billie Jean King Cup Interclubs Ethias Winter Cups Summer Cups European Youth Olympics Festival Tennis Europe Nations Challenge Règlements des compétitions et des classements 2026 Règlements et contacts Cuts des classements TOP TENNIS + La compétition La compétition nationale Catégories en AFT La"
       }
     }
   },
@@ -6061,13 +6205,13 @@
       {
         "monat": "12/2026",
         "filter": "C30.6",
-        "treffer": 22,
+        "treffer": 23,
         "abgeschnitten": false
       },
       {
         "monat": "01/2027",
         "filter": "C30.6",
-        "treffer": 16,
+        "treffer": 19,
         "abgeschnitten": false
       },
       {
@@ -6093,7 +6237,7 @@
         "provinz_zugeordnet": 252
       }
     ],
-    "anzahl": 287,
+    "anzahl": 290,
     "turniere": [
       {
         "id": "361852",
@@ -14904,7 +15048,7 @@
         "ort": "OREE",
         "start": "24/10/2026",
         "anmeldung_bis": "20/10/2026",
-        "status": "",
+        "status": "En cours",
         "beschreibung": "",
         "kategorien": [
           "D2",
@@ -14932,7 +15076,7 @@
         "ort": "HANNUTOIS",
         "start": "24/10/2026",
         "anmeldung_bis": "20/10/2026",
-        "status": "",
+        "status": "En cours",
         "beschreibung": "",
         "kategorien": [
           "F111",
@@ -14970,7 +15114,7 @@
         "ort": "HAILLOT",
         "start": "24/10/2026",
         "anmeldung_bis": "20/10/2026",
-        "status": "",
+        "status": "En cours",
         "beschreibung": "",
         "kategorien": [
           "DD4",
@@ -15384,28 +15528,6 @@
         "provinz": "?"
       },
       {
-        "id": "362641",
-        "ort": "BASTOGNE",
-        "start": "16/11/2026",
-        "anmeldung_bis": "10/11/2026",
-        "status": "",
-        "beschreibung": "",
-        "kategorien": [
-          "F113",
-          "F133",
-          "G113",
-          "G133",
-          "U93"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": false,
-        "hat_M356": false,
-        "fuer_c306": true,
-        "klubcode": "6004",
-        "klub_voll": "R.T.C. BASTOGNE",
-        "provinz": "Luxemburg"
-      },
-      {
         "id": "362518",
         "ort": "CALAMINE",
         "start": "19/11/2026",
@@ -15587,6 +15709,28 @@
         "klubcode": "3021",
         "klub_voll": "T.C. DE LEUZE",
         "provinz": "?"
+      },
+      {
+        "id": "362641",
+        "ort": "BASTOGNE",
+        "start": "21/11/2026",
+        "anmeldung_bis": "10/11/2026",
+        "status": "",
+        "beschreibung": "",
+        "kategorien": [
+          "F113",
+          "F133",
+          "G113",
+          "G133",
+          "U93"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": false,
+        "fuer_c306": true,
+        "klubcode": "6004",
+        "klub_voll": "R.T.C. BASTOGNE",
+        "provinz": "Luxemburg"
       },
       {
         "id": "362642",
@@ -16848,6 +16992,101 @@
         "provinz": "Luettich"
       },
       {
+        "id": "362529",
+        "ort": "SAINT-VITH",
+        "start": "31/12/2026",
+        "anmeldung_bis": "29/12/2026",
+        "status": "",
+        "beschreibung": "CRITERIUM ADULTES - Ethias Junior Tour GRADE 2",
+        "kategorien": [
+          "D2",
+          "D3",
+          "D4",
+          "D5",
+          "F112",
+          "F132",
+          "F152",
+          "G112",
+          "G132",
+          "G152",
+          "M2",
+          "M3",
+          "M351",
+          "M352",
+          "M353",
+          "M354",
+          "M355",
+          "M356",
+          "M4",
+          "M5",
+          "M6",
+          "U92"
+        ],
+        "anmeldeoeffnung": [
+          {
+            "kategorien": [
+              "G112",
+              "G132",
+              "G152",
+              "F112",
+              "F132",
+              "F152",
+              "U92"
+            ],
+            "datum": "07/12/2026",
+            "uhrzeit": "19:00"
+          },
+          {
+            "kategorien": [
+              "D2",
+              "D3",
+              "D4",
+              "D5"
+            ],
+            "datum": "07/12/2026",
+            "uhrzeit": "20:00"
+          },
+          {
+            "kategorien": [
+              "M351",
+              "M352",
+              "M353",
+              "M354",
+              "M355",
+              "M356"
+            ],
+            "datum": "07/12/2026",
+            "uhrzeit": "21:00"
+          },
+          {
+            "kategorien": [
+              "M5",
+              "M6"
+            ],
+            "datum": "08/12/2026",
+            "uhrzeit": "19:00"
+          },
+          {
+            "kategorien": [
+              "M3",
+              "M4"
+            ],
+            "datum": "08/12/2026",
+            "uhrzeit": "20:00"
+          },
+          {
+            "kategorien": [
+              "M2"
+            ],
+            "datum": "08/12/2026",
+            "uhrzeit": "21:00"
+          }
+        ],
+        "hat_M6": true,
+        "hat_M356": true,
+        "fuer_c306": true
+      },
+      {
         "id": "362681",
         "ort": "SMASH 51",
         "start": "02/01/2027",
@@ -16872,6 +17111,62 @@
         "klubcode": "4015",
         "klub_voll": "T.C. SMASH 51",
         "provinz": "Luettich"
+      },
+      {
+        "id": "362682",
+        "ort": "SAINT-VITH",
+        "start": "06/01/2027",
+        "anmeldung_bis": "04/01/2027",
+        "status": "",
+        "beschreibung": "",
+        "kategorien": [
+          "U7"
+        ],
+        "anmeldeoeffnung": [
+          {
+            "kategorien": [
+              "U7"
+            ],
+            "datum": "07/12/2026",
+            "uhrzeit": "19:00"
+          }
+        ],
+        "hat_M6": false,
+        "hat_M356": false,
+        "fuer_c306": true
+      },
+      {
+        "id": "362533",
+        "ort": "SAINT-VITH",
+        "start": "07/01/2027",
+        "anmeldung_bis": "05/01/2027",
+        "status": "",
+        "beschreibung": "CRITERIUM ADULTES - Doubles Dames TWB",
+        "kategorien": [
+          "DD1",
+          "DD4",
+          "DD5",
+          "DD6",
+          "DD7",
+          "DM1",
+          "DM2",
+          "DM3",
+          "DM4",
+          "DM5",
+          "DM6",
+          "DM7",
+          "DMX1",
+          "DMX2",
+          "DMX3",
+          "DMX4",
+          "DMX5",
+          "DMX6",
+          "DMX7"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": false,
+        "fuer_c306": true
       },
       {
         "id": "362571",
@@ -18477,12 +18772,12 @@
       "/cuts-des-classements": {
         "http": 200,
         "laenge": 55606,
-        "text": "Tennis Wallonie-Bruxelles window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-5Z58FK7'); --> setTimeout(\"checkLogin()\", 3000); function checkLogin() { $.get(\"/MyAFT/Home/CheckLogin?t=12345\",null,function(html){ $(\"#loginInfo\").html(html); }); } function checkVisitNewRanking() { var ranking = localStorage.getItem('ranking2022'); if (ranking !== \"1\") { localStorage.setItem('ranking2022','1'); window.location.href = 'https://www.aftnet.be/classements/index.html'; } } function loadScript(a){var b=document.getElementsByTagName(\"head\")[0],c=document.createElement(\"script\");c.type=\"text/javascript\",c.src=\"https://tracker.metricool.com/resources/be.js\",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:\"10b6164b55cf90b434aefddf3e914abe\"})}); // // // // // (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.8&appId=188389001208256\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); Responsive menu Tennis Wallonnie Bruxelles Contactez-nous Suggestion A propos Branding Structure générale Régions FRBT Padel Règlements Liens utiles Nos partenaires Search for: Programme Score Inscriptions tournois Mon Tennis ACCUEIL + Actualité News JOUEURS + Affiliés Transferts Recherche Affiliés Affiliation Joueurs Assurances Documents Tennis en chaise CLUBS + Clubs Labellisation Girls Tennis Days Mon Club Tennis Wallonie-Bruxelles Recherche de Clubs Documents Clubs tennis en chaise Fêtes du tennis en club TENNIS QUIZZ - Le match Nouveau code des sociétés Réglementation Générale Protection Données COMPETITIONS + Tournois Tournois TWB Calendrier des tournois 2026 Ladies, Gentlemen & Senior Masters Masters de double Ethias Junior Masters Belgian Junior Circuit Challenge 12 mètres Lotto Belgian Circuit Les tournois internationaux seniors en belgique Belgian Wheelchair Tennis Tour Top 100 Championnats Championnats de Belgique vétérans Championnats de Belgique de tennis en chaise Championnats de Belgique jeunes Championnats d'Europe individuels Compétitions par équipes Coupe Davis Billie Jean King Cup Interclubs Ethias Winter Cups Summer Cups European Youth Olympics Festival Tennis Europe Nations Challenge Règlements des compétitions et des classements 2026 Règlements et contacts Cuts des classements Tutoriels TOP TENNIS + Le Centre de formation de MONS La compétition La compétition nationale Catégories en AFT La compétition internationale jeunes Ca"
+        "text": "Tennis Wallonie-Bruxelles window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-5Z58FK7'); --> setTimeout(\"checkLogin()\", 3000); function checkLogin() { $.get(\"/MyAFT/Home/CheckLogin?t=12345\",null,function(html){ $(\"#loginInfo\").html(html); }); } function checkVisitNewRanking() { var ranking = localStorage.getItem('ranking2022'); if (ranking !== \"1\") { localStorage.setItem('ranking2022','1'); window.location.href = 'https://www.aftnet.be/classements/index.html'; } } function loadScript(a){var b=document.getElementsByTagName(\"head\")[0],c=document.createElement(\"script\");c.type=\"text/javascript\",c.src=\"https://tracker.metricool.com/resources/be.js\",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:\"10b6164b55cf90b434aefddf3e914abe\"})}); // // // // // (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.8&appId=188389001208256\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); Responsive menu Tennis Wallonnie Bruxelles Contactez-nous Suggestion A propos Branding Structure générale Régions FRBT Padel Règlements Liens utiles Nos partenaires Search for: Programme Score Inscriptions tournois Mon Tennis ACCUEIL + Actualité News JOUEURS + Affiliés Transferts Recherche Affiliés Affiliation Joueurs Assurances Documents Tennis en chaise CLUBS + Clubs Labellisation Girls Tennis Days Mon Club Tennis Wallonie-Bruxelles Recherche de Clubs Documents Clubs tennis en chaise Fêtes du tennis en club TENNIS QUIZZ - Le match Nouveau code des sociétés Réglementation Générale Protection Données COMPETITIONS + Tournois Tournois TWB Calendrier des tournois 2026 Ladies, Gentlemen & Senior Masters Masters de double Ethias Junior Masters Belgian Junior Circuit Challenge 12 mètres Lotto Belgian Circuit Les tournois internationaux seniors en belgique Belgian Wheelchair Tennis Tour Top 100 Championnats Championnats de Belgique jeunes Championnats de Belgique vétérans Championnats de Belgique de tennis en chaise Championnats d'Europe individuels Compétitions par équipes Coupe Davis Billie Jean King Cup Interclubs Ethias Winter Cups Summer Cups European Youth Olympics Festival Tennis Europe Nations Challenge Règlements des compétitions et des classements 2026 Règlements et contacts Cuts des classements Tutoriels TOP TENNIS + Le Centre de formation de MONS La compétition La compétition nationale Catégories en AFT La compétition internationale jeunes Ca"
       },
       "/TOP-TENNIS/La-competition-internationale/Classements": {
         "http": 200,
         "laenge": 48464,
-        "text": "Tennis Wallonie-Bruxelles window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-5Z58FK7'); --> setTimeout(\"checkLogin()\", 3000); function checkLogin() { $.get(\"/MyAFT/Home/CheckLogin?t=12345\",null,function(html){ $(\"#loginInfo\").html(html); }); } function checkVisitNewRanking() { var ranking = localStorage.getItem('ranking2022'); if (ranking !== \"1\") { localStorage.setItem('ranking2022','1'); window.location.href = 'https://www.aftnet.be/classements/index.html'; } } function loadScript(a){var b=document.getElementsByTagName(\"head\")[0],c=document.createElement(\"script\");c.type=\"text/javascript\",c.src=\"https://tracker.metricool.com/resources/be.js\",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:\"10b6164b55cf90b434aefddf3e914abe\"})}); // // // // // (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.8&appId=188389001208256\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); Responsive menu Tennis Wallonnie Bruxelles Contactez-nous Suggestion A propos Branding Structure générale Régions FRBT Padel Règlements Liens utiles Nos partenaires Search for: Programme Score Inscriptions tournois Mon Tennis ACCUEIL + Actualité News JOUEURS + Affiliés Transferts Recherche Affiliés Affiliation Joueurs Assurances Documents Tennis en chaise CLUBS + Clubs Labellisation Girls Tennis Days Mon Club Tennis Wallonie-Bruxelles Recherche de Clubs Documents Clubs tennis en chaise Fêtes du tennis en club TENNIS QUIZZ - Le match Nouveau code des sociétés Réglementation Générale Protection Données COMPETITIONS + Tournois Tournois TWB Calendrier des tournois 2026 Ladies, Gentlemen & Senior Masters Masters de double Ethias Junior Masters Belgian Junior Circuit Challenge 12 mètres Lotto Belgian Circuit Les tournois internationaux seniors en belgique Belgian Wheelchair Tennis Tour Top 100 Championnats Championnats de Belgique vétérans Championnats de Belgique de tennis en chaise Championnats de Belgique jeunes Championnats d'Europe individuels Compétitions par équipes Coupe Davis Billie Jean King Cup Interclubs Ethias Winter Cups Summer Cups European Youth Olympics Festival Tennis Europe Nations Challenge Règlements des compétitions et des classements 2026 Règlements et contacts Cuts des classements Tutoriels TOP TENNIS + Le Centre de formation de MONS La compétition La compétition nationale Catégories en AFT La compétition internationale jeunes Ca"
+        "text": "Tennis Wallonie-Bruxelles window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-5Z58FK7'); --> setTimeout(\"checkLogin()\", 3000); function checkLogin() { $.get(\"/MyAFT/Home/CheckLogin?t=12345\",null,function(html){ $(\"#loginInfo\").html(html); }); } function checkVisitNewRanking() { var ranking = localStorage.getItem('ranking2022'); if (ranking !== \"1\") { localStorage.setItem('ranking2022','1'); window.location.href = 'https://www.aftnet.be/classements/index.html'; } } function loadScript(a){var b=document.getElementsByTagName(\"head\")[0],c=document.createElement(\"script\");c.type=\"text/javascript\",c.src=\"https://tracker.metricool.com/resources/be.js\",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:\"10b6164b55cf90b434aefddf3e914abe\"})}); // // // // // (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.8&appId=188389001208256\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); Responsive menu Tennis Wallonnie Bruxelles Contactez-nous Suggestion A propos Branding Structure générale Régions FRBT Padel Règlements Liens utiles Nos partenaires Search for: Programme Score Inscriptions tournois Mon Tennis ACCUEIL + Actualité News JOUEURS + Affiliés Transferts Recherche Affiliés Affiliation Joueurs Assurances Documents Tennis en chaise CLUBS + Clubs Labellisation Girls Tennis Days Mon Club Tennis Wallonie-Bruxelles Recherche de Clubs Documents Clubs tennis en chaise Fêtes du tennis en club TENNIS QUIZZ - Le match Nouveau code des sociétés Réglementation Générale Protection Données COMPETITIONS + Tournois Tournois TWB Calendrier des tournois 2026 Ladies, Gentlemen & Senior Masters Masters de double Ethias Junior Masters Belgian Junior Circuit Challenge 12 mètres Lotto Belgian Circuit Les tournois internationaux seniors en belgique Belgian Wheelchair Tennis Tour Top 100 Championnats Championnats de Belgique jeunes Championnats de Belgique vétérans Championnats de Belgique de tennis en chaise Championnats d'Europe individuels Compétitions par équipes Coupe Davis Billie Jean King Cup Interclubs Ethias Winter Cups Summer Cups European Youth Olympics Festival Tennis Europe Nations Challenge Règlements des compétitions et des classements 2026 Règlements et contacts Cuts des classements Tutoriels TOP TENNIS + Le Centre de formation de MONS La compétition La compétition nationale Catégories en AFT La compétition internationale jeunes Ca"
       },
       "/MyAFT/MyResults/PrevisionalRanking": {
         "http": 404,
@@ -18509,22 +18804,22 @@
     "hinweis": "Keine Vorausberechnung gefunden. Die Abrufe unten zeigen, was die geprueften Pfade geliefert haben. Falls nichts passt: im Browser die Seite oeffnen, F12 druecken, Reiter Network, Seite neu laden, Rechtsklick auf einen Eintrag und 'Save all as HAR' – daraus laesst sich der richtige Endpunkt ablesen."
   },
   "teilnehmer": {
-    "361794": {
+    "362529": {
       "seiten_urls": [
-        "/MyAFT/Competitions/TournamentDetailCategories?idTournoi=361794&amp;subscrStartDate=20%2F07%2F2026&amp;subscrEndDate=11%2F08%2F2026&amp;displaySubscriptions=False&amp;maxSubscriptions=259&amp;tournoiDescription=SAINT-VITH%2020%2F07%2F2026",
-        "/MyAFT/Competitions/TournamentDetailDraw?idTournoi=361794",
-        "/MyAFT/Competitions/TournamentDetailRegisters?idTournoi=361794",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=231020261033210461&amp;IdTournoi=361671&amp;PathRules=361671_4067.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=231020261033210476&amp;IdTournoi=361706&amp;PathRules=361706_4091.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=231020261033210491&amp;IdTournoi=361794&amp;PathRules=361794_4077.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=231020261033210506&amp;IdTournoi=361804&amp;PathRules=361804_4081.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=231020261033210521&amp;IdTournoi=361818&amp;PathRules=361818_4001.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/Competitions/TournamentDetailCategories?idTournoi=362529&amp;subscrStartDate=07%2F12%2F2026&amp;subscrEndDate=29%2F12%2F2026&amp;displaySubscriptions=False&amp;maxSubscriptions=145&amp;tournoiDescription=SAINT-VITH%2007%2F12%2F2026",
+        "/MyAFT/Competitions/TournamentDetailDraw?idTournoi=362529",
+        "/MyAFT/Competitions/TournamentDetailRegisters?idTournoi=362529",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=241020261008122115&amp;IdTournoi=361671&amp;PathRules=361671_4067.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=241020261008122130&amp;IdTournoi=361706&amp;PathRules=361706_4091.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=241020261008122145&amp;IdTournoi=361794&amp;PathRules=361794_4077.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=241020261008122160&amp;IdTournoi=361804&amp;PathRules=361804_4081.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=241020261008122175&amp;IdTournoi=361818&amp;PathRules=361818_4001.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
         "/MyAFT/Players",
         "/MyAFT/Players/Detail",
         "/MyAFT/Players/GetPlayersAutocomplete",
         "/MyAFT/Players/Index",
         "/MyAFT/Players/Search",
-        "/MyAFT/Tooltip/RefereesByTournament/361794",
+        "/MyAFT/Tooltip/RefereesByTournament/362529",
         "/MyAFT/Tooltip/TournamentCategories/361671?displaySubscriptions=False",
         "/MyAFT/Tooltip/TournamentCategories/361706?displaySubscriptions=False",
         "/MyAFT/Tooltip/TournamentCategories/361794?displaySubscriptions=False",
@@ -18538,7 +18833,7 @@
         "/MyAFT/TournamentSubscription/ConfirmNextOption"
       ],
       "treffer": {
-        "/MyAFT/Players/Search ['idTournoi']": {
+        "/MyAFT/Players ['idTournoi']": {
           "anzahl": 3,
           "spieler": [
             {
@@ -18556,7 +18851,74 @@
           ],
           "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tenni"
         },
+        "/MyAFT/Players/Index ['idTournoi']": {
+          "anzahl": 3,
+          "spieler": [
+            {
+              "name": "ITF Junior",
+              "klassierung": "Arlon"
+            },
+            {
+              "name": "TWB Niveau",
+              "klassierung": "Aspirant"
+            },
+            {
+              "name": "TODO Tam",
+              "klassierung": "AFTGDPR"
+            }
+          ],
+          "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tenni"
+        }
+      }
+    },
+    "362682": {
+      "seiten_urls": [
+        "/MyAFT/Competitions/TournamentDetailCategories?idTournoi=362682&amp;subscrStartDate=07%2F12%2F2026&amp;subscrEndDate=04%2F01%2F2027&amp;displaySubscriptions=False&amp;maxSubscriptions=8&amp;tournoiDescription=SAINT-VITH%2007%2F12%2F2026",
+        "/MyAFT/Competitions/TournamentDetailDraw?idTournoi=362682",
+        "/MyAFT/Competitions/TournamentDetailRegisters?idTournoi=362682",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=241020261008168549&amp;IdTournoi=361671&amp;PathRules=361671_4067.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=241020261008168564&amp;IdTournoi=361706&amp;PathRules=361706_4091.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=241020261008168579&amp;IdTournoi=361794&amp;PathRules=361794_4077.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=241020261008168594&amp;IdTournoi=361804&amp;PathRules=361804_4081.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=241020261008168609&amp;IdTournoi=361818&amp;PathRules=361818_4001.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/Players",
+        "/MyAFT/Players/Detail",
+        "/MyAFT/Players/GetPlayersAutocomplete",
+        "/MyAFT/Players/Index",
+        "/MyAFT/Players/Search",
+        "/MyAFT/Tooltip/RefereesByTournament/362682",
+        "/MyAFT/Tooltip/TournamentCategories/361671?displaySubscriptions=False",
+        "/MyAFT/Tooltip/TournamentCategories/361706?displaySubscriptions=False",
+        "/MyAFT/Tooltip/TournamentCategories/361794?displaySubscriptions=False",
+        "/MyAFT/Tooltip/TournamentCategories/361804?displaySubscriptions=False",
+        "/MyAFT/Tooltip/TournamentCategories/361818?displaySubscriptions=False",
+        "/MyAFT/Tooltip/TournamentDetails/361671",
+        "/MyAFT/Tooltip/TournamentDetails/361706",
+        "/MyAFT/Tooltip/TournamentDetails/361794",
+        "/MyAFT/Tooltip/TournamentDetails/361804",
+        "/MyAFT/Tooltip/TournamentDetails/361818",
+        "/MyAFT/TournamentSubscription/ConfirmNextOption"
+      ],
+      "treffer": {
         "/MyAFT/Players ['idTournoi']": {
+          "anzahl": 3,
+          "spieler": [
+            {
+              "name": "ITF Junior",
+              "klassierung": "Arlon"
+            },
+            {
+              "name": "TWB Niveau",
+              "klassierung": "Aspirant"
+            },
+            {
+              "name": "TODO Tam",
+              "klassierung": "AFTGDPR"
+            }
+          ],
+          "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tenni"
+        },
+        "/MyAFT/Players/Index ['idTournoi']": {
           "anzahl": 3,
           "spieler": [
             {
@@ -18604,7 +18966,7 @@
             "laenge": 86123,
             "punkte": "40.000",
             "ergebnisse": [],
-            "text": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tennis Contact Suggestion A propos Branding Structure générale Régions FRBT Padel Règlements Documents FAQ Liens utiles Nos partenaires Inscriptions tournois Responsive menu GASPARD Gary (4111231) | Log out ACCUEIL + Actualité News JOUEURS + Affiliés Transferts Recherche Affiliés Affiliation Joueurs Assurances Documents Tennis en chaise CLUBS + Clubs Labellisation Girls Tennis Days Mon Club Tennis Wallonie-Bruxelles Recherche de Clubs Documents Clubs tennis en chaise Fêtes du tennis en club TENNIS QUIZZ - Le match COMPETITIONS + Tournois Tournois TWB Calendrier des tournois 2026 Ladies, Gentlemen & Senior Masters Masters de double Ethias Junior Masters Belgian Junior Circuit Challenge 12 mètres Lotto Belgian Circuit Les tournois internationaux seniors en belgique Belgian Wheelchair Tennis Tour Top 100 Championnats Championnats de Belgique vétérans Championnats de Belgique de tennis en chaise Championnats de Belgique jeunes Championnats d'Europe individuels Compétitions par équipes Coupe Davis Billie Jean King Cup Interclubs Ethias Winter Cups Summer Cups European Youth Olympics Festival Tennis Europe Nations Challenge Règlements des compétitions et des classements 2026 Règlements et contacts Cuts des classements TOP TENNIS + La compétition La compétition nationale Catégories en AFT La compétition internationale jeunes Catégories et grades Classements Tournois en fonction de l'âge Inscriptions, retraits Acceptance list Désignation du coach national (ITF et TE) et National Window (TE) Réglements OFFICIELS + Officiels Informations Documents Formations juge-arbitrage Recherche des officiels Formations Nos formations ORGANISATIONS + Evénements AFT Tournoi International de la Province de Liège Young Talents Cup Les loups du Brabant Les lions du Hainaut Les raptors de Liège Les sangliers de Namur-Luxembourg Doubles Dames Tennis Wallonie-Bruxelles Inscription DD TWB Evénements soutenus par l’AFT $25,000 Messieurs du R. Leopold Club Astrid Bowl Charleroi Ladies Open Baulet avec BNP Paribas Fortis Argayon Cup Uccle Trophy Leo Cup J30 Bruxelles Justine Henin Junior Cup $15,000 Messieurs du KTC Eupen ITF Junior Arlon Animations Tennis à l'école Divers TENNIS QUIZZ - Le match Play Tennis & Padel Demande de subside FORMATIONS + Animateur Journée d'application Initiateur Educateur Directeur Ecole de Tennis Maître de stage Niveau Aspirant Niveau Certifié Inscription Formateur TWB Niveau Aspirant Niveau Certifié Inscription Estimation du potentiel Formation en ligne Livre à télécharger Formation continue Nos formations Inscription Système de crédits Moniteurs étoilés Opérateur de formation reconnu par TWB Diaporamas des modules passés Modules de formation externes à TWB VAE/VAF/Equivalence/Dispense(s) Dossier de demande d’équivalences RÉGIONS + Les régions AFT Tennis Wall"
+            "text": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tennis Contact Suggestion A propos Branding Structure générale Régions FRBT Padel Règlements Documents FAQ Liens utiles Nos partenaires Inscriptions tournois Responsive menu GASPARD Gary (4111231) | Log out ACCUEIL + Actualité News JOUEURS + Affiliés Transferts Recherche Affiliés Affiliation Joueurs Assurances Documents Tennis en chaise CLUBS + Clubs Labellisation Girls Tennis Days Mon Club Tennis Wallonie-Bruxelles Recherche de Clubs Documents Clubs tennis en chaise Fêtes du tennis en club TENNIS QUIZZ - Le match COMPETITIONS + Tournois Tournois TWB Calendrier des tournois 2026 Ladies, Gentlemen & Senior Masters Masters de double Ethias Junior Masters Belgian Junior Circuit Challenge 12 mètres Lotto Belgian Circuit Les tournois internationaux seniors en belgique Belgian Wheelchair Tennis Tour Top 100 Championnats Championnats de Belgique jeunes Championnats de Belgique vétérans Championnats de Belgique de tennis en chaise Championnats d'Europe individuels Compétitions par équipes Coupe Davis Billie Jean King Cup Interclubs Ethias Winter Cups Summer Cups European Youth Olympics Festival Tennis Europe Nations Challenge Règlements des compétitions et des classements 2026 Règlements et contacts Cuts des classements TOP TENNIS + La compétition La compétition nationale Catégories en AFT La compétition internationale jeunes Catégories et grades Classements Tournois en fonction de l'âge Inscriptions, retraits Acceptance list Désignation du coach national (ITF et TE) et National Window (TE) Réglements OFFICIELS + Officiels Informations Documents Formations juge-arbitrage Recherche des officiels Formations Nos formations ORGANISATIONS + Evénements AFT Tournoi International de la Province de Liège Young Talents Cup Les loups du Brabant Les lions du Hainaut Les raptors de Liège Les sangliers de Namur-Luxembourg Doubles Dames Tennis Wallonie-Bruxelles Inscription DD TWB Evénements soutenus par l’AFT $25,000 Messieurs du R. Leopold Club Astrid Bowl Charleroi Ladies Open Baulet avec BNP Paribas Fortis Argayon Cup Uccle Trophy Leo Cup J30 Bruxelles Justine Henin Junior Cup $15,000 Messieurs du KTC Eupen ITF Junior Arlon Animations Tennis à l'école Divers TENNIS QUIZZ - Le match Play Tennis & Padel Demande de subside FORMATIONS + Animateur Journée d'application Initiateur Educateur Directeur Ecole de Tennis Maître de stage Niveau Aspirant Niveau Certifié Inscription Formateur TWB Niveau Aspirant Niveau Certifié Inscription Estimation du potentiel Formation en ligne Livre à télécharger Formation continue Nos formations Inscription Système de crédits Moniteurs étoilés Opérateur de formation reconnu par TWB Diaporamas des modules passés Modules de formation externes à TWB VAE/VAF/Equivalence/Dispense(s) Dossier de demande d’équivalences RÉGIONS + Les régions AFT Tennis Wall"
           }
         }
       }
@@ -18635,7 +18997,7 @@
             "laenge": 89123,
             "punkte": "38.150",
             "ergebnisse": [],
-            "text": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tennis Contact Suggestion A propos Branding Structure générale Régions FRBT Padel Règlements Documents FAQ Liens utiles Nos partenaires Inscriptions tournois Responsive menu GASPARD Gary (4111231) | Log out ACCUEIL + Actualité News JOUEURS + Affiliés Transferts Recherche Affiliés Affiliation Joueurs Assurances Documents Tennis en chaise CLUBS + Clubs Labellisation Girls Tennis Days Mon Club Tennis Wallonie-Bruxelles Recherche de Clubs Documents Clubs tennis en chaise Fêtes du tennis en club TENNIS QUIZZ - Le match COMPETITIONS + Tournois Tournois TWB Calendrier des tournois 2026 Ladies, Gentlemen & Senior Masters Masters de double Ethias Junior Masters Belgian Junior Circuit Challenge 12 mètres Lotto Belgian Circuit Les tournois internationaux seniors en belgique Belgian Wheelchair Tennis Tour Top 100 Championnats Championnats de Belgique vétérans Championnats de Belgique de tennis en chaise Championnats de Belgique jeunes Championnats d'Europe individuels Compétitions par équipes Coupe Davis Billie Jean King Cup Interclubs Ethias Winter Cups Summer Cups European Youth Olympics Festival Tennis Europe Nations Challenge Règlements des compétitions et des classements 2026 Règlements et contacts Cuts des classements TOP TENNIS + La compétition La compétition nationale Catégories en AFT La compétition internationale jeunes Catégories et grades Classements Tournois en fonction de l'âge Inscriptions, retraits Acceptance list Désignation du coach national (ITF et TE) et National Window (TE) Réglements OFFICIELS + Officiels Informations Documents Formations juge-arbitrage Recherche des officiels Formations Nos formations ORGANISATIONS + Evénements AFT Tournoi International de la Province de Liège Young Talents Cup Les loups du Brabant Les lions du Hainaut Les raptors de Liège Les sangliers de Namur-Luxembourg Doubles Dames Tennis Wallonie-Bruxelles Inscription DD TWB Evénements soutenus par l’AFT $25,000 Messieurs du R. Leopold Club Astrid Bowl Charleroi Ladies Open Baulet avec BNP Paribas Fortis Argayon Cup Uccle Trophy Leo Cup J30 Bruxelles Justine Henin Junior Cup $15,000 Messieurs du KTC Eupen ITF Junior Arlon Animations Tennis à l'école Divers TENNIS QUIZZ - Le match Play Tennis & Padel Demande de subside FORMATIONS + Animateur Journée d'application Initiateur Educateur Directeur Ecole de Tennis Maître de stage Niveau Aspirant Niveau Certifié Inscription Formateur TWB Niveau Aspirant Niveau Certifié Inscription Estimation du potentiel Formation en ligne Livre à télécharger Formation continue Nos formations Inscription Système de crédits Moniteurs étoilés Opérateur de formation reconnu par TWB Diaporamas des modules passés Modules de formation externes à TWB VAE/VAF/Equivalence/Dispense(s) Dossier de demande d’équivalences RÉGIONS + Les régions AFT Tennis Wall"
+            "text": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tennis Contact Suggestion A propos Branding Structure générale Régions FRBT Padel Règlements Documents FAQ Liens utiles Nos partenaires Inscriptions tournois Responsive menu GASPARD Gary (4111231) | Log out ACCUEIL + Actualité News JOUEURS + Affiliés Transferts Recherche Affiliés Affiliation Joueurs Assurances Documents Tennis en chaise CLUBS + Clubs Labellisation Girls Tennis Days Mon Club Tennis Wallonie-Bruxelles Recherche de Clubs Documents Clubs tennis en chaise Fêtes du tennis en club TENNIS QUIZZ - Le match COMPETITIONS + Tournois Tournois TWB Calendrier des tournois 2026 Ladies, Gentlemen & Senior Masters Masters de double Ethias Junior Masters Belgian Junior Circuit Challenge 12 mètres Lotto Belgian Circuit Les tournois internationaux seniors en belgique Belgian Wheelchair Tennis Tour Top 100 Championnats Championnats de Belgique jeunes Championnats de Belgique vétérans Championnats de Belgique de tennis en chaise Championnats d'Europe individuels Compétitions par équipes Coupe Davis Billie Jean King Cup Interclubs Ethias Winter Cups Summer Cups European Youth Olympics Festival Tennis Europe Nations Challenge Règlements des compétitions et des classements 2026 Règlements et contacts Cuts des classements TOP TENNIS + La compétition La compétition nationale Catégories en AFT La compétition internationale jeunes Catégories et grades Classements Tournois en fonction de l'âge Inscriptions, retraits Acceptance list Désignation du coach national (ITF et TE) et National Window (TE) Réglements OFFICIELS + Officiels Informations Documents Formations juge-arbitrage Recherche des officiels Formations Nos formations ORGANISATIONS + Evénements AFT Tournoi International de la Province de Liège Young Talents Cup Les loups du Brabant Les lions du Hainaut Les raptors de Liège Les sangliers de Namur-Luxembourg Doubles Dames Tennis Wallonie-Bruxelles Inscription DD TWB Evénements soutenus par l’AFT $25,000 Messieurs du R. Leopold Club Astrid Bowl Charleroi Ladies Open Baulet avec BNP Paribas Fortis Argayon Cup Uccle Trophy Leo Cup J30 Bruxelles Justine Henin Junior Cup $15,000 Messieurs du KTC Eupen ITF Junior Arlon Animations Tennis à l'école Divers TENNIS QUIZZ - Le match Play Tennis & Padel Demande de subside FORMATIONS + Animateur Journée d'application Initiateur Educateur Directeur Ecole de Tennis Maître de stage Niveau Aspirant Niveau Certifié Inscription Formateur TWB Niveau Aspirant Niveau Certifié Inscription Estimation du potentiel Formation en ligne Livre à télécharger Formation continue Nos formations Inscription Système de crédits Moniteurs étoilés Opérateur de formation reconnu par TWB Diaporamas des modules passés Modules de formation externes à TWB VAE/VAF/Equivalence/Dispense(s) Dossier de demande d’équivalences RÉGIONS + Les régions AFT Tennis Wall"
           }
         }
       }
@@ -18666,7 +19028,7 @@
             "laenge": 82873,
             "punkte": "0.000",
             "ergebnisse": [],
-            "text": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tennis Contact Suggestion A propos Branding Structure générale Régions FRBT Padel Règlements Documents FAQ Liens utiles Nos partenaires Inscriptions tournois Responsive menu GASPARD Gary (4111231) | Log out ACCUEIL + Actualité News JOUEURS + Affiliés Transferts Recherche Affiliés Affiliation Joueurs Assurances Documents Tennis en chaise CLUBS + Clubs Labellisation Girls Tennis Days Mon Club Tennis Wallonie-Bruxelles Recherche de Clubs Documents Clubs tennis en chaise Fêtes du tennis en club TENNIS QUIZZ - Le match COMPETITIONS + Tournois Tournois TWB Calendrier des tournois 2026 Ladies, Gentlemen & Senior Masters Masters de double Ethias Junior Masters Belgian Junior Circuit Challenge 12 mètres Lotto Belgian Circuit Les tournois internationaux seniors en belgique Belgian Wheelchair Tennis Tour Top 100 Championnats Championnats de Belgique vétérans Championnats de Belgique de tennis en chaise Championnats de Belgique jeunes Championnats d'Europe individuels Compétitions par équipes Coupe Davis Billie Jean King Cup Interclubs Ethias Winter Cups Summer Cups European Youth Olympics Festival Tennis Europe Nations Challenge Règlements des compétitions et des classements 2026 Règlements et contacts Cuts des classements TOP TENNIS + La compétition La compétition nationale Catégories en AFT La compétition internationale jeunes Catégories et grades Classements Tournois en fonction de l'âge Inscriptions, retraits Acceptance list Désignation du coach national (ITF et TE) et National Window (TE) Réglements OFFICIELS + Officiels Informations Documents Formations juge-arbitrage Recherche des officiels Formations Nos formations ORGANISATIONS + Evénements AFT Tournoi International de la Province de Liège Young Talents Cup Les loups du Brabant Les lions du Hainaut Les raptors de Liège Les sangliers de Namur-Luxembourg Doubles Dames Tennis Wallonie-Bruxelles Inscription DD TWB Evénements soutenus par l’AFT $25,000 Messieurs du R. Leopold Club Astrid Bowl Charleroi Ladies Open Baulet avec BNP Paribas Fortis Argayon Cup Uccle Trophy Leo Cup J30 Bruxelles Justine Henin Junior Cup $15,000 Messieurs du KTC Eupen ITF Junior Arlon Animations Tennis à l'école Divers TENNIS QUIZZ - Le match Play Tennis & Padel Demande de subside FORMATIONS + Animateur Journée d'application Initiateur Educateur Directeur Ecole de Tennis Maître de stage Niveau Aspirant Niveau Certifié Inscription Formateur TWB Niveau Aspirant Niveau Certifié Inscription Estimation du potentiel Formation en ligne Livre à télécharger Formation continue Nos formations Inscription Système de crédits Moniteurs étoilés Opérateur de formation reconnu par TWB Diaporamas des modules passés Modules de formation externes à TWB VAE/VAF/Equivalence/Dispense(s) Dossier de demande d’équivalences RÉGIONS + Les régions AFT Tennis Wall"
+            "text": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tennis Contact Suggestion A propos Branding Structure générale Régions FRBT Padel Règlements Documents FAQ Liens utiles Nos partenaires Inscriptions tournois Responsive menu GASPARD Gary (4111231) | Log out ACCUEIL + Actualité News JOUEURS + Affiliés Transferts Recherche Affiliés Affiliation Joueurs Assurances Documents Tennis en chaise CLUBS + Clubs Labellisation Girls Tennis Days Mon Club Tennis Wallonie-Bruxelles Recherche de Clubs Documents Clubs tennis en chaise Fêtes du tennis en club TENNIS QUIZZ - Le match COMPETITIONS + Tournois Tournois TWB Calendrier des tournois 2026 Ladies, Gentlemen & Senior Masters Masters de double Ethias Junior Masters Belgian Junior Circuit Challenge 12 mètres Lotto Belgian Circuit Les tournois internationaux seniors en belgique Belgian Wheelchair Tennis Tour Top 100 Championnats Championnats de Belgique jeunes Championnats de Belgique vétérans Championnats de Belgique de tennis en chaise Championnats d'Europe individuels Compétitions par équipes Coupe Davis Billie Jean King Cup Interclubs Ethias Winter Cups Summer Cups European Youth Olympics Festival Tennis Europe Nations Challenge Règlements des compétitions et des classements 2026 Règlements et contacts Cuts des classements TOP TENNIS + La compétition La compétition nationale Catégories en AFT La compétition internationale jeunes Catégories et grades Classements Tournois en fonction de l'âge Inscriptions, retraits Acceptance list Désignation du coach national (ITF et TE) et National Window (TE) Réglements OFFICIELS + Officiels Informations Documents Formations juge-arbitrage Recherche des officiels Formations Nos formations ORGANISATIONS + Evénements AFT Tournoi International de la Province de Liège Young Talents Cup Les loups du Brabant Les lions du Hainaut Les raptors de Liège Les sangliers de Namur-Luxembourg Doubles Dames Tennis Wallonie-Bruxelles Inscription DD TWB Evénements soutenus par l’AFT $25,000 Messieurs du R. Leopold Club Astrid Bowl Charleroi Ladies Open Baulet avec BNP Paribas Fortis Argayon Cup Uccle Trophy Leo Cup J30 Bruxelles Justine Henin Junior Cup $15,000 Messieurs du KTC Eupen ITF Junior Arlon Animations Tennis à l'école Divers TENNIS QUIZZ - Le match Play Tennis & Padel Demande de subside FORMATIONS + Animateur Journée d'application Initiateur Educateur Directeur Ecole de Tennis Maître de stage Niveau Aspirant Niveau Certifié Inscription Formateur TWB Niveau Aspirant Niveau Certifié Inscription Estimation du potentiel Formation en ligne Livre à télécharger Formation continue Nos formations Inscription Système de crédits Moniteurs étoilés Opérateur de formation reconnu par TWB Diaporamas des modules passés Modules de formation externes à TWB VAE/VAF/Equivalence/Dispense(s) Dossier de demande d’équivalences RÉGIONS + Les régions AFT Tennis Wall"
           }
         }
       }
@@ -18697,7 +19059,7 @@
             "laenge": 85810,
             "punkte": "25.440",
             "ergebnisse": [],
-            "text": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tennis Contact Suggestion A propos Branding Structure générale Régions FRBT Padel Règlements Documents FAQ Liens utiles Nos partenaires Inscriptions tournois Responsive menu GASPARD Gary (4111231) | Log out ACCUEIL + Actualité News JOUEURS + Affiliés Transferts Recherche Affiliés Affiliation Joueurs Assurances Documents Tennis en chaise CLUBS + Clubs Labellisation Girls Tennis Days Mon Club Tennis Wallonie-Bruxelles Recherche de Clubs Documents Clubs tennis en chaise Fêtes du tennis en club TENNIS QUIZZ - Le match COMPETITIONS + Tournois Tournois TWB Calendrier des tournois 2026 Ladies, Gentlemen & Senior Masters Masters de double Ethias Junior Masters Belgian Junior Circuit Challenge 12 mètres Lotto Belgian Circuit Les tournois internationaux seniors en belgique Belgian Wheelchair Tennis Tour Top 100 Championnats Championnats de Belgique vétérans Championnats de Belgique de tennis en chaise Championnats de Belgique jeunes Championnats d'Europe individuels Compétitions par équipes Coupe Davis Billie Jean King Cup Interclubs Ethias Winter Cups Summer Cups European Youth Olympics Festival Tennis Europe Nations Challenge Règlements des compétitions et des classements 2026 Règlements et contacts Cuts des classements TOP TENNIS + La compétition La compétition nationale Catégories en AFT La compétition internationale jeunes Catégories et grades Classements Tournois en fonction de l'âge Inscriptions, retraits Acceptance list Désignation du coach national (ITF et TE) et National Window (TE) Réglements OFFICIELS + Officiels Informations Documents Formations juge-arbitrage Recherche des officiels Formations Nos formations ORGANISATIONS + Evénements AFT Tournoi International de la Province de Liège Young Talents Cup Les loups du Brabant Les lions du Hainaut Les raptors de Liège Les sangliers de Namur-Luxembourg Doubles Dames Tennis Wallonie-Bruxelles Inscription DD TWB Evénements soutenus par l’AFT $25,000 Messieurs du R. Leopold Club Astrid Bowl Charleroi Ladies Open Baulet avec BNP Paribas Fortis Argayon Cup Uccle Trophy Leo Cup J30 Bruxelles Justine Henin Junior Cup $15,000 Messieurs du KTC Eupen ITF Junior Arlon Animations Tennis à l'école Divers TENNIS QUIZZ - Le match Play Tennis & Padel Demande de subside FORMATIONS + Animateur Journée d'application Initiateur Educateur Directeur Ecole de Tennis Maître de stage Niveau Aspirant Niveau Certifié Inscription Formateur TWB Niveau Aspirant Niveau Certifié Inscription Estimation du potentiel Formation en ligne Livre à télécharger Formation continue Nos formations Inscription Système de crédits Moniteurs étoilés Opérateur de formation reconnu par TWB Diaporamas des modules passés Modules de formation externes à TWB VAE/VAF/Equivalence/Dispense(s) Dossier de demande d’équivalences RÉGIONS + Les régions AFT Tennis Wall"
+            "text": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tennis Contact Suggestion A propos Branding Structure générale Régions FRBT Padel Règlements Documents FAQ Liens utiles Nos partenaires Inscriptions tournois Responsive menu GASPARD Gary (4111231) | Log out ACCUEIL + Actualité News JOUEURS + Affiliés Transferts Recherche Affiliés Affiliation Joueurs Assurances Documents Tennis en chaise CLUBS + Clubs Labellisation Girls Tennis Days Mon Club Tennis Wallonie-Bruxelles Recherche de Clubs Documents Clubs tennis en chaise Fêtes du tennis en club TENNIS QUIZZ - Le match COMPETITIONS + Tournois Tournois TWB Calendrier des tournois 2026 Ladies, Gentlemen & Senior Masters Masters de double Ethias Junior Masters Belgian Junior Circuit Challenge 12 mètres Lotto Belgian Circuit Les tournois internationaux seniors en belgique Belgian Wheelchair Tennis Tour Top 100 Championnats Championnats de Belgique jeunes Championnats de Belgique vétérans Championnats de Belgique de tennis en chaise Championnats d'Europe individuels Compétitions par équipes Coupe Davis Billie Jean King Cup Interclubs Ethias Winter Cups Summer Cups European Youth Olympics Festival Tennis Europe Nations Challenge Règlements des compétitions et des classements 2026 Règlements et contacts Cuts des classements TOP TENNIS + La compétition La compétition nationale Catégories en AFT La compétition internationale jeunes Catégories et grades Classements Tournois en fonction de l'âge Inscriptions, retraits Acceptance list Désignation du coach national (ITF et TE) et National Window (TE) Réglements OFFICIELS + Officiels Informations Documents Formations juge-arbitrage Recherche des officiels Formations Nos formations ORGANISATIONS + Evénements AFT Tournoi International de la Province de Liège Young Talents Cup Les loups du Brabant Les lions du Hainaut Les raptors de Liège Les sangliers de Namur-Luxembourg Doubles Dames Tennis Wallonie-Bruxelles Inscription DD TWB Evénements soutenus par l’AFT $25,000 Messieurs du R. Leopold Club Astrid Bowl Charleroi Ladies Open Baulet avec BNP Paribas Fortis Argayon Cup Uccle Trophy Leo Cup J30 Bruxelles Justine Henin Junior Cup $15,000 Messieurs du KTC Eupen ITF Junior Arlon Animations Tennis à l'école Divers TENNIS QUIZZ - Le match Play Tennis & Padel Demande de subside FORMATIONS + Animateur Journée d'application Initiateur Educateur Directeur Ecole de Tennis Maître de stage Niveau Aspirant Niveau Certifié Inscription Formateur TWB Niveau Aspirant Niveau Certifié Inscription Estimation du potentiel Formation en ligne Livre à télécharger Formation continue Nos formations Inscription Système de crédits Moniteurs étoilés Opérateur de formation reconnu par TWB Diaporamas des modules passés Modules de formation externes à TWB VAE/VAF/Equivalence/Dispense(s) Dossier de demande d’équivalences RÉGIONS + Les régions AFT Tennis Wall"
           }
         }
       }
