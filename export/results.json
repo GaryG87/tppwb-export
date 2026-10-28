@@ -1,5 +1,5 @@
 {
-  "zeit": "2026-10-27T08:59:08.431334+00:00",
+  "zeit": "2026-10-28T09:39:15.574708+00:00",
   "version": 28,
   "status": "ok",
   "klassierung": [
@@ -1498,7 +1498,7 @@
   "kalender": {
     "seite": {
       "http": 200,
-      "laenge": 287950
+      "laenge": 285348
     },
     "gefundene_urls": [
       "/MyAFT/Clubs/Search",
@@ -1526,7 +1526,6 @@
       "/MyAFT/Tooltip/TournamentCategories/361794",
       "/MyAFT/Tooltip/TournamentCategories/361804",
       "/MyAFT/Tooltip/TournamentCategories/361818",
-      "/MyAFT/Tooltip/TournamentCategories/362516",
       "/MyAFT/Tooltip/TournamentCategories/362517",
       "/MyAFT/Tooltip/TournamentCategories/362518",
       "/MyAFT/Tooltip/TournamentCategories/362519",
@@ -1540,7 +1539,8 @@
       "/MyAFT/Tooltip/TournamentCategories/362528",
       "/MyAFT/Tooltip/TournamentCategories/362529",
       "/MyAFT/Tooltip/TournamentCategories/362532",
-      "/MyAFT/Tooltip/TournamentCategories/362533"
+      "/MyAFT/Tooltip/TournamentCategories/362533",
+      "/MyAFT/Tooltip/TournamentCategories/362534"
     ],
     "formularfelder": [
       "LocationGroup",
@@ -1571,7 +1571,7 @@
     "treffer": {
       "GET /MyAFT/Competitions/CompetitionsTournamentsByRegion []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 54101,
+        "laenge": 60947,
         "turniere": [
           [
             "AMAY",
@@ -1588,6 +1588,10 @@
           [
             "CASTLE CLUB",
             "26/10/2026"
+          ],
+          [
+            "CASTLE CLUB",
+            "29/10/2026"
           ],
           [
             "CITADELLE",
@@ -1622,8 +1626,16 @@
             "22/10/2026"
           ],
           [
+            "LAPERCHETHULIN",
+            "29/10/2026"
+          ],
+          [
             "LE PARC",
             "23/10/2026"
+          ],
+          [
+            "MARMOTTE",
+            "29/10/2026"
           ],
           [
             "MOHA",
@@ -1670,11 +1682,11 @@
             "26/10/2026"
           ]
         ],
-        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 En cours AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours TENNISSIMO 22/10/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JAS - G151, F151, M1BC1*, M2, M3, M4, D1BC1*, D2, D3, D4, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours PRIMEROSE 22/10/2026 Ethias Junior Tour - G112, G132, G152, F112, F132, F152, U92 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, "
+        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Inscriptions clôturées CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 Inscriptions clôturées LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 En cours CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 En cours AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G1"
       },
       "POST /MyAFT/Competitions/CompetitionsTournamentsByRegion []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 54101,
+        "laenge": 60947,
         "turniere": [
           [
             "AMAY",
@@ -1691,6 +1703,10 @@
           [
             "CASTLE CLUB",
             "26/10/2026"
+          ],
+          [
+            "CASTLE CLUB",
+            "29/10/2026"
           ],
           [
             "CITADELLE",
@@ -1725,8 +1741,16 @@
             "22/10/2026"
           ],
           [
+            "LAPERCHETHULIN",
+            "29/10/2026"
+          ],
+          [
             "LE PARC",
             "23/10/2026"
+          ],
+          [
+            "MARMOTTE",
+            "29/10/2026"
           ],
           [
             "MOHA",
@@ -1773,11 +1797,11 @@
             "26/10/2026"
           ]
         ],
-        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 En cours AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours TENNISSIMO 22/10/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JAS - G151, F151, M1BC1*, M2, M3, M4, D1BC1*, D2, D3, D4, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours PRIMEROSE 22/10/2026 Ethias Junior Tour - G112, G132, G152, F112, F132, F152, U92 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, "
+        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Inscriptions clôturées CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 Inscriptions clôturées LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 En cours CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 En cours AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G1"
       },
       "GET /MyAFT/Competitions/CompetitionsTournamentsByRegion ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 54101,
+        "laenge": 60947,
         "turniere": [
           [
             "AMAY",
@@ -1794,6 +1818,10 @@
           [
             "CASTLE CLUB",
             "26/10/2026"
+          ],
+          [
+            "CASTLE CLUB",
+            "29/10/2026"
           ],
           [
             "CITADELLE",
@@ -1828,8 +1856,16 @@
             "22/10/2026"
           ],
           [
+            "LAPERCHETHULIN",
+            "29/10/2026"
+          ],
+          [
             "LE PARC",
             "23/10/2026"
+          ],
+          [
+            "MARMOTTE",
+            "29/10/2026"
           ],
           [
             "MOHA",
@@ -1876,11 +1912,11 @@
             "26/10/2026"
           ]
         ],
-        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 En cours AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours TENNISSIMO 22/10/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JAS - G151, F151, M1BC1*, M2, M3, M4, D1BC1*, D2, D3, D4, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours PRIMEROSE 22/10/2026 Ethias Junior Tour - G112, G132, G152, F112, F132, F152, U92 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, "
+        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Inscriptions clôturées CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 Inscriptions clôturées LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 En cours CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 En cours AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G1"
       },
       "POST /MyAFT/Competitions/CompetitionsTournamentsByRegion ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 54101,
+        "laenge": 60947,
         "turniere": [
           [
             "AMAY",
@@ -1897,6 +1933,10 @@
           [
             "CASTLE CLUB",
             "26/10/2026"
+          ],
+          [
+            "CASTLE CLUB",
+            "29/10/2026"
           ],
           [
             "CITADELLE",
@@ -1931,8 +1971,16 @@
             "22/10/2026"
           ],
           [
+            "LAPERCHETHULIN",
+            "29/10/2026"
+          ],
+          [
             "LE PARC",
             "23/10/2026"
+          ],
+          [
+            "MARMOTTE",
+            "29/10/2026"
           ],
           [
             "MOHA",
@@ -1979,11 +2027,11 @@
             "26/10/2026"
           ]
         ],
-        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 En cours AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours TENNISSIMO 22/10/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JAS - G151, F151, M1BC1*, M2, M3, M4, D1BC1*, D2, D3, D4, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours PRIMEROSE 22/10/2026 Ethias Junior Tour - G112, G132, G152, F112, F132, F152, U92 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, "
+        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Inscriptions clôturées CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 Inscriptions clôturées LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 En cours CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 En cours AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G1"
       },
       "GET /MyAFT/Competitions/CompetitionsTournamentsByRegion ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 54101,
+        "laenge": 60947,
         "turniere": [
           [
             "AMAY",
@@ -2000,6 +2048,10 @@
           [
             "CASTLE CLUB",
             "26/10/2026"
+          ],
+          [
+            "CASTLE CLUB",
+            "29/10/2026"
           ],
           [
             "CITADELLE",
@@ -2034,8 +2086,16 @@
             "22/10/2026"
           ],
           [
+            "LAPERCHETHULIN",
+            "29/10/2026"
+          ],
+          [
             "LE PARC",
             "23/10/2026"
+          ],
+          [
+            "MARMOTTE",
+            "29/10/2026"
           ],
           [
             "MOHA",
@@ -2082,11 +2142,11 @@
             "26/10/2026"
           ]
         ],
-        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 En cours AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours TENNISSIMO 22/10/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JAS - G151, F151, M1BC1*, M2, M3, M4, D1BC1*, D2, D3, D4, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours PRIMEROSE 22/10/2026 Ethias Junior Tour - G112, G132, G152, F112, F132, F152, U92 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, "
+        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Inscriptions clôturées CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 Inscriptions clôturées LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 En cours CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 En cours AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G1"
       },
       "POST /MyAFT/Competitions/CompetitionsTournamentsByRegion ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 54101,
+        "laenge": 60947,
         "turniere": [
           [
             "AMAY",
@@ -2103,6 +2163,10 @@
           [
             "CASTLE CLUB",
             "26/10/2026"
+          ],
+          [
+            "CASTLE CLUB",
+            "29/10/2026"
           ],
           [
             "CITADELLE",
@@ -2137,8 +2201,16 @@
             "22/10/2026"
           ],
           [
+            "LAPERCHETHULIN",
+            "29/10/2026"
+          ],
+          [
             "LE PARC",
             "23/10/2026"
+          ],
+          [
+            "MARMOTTE",
+            "29/10/2026"
           ],
           [
             "MOHA",
@@ -2185,11 +2257,11 @@
             "26/10/2026"
           ]
         ],
-        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 En cours AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours TENNISSIMO 22/10/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JAS - G151, F151, M1BC1*, M2, M3, M4, D1BC1*, D2, D3, D4, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours PRIMEROSE 22/10/2026 Ethias Junior Tour - G112, G132, G152, F112, F132, F152, U92 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, "
+        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Inscriptions clôturées CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 Inscriptions clôturées LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 En cours CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 En cours AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G1"
       },
       "GET /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 53950,
+        "laenge": 60796,
         "turniere": [
           [
             "AMAY",
@@ -2206,6 +2278,10 @@
           [
             "CASTLE CLUB",
             "26/10/2026"
+          ],
+          [
+            "CASTLE CLUB",
+            "29/10/2026"
           ],
           [
             "CITADELLE",
@@ -2240,8 +2316,16 @@
             "22/10/2026"
           ],
           [
+            "LAPERCHETHULIN",
+            "29/10/2026"
+          ],
+          [
             "LE PARC",
             "23/10/2026"
+          ],
+          [
+            "MARMOTTE",
+            "29/10/2026"
           ],
           [
             "MOHA",
@@ -2288,11 +2372,11 @@
             "26/10/2026"
           ]
         ],
-        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 En cours AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours TENNISSIMO 22/10/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JAS - G151, F151, M1BC1*, M2, M3, M4, D1BC1*, D2, D3, D4, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours PRIMEROSE 22/10/2026 Ethias Junior Tour - G112, G132, G152, F112, F132, F152, U92 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, "
+        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Inscriptions clôturées CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 Inscriptions clôturées LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 En cours CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 En cours AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G1"
       },
       "POST /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 53950,
+        "laenge": 60796,
         "turniere": [
           [
             "AMAY",
@@ -2309,6 +2393,10 @@
           [
             "CASTLE CLUB",
             "26/10/2026"
+          ],
+          [
+            "CASTLE CLUB",
+            "29/10/2026"
           ],
           [
             "CITADELLE",
@@ -2343,8 +2431,16 @@
             "22/10/2026"
           ],
           [
+            "LAPERCHETHULIN",
+            "29/10/2026"
+          ],
+          [
             "LE PARC",
             "23/10/2026"
+          ],
+          [
+            "MARMOTTE",
+            "29/10/2026"
           ],
           [
             "MOHA",
@@ -2391,11 +2487,11 @@
             "26/10/2026"
           ]
         ],
-        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 En cours AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours TENNISSIMO 22/10/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JAS - G151, F151, M1BC1*, M2, M3, M4, D1BC1*, D2, D3, D4, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours PRIMEROSE 22/10/2026 Ethias Junior Tour - G112, G132, G152, F112, F132, F152, U92 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, "
+        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Inscriptions clôturées CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 Inscriptions clôturées LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 En cours CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 En cours AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G1"
       },
       "GET /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 53950,
+        "laenge": 60796,
         "turniere": [
           [
             "AMAY",
@@ -2412,6 +2508,10 @@
           [
             "CASTLE CLUB",
             "26/10/2026"
+          ],
+          [
+            "CASTLE CLUB",
+            "29/10/2026"
           ],
           [
             "CITADELLE",
@@ -2446,8 +2546,16 @@
             "22/10/2026"
           ],
           [
+            "LAPERCHETHULIN",
+            "29/10/2026"
+          ],
+          [
             "LE PARC",
             "23/10/2026"
+          ],
+          [
+            "MARMOTTE",
+            "29/10/2026"
           ],
           [
             "MOHA",
@@ -2494,11 +2602,11 @@
             "26/10/2026"
           ]
         ],
-        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 En cours AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours TENNISSIMO 22/10/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JAS - G151, F151, M1BC1*, M2, M3, M4, D1BC1*, D2, D3, D4, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours PRIMEROSE 22/10/2026 Ethias Junior Tour - G112, G132, G152, F112, F132, F152, U92 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, "
+        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Inscriptions clôturées CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 Inscriptions clôturées LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 En cours CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 En cours AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G1"
       },
       "POST /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 53950,
+        "laenge": 60796,
         "turniere": [
           [
             "AMAY",
@@ -2515,6 +2623,10 @@
           [
             "CASTLE CLUB",
             "26/10/2026"
+          ],
+          [
+            "CASTLE CLUB",
+            "29/10/2026"
           ],
           [
             "CITADELLE",
@@ -2549,8 +2661,16 @@
             "22/10/2026"
           ],
           [
+            "LAPERCHETHULIN",
+            "29/10/2026"
+          ],
+          [
             "LE PARC",
             "23/10/2026"
+          ],
+          [
+            "MARMOTTE",
+            "29/10/2026"
           ],
           [
             "MOHA",
@@ -2597,11 +2717,11 @@
             "26/10/2026"
           ]
         ],
-        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 En cours AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours TENNISSIMO 22/10/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JAS - G151, F151, M1BC1*, M2, M3, M4, D1BC1*, D2, D3, D4, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours PRIMEROSE 22/10/2026 Ethias Junior Tour - G112, G132, G152, F112, F132, F152, U92 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, "
+        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Inscriptions clôturées CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 Inscriptions clôturées LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 En cours CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 En cours AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G1"
       },
       "GET /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 53950,
+        "laenge": 60796,
         "turniere": [
           [
             "AMAY",
@@ -2618,6 +2738,10 @@
           [
             "CASTLE CLUB",
             "26/10/2026"
+          ],
+          [
+            "CASTLE CLUB",
+            "29/10/2026"
           ],
           [
             "CITADELLE",
@@ -2652,8 +2776,16 @@
             "22/10/2026"
           ],
           [
+            "LAPERCHETHULIN",
+            "29/10/2026"
+          ],
+          [
             "LE PARC",
             "23/10/2026"
+          ],
+          [
+            "MARMOTTE",
+            "29/10/2026"
           ],
           [
             "MOHA",
@@ -2700,11 +2832,11 @@
             "26/10/2026"
           ]
         ],
-        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 En cours AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours TENNISSIMO 22/10/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JAS - G151, F151, M1BC1*, M2, M3, M4, D1BC1*, D2, D3, D4, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours PRIMEROSE 22/10/2026 Ethias Junior Tour - G112, G132, G152, F112, F132, F152, U92 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, "
+        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Inscriptions clôturées CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 Inscriptions clôturées LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 En cours CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 En cours AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G1"
       },
       "POST /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 53950,
+        "laenge": 60796,
         "turniere": [
           [
             "AMAY",
@@ -2721,6 +2853,10 @@
           [
             "CASTLE CLUB",
             "26/10/2026"
+          ],
+          [
+            "CASTLE CLUB",
+            "29/10/2026"
           ],
           [
             "CITADELLE",
@@ -2755,8 +2891,16 @@
             "22/10/2026"
           ],
           [
+            "LAPERCHETHULIN",
+            "29/10/2026"
+          ],
+          [
             "LE PARC",
             "23/10/2026"
+          ],
+          [
+            "MARMOTTE",
+            "29/10/2026"
           ],
           [
             "MOHA",
@@ -2803,11 +2947,11 @@
             "26/10/2026"
           ]
         ],
-        "auszug": "CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 En cours AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours TENNISSIMO 22/10/2026 CRITERIUM ADULTES - BC SM I* / BC SD I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JAS - G151, F151, M1BC1*, M2, M3, M4, D1BC1*, D2, D3, D4, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours PRIMEROSE 22/10/2026 Ethias Junior Tour - G112, G132, G152, F112, F132, F152, U92 En cours MONSRAECT 22/10/2026 Criterium Vétérans by Cornet- Jeunes grades 1 à 3 JV - G151, F151, M501, M502, M503, "
+        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Inscriptions clôturées CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 Inscriptions clôturées LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 Inscriptions clôturées BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 En cours CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 En cours AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G1"
       },
       "GET /MyAFT/Competitions/TournamentNews []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 144481,
+        "laenge": 141879,
         "turniere": [
           [
             "BEAUFAYS",
@@ -2910,10 +3054,6 @@
             "21/01/2027"
           ],
           [
-            "MARMOTTE",
-            "29/10/2026"
-          ],
-          [
             "MOSA",
             "17/12/2026"
           ],
@@ -2974,11 +3114,11 @@
             "25/02/2027"
           ]
         ],
-        "auszug": "Actualités tournois En cours A venir Passés Tous Afficher les onglets Près de chez moi Brabant Hainaut Liège Namur-Luxembourg Mes tournois Sélectionnez un mois... Novembre 2025 Décembre 2025 Janvier 2026 Février 2026 Mars 2026 Avril 2026 Mai 2026 Juin 2026 Juillet 2026 Août 2026 Septembre 2026 Octobre 2026 Novembre 2026 Décembre 2026 Semaine... du 26/09 au 04/10 du 03/10 au 11/10 du 10/10 au 18/10 du 17/10 au 25/10 du 24/10 au 01/11 du 31/10 au 08/11 Catégorie... Trier par... Tri par club Tri par date MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Tournoi complet FLEMALLE 12/11/2026 CRITERIUM ADULTES - BC SD I* AVSD - DM3, DM4, DD6, DMX4, M4, M5, D1BC1*, D2, D3, M352, M353, D253, D254 Tournoi complet SMASH 2000 12/11/2026 Ethias Junior Tour GRADE 2 (JG/JF -15 -13) (se joue uniquement sur les deux week-ends) J - G132, G152, F132, F152 M'inscrire CALAMINE 19/11/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 - Doubles Dames TWB JAVD - DM2, DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, G112, G132, G152, F112, F132, F152, U92 M'inscrire SMASH 2000 26/11/2026 CRITERIUM ADULTES (se joue uniquement sur les deux week-ends) A - M5, M6 Ouverture des inscriptions le 03/11/2026 à partir de 19:00 - M4 Ouverture des inscriptions le 03/11/2026 à partir de 20:00 CONDROZ 26/11/2026 CRITERIUM ADULTES (se joue uniquement sur les deux week-ends) AVS - D2, D4 Ouverture des inscriptions le 02/11/2026 à partir de 20:00 - M504 Ouverture des inscriptions le 02/11/2026 à partir de 21:00 - M4 Ouverture des inscriptions le 03/11/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 03/11/2026 à partir de 21:00 BEAUFAYS 13/12/2026 CIRCUIT CHALLENGE CLUBS 12 METRES JS - U7 Ouverture des inscriptions le 16/11/2026 à partir de 19:00 THEUX 16/12/2026 CIRCUIT CHALLENGE CLUBS 12 METRES J - U7 Ouverture des inscriptions le 16/11/2026 à partir de 19:00 BEAUFAYS 17/12/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Ouverture des inscriptions le 23/11/2026 à partir de 19:00 MAISONBOIS 17/12/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - G111, G112, G113, G132, G133, F11"
+        "auszug": "Actualités tournois En cours A venir Passés Tous Afficher les onglets Près de chez moi Brabant Hainaut Liège Namur-Luxembourg Mes tournois Sélectionnez un mois... Novembre 2025 Décembre 2025 Janvier 2026 Février 2026 Mars 2026 Avril 2026 Mai 2026 Juin 2026 Juillet 2026 Août 2026 Septembre 2026 Octobre 2026 Novembre 2026 Décembre 2026 Semaine... du 26/09 au 04/10 du 03/10 au 11/10 du 10/10 au 18/10 du 17/10 au 25/10 du 24/10 au 01/11 du 31/10 au 08/11 Catégorie... Trier par... Tri par club Tri par date FLEMALLE 12/11/2026 CRITERIUM ADULTES - BC SD I* AVSD - DM3, DM4, DD6, DMX4, M4, M5, D1BC1*, D2, D3, M352, M353, D253, D254 Tournoi complet SMASH 2000 12/11/2026 Ethias Junior Tour GRADE 2 (JG/JF -15 -13) (se joue uniquement sur les deux week-ends) J - G132, G152, F132, F152 M'inscrire CALAMINE 19/11/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 - Doubles Dames TWB JAVD - DM2, DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, G112, G132, G152, F112, F132, F152, U92 Tournoi complet SMASH 2000 26/11/2026 CRITERIUM ADULTES (se joue uniquement sur les deux week-ends) A - M5, M6 Ouverture des inscriptions le 03/11/2026 à partir de 19:00 - M4 Ouverture des inscriptions le 03/11/2026 à partir de 20:00 CONDROZ 26/11/2026 CRITERIUM ADULTES (se joue uniquement sur les deux week-ends) AVS - D2, D4 Ouverture des inscriptions le 02/11/2026 à partir de 20:00 - M504 Ouverture des inscriptions le 02/11/2026 à partir de 21:00 - M4 Ouverture des inscriptions le 03/11/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 03/11/2026 à partir de 21:00 BEAUFAYS 13/12/2026 CIRCUIT CHALLENGE CLUBS 12 METRES JS - U7 Ouverture des inscriptions le 16/11/2026 à partir de 19:00 THEUX 16/12/2026 CIRCUIT CHALLENGE CLUBS 12 METRES J - U7 Ouverture des inscriptions le 16/11/2026 à partir de 19:00 BEAUFAYS 17/12/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Ouverture des inscriptions le 23/11/2026 à partir de 19:00 MAISONBOIS 17/12/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - G111, G112, G113, G132, G133, F111, F112, F113, F132, F133, U91, U92, U93 Ouverture des inscriptions le 23/11/2026 à partir de 19:00 - DM2, DM3, DM4, DD4, DMX3, DMX4, D2, D3 Ouverture des inscriptions le 23/11/2026 à partir de 20:00 - M502, M503, M353, M354, D252, D253 Ouverture d"
       },
       "POST /MyAFT/Competitions/TournamentNews []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 144481,
+        "laenge": 141879,
         "turniere": [
           [
             "BEAUFAYS",
@@ -3081,10 +3221,6 @@
             "21/01/2027"
           ],
           [
-            "MARMOTTE",
-            "29/10/2026"
-          ],
-          [
             "MOSA",
             "17/12/2026"
           ],
@@ -3145,11 +3281,11 @@
             "25/02/2027"
           ]
         ],
-        "auszug": "Actualités tournois En cours A venir Passés Tous Afficher les onglets Près de chez moi Brabant Hainaut Liège Namur-Luxembourg Mes tournois Sélectionnez un mois... Novembre 2025 Décembre 2025 Janvier 2026 Février 2026 Mars 2026 Avril 2026 Mai 2026 Juin 2026 Juillet 2026 Août 2026 Septembre 2026 Octobre 2026 Novembre 2026 Décembre 2026 Semaine... du 26/09 au 04/10 du 03/10 au 11/10 du 10/10 au 18/10 du 17/10 au 25/10 du 24/10 au 01/11 du 31/10 au 08/11 Catégorie... Trier par... Tri par club Tri par date MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Tournoi complet FLEMALLE 12/11/2026 CRITERIUM ADULTES - BC SD I* AVSD - DM3, DM4, DD6, DMX4, M4, M5, D1BC1*, D2, D3, M352, M353, D253, D254 Tournoi complet SMASH 2000 12/11/2026 Ethias Junior Tour GRADE 2 (JG/JF -15 -13) (se joue uniquement sur les deux week-ends) J - G132, G152, F132, F152 M'inscrire CALAMINE 19/11/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 - Doubles Dames TWB JAVD - DM2, DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, G112, G132, G152, F112, F132, F152, U92 M'inscrire SMASH 2000 26/11/2026 CRITERIUM ADULTES (se joue uniquement sur les deux week-ends) A - M5, M6 Ouverture des inscriptions le 03/11/2026 à partir de 19:00 - M4 Ouverture des inscriptions le 03/11/2026 à partir de 20:00 CONDROZ 26/11/2026 CRITERIUM ADULTES (se joue uniquement sur les deux week-ends) AVS - D2, D4 Ouverture des inscriptions le 02/11/2026 à partir de 20:00 - M504 Ouverture des inscriptions le 02/11/2026 à partir de 21:00 - M4 Ouverture des inscriptions le 03/11/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 03/11/2026 à partir de 21:00 BEAUFAYS 13/12/2026 CIRCUIT CHALLENGE CLUBS 12 METRES JS - U7 Ouverture des inscriptions le 16/11/2026 à partir de 19:00 THEUX 16/12/2026 CIRCUIT CHALLENGE CLUBS 12 METRES J - U7 Ouverture des inscriptions le 16/11/2026 à partir de 19:00 BEAUFAYS 17/12/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Ouverture des inscriptions le 23/11/2026 à partir de 19:00 MAISONBOIS 17/12/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - G111, G112, G113, G132, G133, F11"
+        "auszug": "Actualités tournois En cours A venir Passés Tous Afficher les onglets Près de chez moi Brabant Hainaut Liège Namur-Luxembourg Mes tournois Sélectionnez un mois... Novembre 2025 Décembre 2025 Janvier 2026 Février 2026 Mars 2026 Avril 2026 Mai 2026 Juin 2026 Juillet 2026 Août 2026 Septembre 2026 Octobre 2026 Novembre 2026 Décembre 2026 Semaine... du 26/09 au 04/10 du 03/10 au 11/10 du 10/10 au 18/10 du 17/10 au 25/10 du 24/10 au 01/11 du 31/10 au 08/11 Catégorie... Trier par... Tri par club Tri par date FLEMALLE 12/11/2026 CRITERIUM ADULTES - BC SD I* AVSD - DM3, DM4, DD6, DMX4, M4, M5, D1BC1*, D2, D3, M352, M353, D253, D254 Tournoi complet SMASH 2000 12/11/2026 Ethias Junior Tour GRADE 2 (JG/JF -15 -13) (se joue uniquement sur les deux week-ends) J - G132, G152, F132, F152 M'inscrire CALAMINE 19/11/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 - Doubles Dames TWB JAVD - DM2, DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, G112, G132, G152, F112, F132, F152, U92 Tournoi complet SMASH 2000 26/11/2026 CRITERIUM ADULTES (se joue uniquement sur les deux week-ends) A - M5, M6 Ouverture des inscriptions le 03/11/2026 à partir de 19:00 - M4 Ouverture des inscriptions le 03/11/2026 à partir de 20:00 CONDROZ 26/11/2026 CRITERIUM ADULTES (se joue uniquement sur les deux week-ends) AVS - D2, D4 Ouverture des inscriptions le 02/11/2026 à partir de 20:00 - M504 Ouverture des inscriptions le 02/11/2026 à partir de 21:00 - M4 Ouverture des inscriptions le 03/11/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 03/11/2026 à partir de 21:00 BEAUFAYS 13/12/2026 CIRCUIT CHALLENGE CLUBS 12 METRES JS - U7 Ouverture des inscriptions le 16/11/2026 à partir de 19:00 THEUX 16/12/2026 CIRCUIT CHALLENGE CLUBS 12 METRES J - U7 Ouverture des inscriptions le 16/11/2026 à partir de 19:00 BEAUFAYS 17/12/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Ouverture des inscriptions le 23/11/2026 à partir de 19:00 MAISONBOIS 17/12/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - G111, G112, G113, G132, G133, F111, F112, F113, F132, F133, U91, U92, U93 Ouverture des inscriptions le 23/11/2026 à partir de 19:00 - DM2, DM3, DM4, DD4, DMX3, DMX4, D2, D3 Ouverture des inscriptions le 23/11/2026 à partir de 20:00 - M502, M503, M353, M354, D252, D253 Ouverture d"
       },
       "GET /MyAFT/Competitions/TournamentNews ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 144481,
+        "laenge": 141879,
         "turniere": [
           [
             "BEAUFAYS",
@@ -3252,10 +3388,6 @@
             "21/01/2027"
           ],
           [
-            "MARMOTTE",
-            "29/10/2026"
-          ],
-          [
             "MOSA",
             "17/12/2026"
           ],
@@ -3316,11 +3448,11 @@
             "25/02/2027"
           ]
         ],
-        "auszug": "Actualités tournois En cours A venir Passés Tous Afficher les onglets Près de chez moi Brabant Hainaut Liège Namur-Luxembourg Mes tournois Sélectionnez un mois... Novembre 2025 Décembre 2025 Janvier 2026 Février 2026 Mars 2026 Avril 2026 Mai 2026 Juin 2026 Juillet 2026 Août 2026 Septembre 2026 Octobre 2026 Novembre 2026 Décembre 2026 Semaine... du 26/09 au 04/10 du 03/10 au 11/10 du 10/10 au 18/10 du 17/10 au 25/10 du 24/10 au 01/11 du 31/10 au 08/11 Catégorie... Trier par... Tri par club Tri par date MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Tournoi complet FLEMALLE 12/11/2026 CRITERIUM ADULTES - BC SD I* AVSD - DM3, DM4, DD6, DMX4, M4, M5, D1BC1*, D2, D3, M352, M353, D253, D254 Tournoi complet SMASH 2000 12/11/2026 Ethias Junior Tour GRADE 2 (JG/JF -15 -13) (se joue uniquement sur les deux week-ends) J - G132, G152, F132, F152 M'inscrire CALAMINE 19/11/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 - Doubles Dames TWB JAVD - DM2, DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, G112, G132, G152, F112, F132, F152, U92 M'inscrire SMASH 2000 26/11/2026 CRITERIUM ADULTES (se joue uniquement sur les deux week-ends) A - M5, M6 Ouverture des inscriptions le 03/11/2026 à partir de 19:00 - M4 Ouverture des inscriptions le 03/11/2026 à partir de 20:00 CONDROZ 26/11/2026 CRITERIUM ADULTES (se joue uniquement sur les deux week-ends) AVS - D2, D4 Ouverture des inscriptions le 02/11/2026 à partir de 20:00 - M504 Ouverture des inscriptions le 02/11/2026 à partir de 21:00 - M4 Ouverture des inscriptions le 03/11/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 03/11/2026 à partir de 21:00 BEAUFAYS 13/12/2026 CIRCUIT CHALLENGE CLUBS 12 METRES JS - U7 Ouverture des inscriptions le 16/11/2026 à partir de 19:00 THEUX 16/12/2026 CIRCUIT CHALLENGE CLUBS 12 METRES J - U7 Ouverture des inscriptions le 16/11/2026 à partir de 19:00 BEAUFAYS 17/12/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Ouverture des inscriptions le 23/11/2026 à partir de 19:00 MAISONBOIS 17/12/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - G111, G112, G113, G132, G133, F11"
+        "auszug": "Actualités tournois En cours A venir Passés Tous Afficher les onglets Près de chez moi Brabant Hainaut Liège Namur-Luxembourg Mes tournois Sélectionnez un mois... Novembre 2025 Décembre 2025 Janvier 2026 Février 2026 Mars 2026 Avril 2026 Mai 2026 Juin 2026 Juillet 2026 Août 2026 Septembre 2026 Octobre 2026 Novembre 2026 Décembre 2026 Semaine... du 26/09 au 04/10 du 03/10 au 11/10 du 10/10 au 18/10 du 17/10 au 25/10 du 24/10 au 01/11 du 31/10 au 08/11 Catégorie... Trier par... Tri par club Tri par date FLEMALLE 12/11/2026 CRITERIUM ADULTES - BC SD I* AVSD - DM3, DM4, DD6, DMX4, M4, M5, D1BC1*, D2, D3, M352, M353, D253, D254 Tournoi complet SMASH 2000 12/11/2026 Ethias Junior Tour GRADE 2 (JG/JF -15 -13) (se joue uniquement sur les deux week-ends) J - G132, G152, F132, F152 M'inscrire CALAMINE 19/11/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 - Doubles Dames TWB JAVD - DM2, DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, G112, G132, G152, F112, F132, F152, U92 Tournoi complet SMASH 2000 26/11/2026 CRITERIUM ADULTES (se joue uniquement sur les deux week-ends) A - M5, M6 Ouverture des inscriptions le 03/11/2026 à partir de 19:00 - M4 Ouverture des inscriptions le 03/11/2026 à partir de 20:00 CONDROZ 26/11/2026 CRITERIUM ADULTES (se joue uniquement sur les deux week-ends) AVS - D2, D4 Ouverture des inscriptions le 02/11/2026 à partir de 20:00 - M504 Ouverture des inscriptions le 02/11/2026 à partir de 21:00 - M4 Ouverture des inscriptions le 03/11/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 03/11/2026 à partir de 21:00 BEAUFAYS 13/12/2026 CIRCUIT CHALLENGE CLUBS 12 METRES JS - U7 Ouverture des inscriptions le 16/11/2026 à partir de 19:00 THEUX 16/12/2026 CIRCUIT CHALLENGE CLUBS 12 METRES J - U7 Ouverture des inscriptions le 16/11/2026 à partir de 19:00 BEAUFAYS 17/12/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Ouverture des inscriptions le 23/11/2026 à partir de 19:00 MAISONBOIS 17/12/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - G111, G112, G113, G132, G133, F111, F112, F113, F132, F133, U91, U92, U93 Ouverture des inscriptions le 23/11/2026 à partir de 19:00 - DM2, DM3, DM4, DD4, DMX3, DMX4, D2, D3 Ouverture des inscriptions le 23/11/2026 à partir de 20:00 - M502, M503, M353, M354, D252, D253 Ouverture d"
       },
       "POST /MyAFT/Competitions/TournamentNews ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 144481,
+        "laenge": 141879,
         "turniere": [
           [
             "BEAUFAYS",
@@ -3423,10 +3555,6 @@
             "21/01/2027"
           ],
           [
-            "MARMOTTE",
-            "29/10/2026"
-          ],
-          [
             "MOSA",
             "17/12/2026"
           ],
@@ -3487,11 +3615,11 @@
             "25/02/2027"
           ]
         ],
-        "auszug": "Actualités tournois En cours A venir Passés Tous Afficher les onglets Près de chez moi Brabant Hainaut Liège Namur-Luxembourg Mes tournois Sélectionnez un mois... Novembre 2025 Décembre 2025 Janvier 2026 Février 2026 Mars 2026 Avril 2026 Mai 2026 Juin 2026 Juillet 2026 Août 2026 Septembre 2026 Octobre 2026 Novembre 2026 Décembre 2026 Semaine... du 26/09 au 04/10 du 03/10 au 11/10 du 10/10 au 18/10 du 17/10 au 25/10 du 24/10 au 01/11 du 31/10 au 08/11 Catégorie... Trier par... Tri par club Tri par date MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Tournoi complet FLEMALLE 12/11/2026 CRITERIUM ADULTES - BC SD I* AVSD - DM3, DM4, DD6, DMX4, M4, M5, D1BC1*, D2, D3, M352, M353, D253, D254 Tournoi complet SMASH 2000 12/11/2026 Ethias Junior Tour GRADE 2 (JG/JF -15 -13) (se joue uniquement sur les deux week-ends) J - G132, G152, F132, F152 M'inscrire CALAMINE 19/11/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 - Doubles Dames TWB JAVD - DM2, DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, G112, G132, G152, F112, F132, F152, U92 M'inscrire SMASH 2000 26/11/2026 CRITERIUM ADULTES (se joue uniquement sur les deux week-ends) A - M5, M6 Ouverture des inscriptions le 03/11/2026 à partir de 19:00 - M4 Ouverture des inscriptions le 03/11/2026 à partir de 20:00 CONDROZ 26/11/2026 CRITERIUM ADULTES (se joue uniquement sur les deux week-ends) AVS - D2, D4 Ouverture des inscriptions le 02/11/2026 à partir de 20:00 - M504 Ouverture des inscriptions le 02/11/2026 à partir de 21:00 - M4 Ouverture des inscriptions le 03/11/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 03/11/2026 à partir de 21:00 BEAUFAYS 13/12/2026 CIRCUIT CHALLENGE CLUBS 12 METRES JS - U7 Ouverture des inscriptions le 16/11/2026 à partir de 19:00 THEUX 16/12/2026 CIRCUIT CHALLENGE CLUBS 12 METRES J - U7 Ouverture des inscriptions le 16/11/2026 à partir de 19:00 BEAUFAYS 17/12/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Ouverture des inscriptions le 23/11/2026 à partir de 19:00 MAISONBOIS 17/12/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - G111, G112, G113, G132, G133, F11"
+        "auszug": "Actualités tournois En cours A venir Passés Tous Afficher les onglets Près de chez moi Brabant Hainaut Liège Namur-Luxembourg Mes tournois Sélectionnez un mois... Novembre 2025 Décembre 2025 Janvier 2026 Février 2026 Mars 2026 Avril 2026 Mai 2026 Juin 2026 Juillet 2026 Août 2026 Septembre 2026 Octobre 2026 Novembre 2026 Décembre 2026 Semaine... du 26/09 au 04/10 du 03/10 au 11/10 du 10/10 au 18/10 du 17/10 au 25/10 du 24/10 au 01/11 du 31/10 au 08/11 Catégorie... Trier par... Tri par club Tri par date FLEMALLE 12/11/2026 CRITERIUM ADULTES - BC SD I* AVSD - DM3, DM4, DD6, DMX4, M4, M5, D1BC1*, D2, D3, M352, M353, D253, D254 Tournoi complet SMASH 2000 12/11/2026 Ethias Junior Tour GRADE 2 (JG/JF -15 -13) (se joue uniquement sur les deux week-ends) J - G132, G152, F132, F152 M'inscrire CALAMINE 19/11/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 - Doubles Dames TWB JAVD - DM2, DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, G112, G132, G152, F112, F132, F152, U92 Tournoi complet SMASH 2000 26/11/2026 CRITERIUM ADULTES (se joue uniquement sur les deux week-ends) A - M5, M6 Ouverture des inscriptions le 03/11/2026 à partir de 19:00 - M4 Ouverture des inscriptions le 03/11/2026 à partir de 20:00 CONDROZ 26/11/2026 CRITERIUM ADULTES (se joue uniquement sur les deux week-ends) AVS - D2, D4 Ouverture des inscriptions le 02/11/2026 à partir de 20:00 - M504 Ouverture des inscriptions le 02/11/2026 à partir de 21:00 - M4 Ouverture des inscriptions le 03/11/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 03/11/2026 à partir de 21:00 BEAUFAYS 13/12/2026 CIRCUIT CHALLENGE CLUBS 12 METRES JS - U7 Ouverture des inscriptions le 16/11/2026 à partir de 19:00 THEUX 16/12/2026 CIRCUIT CHALLENGE CLUBS 12 METRES J - U7 Ouverture des inscriptions le 16/11/2026 à partir de 19:00 BEAUFAYS 17/12/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Ouverture des inscriptions le 23/11/2026 à partir de 19:00 MAISONBOIS 17/12/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - G111, G112, G113, G132, G133, F111, F112, F113, F132, F133, U91, U92, U93 Ouverture des inscriptions le 23/11/2026 à partir de 19:00 - DM2, DM3, DM4, DD4, DMX3, DMX4, D2, D3 Ouverture des inscriptions le 23/11/2026 à partir de 20:00 - M502, M503, M353, M354, D252, D253 Ouverture d"
       },
       "GET /MyAFT/Competitions/TournamentNews ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 144481,
+        "laenge": 141879,
         "turniere": [
           [
             "BEAUFAYS",
@@ -3594,10 +3722,6 @@
             "21/01/2027"
           ],
           [
-            "MARMOTTE",
-            "29/10/2026"
-          ],
-          [
             "MOSA",
             "17/12/2026"
           ],
@@ -3658,11 +3782,11 @@
             "25/02/2027"
           ]
         ],
-        "auszug": "Actualités tournois En cours A venir Passés Tous Afficher les onglets Près de chez moi Brabant Hainaut Liège Namur-Luxembourg Mes tournois Sélectionnez un mois... Novembre 2025 Décembre 2025 Janvier 2026 Février 2026 Mars 2026 Avril 2026 Mai 2026 Juin 2026 Juillet 2026 Août 2026 Septembre 2026 Octobre 2026 Novembre 2026 Décembre 2026 Semaine... du 26/09 au 04/10 du 03/10 au 11/10 du 10/10 au 18/10 du 17/10 au 25/10 du 24/10 au 01/11 du 31/10 au 08/11 Catégorie... Trier par... Tri par club Tri par date MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Tournoi complet FLEMALLE 12/11/2026 CRITERIUM ADULTES - BC SD I* AVSD - DM3, DM4, DD6, DMX4, M4, M5, D1BC1*, D2, D3, M352, M353, D253, D254 Tournoi complet SMASH 2000 12/11/2026 Ethias Junior Tour GRADE 2 (JG/JF -15 -13) (se joue uniquement sur les deux week-ends) J - G132, G152, F132, F152 M'inscrire CALAMINE 19/11/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 - Doubles Dames TWB JAVD - DM2, DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, G112, G132, G152, F112, F132, F152, U92 M'inscrire SMASH 2000 26/11/2026 CRITERIUM ADULTES (se joue uniquement sur les deux week-ends) A - M5, M6 Ouverture des inscriptions le 03/11/2026 à partir de 19:00 - M4 Ouverture des inscriptions le 03/11/2026 à partir de 20:00 CONDROZ 26/11/2026 CRITERIUM ADULTES (se joue uniquement sur les deux week-ends) AVS - D2, D4 Ouverture des inscriptions le 02/11/2026 à partir de 20:00 - M504 Ouverture des inscriptions le 02/11/2026 à partir de 21:00 - M4 Ouverture des inscriptions le 03/11/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 03/11/2026 à partir de 21:00 BEAUFAYS 13/12/2026 CIRCUIT CHALLENGE CLUBS 12 METRES JS - U7 Ouverture des inscriptions le 16/11/2026 à partir de 19:00 THEUX 16/12/2026 CIRCUIT CHALLENGE CLUBS 12 METRES J - U7 Ouverture des inscriptions le 16/11/2026 à partir de 19:00 BEAUFAYS 17/12/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Ouverture des inscriptions le 23/11/2026 à partir de 19:00 MAISONBOIS 17/12/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - G111, G112, G113, G132, G133, F11"
+        "auszug": "Actualités tournois En cours A venir Passés Tous Afficher les onglets Près de chez moi Brabant Hainaut Liège Namur-Luxembourg Mes tournois Sélectionnez un mois... Novembre 2025 Décembre 2025 Janvier 2026 Février 2026 Mars 2026 Avril 2026 Mai 2026 Juin 2026 Juillet 2026 Août 2026 Septembre 2026 Octobre 2026 Novembre 2026 Décembre 2026 Semaine... du 26/09 au 04/10 du 03/10 au 11/10 du 10/10 au 18/10 du 17/10 au 25/10 du 24/10 au 01/11 du 31/10 au 08/11 Catégorie... Trier par... Tri par club Tri par date FLEMALLE 12/11/2026 CRITERIUM ADULTES - BC SD I* AVSD - DM3, DM4, DD6, DMX4, M4, M5, D1BC1*, D2, D3, M352, M353, D253, D254 Tournoi complet SMASH 2000 12/11/2026 Ethias Junior Tour GRADE 2 (JG/JF -15 -13) (se joue uniquement sur les deux week-ends) J - G132, G152, F132, F152 M'inscrire CALAMINE 19/11/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 - Doubles Dames TWB JAVD - DM2, DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, G112, G132, G152, F112, F132, F152, U92 Tournoi complet SMASH 2000 26/11/2026 CRITERIUM ADULTES (se joue uniquement sur les deux week-ends) A - M5, M6 Ouverture des inscriptions le 03/11/2026 à partir de 19:00 - M4 Ouverture des inscriptions le 03/11/2026 à partir de 20:00 CONDROZ 26/11/2026 CRITERIUM ADULTES (se joue uniquement sur les deux week-ends) AVS - D2, D4 Ouverture des inscriptions le 02/11/2026 à partir de 20:00 - M504 Ouverture des inscriptions le 02/11/2026 à partir de 21:00 - M4 Ouverture des inscriptions le 03/11/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 03/11/2026 à partir de 21:00 BEAUFAYS 13/12/2026 CIRCUIT CHALLENGE CLUBS 12 METRES JS - U7 Ouverture des inscriptions le 16/11/2026 à partir de 19:00 THEUX 16/12/2026 CIRCUIT CHALLENGE CLUBS 12 METRES J - U7 Ouverture des inscriptions le 16/11/2026 à partir de 19:00 BEAUFAYS 17/12/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Ouverture des inscriptions le 23/11/2026 à partir de 19:00 MAISONBOIS 17/12/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - G111, G112, G113, G132, G133, F111, F112, F113, F132, F133, U91, U92, U93 Ouverture des inscriptions le 23/11/2026 à partir de 19:00 - DM2, DM3, DM4, DD4, DMX3, DMX4, D2, D3 Ouverture des inscriptions le 23/11/2026 à partir de 20:00 - M502, M503, M353, M354, D252, D253 Ouverture d"
       },
       "POST /MyAFT/Competitions/TournamentNews ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 144481,
+        "laenge": 141879,
         "turniere": [
           [
             "BEAUFAYS",
@@ -3765,10 +3889,6 @@
             "21/01/2027"
           ],
           [
-            "MARMOTTE",
-            "29/10/2026"
-          ],
-          [
             "MOSA",
             "17/12/2026"
           ],
@@ -3829,11 +3949,11 @@
             "25/02/2027"
           ]
         ],
-        "auszug": "Actualités tournois En cours A venir Passés Tous Afficher les onglets Près de chez moi Brabant Hainaut Liège Namur-Luxembourg Mes tournois Sélectionnez un mois... Novembre 2025 Décembre 2025 Janvier 2026 Février 2026 Mars 2026 Avril 2026 Mai 2026 Juin 2026 Juillet 2026 Août 2026 Septembre 2026 Octobre 2026 Novembre 2026 Décembre 2026 Semaine... du 26/09 au 04/10 du 03/10 au 11/10 du 10/10 au 18/10 du 17/10 au 25/10 du 24/10 au 01/11 du 31/10 au 08/11 Catégorie... Trier par... Tri par club Tri par date MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 Tournoi complet FLEMALLE 12/11/2026 CRITERIUM ADULTES - BC SD I* AVSD - DM3, DM4, DD6, DMX4, M4, M5, D1BC1*, D2, D3, M352, M353, D253, D254 Tournoi complet SMASH 2000 12/11/2026 Ethias Junior Tour GRADE 2 (JG/JF -15 -13) (se joue uniquement sur les deux week-ends) J - G132, G152, F132, F152 M'inscrire CALAMINE 19/11/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 - Doubles Dames TWB JAVD - DM2, DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, G112, G132, G152, F112, F132, F152, U92 M'inscrire SMASH 2000 26/11/2026 CRITERIUM ADULTES (se joue uniquement sur les deux week-ends) A - M5, M6 Ouverture des inscriptions le 03/11/2026 à partir de 19:00 - M4 Ouverture des inscriptions le 03/11/2026 à partir de 20:00 CONDROZ 26/11/2026 CRITERIUM ADULTES (se joue uniquement sur les deux week-ends) AVS - D2, D4 Ouverture des inscriptions le 02/11/2026 à partir de 20:00 - M504 Ouverture des inscriptions le 02/11/2026 à partir de 21:00 - M4 Ouverture des inscriptions le 03/11/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 03/11/2026 à partir de 21:00 BEAUFAYS 13/12/2026 CIRCUIT CHALLENGE CLUBS 12 METRES JS - U7 Ouverture des inscriptions le 16/11/2026 à partir de 19:00 THEUX 16/12/2026 CIRCUIT CHALLENGE CLUBS 12 METRES J - U7 Ouverture des inscriptions le 16/11/2026 à partir de 19:00 BEAUFAYS 17/12/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Ouverture des inscriptions le 23/11/2026 à partir de 19:00 MAISONBOIS 17/12/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - G111, G112, G113, G132, G133, F11"
+        "auszug": "Actualités tournois En cours A venir Passés Tous Afficher les onglets Près de chez moi Brabant Hainaut Liège Namur-Luxembourg Mes tournois Sélectionnez un mois... Novembre 2025 Décembre 2025 Janvier 2026 Février 2026 Mars 2026 Avril 2026 Mai 2026 Juin 2026 Juillet 2026 Août 2026 Septembre 2026 Octobre 2026 Novembre 2026 Décembre 2026 Semaine... du 26/09 au 04/10 du 03/10 au 11/10 du 10/10 au 18/10 du 17/10 au 25/10 du 24/10 au 01/11 du 31/10 au 08/11 Catégorie... Trier par... Tri par club Tri par date FLEMALLE 12/11/2026 CRITERIUM ADULTES - BC SD I* AVSD - DM3, DM4, DD6, DMX4, M4, M5, D1BC1*, D2, D3, M352, M353, D253, D254 Tournoi complet SMASH 2000 12/11/2026 Ethias Junior Tour GRADE 2 (JG/JF -15 -13) (se joue uniquement sur les deux week-ends) J - G132, G152, F132, F152 M'inscrire CALAMINE 19/11/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 - Doubles Dames TWB JAVD - DM2, DM3, DM4, DM5, DM6, DM7, DD3, DD4, DD5, DD6, DD7, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7, G112, G132, G152, F112, F132, F152, U92 Tournoi complet SMASH 2000 26/11/2026 CRITERIUM ADULTES (se joue uniquement sur les deux week-ends) A - M5, M6 Ouverture des inscriptions le 03/11/2026 à partir de 19:00 - M4 Ouverture des inscriptions le 03/11/2026 à partir de 20:00 CONDROZ 26/11/2026 CRITERIUM ADULTES (se joue uniquement sur les deux week-ends) AVS - D2, D4 Ouverture des inscriptions le 02/11/2026 à partir de 20:00 - M504 Ouverture des inscriptions le 02/11/2026 à partir de 21:00 - M4 Ouverture des inscriptions le 03/11/2026 à partir de 20:00 - M2 Ouverture des inscriptions le 03/11/2026 à partir de 21:00 BEAUFAYS 13/12/2026 CIRCUIT CHALLENGE CLUBS 12 METRES JS - U7 Ouverture des inscriptions le 16/11/2026 à partir de 19:00 THEUX 16/12/2026 CIRCUIT CHALLENGE CLUBS 12 METRES J - U7 Ouverture des inscriptions le 16/11/2026 à partir de 19:00 BEAUFAYS 17/12/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Ouverture des inscriptions le 23/11/2026 à partir de 19:00 MAISONBOIS 17/12/2026 CRITERIUM ADULTES - BC SM I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - G111, G112, G113, G132, G133, F111, F112, F113, F132, F133, U91, U92, U93 Ouverture des inscriptions le 23/11/2026 à partir de 19:00 - DM2, DM3, DM4, DD4, DMX3, DMX4, D2, D3 Ouverture des inscriptions le 23/11/2026 à partir de 20:00 - M502, M503, M353, M354, D252, D253 Ouverture d"
       },
       "POST /MyAFT/Competitions/TournamentSearchResultData []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 244925,
+        "laenge": 243687,
         "turniere": [
           [
             "AMAY",
@@ -3874,6 +3994,10 @@
           [
             "BEAUFAYS",
             "17/12/2026"
+          ],
+          [
+            "BJORNSCLUB",
+            "10/12/2026"
           ],
           [
             "BOIS CAMBRE",
@@ -3994,10 +4118,6 @@
           [
             "JENA",
             "22/10/2026"
-          ],
-          [
-            "JENA",
-            "25/02/2027"
           ],
           [
             "JENA",
@@ -4080,7 +4200,7 @@
       },
       "POST /MyAFT/Competitions/TournamentSearchResultData ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 244925,
+        "laenge": 243687,
         "turniere": [
           [
             "AMAY",
@@ -4121,6 +4241,10 @@
           [
             "BEAUFAYS",
             "17/12/2026"
+          ],
+          [
+            "BJORNSCLUB",
+            "10/12/2026"
           ],
           [
             "BOIS CAMBRE",
@@ -4241,10 +4365,6 @@
           [
             "JENA",
             "22/10/2026"
-          ],
-          [
-            "JENA",
-            "25/02/2027"
           ],
           [
             "JENA",
@@ -4327,7 +4447,7 @@
       },
       "POST /MyAFT/Competitions/TournamentSearchResultData ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 244925,
+        "laenge": 243687,
         "turniere": [
           [
             "AMAY",
@@ -4368,6 +4488,10 @@
           [
             "BEAUFAYS",
             "17/12/2026"
+          ],
+          [
+            "BJORNSCLUB",
+            "10/12/2026"
           ],
           [
             "BOIS CAMBRE",
@@ -4491,10 +4615,6 @@
           ],
           [
             "JENA",
-            "25/02/2027"
-          ],
-          [
-            "JENA",
             "31/12/2026"
           ],
           [
@@ -4574,7 +4694,7 @@
       },
       "GET /MyAFT/Competitions/Tournaments []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 287950,
+        "laenge": 285348,
         "turniere": [
           [
             "BEAUFAYS",
@@ -4675,10 +4795,6 @@
           [
             "MARMOTTE",
             "21/01/2027"
-          ],
-          [
-            "MARMOTTE",
-            "29/10/2026"
           ],
           [
             "MOSA",
@@ -4745,7 +4861,7 @@
       },
       "POST /MyAFT/Competitions/Tournaments []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 287950,
+        "laenge": 285348,
         "turniere": [
           [
             "BEAUFAYS",
@@ -4846,10 +4962,6 @@
           [
             "MARMOTTE",
             "21/01/2027"
-          ],
-          [
-            "MARMOTTE",
-            "29/10/2026"
           ],
           [
             "MOSA",
@@ -4916,7 +5028,7 @@
       },
       "GET /MyAFT/Competitions/Tournaments ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 287950,
+        "laenge": 285348,
         "turniere": [
           [
             "BEAUFAYS",
@@ -5017,10 +5129,6 @@
           [
             "MARMOTTE",
             "21/01/2027"
-          ],
-          [
-            "MARMOTTE",
-            "29/10/2026"
           ],
           [
             "MOSA",
@@ -5087,7 +5195,7 @@
       },
       "POST /MyAFT/Competitions/Tournaments ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 287950,
+        "laenge": 285348,
         "turniere": [
           [
             "BEAUFAYS",
@@ -5188,10 +5296,6 @@
           [
             "MARMOTTE",
             "21/01/2027"
-          ],
-          [
-            "MARMOTTE",
-            "29/10/2026"
           ],
           [
             "MOSA",
@@ -5258,7 +5362,7 @@
       },
       "GET /MyAFT/Competitions/Tournaments ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 287950,
+        "laenge": 285348,
         "turniere": [
           [
             "BEAUFAYS",
@@ -5359,10 +5463,6 @@
           [
             "MARMOTTE",
             "21/01/2027"
-          ],
-          [
-            "MARMOTTE",
-            "29/10/2026"
           ],
           [
             "MOSA",
@@ -5429,7 +5529,7 @@
       },
       "POST /MyAFT/Competitions/Tournaments ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 287950,
+        "laenge": 285348,
         "turniere": [
           [
             "BEAUFAYS",
@@ -5530,10 +5630,6 @@
           [
             "MARMOTTE",
             "21/01/2027"
-          ],
-          [
-            "MARMOTTE",
-            "29/10/2026"
           ],
           [
             "MOSA",
@@ -5629,7 +5725,7 @@
       {
         "monat": "12/2026",
         "filter": "C30.6",
-        "treffer": 25,
+        "treffer": 26,
         "abgeschnitten": false
       },
       {
@@ -5661,7 +5757,7 @@
         "provinz_zugeordnet": 257
       }
     ],
-    "anzahl": 295,
+    "anzahl": 296,
     "turniere": [
       {
         "id": "361852",
@@ -13783,7 +13879,7 @@
         "ort": "LA BRUYERE",
         "start": "19/10/2026",
         "anmeldung_bis": "13/10/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "F111",
@@ -14654,7 +14750,7 @@
         "start": "29/10/2026",
         "anmeldung_bis": "27/10/2026",
         "status": "",
-        "beschreibung": "Tournoi complet",
+        "beschreibung": "CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB",
         "kategorien": [
           "D2",
           "D3",
@@ -14757,7 +14853,7 @@
         "start": "05/11/2026",
         "anmeldung_bis": "03/11/2026",
         "status": "",
-        "beschreibung": "",
+        "beschreibung": "Tournoi complet",
         "kategorien": [
           "D252",
           "D5",
@@ -14957,7 +15053,7 @@
         "start": "19/11/2026",
         "anmeldung_bis": "17/11/2026",
         "status": "",
-        "beschreibung": "CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 - Doubles Dames TWB",
+        "beschreibung": "Tournoi complet",
         "kategorien": [
           "DD3",
           "DD4",
@@ -15078,31 +15174,7 @@
           "M603",
           "M604"
         ],
-        "anmeldeoeffnung": [
-          {
-            "kategorien": [
-              "M5",
-              "M6"
-            ],
-            "datum": "27/10/2026",
-            "uhrzeit": "19:00"
-          },
-          {
-            "kategorien": [
-              "M3",
-              "M4"
-            ],
-            "datum": "27/10/2026",
-            "uhrzeit": "20:00"
-          },
-          {
-            "kategorien": [
-              "M2"
-            ],
-            "datum": "27/10/2026",
-            "uhrzeit": "21:00"
-          }
-        ],
+        "anmeldeoeffnung": [],
         "hat_M6": true,
         "hat_M356": true,
         "fuer_c306": true,
@@ -15319,6 +15391,41 @@
         "klubcode": "1010",
         "klub_voll": "WATERLOO TENNIS",
         "provinz": "Brabant/Bruessel"
+      },
+      {
+        "id": "362738",
+        "ort": "BJORNSCLUB",
+        "start": "10/12/2026",
+        "anmeldung_bis": "08/12/2026",
+        "status": "",
+        "beschreibung": "Criterium Adultes doubles",
+        "kategorien": [
+          "DD1",
+          "DD2",
+          "DD3",
+          "DD4",
+          "DD5",
+          "DD6",
+          "DD7",
+          "DM1",
+          "DM2",
+          "DM3",
+          "DM4",
+          "DM5",
+          "DM6",
+          "DM7",
+          "DMX1",
+          "DMX2",
+          "DMX3",
+          "DMX4",
+          "DMX5",
+          "DMX6",
+          "DMX7"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": false,
+        "fuer_c306": true
       },
       {
         "id": "362643",
@@ -18481,11 +18588,11 @@
         "/MyAFT/Competitions/TournamentDetailCategories?idTournoi=362529&amp;subscrStartDate=07%2F12%2F2026&amp;subscrEndDate=29%2F12%2F2026&amp;displaySubscriptions=False&amp;maxSubscriptions=130&amp;tournoiDescription=SAINT-VITH%2007%2F12%2F2026",
         "/MyAFT/Competitions/TournamentDetailDraw?idTournoi=362529",
         "/MyAFT/Competitions/TournamentDetailRegisters?idTournoi=362529",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=271020261000259262&amp;IdTournoi=361671&amp;PathRules=361671_4067.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=271020261000259282&amp;IdTournoi=361706&amp;PathRules=361706_4091.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=271020261000259297&amp;IdTournoi=361794&amp;PathRules=361794_4077.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=271020261000259312&amp;IdTournoi=361804&amp;PathRules=361804_4081.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=271020261000259327&amp;IdTournoi=361818&amp;PathRules=361818_4001.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=281020261040157681&amp;IdTournoi=361671&amp;PathRules=361671_4067.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=281020261040157696&amp;IdTournoi=361706&amp;PathRules=361706_4091.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=281020261040157716&amp;IdTournoi=361794&amp;PathRules=361794_4077.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=281020261040157731&amp;IdTournoi=361804&amp;PathRules=361804_4081.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=281020261040157746&amp;IdTournoi=361818&amp;PathRules=361818_4001.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
         "/MyAFT/Players",
         "/MyAFT/Players/Detail",
         "/MyAFT/Players/GetPlayersAutocomplete",
@@ -18505,7 +18612,7 @@
         "/MyAFT/TournamentSubscription/ConfirmNextOption"
       ],
       "treffer": {
-        "/MyAFT/Players/Index ['idTournoi']": {
+        "/MyAFT/Players/Search ['idTournoi']": {
           "anzahl": 3,
           "spieler": [
             {
@@ -18523,7 +18630,7 @@
           ],
           "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tenni"
         },
-        "/MyAFT/Players/Search ['idTournoi']": {
+        "/MyAFT/Players ['idTournoi']": {
           "anzahl": 3,
           "spieler": [
             {
@@ -18548,11 +18655,11 @@
         "/MyAFT/Competitions/TournamentDetailCategories?idTournoi=362682&amp;subscrStartDate=07%2F12%2F2026&amp;subscrEndDate=04%2F01%2F2027&amp;displaySubscriptions=False&amp;maxSubscriptions=8&amp;tournoiDescription=SAINT-VITH%2007%2F12%2F2026",
         "/MyAFT/Competitions/TournamentDetailDraw?idTournoi=362682",
         "/MyAFT/Competitions/TournamentDetailRegisters?idTournoi=362682",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=271020261000313478&amp;IdTournoi=361671&amp;PathRules=361671_4067.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=271020261000313498&amp;IdTournoi=361706&amp;PathRules=361706_4091.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=271020261000313513&amp;IdTournoi=361794&amp;PathRules=361794_4077.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=271020261000313528&amp;IdTournoi=361804&amp;PathRules=361804_4081.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=271020261000313548&amp;IdTournoi=361818&amp;PathRules=361818_4001.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=281020261040233536&amp;IdTournoi=361671&amp;PathRules=361671_4067.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=281020261040233551&amp;IdTournoi=361706&amp;PathRules=361706_4091.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=281020261040233566&amp;IdTournoi=361794&amp;PathRules=361794_4077.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=281020261040233591&amp;IdTournoi=361804&amp;PathRules=361804_4081.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=281020261040233611&amp;IdTournoi=361818&amp;PathRules=361818_4001.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
         "/MyAFT/Players",
         "/MyAFT/Players/Detail",
         "/MyAFT/Players/GetPlayersAutocomplete",
@@ -18572,7 +18679,7 @@
         "/MyAFT/TournamentSubscription/ConfirmNextOption"
       ],
       "treffer": {
-        "/MyAFT/Players/Index ['idTournoi']": {
+        "/MyAFT/Players/Search ['idTournoi']": {
           "anzahl": 3,
           "spieler": [
             {
@@ -18590,7 +18697,7 @@
           ],
           "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tenni"
         },
-        "/MyAFT/Players/Search ['idTournoi']": {
+        "/MyAFT/Players ['idTournoi']": {
           "anzahl": 3,
           "spieler": [
             {
