@@ -1,5 +1,5 @@
 {
-  "zeit": "2026-11-01T10:27:08.004307+00:00",
+  "zeit": "2026-11-02T11:05:58.831575+00:00",
   "version": 28,
   "status": "ok",
   "klassierung": [
@@ -1498,7 +1498,7 @@
   "kalender": {
     "seite": {
       "http": 200,
-      "laenge": 285427
+      "laenge": 289968
     },
     "gefundene_urls": [
       "/MyAFT/Clubs/Search",
@@ -1571,1387 +1571,235 @@
     "treffer": {
       "GET /MyAFT/Competitions/CompetitionsTournamentsByRegion []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 60889,
+        "laenge": 6927,
         "turniere": [
-          [
-            "AMAY",
-            "22/10/2026"
-          ],
-          [
-            "BARVAUX",
-            "22/10/2026"
-          ],
-          [
-            "BOIS CAMBRE",
-            "26/10/2026"
-          ],
-          [
-            "CASTLE CLUB",
-            "26/10/2026"
-          ],
           [
             "CASTLE CLUB",
             "29/10/2026"
-          ],
-          [
-            "CITADELLE",
-            "22/10/2026"
-          ],
-          [
-            "CONDROZ",
-            "22/10/2026"
-          ],
-          [
-            "FAYEN BOIS",
-            "22/10/2026"
-          ],
-          [
-            "HAILLOT",
-            "24/10/2026"
-          ],
-          [
-            "HANNUTOIS",
-            "24/10/2026"
-          ],
-          [
-            "JEMELLE",
-            "22/10/2026"
-          ],
-          [
-            "JENA",
-            "22/10/2026"
-          ],
-          [
-            "LA CURE",
-            "22/10/2026"
           ],
           [
             "LAPERCHETHULIN",
             "29/10/2026"
           ],
           [
-            "LE PARC",
-            "23/10/2026"
-          ],
-          [
             "MARMOTTE",
             "29/10/2026"
-          ],
-          [
-            "MOHA",
-            "22/10/2026"
-          ],
-          [
-            "MONSRAECT",
-            "22/10/2026"
-          ],
-          [
-            "MONTAGNARD",
-            "22/10/2026"
-          ],
-          [
-            "OREE",
-            "24/10/2026"
-          ],
-          [
-            "PRIMEROSE",
-            "22/10/2026"
-          ],
-          [
-            "R.T.C. NIMY",
-            "22/10/2026"
-          ],
-          [
-            "SET WAHIS",
-            "22/10/2026"
-          ],
-          [
-            "STABULOIS",
-            "22/10/2026"
-          ],
-          [
-            "TENNISSIMO",
-            "22/10/2026"
-          ],
-          [
-            "THUIN",
-            "22/10/2026"
-          ],
-          [
-            "WEPION",
-            "26/10/2026"
           ]
         ],
-        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 En cours CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Terminé CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 Terminé AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133,"
+        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 En cours CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours"
       },
       "POST /MyAFT/Competitions/CompetitionsTournamentsByRegion []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 60889,
+        "laenge": 6927,
         "turniere": [
-          [
-            "AMAY",
-            "22/10/2026"
-          ],
-          [
-            "BARVAUX",
-            "22/10/2026"
-          ],
-          [
-            "BOIS CAMBRE",
-            "26/10/2026"
-          ],
-          [
-            "CASTLE CLUB",
-            "26/10/2026"
-          ],
           [
             "CASTLE CLUB",
             "29/10/2026"
-          ],
-          [
-            "CITADELLE",
-            "22/10/2026"
-          ],
-          [
-            "CONDROZ",
-            "22/10/2026"
-          ],
-          [
-            "FAYEN BOIS",
-            "22/10/2026"
-          ],
-          [
-            "HAILLOT",
-            "24/10/2026"
-          ],
-          [
-            "HANNUTOIS",
-            "24/10/2026"
-          ],
-          [
-            "JEMELLE",
-            "22/10/2026"
-          ],
-          [
-            "JENA",
-            "22/10/2026"
-          ],
-          [
-            "LA CURE",
-            "22/10/2026"
           ],
           [
             "LAPERCHETHULIN",
             "29/10/2026"
           ],
           [
-            "LE PARC",
-            "23/10/2026"
-          ],
-          [
             "MARMOTTE",
             "29/10/2026"
-          ],
-          [
-            "MOHA",
-            "22/10/2026"
-          ],
-          [
-            "MONSRAECT",
-            "22/10/2026"
-          ],
-          [
-            "MONTAGNARD",
-            "22/10/2026"
-          ],
-          [
-            "OREE",
-            "24/10/2026"
-          ],
-          [
-            "PRIMEROSE",
-            "22/10/2026"
-          ],
-          [
-            "R.T.C. NIMY",
-            "22/10/2026"
-          ],
-          [
-            "SET WAHIS",
-            "22/10/2026"
-          ],
-          [
-            "STABULOIS",
-            "22/10/2026"
-          ],
-          [
-            "TENNISSIMO",
-            "22/10/2026"
-          ],
-          [
-            "THUIN",
-            "22/10/2026"
-          ],
-          [
-            "WEPION",
-            "26/10/2026"
           ]
         ],
-        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 En cours CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Terminé CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 Terminé AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133,"
+        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 En cours CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours"
       },
       "GET /MyAFT/Competitions/CompetitionsTournamentsByRegion ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 60889,
+        "laenge": 6927,
         "turniere": [
-          [
-            "AMAY",
-            "22/10/2026"
-          ],
-          [
-            "BARVAUX",
-            "22/10/2026"
-          ],
-          [
-            "BOIS CAMBRE",
-            "26/10/2026"
-          ],
-          [
-            "CASTLE CLUB",
-            "26/10/2026"
-          ],
           [
             "CASTLE CLUB",
             "29/10/2026"
-          ],
-          [
-            "CITADELLE",
-            "22/10/2026"
-          ],
-          [
-            "CONDROZ",
-            "22/10/2026"
-          ],
-          [
-            "FAYEN BOIS",
-            "22/10/2026"
-          ],
-          [
-            "HAILLOT",
-            "24/10/2026"
-          ],
-          [
-            "HANNUTOIS",
-            "24/10/2026"
-          ],
-          [
-            "JEMELLE",
-            "22/10/2026"
-          ],
-          [
-            "JENA",
-            "22/10/2026"
-          ],
-          [
-            "LA CURE",
-            "22/10/2026"
           ],
           [
             "LAPERCHETHULIN",
             "29/10/2026"
           ],
           [
-            "LE PARC",
-            "23/10/2026"
-          ],
-          [
             "MARMOTTE",
             "29/10/2026"
-          ],
-          [
-            "MOHA",
-            "22/10/2026"
-          ],
-          [
-            "MONSRAECT",
-            "22/10/2026"
-          ],
-          [
-            "MONTAGNARD",
-            "22/10/2026"
-          ],
-          [
-            "OREE",
-            "24/10/2026"
-          ],
-          [
-            "PRIMEROSE",
-            "22/10/2026"
-          ],
-          [
-            "R.T.C. NIMY",
-            "22/10/2026"
-          ],
-          [
-            "SET WAHIS",
-            "22/10/2026"
-          ],
-          [
-            "STABULOIS",
-            "22/10/2026"
-          ],
-          [
-            "TENNISSIMO",
-            "22/10/2026"
-          ],
-          [
-            "THUIN",
-            "22/10/2026"
-          ],
-          [
-            "WEPION",
-            "26/10/2026"
           ]
         ],
-        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 En cours CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Terminé CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 Terminé AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133,"
+        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 En cours CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours"
       },
       "POST /MyAFT/Competitions/CompetitionsTournamentsByRegion ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 60889,
+        "laenge": 6927,
         "turniere": [
-          [
-            "AMAY",
-            "22/10/2026"
-          ],
-          [
-            "BARVAUX",
-            "22/10/2026"
-          ],
-          [
-            "BOIS CAMBRE",
-            "26/10/2026"
-          ],
-          [
-            "CASTLE CLUB",
-            "26/10/2026"
-          ],
           [
             "CASTLE CLUB",
             "29/10/2026"
-          ],
-          [
-            "CITADELLE",
-            "22/10/2026"
-          ],
-          [
-            "CONDROZ",
-            "22/10/2026"
-          ],
-          [
-            "FAYEN BOIS",
-            "22/10/2026"
-          ],
-          [
-            "HAILLOT",
-            "24/10/2026"
-          ],
-          [
-            "HANNUTOIS",
-            "24/10/2026"
-          ],
-          [
-            "JEMELLE",
-            "22/10/2026"
-          ],
-          [
-            "JENA",
-            "22/10/2026"
-          ],
-          [
-            "LA CURE",
-            "22/10/2026"
           ],
           [
             "LAPERCHETHULIN",
             "29/10/2026"
           ],
           [
-            "LE PARC",
-            "23/10/2026"
-          ],
-          [
             "MARMOTTE",
             "29/10/2026"
-          ],
-          [
-            "MOHA",
-            "22/10/2026"
-          ],
-          [
-            "MONSRAECT",
-            "22/10/2026"
-          ],
-          [
-            "MONTAGNARD",
-            "22/10/2026"
-          ],
-          [
-            "OREE",
-            "24/10/2026"
-          ],
-          [
-            "PRIMEROSE",
-            "22/10/2026"
-          ],
-          [
-            "R.T.C. NIMY",
-            "22/10/2026"
-          ],
-          [
-            "SET WAHIS",
-            "22/10/2026"
-          ],
-          [
-            "STABULOIS",
-            "22/10/2026"
-          ],
-          [
-            "TENNISSIMO",
-            "22/10/2026"
-          ],
-          [
-            "THUIN",
-            "22/10/2026"
-          ],
-          [
-            "WEPION",
-            "26/10/2026"
           ]
         ],
-        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 En cours CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Terminé CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 Terminé AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133,"
+        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 En cours CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours"
       },
       "GET /MyAFT/Competitions/CompetitionsTournamentsByRegion ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 60889,
+        "laenge": 6927,
         "turniere": [
-          [
-            "AMAY",
-            "22/10/2026"
-          ],
-          [
-            "BARVAUX",
-            "22/10/2026"
-          ],
-          [
-            "BOIS CAMBRE",
-            "26/10/2026"
-          ],
-          [
-            "CASTLE CLUB",
-            "26/10/2026"
-          ],
           [
             "CASTLE CLUB",
             "29/10/2026"
-          ],
-          [
-            "CITADELLE",
-            "22/10/2026"
-          ],
-          [
-            "CONDROZ",
-            "22/10/2026"
-          ],
-          [
-            "FAYEN BOIS",
-            "22/10/2026"
-          ],
-          [
-            "HAILLOT",
-            "24/10/2026"
-          ],
-          [
-            "HANNUTOIS",
-            "24/10/2026"
-          ],
-          [
-            "JEMELLE",
-            "22/10/2026"
-          ],
-          [
-            "JENA",
-            "22/10/2026"
-          ],
-          [
-            "LA CURE",
-            "22/10/2026"
           ],
           [
             "LAPERCHETHULIN",
             "29/10/2026"
           ],
           [
-            "LE PARC",
-            "23/10/2026"
-          ],
-          [
             "MARMOTTE",
             "29/10/2026"
-          ],
-          [
-            "MOHA",
-            "22/10/2026"
-          ],
-          [
-            "MONSRAECT",
-            "22/10/2026"
-          ],
-          [
-            "MONTAGNARD",
-            "22/10/2026"
-          ],
-          [
-            "OREE",
-            "24/10/2026"
-          ],
-          [
-            "PRIMEROSE",
-            "22/10/2026"
-          ],
-          [
-            "R.T.C. NIMY",
-            "22/10/2026"
-          ],
-          [
-            "SET WAHIS",
-            "22/10/2026"
-          ],
-          [
-            "STABULOIS",
-            "22/10/2026"
-          ],
-          [
-            "TENNISSIMO",
-            "22/10/2026"
-          ],
-          [
-            "THUIN",
-            "22/10/2026"
-          ],
-          [
-            "WEPION",
-            "26/10/2026"
           ]
         ],
-        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 En cours CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Terminé CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 Terminé AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133,"
+        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 En cours CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours"
       },
       "POST /MyAFT/Competitions/CompetitionsTournamentsByRegion ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 60889,
+        "laenge": 6927,
         "turniere": [
-          [
-            "AMAY",
-            "22/10/2026"
-          ],
-          [
-            "BARVAUX",
-            "22/10/2026"
-          ],
-          [
-            "BOIS CAMBRE",
-            "26/10/2026"
-          ],
-          [
-            "CASTLE CLUB",
-            "26/10/2026"
-          ],
           [
             "CASTLE CLUB",
             "29/10/2026"
-          ],
-          [
-            "CITADELLE",
-            "22/10/2026"
-          ],
-          [
-            "CONDROZ",
-            "22/10/2026"
-          ],
-          [
-            "FAYEN BOIS",
-            "22/10/2026"
-          ],
-          [
-            "HAILLOT",
-            "24/10/2026"
-          ],
-          [
-            "HANNUTOIS",
-            "24/10/2026"
-          ],
-          [
-            "JEMELLE",
-            "22/10/2026"
-          ],
-          [
-            "JENA",
-            "22/10/2026"
-          ],
-          [
-            "LA CURE",
-            "22/10/2026"
           ],
           [
             "LAPERCHETHULIN",
             "29/10/2026"
           ],
           [
-            "LE PARC",
-            "23/10/2026"
-          ],
-          [
             "MARMOTTE",
             "29/10/2026"
-          ],
-          [
-            "MOHA",
-            "22/10/2026"
-          ],
-          [
-            "MONSRAECT",
-            "22/10/2026"
-          ],
-          [
-            "MONTAGNARD",
-            "22/10/2026"
-          ],
-          [
-            "OREE",
-            "24/10/2026"
-          ],
-          [
-            "PRIMEROSE",
-            "22/10/2026"
-          ],
-          [
-            "R.T.C. NIMY",
-            "22/10/2026"
-          ],
-          [
-            "SET WAHIS",
-            "22/10/2026"
-          ],
-          [
-            "STABULOIS",
-            "22/10/2026"
-          ],
-          [
-            "TENNISSIMO",
-            "22/10/2026"
-          ],
-          [
-            "THUIN",
-            "22/10/2026"
-          ],
-          [
-            "WEPION",
-            "26/10/2026"
           ]
         ],
-        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 En cours CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Terminé CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 Terminé AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133,"
+        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 En cours CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours"
       },
       "GET /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 60738,
+        "laenge": 6776,
         "turniere": [
-          [
-            "AMAY",
-            "22/10/2026"
-          ],
-          [
-            "BARVAUX",
-            "22/10/2026"
-          ],
-          [
-            "BOIS CAMBRE",
-            "26/10/2026"
-          ],
-          [
-            "CASTLE CLUB",
-            "26/10/2026"
-          ],
           [
             "CASTLE CLUB",
             "29/10/2026"
-          ],
-          [
-            "CITADELLE",
-            "22/10/2026"
-          ],
-          [
-            "CONDROZ",
-            "22/10/2026"
-          ],
-          [
-            "FAYEN BOIS",
-            "22/10/2026"
-          ],
-          [
-            "HAILLOT",
-            "24/10/2026"
-          ],
-          [
-            "HANNUTOIS",
-            "24/10/2026"
-          ],
-          [
-            "JEMELLE",
-            "22/10/2026"
-          ],
-          [
-            "JENA",
-            "22/10/2026"
-          ],
-          [
-            "LA CURE",
-            "22/10/2026"
           ],
           [
             "LAPERCHETHULIN",
             "29/10/2026"
           ],
           [
-            "LE PARC",
-            "23/10/2026"
-          ],
-          [
             "MARMOTTE",
             "29/10/2026"
-          ],
-          [
-            "MOHA",
-            "22/10/2026"
-          ],
-          [
-            "MONSRAECT",
-            "22/10/2026"
-          ],
-          [
-            "MONTAGNARD",
-            "22/10/2026"
-          ],
-          [
-            "OREE",
-            "24/10/2026"
-          ],
-          [
-            "PRIMEROSE",
-            "22/10/2026"
-          ],
-          [
-            "R.T.C. NIMY",
-            "22/10/2026"
-          ],
-          [
-            "SET WAHIS",
-            "22/10/2026"
-          ],
-          [
-            "STABULOIS",
-            "22/10/2026"
-          ],
-          [
-            "TENNISSIMO",
-            "22/10/2026"
-          ],
-          [
-            "THUIN",
-            "22/10/2026"
-          ],
-          [
-            "WEPION",
-            "26/10/2026"
           ]
         ],
-        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 En cours CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Terminé CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 Terminé AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133,"
+        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 En cours CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours"
       },
       "POST /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 60738,
+        "laenge": 6776,
         "turniere": [
-          [
-            "AMAY",
-            "22/10/2026"
-          ],
-          [
-            "BARVAUX",
-            "22/10/2026"
-          ],
-          [
-            "BOIS CAMBRE",
-            "26/10/2026"
-          ],
-          [
-            "CASTLE CLUB",
-            "26/10/2026"
-          ],
           [
             "CASTLE CLUB",
             "29/10/2026"
-          ],
-          [
-            "CITADELLE",
-            "22/10/2026"
-          ],
-          [
-            "CONDROZ",
-            "22/10/2026"
-          ],
-          [
-            "FAYEN BOIS",
-            "22/10/2026"
-          ],
-          [
-            "HAILLOT",
-            "24/10/2026"
-          ],
-          [
-            "HANNUTOIS",
-            "24/10/2026"
-          ],
-          [
-            "JEMELLE",
-            "22/10/2026"
-          ],
-          [
-            "JENA",
-            "22/10/2026"
-          ],
-          [
-            "LA CURE",
-            "22/10/2026"
           ],
           [
             "LAPERCHETHULIN",
             "29/10/2026"
           ],
           [
-            "LE PARC",
-            "23/10/2026"
-          ],
-          [
             "MARMOTTE",
             "29/10/2026"
-          ],
-          [
-            "MOHA",
-            "22/10/2026"
-          ],
-          [
-            "MONSRAECT",
-            "22/10/2026"
-          ],
-          [
-            "MONTAGNARD",
-            "22/10/2026"
-          ],
-          [
-            "OREE",
-            "24/10/2026"
-          ],
-          [
-            "PRIMEROSE",
-            "22/10/2026"
-          ],
-          [
-            "R.T.C. NIMY",
-            "22/10/2026"
-          ],
-          [
-            "SET WAHIS",
-            "22/10/2026"
-          ],
-          [
-            "STABULOIS",
-            "22/10/2026"
-          ],
-          [
-            "TENNISSIMO",
-            "22/10/2026"
-          ],
-          [
-            "THUIN",
-            "22/10/2026"
-          ],
-          [
-            "WEPION",
-            "26/10/2026"
           ]
         ],
-        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 En cours CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Terminé CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 Terminé AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133,"
+        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 En cours CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours"
       },
       "GET /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 60738,
+        "laenge": 6776,
         "turniere": [
-          [
-            "AMAY",
-            "22/10/2026"
-          ],
-          [
-            "BARVAUX",
-            "22/10/2026"
-          ],
-          [
-            "BOIS CAMBRE",
-            "26/10/2026"
-          ],
-          [
-            "CASTLE CLUB",
-            "26/10/2026"
-          ],
           [
             "CASTLE CLUB",
             "29/10/2026"
-          ],
-          [
-            "CITADELLE",
-            "22/10/2026"
-          ],
-          [
-            "CONDROZ",
-            "22/10/2026"
-          ],
-          [
-            "FAYEN BOIS",
-            "22/10/2026"
-          ],
-          [
-            "HAILLOT",
-            "24/10/2026"
-          ],
-          [
-            "HANNUTOIS",
-            "24/10/2026"
-          ],
-          [
-            "JEMELLE",
-            "22/10/2026"
-          ],
-          [
-            "JENA",
-            "22/10/2026"
-          ],
-          [
-            "LA CURE",
-            "22/10/2026"
           ],
           [
             "LAPERCHETHULIN",
             "29/10/2026"
           ],
           [
-            "LE PARC",
-            "23/10/2026"
-          ],
-          [
             "MARMOTTE",
             "29/10/2026"
-          ],
-          [
-            "MOHA",
-            "22/10/2026"
-          ],
-          [
-            "MONSRAECT",
-            "22/10/2026"
-          ],
-          [
-            "MONTAGNARD",
-            "22/10/2026"
-          ],
-          [
-            "OREE",
-            "24/10/2026"
-          ],
-          [
-            "PRIMEROSE",
-            "22/10/2026"
-          ],
-          [
-            "R.T.C. NIMY",
-            "22/10/2026"
-          ],
-          [
-            "SET WAHIS",
-            "22/10/2026"
-          ],
-          [
-            "STABULOIS",
-            "22/10/2026"
-          ],
-          [
-            "TENNISSIMO",
-            "22/10/2026"
-          ],
-          [
-            "THUIN",
-            "22/10/2026"
-          ],
-          [
-            "WEPION",
-            "26/10/2026"
           ]
         ],
-        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 En cours CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Terminé CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 Terminé AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133,"
+        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 En cours CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours"
       },
       "POST /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 60738,
+        "laenge": 6776,
         "turniere": [
-          [
-            "AMAY",
-            "22/10/2026"
-          ],
-          [
-            "BARVAUX",
-            "22/10/2026"
-          ],
-          [
-            "BOIS CAMBRE",
-            "26/10/2026"
-          ],
-          [
-            "CASTLE CLUB",
-            "26/10/2026"
-          ],
           [
             "CASTLE CLUB",
             "29/10/2026"
-          ],
-          [
-            "CITADELLE",
-            "22/10/2026"
-          ],
-          [
-            "CONDROZ",
-            "22/10/2026"
-          ],
-          [
-            "FAYEN BOIS",
-            "22/10/2026"
-          ],
-          [
-            "HAILLOT",
-            "24/10/2026"
-          ],
-          [
-            "HANNUTOIS",
-            "24/10/2026"
-          ],
-          [
-            "JEMELLE",
-            "22/10/2026"
-          ],
-          [
-            "JENA",
-            "22/10/2026"
-          ],
-          [
-            "LA CURE",
-            "22/10/2026"
           ],
           [
             "LAPERCHETHULIN",
             "29/10/2026"
           ],
           [
-            "LE PARC",
-            "23/10/2026"
-          ],
-          [
             "MARMOTTE",
             "29/10/2026"
-          ],
-          [
-            "MOHA",
-            "22/10/2026"
-          ],
-          [
-            "MONSRAECT",
-            "22/10/2026"
-          ],
-          [
-            "MONTAGNARD",
-            "22/10/2026"
-          ],
-          [
-            "OREE",
-            "24/10/2026"
-          ],
-          [
-            "PRIMEROSE",
-            "22/10/2026"
-          ],
-          [
-            "R.T.C. NIMY",
-            "22/10/2026"
-          ],
-          [
-            "SET WAHIS",
-            "22/10/2026"
-          ],
-          [
-            "STABULOIS",
-            "22/10/2026"
-          ],
-          [
-            "TENNISSIMO",
-            "22/10/2026"
-          ],
-          [
-            "THUIN",
-            "22/10/2026"
-          ],
-          [
-            "WEPION",
-            "26/10/2026"
           ]
         ],
-        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 En cours CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Terminé CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 Terminé AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133,"
+        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 En cours CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours"
       },
       "GET /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 60738,
+        "laenge": 6776,
         "turniere": [
-          [
-            "AMAY",
-            "22/10/2026"
-          ],
-          [
-            "BARVAUX",
-            "22/10/2026"
-          ],
-          [
-            "BOIS CAMBRE",
-            "26/10/2026"
-          ],
-          [
-            "CASTLE CLUB",
-            "26/10/2026"
-          ],
           [
             "CASTLE CLUB",
             "29/10/2026"
-          ],
-          [
-            "CITADELLE",
-            "22/10/2026"
-          ],
-          [
-            "CONDROZ",
-            "22/10/2026"
-          ],
-          [
-            "FAYEN BOIS",
-            "22/10/2026"
-          ],
-          [
-            "HAILLOT",
-            "24/10/2026"
-          ],
-          [
-            "HANNUTOIS",
-            "24/10/2026"
-          ],
-          [
-            "JEMELLE",
-            "22/10/2026"
-          ],
-          [
-            "JENA",
-            "22/10/2026"
-          ],
-          [
-            "LA CURE",
-            "22/10/2026"
           ],
           [
             "LAPERCHETHULIN",
             "29/10/2026"
           ],
           [
-            "LE PARC",
-            "23/10/2026"
-          ],
-          [
             "MARMOTTE",
             "29/10/2026"
-          ],
-          [
-            "MOHA",
-            "22/10/2026"
-          ],
-          [
-            "MONSRAECT",
-            "22/10/2026"
-          ],
-          [
-            "MONTAGNARD",
-            "22/10/2026"
-          ],
-          [
-            "OREE",
-            "24/10/2026"
-          ],
-          [
-            "PRIMEROSE",
-            "22/10/2026"
-          ],
-          [
-            "R.T.C. NIMY",
-            "22/10/2026"
-          ],
-          [
-            "SET WAHIS",
-            "22/10/2026"
-          ],
-          [
-            "STABULOIS",
-            "22/10/2026"
-          ],
-          [
-            "TENNISSIMO",
-            "22/10/2026"
-          ],
-          [
-            "THUIN",
-            "22/10/2026"
-          ],
-          [
-            "WEPION",
-            "26/10/2026"
           ]
         ],
-        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 En cours CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Terminé CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 Terminé AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133,"
+        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 En cours CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours"
       },
       "POST /MyAFT/Competitions/GetCompetitionsTournamentsByRegionResult ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 60738,
+        "laenge": 6776,
         "turniere": [
-          [
-            "AMAY",
-            "22/10/2026"
-          ],
-          [
-            "BARVAUX",
-            "22/10/2026"
-          ],
-          [
-            "BOIS CAMBRE",
-            "26/10/2026"
-          ],
-          [
-            "CASTLE CLUB",
-            "26/10/2026"
-          ],
           [
             "CASTLE CLUB",
             "29/10/2026"
-          ],
-          [
-            "CITADELLE",
-            "22/10/2026"
-          ],
-          [
-            "CONDROZ",
-            "22/10/2026"
-          ],
-          [
-            "FAYEN BOIS",
-            "22/10/2026"
-          ],
-          [
-            "HAILLOT",
-            "24/10/2026"
-          ],
-          [
-            "HANNUTOIS",
-            "24/10/2026"
-          ],
-          [
-            "JEMELLE",
-            "22/10/2026"
-          ],
-          [
-            "JENA",
-            "22/10/2026"
-          ],
-          [
-            "LA CURE",
-            "22/10/2026"
           ],
           [
             "LAPERCHETHULIN",
             "29/10/2026"
           ],
           [
-            "LE PARC",
-            "23/10/2026"
-          ],
-          [
             "MARMOTTE",
             "29/10/2026"
-          ],
-          [
-            "MOHA",
-            "22/10/2026"
-          ],
-          [
-            "MONSRAECT",
-            "22/10/2026"
-          ],
-          [
-            "MONTAGNARD",
-            "22/10/2026"
-          ],
-          [
-            "OREE",
-            "24/10/2026"
-          ],
-          [
-            "PRIMEROSE",
-            "22/10/2026"
-          ],
-          [
-            "R.T.C. NIMY",
-            "22/10/2026"
-          ],
-          [
-            "SET WAHIS",
-            "22/10/2026"
-          ],
-          [
-            "STABULOIS",
-            "22/10/2026"
-          ],
-          [
-            "TENNISSIMO",
-            "22/10/2026"
-          ],
-          [
-            "THUIN",
-            "22/10/2026"
-          ],
-          [
-            "WEPION",
-            "26/10/2026"
           ]
         ],
-        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 En cours CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours BOIS CAMBRE 26/10/2026 Critérium Adultes M2 + Ethias Junior Tour - U9 Grade 3 JAS - M2, U93 Terminé CASTLE CLUB 26/10/2026 Ethias Junior Tour + critérium adultes Messieurs JAS - M2, M3, M4, M5, M6, G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours WEPION 26/10/2026 Ethias Junior Tour - Grade 2 et 3 (B) J - G112, G113, G132, G133, G152, G153, F112, F113, F132, F133, F152, F153, U92, U93 En cours HANNUTOIS 24/10/2026 Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 JS - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 Terminé OREE 24/10/2026 Critérium Adultes M1* D1* AVS - M1BC1*, M2, M3, M4, M5, M6, D1BC1*, D2, D3, D4, D5, M351, M352 En cours HAILLOT 24/10/2026 Critérium Doubles AD - DD4, DD5, DD6, DD7, DMX3, DMX4, DMX5, DMX6, DMX7, DM6, DM7, DM5, DM4, DM3, DM2 En cours LE PARC 23/10/2026 Ethias Junior Tour J - G151, F151, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133, F152, F153, U91, U92, U93 En cours LA CURE 22/10/2026 Circuit Allan Sport - DM2, DM3, DM4, DM5, DM6, DD4, DD6, DMX5, DMX6, DMX4 Terminé AMAY 22/10/2026 CRITERIUM ADULTES AVSD - DM3, DM4, DM5, M2, M3, M4, M5, D3, D4, M353, M354, M355 En cours FAYEN BOIS 22/10/2026 CRITERIUM ADULTES AS - M2, M3, M4, M5, M6, D252, D253 En cours JENA 22/10/2026 CRITERIUM ADULTES - Doubles Dames TWB AVSD - DM2, DM3, DM4, DM5, DM6, DD2, DD3, DD4, DD5, DD6, DMX2, DMX3, DMX4, DMX5, DMX6, M604, M601, M602, M603, D551, D552, D553 En cours MOHA 22/10/2026 CRITERIUM ADULTES A - M2, M3, M4, M5, M6, D3, D4 En cours CONDROZ 22/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB JAVSD - M501, M502, M503, M504, M505, D401, D402, D403, D404, G151, F151, DM3, DM5, DD4, DD6, DMX5, DMX7, M351, M352, M353, M354, M355, M356, D251, D252, D253, D254, G111, G112, G113, G131, G132, G133, G152, G153, F111, F112, F113, F131, F132, F133,"
+        "auszug": "MARMOTTE 29/10/2026 CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 - Doubles Dames TWB JASD - G151, F151, DM5, DM6, DD5, DD6, DMX5, DMX6, M2, M3, M4, D2, D3, G111, G112, G131, G132, G152, F111, F112, F131, F132, F152, U91, U92 En cours CASTLE CLUB 29/10/2026 Critérium Adultes M1* AS - M1BC1*, M2, M3, M4, M5, M6, D2, D3, D4, D5 En cours LAPERCHETHULIN 29/10/2026 Criterium Adultes Doubles D - DM1, DM2, DM3, DM4, DM5, DM6, DM7, DD1, DD2, DD3, DD4, DD5, DD6, DD7, DMX1, DMX2, DMX3, DMX4, DMX5, DMX6, DMX7 En cours"
       },
       "GET /MyAFT/Competitions/TournamentNews []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 142127,
+        "laenge": 146668,
         "turniere": [
           [
             "BEAUFAYS",
@@ -2987,7 +1835,15 @@
           ],
           [
             "EUPEN",
+            "01/04/2027"
+          ],
+          [
+            "EUPEN",
             "14/01/2027"
+          ],
+          [
+            "EUPEN",
+            "21/03/2027"
           ],
           [
             "FLEMALLE",
@@ -3118,7 +1974,7 @@
       },
       "POST /MyAFT/Competitions/TournamentNews []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 142127,
+        "laenge": 146668,
         "turniere": [
           [
             "BEAUFAYS",
@@ -3154,7 +2010,15 @@
           ],
           [
             "EUPEN",
+            "01/04/2027"
+          ],
+          [
+            "EUPEN",
             "14/01/2027"
+          ],
+          [
+            "EUPEN",
+            "21/03/2027"
           ],
           [
             "FLEMALLE",
@@ -3285,7 +2149,7 @@
       },
       "GET /MyAFT/Competitions/TournamentNews ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 142127,
+        "laenge": 146668,
         "turniere": [
           [
             "BEAUFAYS",
@@ -3321,7 +2185,15 @@
           ],
           [
             "EUPEN",
+            "01/04/2027"
+          ],
+          [
+            "EUPEN",
             "14/01/2027"
+          ],
+          [
+            "EUPEN",
+            "21/03/2027"
           ],
           [
             "FLEMALLE",
@@ -3452,7 +2324,7 @@
       },
       "POST /MyAFT/Competitions/TournamentNews ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 142127,
+        "laenge": 146668,
         "turniere": [
           [
             "BEAUFAYS",
@@ -3488,7 +2360,15 @@
           ],
           [
             "EUPEN",
+            "01/04/2027"
+          ],
+          [
+            "EUPEN",
             "14/01/2027"
+          ],
+          [
+            "EUPEN",
+            "21/03/2027"
           ],
           [
             "FLEMALLE",
@@ -3619,7 +2499,7 @@
       },
       "GET /MyAFT/Competitions/TournamentNews ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 142127,
+        "laenge": 146668,
         "turniere": [
           [
             "BEAUFAYS",
@@ -3655,7 +2535,15 @@
           ],
           [
             "EUPEN",
+            "01/04/2027"
+          ],
+          [
+            "EUPEN",
             "14/01/2027"
+          ],
+          [
+            "EUPEN",
+            "21/03/2027"
           ],
           [
             "FLEMALLE",
@@ -3786,7 +2674,7 @@
       },
       "POST /MyAFT/Competitions/TournamentNews ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 142127,
+        "laenge": 146668,
         "turniere": [
           [
             "BEAUFAYS",
@@ -3822,7 +2710,15 @@
           ],
           [
             "EUPEN",
+            "01/04/2027"
+          ],
+          [
+            "EUPEN",
             "14/01/2027"
+          ],
+          [
+            "EUPEN",
+            "21/03/2027"
           ],
           [
             "FLEMALLE",
@@ -3953,7 +2849,7 @@
       },
       "POST /MyAFT/Competitions/TournamentSearchResultData []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 242947,
+        "laenge": 241594,
         "turniere": [
           [
             "AMAY",
@@ -4144,6 +3040,10 @@
             "29/10/2026"
           ],
           [
+            "LE BERCUIT",
+            "24/12/2026"
+          ],
+          [
             "LE PARC",
             "23/10/2026"
           ],
@@ -4182,10 +3082,6 @@
           [
             "MARCHE",
             "16/10/2026"
-          ],
-          [
-            "MARMOTTE",
-            "21/01/2027"
           ],
           [
             "MARMOTTE",
@@ -4200,7 +3096,7 @@
       },
       "POST /MyAFT/Competitions/TournamentSearchResultData ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 242947,
+        "laenge": 241594,
         "turniere": [
           [
             "AMAY",
@@ -4391,6 +3287,10 @@
             "29/10/2026"
           ],
           [
+            "LE BERCUIT",
+            "24/12/2026"
+          ],
+          [
             "LE PARC",
             "23/10/2026"
           ],
@@ -4429,10 +3329,6 @@
           [
             "MARCHE",
             "16/10/2026"
-          ],
-          [
-            "MARMOTTE",
-            "21/01/2027"
           ],
           [
             "MARMOTTE",
@@ -4447,7 +3343,7 @@
       },
       "POST /MyAFT/Competitions/TournamentSearchResultData ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 242947,
+        "laenge": 241594,
         "turniere": [
           [
             "AMAY",
@@ -4638,6 +3534,10 @@
             "29/10/2026"
           ],
           [
+            "LE BERCUIT",
+            "24/12/2026"
+          ],
+          [
             "LE PARC",
             "23/10/2026"
           ],
@@ -4679,10 +3579,6 @@
           ],
           [
             "MARMOTTE",
-            "21/01/2027"
-          ],
-          [
-            "MARMOTTE",
             "29/10/2026"
           ],
           [
@@ -4694,7 +3590,7 @@
       },
       "GET /MyAFT/Competitions/Tournaments []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 285427,
+        "laenge": 289968,
         "turniere": [
           [
             "BEAUFAYS",
@@ -4730,7 +3626,15 @@
           ],
           [
             "EUPEN",
+            "01/04/2027"
+          ],
+          [
+            "EUPEN",
             "14/01/2027"
+          ],
+          [
+            "EUPEN",
+            "21/03/2027"
           ],
           [
             "FLEMALLE",
@@ -4861,7 +3765,7 @@
       },
       "POST /MyAFT/Competitions/Tournaments []": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 285427,
+        "laenge": 289968,
         "turniere": [
           [
             "BEAUFAYS",
@@ -4897,7 +3801,15 @@
           ],
           [
             "EUPEN",
+            "01/04/2027"
+          ],
+          [
+            "EUPEN",
             "14/01/2027"
+          ],
+          [
+            "EUPEN",
+            "21/03/2027"
           ],
           [
             "FLEMALLE",
@@ -5028,7 +3940,7 @@
       },
       "GET /MyAFT/Competitions/Tournaments ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 285427,
+        "laenge": 289968,
         "turniere": [
           [
             "BEAUFAYS",
@@ -5064,7 +3976,15 @@
           ],
           [
             "EUPEN",
+            "01/04/2027"
+          ],
+          [
+            "EUPEN",
             "14/01/2027"
+          ],
+          [
+            "EUPEN",
+            "21/03/2027"
           ],
           [
             "FLEMALLE",
@@ -5195,7 +4115,7 @@
       },
       "POST /MyAFT/Competitions/Tournaments ['regionId']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 285427,
+        "laenge": 289968,
         "turniere": [
           [
             "BEAUFAYS",
@@ -5231,7 +4151,15 @@
           ],
           [
             "EUPEN",
+            "01/04/2027"
+          ],
+          [
+            "EUPEN",
             "14/01/2027"
+          ],
+          [
+            "EUPEN",
+            "21/03/2027"
           ],
           [
             "FLEMALLE",
@@ -5362,7 +4290,7 @@
       },
       "GET /MyAFT/Competitions/Tournaments ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 285427,
+        "laenge": 289968,
         "turniere": [
           [
             "BEAUFAYS",
@@ -5398,7 +4326,15 @@
           ],
           [
             "EUPEN",
+            "01/04/2027"
+          ],
+          [
+            "EUPEN",
             "14/01/2027"
+          ],
+          [
+            "EUPEN",
+            "21/03/2027"
           ],
           [
             "FLEMALLE",
@@ -5529,7 +4465,7 @@
       },
       "POST /MyAFT/Competitions/Tournaments ['idRegion']": {
         "content_type": "text/html; charset=utf-8",
-        "laenge": 285427,
+        "laenge": 289968,
         "turniere": [
           [
             "BEAUFAYS",
@@ -5565,7 +4501,15 @@
           ],
           [
             "EUPEN",
+            "01/04/2027"
+          ],
+          [
+            "EUPEN",
             "14/01/2027"
+          ],
+          [
+            "EUPEN",
+            "21/03/2027"
           ],
           [
             "FLEMALLE",
@@ -5725,13 +4669,13 @@
       {
         "monat": "12/2026",
         "filter": "C30.6",
-        "treffer": 33,
+        "treffer": 36,
         "abgeschnitten": false
       },
       {
         "monat": "01/2027",
         "filter": "C30.6",
-        "treffer": 27,
+        "treffer": 28,
         "abgeschnitten": false
       },
       {
@@ -5743,21 +4687,21 @@
       {
         "monat": "03/2027",
         "filter": "C30.6",
-        "treffer": 15,
+        "treffer": 16,
         "abgeschnitten": false
       },
       {
         "monat": "04/2027",
         "filter": "C30.6",
-        "treffer": 6,
+        "treffer": 7,
         "abgeschnitten": false
       },
       {
         "klubliste": 375,
-        "provinz_zugeordnet": 267
+        "provinz_zugeordnet": 269
       }
     ],
-    "anzahl": 307,
+    "anzahl": 312,
     "turniere": [
       {
         "id": "361852",
@@ -9494,120 +8438,6 @@
         "provinz": "Brabant/Bruessel"
       },
       {
-        "id": "361949",
-        "ort": "BEAUVECHAIN",
-        "start": "30/07/2026",
-        "anmeldung_bis": "28/07/2026",
-        "status": "Terminé",
-        "beschreibung": "",
-        "kategorien": [
-          "D2",
-          "D252",
-          "D253",
-          "D254",
-          "D3",
-          "D4",
-          "D402",
-          "D403",
-          "D404",
-          "D5",
-          "F133",
-          "F153",
-          "G133",
-          "G153",
-          "M2",
-          "M3",
-          "M352",
-          "M353",
-          "M354",
-          "M355",
-          "M356",
-          "M4",
-          "M5",
-          "M501",
-          "M502",
-          "M503",
-          "M504",
-          "M505",
-          "M6",
-          "M601",
-          "M602",
-          "M603",
-          "M604"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": true,
-        "hat_M356": true,
-        "fuer_c306": true,
-        "zeitraum_von": "30/07/2026",
-        "zeitraum_bis": "09/08/2026",
-        "klub": "BEAUVECHAIN",
-        "schiedsrichter": "DEHAEN Michel",
-        "klubcode": "1007",
-        "klub_voll": "T.C. BEAUVECHAIN",
-        "provinz": "Brabant/Bruessel"
-      },
-      {
-        "id": "362182",
-        "ort": "AMEE",
-        "start": "30/07/2026",
-        "anmeldung_bis": "28/07/2026",
-        "status": "Terminé",
-        "beschreibung": "",
-        "kategorien": [
-          "D251",
-          "D252",
-          "D253",
-          "D254",
-          "D401",
-          "D402",
-          "D403",
-          "D404",
-          "D551",
-          "D552",
-          "D553",
-          "F112",
-          "F113",
-          "F132",
-          "F133",
-          "F152",
-          "F153",
-          "G112",
-          "G113",
-          "G132",
-          "G133",
-          "G152",
-          "G153",
-          "M351",
-          "M352",
-          "M353",
-          "M354",
-          "M355",
-          "M356",
-          "M501",
-          "M502",
-          "M503",
-          "M504",
-          "M505",
-          "M601",
-          "M602",
-          "M603",
-          "M604",
-          "U92",
-          "U93"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": false,
-        "hat_M356": true,
-        "fuer_c306": true,
-        "zeitraum_von": "30/07/2026",
-        "zeitraum_bis": "09/08/2026",
-        "klub": "AMEE",
-        "klubcode": "6008",
-        "klub_voll": "R.T.C. AMEE",
-        "provinz": "Luxemburg"
-      },
-      {
         "id": "362183",
         "ort": "BERTRIX",
         "start": "30/07/2026",
@@ -9680,6 +8510,10 @@
         "hat_M6": true,
         "hat_M356": true,
         "fuer_c306": true,
+        "zeitraum_von": "30/07/2026",
+        "zeitraum_bis": "09/08/2026",
+        "klub": "BERTRIX",
+        "schiedsrichter": "HENRION Patrice",
         "klubcode": "6062",
         "klub_voll": "T.C. BAUDET BERTRIX",
         "provinz": "Luxemburg"
@@ -9744,8 +8578,119 @@
         "hat_M6": true,
         "hat_M356": true,
         "fuer_c306": true,
+        "zeitraum_von": "30/07/2026",
+        "zeitraum_bis": "09/08/2026",
+        "klub": "HAILLOT",
+        "schiedsrichter": "MAZY Eric",
         "klubcode": "6063",
         "klub_voll": "T.C. HAILLOT",
+        "provinz": "Luxemburg"
+      },
+      {
+        "id": "361949",
+        "ort": "BEAUVECHAIN",
+        "start": "30/07/2026",
+        "anmeldung_bis": "28/07/2026",
+        "status": "Terminé",
+        "beschreibung": "",
+        "kategorien": [
+          "D2",
+          "D252",
+          "D253",
+          "D254",
+          "D3",
+          "D4",
+          "D402",
+          "D403",
+          "D404",
+          "D5",
+          "F133",
+          "F153",
+          "G133",
+          "G153",
+          "M2",
+          "M3",
+          "M352",
+          "M353",
+          "M354",
+          "M355",
+          "M356",
+          "M4",
+          "M5",
+          "M501",
+          "M502",
+          "M503",
+          "M504",
+          "M505",
+          "M6",
+          "M601",
+          "M602",
+          "M603",
+          "M604"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": true,
+        "hat_M356": true,
+        "fuer_c306": true,
+        "klubcode": "1007",
+        "klub_voll": "T.C. BEAUVECHAIN",
+        "provinz": "Brabant/Bruessel"
+      },
+      {
+        "id": "362182",
+        "ort": "AMEE",
+        "start": "30/07/2026",
+        "anmeldung_bis": "28/07/2026",
+        "status": "Terminé",
+        "beschreibung": "",
+        "kategorien": [
+          "D251",
+          "D252",
+          "D253",
+          "D254",
+          "D401",
+          "D402",
+          "D403",
+          "D404",
+          "D551",
+          "D552",
+          "D553",
+          "F112",
+          "F113",
+          "F132",
+          "F133",
+          "F152",
+          "F153",
+          "G112",
+          "G113",
+          "G132",
+          "G133",
+          "G152",
+          "G153",
+          "M351",
+          "M352",
+          "M353",
+          "M354",
+          "M355",
+          "M356",
+          "M501",
+          "M502",
+          "M503",
+          "M504",
+          "M505",
+          "M601",
+          "M602",
+          "M603",
+          "M604",
+          "U92",
+          "U93"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": true,
+        "fuer_c306": true,
+        "klubcode": "6008",
+        "klub_voll": "R.T.C. AMEE",
         "provinz": "Luxemburg"
       },
       {
@@ -9908,6 +8853,35 @@
         "provinz": "Luettich"
       },
       {
+        "id": "362437",
+        "ort": "FLEMALLE",
+        "start": "03/08/2026",
+        "anmeldung_bis": "28/07/2026",
+        "status": "Terminé",
+        "beschreibung": "",
+        "kategorien": [
+          "DF10BJC",
+          "DF11BJC",
+          "DF9BJC",
+          "DG10BJC",
+          "DG11BJC",
+          "DG9BJC",
+          "F10BJC",
+          "F11BJC",
+          "F9BJC",
+          "G10BJC",
+          "G11BJC",
+          "G9BJC"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": false,
+        "fuer_c306": true,
+        "klubcode": "4002",
+        "klub_voll": "R.T.C. FLEMALLE",
+        "provinz": "Luettich"
+      },
+      {
         "id": "362186",
         "ort": "LA BRUYERE",
         "start": "03/08/2026",
@@ -9944,35 +8918,6 @@
         "klubcode": "6026",
         "klub_voll": "T.C. LA BRUYERE",
         "provinz": "Luxemburg"
-      },
-      {
-        "id": "362437",
-        "ort": "FLEMALLE",
-        "start": "03/08/2026",
-        "anmeldung_bis": "28/07/2026",
-        "status": "Terminé",
-        "beschreibung": "",
-        "kategorien": [
-          "DF10BJC",
-          "DF11BJC",
-          "DF9BJC",
-          "DG10BJC",
-          "DG11BJC",
-          "DG9BJC",
-          "F10BJC",
-          "F11BJC",
-          "F9BJC",
-          "G10BJC",
-          "G11BJC",
-          "G9BJC"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": false,
-        "hat_M356": false,
-        "fuer_c306": true,
-        "klubcode": "4002",
-        "klub_voll": "R.T.C. FLEMALLE",
-        "provinz": "Luettich"
       },
       {
         "id": "361810",
@@ -10147,69 +9092,6 @@
         "klubcode": "1028",
         "klub_voll": "T.C. LONGCHAMP",
         "provinz": "Brabant/Bruessel"
-      },
-      {
-        "id": "362251",
-        "ort": "LE CHATELET",
-        "start": "27/08/2026",
-        "anmeldung_bis": "25/08/2026",
-        "status": "Terminé",
-        "beschreibung": "",
-        "kategorien": [
-          "D3",
-          "D4",
-          "D5",
-          "DD5",
-          "DD6",
-          "DD7",
-          "DM4",
-          "DM5",
-          "DM7",
-          "DMX4",
-          "DMX5",
-          "DMX7",
-          "M2",
-          "M3",
-          "M4",
-          "M5",
-          "M6"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": true,
-        "hat_M356": false,
-        "fuer_c306": true
-      },
-      {
-        "id": "362252",
-        "ort": "MALONNE",
-        "start": "27/08/2026",
-        "anmeldung_bis": "25/08/2026",
-        "status": "Terminé",
-        "beschreibung": "",
-        "kategorien": [
-          "DD2",
-          "DD3",
-          "DD4",
-          "DD5",
-          "DD6",
-          "DM2",
-          "DM3",
-          "DM4",
-          "DM5",
-          "DM6",
-          "DMX2",
-          "DMX3",
-          "DMX4",
-          "DMX5",
-          "DMX6"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": false,
-        "hat_M356": false,
-        "fuer_c306": true,
-        "klubcode": "6039",
-        "klub_voll": "T.C. MALONNE",
-        "provinz": "Luxemburg"
       },
       {
         "id": "361815",
@@ -10415,6 +9297,133 @@
         "fuer_c306": true,
         "klubcode": "1095",
         "klub_voll": "B.SPORTS",
+        "provinz": "Brabant/Bruessel"
+      },
+      {
+        "id": "362251",
+        "ort": "LE CHATELET",
+        "start": "27/08/2026",
+        "anmeldung_bis": "25/08/2026",
+        "status": "Terminé",
+        "beschreibung": "",
+        "kategorien": [
+          "D3",
+          "D4",
+          "D5",
+          "DD5",
+          "DD6",
+          "DD7",
+          "DM4",
+          "DM5",
+          "DM7",
+          "DMX4",
+          "DMX5",
+          "DMX7",
+          "M2",
+          "M3",
+          "M4",
+          "M5",
+          "M6"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": true,
+        "hat_M356": false,
+        "fuer_c306": true
+      },
+      {
+        "id": "362252",
+        "ort": "MALONNE",
+        "start": "27/08/2026",
+        "anmeldung_bis": "25/08/2026",
+        "status": "Terminé",
+        "beschreibung": "",
+        "kategorien": [
+          "DD2",
+          "DD3",
+          "DD4",
+          "DD5",
+          "DD6",
+          "DM2",
+          "DM3",
+          "DM4",
+          "DM5",
+          "DM6",
+          "DMX2",
+          "DMX3",
+          "DMX4",
+          "DMX5",
+          "DMX6"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": false,
+        "fuer_c306": true,
+        "klubcode": "6039",
+        "klub_voll": "T.C. MALONNE",
+        "provinz": "Luxemburg"
+      },
+      {
+        "id": "361968",
+        "ort": "PARIVAL",
+        "start": "27/08/2026",
+        "anmeldung_bis": "25/08/2026",
+        "status": "Terminé",
+        "beschreibung": "",
+        "kategorien": [
+          "D251",
+          "D252",
+          "D253",
+          "D254",
+          "D401",
+          "D402",
+          "D403",
+          "D404",
+          "D551",
+          "D552",
+          "D553",
+          "DD1",
+          "DD2",
+          "DD3",
+          "DD4",
+          "DD5",
+          "DD6",
+          "DD7",
+          "DM1",
+          "DM2",
+          "DM3",
+          "DM4",
+          "DM5",
+          "DM6",
+          "DM7",
+          "DMX1",
+          "DMX2",
+          "DMX3",
+          "DMX4",
+          "DMX5",
+          "DMX6",
+          "DMX7",
+          "M351",
+          "M352",
+          "M353",
+          "M354",
+          "M355",
+          "M356",
+          "M501",
+          "M502",
+          "M503",
+          "M504",
+          "M505",
+          "M601",
+          "M602",
+          "M603",
+          "M604"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": true,
+        "fuer_c306": true,
+        "klubcode": "1038",
+        "klub_voll": "PARIVAL T.C.",
         "provinz": "Brabant/Bruessel"
       },
       {
@@ -11212,70 +10221,6 @@
         "provinz": "Luxemburg"
       },
       {
-        "id": "361968",
-        "ort": "PARIVAL",
-        "start": "27/08/2026",
-        "anmeldung_bis": "25/08/2026",
-        "status": "Terminé",
-        "beschreibung": "",
-        "kategorien": [
-          "D251",
-          "D252",
-          "D253",
-          "D254",
-          "D401",
-          "D402",
-          "D403",
-          "D404",
-          "D551",
-          "D552",
-          "D553",
-          "DD1",
-          "DD2",
-          "DD3",
-          "DD4",
-          "DD5",
-          "DD6",
-          "DD7",
-          "DM1",
-          "DM2",
-          "DM3",
-          "DM4",
-          "DM5",
-          "DM6",
-          "DM7",
-          "DMX1",
-          "DMX2",
-          "DMX3",
-          "DMX4",
-          "DMX5",
-          "DMX6",
-          "DMX7",
-          "M351",
-          "M352",
-          "M353",
-          "M354",
-          "M355",
-          "M356",
-          "M501",
-          "M502",
-          "M503",
-          "M504",
-          "M505",
-          "M601",
-          "M602",
-          "M603",
-          "M604"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": false,
-        "hat_M356": true,
-        "fuer_c306": true,
-        "klubcode": "1038",
-        "klub_voll": "PARIVAL T.C.",
-        "provinz": "Brabant/Bruessel"
-      },
-      {
         "id": "361969",
         "ort": "ANIMER WEZEMBEEK",
         "start": "28/08/2026",
@@ -11413,6 +10358,42 @@
         "provinz": "Luxemburg"
       },
       {
+        "id": "362262",
+        "ort": "LA BRUYERE",
+        "start": "03/09/2026",
+        "anmeldung_bis": "01/09/2026",
+        "status": "Terminé",
+        "beschreibung": "",
+        "kategorien": [
+          "D2",
+          "D251",
+          "D252",
+          "D253",
+          "D254",
+          "D3",
+          "D4",
+          "D5",
+          "M351",
+          "M352",
+          "M353",
+          "M354",
+          "M355",
+          "M356",
+          "M501",
+          "M502",
+          "M503",
+          "M504",
+          "M505"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": true,
+        "fuer_c306": true,
+        "klubcode": "6026",
+        "klub_voll": "T.C. LA BRUYERE",
+        "provinz": "Luxemburg"
+      },
+      {
         "id": "362260",
         "ort": "CINEY",
         "start": "03/09/2026",
@@ -11476,163 +10457,6 @@
         "klubcode": "6033",
         "klub_voll": "T.C. FOSSES-LA-VILLE",
         "provinz": "Luxemburg"
-      },
-      {
-        "id": "362262",
-        "ort": "LA BRUYERE",
-        "start": "03/09/2026",
-        "anmeldung_bis": "01/09/2026",
-        "status": "Terminé",
-        "beschreibung": "",
-        "kategorien": [
-          "D2",
-          "D251",
-          "D252",
-          "D253",
-          "D254",
-          "D3",
-          "D4",
-          "D5",
-          "M351",
-          "M352",
-          "M353",
-          "M354",
-          "M355",
-          "M356",
-          "M501",
-          "M502",
-          "M503",
-          "M504",
-          "M505"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": false,
-        "hat_M356": true,
-        "fuer_c306": true,
-        "klubcode": "6026",
-        "klub_voll": "T.C. LA BRUYERE",
-        "provinz": "Luxemburg"
-      },
-      {
-        "id": "362263",
-        "ort": "LIBRAMONT",
-        "start": "03/09/2026",
-        "anmeldung_bis": "01/09/2026",
-        "status": "Terminé",
-        "beschreibung": "",
-        "kategorien": [
-          "DD1",
-          "DD2",
-          "DD3",
-          "DD4",
-          "DD5",
-          "DD6",
-          "DD7",
-          "DM1",
-          "DM2",
-          "DM3",
-          "DM4",
-          "DM5",
-          "DM6",
-          "DM7",
-          "DMX1",
-          "DMX2",
-          "DMX3",
-          "DMX4",
-          "DMX5",
-          "DMX6",
-          "DMX7"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": false,
-        "hat_M356": false,
-        "fuer_c306": true,
-        "klubcode": "4133",
-        "klub_voll": "T.C. MONT",
-        "provinz": "Luettich"
-      },
-      {
-        "id": "362392",
-        "ort": "MOUSCRONTC",
-        "start": "03/09/2026",
-        "anmeldung_bis": "01/09/2026",
-        "status": "Terminé",
-        "beschreibung": "",
-        "kategorien": [
-          "D2",
-          "D251",
-          "D252",
-          "D253",
-          "D254",
-          "D3",
-          "D4",
-          "D401",
-          "D402",
-          "D403",
-          "D404",
-          "D5",
-          "D551",
-          "D552",
-          "D553",
-          "M2",
-          "M3",
-          "M352",
-          "M353",
-          "M354",
-          "M355",
-          "M356",
-          "M4",
-          "M5",
-          "M501",
-          "M502",
-          "M503",
-          "M504",
-          "M505",
-          "M6",
-          "M601",
-          "M602",
-          "M603",
-          "M604"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": true,
-        "hat_M356": true,
-        "fuer_c306": true
-      },
-      {
-        "id": "362393",
-        "ort": "MOUSCRONTU",
-        "start": "03/09/2026",
-        "anmeldung_bis": "01/09/2026",
-        "status": "Terminé",
-        "beschreibung": "",
-        "kategorien": [
-          "DD1",
-          "DD2",
-          "DD3",
-          "DD4",
-          "DD5",
-          "DD6",
-          "DD7",
-          "DM1",
-          "DM2",
-          "DM3",
-          "DM4",
-          "DM5",
-          "DM6",
-          "DM7",
-          "DMX1",
-          "DMX2",
-          "DMX3",
-          "DMX4",
-          "DMX5",
-          "DMX6",
-          "DMX7"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": false,
-        "hat_M356": false,
-        "fuer_c306": true
       },
       {
         "id": "362259",
@@ -12008,6 +10832,41 @@
       {
         "id": "362390",
         "ort": "NAASTTENNIS",
+        "start": "03/09/2026",
+        "anmeldung_bis": "01/09/2026",
+        "status": "Terminé",
+        "beschreibung": "",
+        "kategorien": [
+          "DD1",
+          "DD2",
+          "DD3",
+          "DD4",
+          "DD5",
+          "DD6",
+          "DD7",
+          "DM1",
+          "DM2",
+          "DM3",
+          "DM4",
+          "DM5",
+          "DM6",
+          "DM7",
+          "DMX1",
+          "DMX2",
+          "DMX3",
+          "DMX4",
+          "DMX5",
+          "DMX6",
+          "DMX7"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": false,
+        "fuer_c306": true
+      },
+      {
+        "id": "362393",
+        "ort": "MOUSCRONTU",
         "start": "03/09/2026",
         "anmeldung_bis": "01/09/2026",
         "status": "Terminé",
@@ -12516,6 +11375,92 @@
         "klubcode": "1044",
         "klub_voll": "R. UCCLE SPORT T.H.C.",
         "provinz": "Brabant/Bruessel"
+      },
+      {
+        "id": "362263",
+        "ort": "LIBRAMONT",
+        "start": "03/09/2026",
+        "anmeldung_bis": "01/09/2026",
+        "status": "Terminé",
+        "beschreibung": "",
+        "kategorien": [
+          "DD1",
+          "DD2",
+          "DD3",
+          "DD4",
+          "DD5",
+          "DD6",
+          "DD7",
+          "DM1",
+          "DM2",
+          "DM3",
+          "DM4",
+          "DM5",
+          "DM6",
+          "DM7",
+          "DMX1",
+          "DMX2",
+          "DMX3",
+          "DMX4",
+          "DMX5",
+          "DMX6",
+          "DMX7"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": false,
+        "fuer_c306": true,
+        "klubcode": "4133",
+        "klub_voll": "T.C. MONT",
+        "provinz": "Luettich"
+      },
+      {
+        "id": "362392",
+        "ort": "MOUSCRONTC",
+        "start": "03/09/2026",
+        "anmeldung_bis": "01/09/2026",
+        "status": "Terminé",
+        "beschreibung": "",
+        "kategorien": [
+          "D2",
+          "D251",
+          "D252",
+          "D253",
+          "D254",
+          "D3",
+          "D4",
+          "D401",
+          "D402",
+          "D403",
+          "D404",
+          "D5",
+          "D551",
+          "D552",
+          "D553",
+          "M2",
+          "M3",
+          "M352",
+          "M353",
+          "M354",
+          "M355",
+          "M356",
+          "M4",
+          "M5",
+          "M501",
+          "M502",
+          "M503",
+          "M504",
+          "M505",
+          "M6",
+          "M601",
+          "M602",
+          "M603",
+          "M604"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": true,
+        "hat_M356": true,
+        "fuer_c306": true
       },
       {
         "id": "362469",
@@ -13944,7 +12889,7 @@
         "ort": "CONDROZ",
         "start": "22/10/2026",
         "anmeldung_bis": "20/10/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "CRITERIUM ADULTES - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3 - Doubles Dames TWB",
         "kategorien": [
           "D251",
@@ -14007,7 +12952,7 @@
         "ort": "TENNISSIMO",
         "start": "22/10/2026",
         "anmeldung_bis": "20/10/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "CRITERIUM ADULTES - BC SM I* / BC SD I* - Ethias Junior Tour GRADE 1 / GRADE 2 / GRADE 3",
         "kategorien": [
           "D2",
@@ -14075,7 +13020,7 @@
         "ort": "SET WAHIS",
         "start": "22/10/2026",
         "anmeldung_bis": "20/10/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "D2",
@@ -14122,7 +13067,7 @@
         "ort": "BARVAUX",
         "start": "22/10/2026",
         "anmeldung_bis": "20/10/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "D253",
@@ -14216,7 +13161,7 @@
         "ort": "STABULOIS",
         "start": "22/10/2026",
         "anmeldung_bis": "20/10/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "DD1",
@@ -14254,7 +13199,7 @@
         "ort": "MONSRAECT",
         "start": "22/10/2026",
         "anmeldung_bis": "20/10/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "Criterium Vétérans by Cornet- Jeunes grades 1 à 3",
         "kategorien": [
           "D251",
@@ -14315,7 +13260,7 @@
         "ort": "MONTAGNARD",
         "start": "22/10/2026",
         "anmeldung_bis": "20/10/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "Criterium Adultes Doubles",
         "kategorien": [
           "DD1",
@@ -14353,7 +13298,7 @@
         "ort": "THUIN",
         "start": "22/10/2026",
         "anmeldung_bis": "20/10/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "Tournoi jeunes Grades 1 à 3",
         "kategorien": [
           "F111",
@@ -14391,7 +13336,7 @@
         "ort": "R.T.C. NIMY",
         "start": "22/10/2026",
         "anmeldung_bis": "20/10/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "Criterium Adultes Simples",
         "kategorien": [
           "D2",
@@ -14417,7 +13362,7 @@
         "ort": "AMAY",
         "start": "22/10/2026",
         "anmeldung_bis": "20/10/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "CRITERIUM ADULTES",
         "kategorien": [
           "D3",
@@ -14446,7 +13391,7 @@
         "ort": "FAYEN BOIS",
         "start": "22/10/2026",
         "anmeldung_bis": "20/10/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "CRITERIUM ADULTES",
         "kategorien": [
           "D252",
@@ -14470,7 +13415,7 @@
         "ort": "JENA",
         "start": "22/10/2026",
         "anmeldung_bis": "20/10/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "CRITERIUM ADULTES - Doubles Dames TWB",
         "kategorien": [
           "D551",
@@ -14509,7 +13454,7 @@
         "ort": "MOHA",
         "start": "22/10/2026",
         "anmeldung_bis": "20/10/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "CRITERIUM ADULTES",
         "kategorien": [
           "D3",
@@ -14533,7 +13478,7 @@
         "ort": "LE PARC",
         "start": "23/10/2026",
         "anmeldung_bis": "20/10/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "F111",
@@ -14568,7 +13513,7 @@
         "ort": "OREE",
         "start": "24/10/2026",
         "anmeldung_bis": "20/10/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "D2",
@@ -14634,7 +13579,7 @@
         "ort": "HAILLOT",
         "start": "24/10/2026",
         "anmeldung_bis": "20/10/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "DD4",
@@ -14682,7 +13627,7 @@
         "ort": "WEPION",
         "start": "26/10/2026",
         "anmeldung_bis": "20/10/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "F112",
@@ -14713,7 +13658,7 @@
         "ort": "CASTLE CLUB",
         "start": "26/10/2026",
         "anmeldung_bis": "20/10/2026",
-        "status": "En cours",
+        "status": "Terminé",
         "beschreibung": "",
         "kategorien": [
           "F112",
@@ -14853,7 +13798,7 @@
         "start": "05/11/2026",
         "anmeldung_bis": "03/11/2026",
         "status": "",
-        "beschreibung": "Tournoi complet",
+        "beschreibung": "",
         "kategorien": [
           "D252",
           "D5",
@@ -15132,7 +14077,7 @@
         "start": "19/11/2026",
         "anmeldung_bis": "17/11/2026",
         "status": "",
-        "beschreibung": "Criterium Adultes Simples- Vétérans",
+        "beschreibung": "Tournoi complet",
         "kategorien": [
           "D2",
           "D251",
@@ -15457,6 +14402,41 @@
       {
         "id": "362738",
         "ort": "BJORNSCLUB",
+        "start": "10/12/2026",
+        "anmeldung_bis": "08/12/2026",
+        "status": "",
+        "beschreibung": "Criterium Adultes doubles",
+        "kategorien": [
+          "DD1",
+          "DD2",
+          "DD3",
+          "DD4",
+          "DD5",
+          "DD6",
+          "DD7",
+          "DM1",
+          "DM2",
+          "DM3",
+          "DM4",
+          "DM5",
+          "DM6",
+          "DM7",
+          "DMX1",
+          "DMX2",
+          "DMX3",
+          "DMX4",
+          "DMX5",
+          "DMX6",
+          "DMX7"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": false,
+        "fuer_c306": true
+      },
+      {
+        "id": "362739",
+        "ort": "TENNISLANDREBECQ",
         "start": "10/12/2026",
         "anmeldung_bis": "08/12/2026",
         "status": "",
@@ -16095,6 +15075,96 @@
         "provinz": "?"
       },
       {
+        "id": "362742",
+        "ort": "TENNISLANDREBECQ",
+        "start": "17/12/2026",
+        "anmeldung_bis": "15/12/2026",
+        "status": "",
+        "beschreibung": "Criterium Adultes Simples/Vétérans by Cornet/M1 1 étoile/D1 1 étoile",
+        "kategorien": [
+          "D1BC1*",
+          "D2",
+          "D251",
+          "D252",
+          "D253",
+          "D254",
+          "D3",
+          "D351",
+          "D352",
+          "D353",
+          "D354",
+          "D4",
+          "D401",
+          "D402",
+          "D403",
+          "D404",
+          "D5",
+          "D551",
+          "D552",
+          "D553",
+          "M1BC1*",
+          "M2",
+          "M3",
+          "M352",
+          "M353",
+          "M354",
+          "M355",
+          "M356",
+          "M4",
+          "M5",
+          "M501",
+          "M502",
+          "M503",
+          "M504",
+          "M505",
+          "M6",
+          "M601",
+          "M602",
+          "M603",
+          "M604"
+        ],
+        "anmeldeoeffnung": [
+          {
+            "kategorien": [
+              "D1BC1*",
+              "D2",
+              "D3",
+              "D4",
+              "D5"
+            ],
+            "datum": "23/11/2026",
+            "uhrzeit": "20:00"
+          },
+          {
+            "kategorien": [
+              "M5",
+              "M6"
+            ],
+            "datum": "24/11/2026",
+            "uhrzeit": "19:00"
+          },
+          {
+            "kategorien": [
+              "M3",
+              "M4"
+            ],
+            "datum": "24/11/2026",
+            "uhrzeit": "20:00"
+          },
+          {
+            "kategorien": [
+              "M1BC1*",
+              "M2"
+            ],
+            "datum": "24/11/2026",
+            "uhrzeit": "21:00"
+          }
+        ],
+        "hat_M6": true,
+        "hat_M356": true,
+        "fuer_c306": true
+      },
+      {
         "id": "362798",
         "ort": "BAUDOUIN (Brabant)",
         "start": "17/12/2026",
@@ -16176,6 +15246,304 @@
         "fuer_c306": true,
         "klubcode": "6006",
         "klub_voll": "R.T.C. ARLON",
+        "provinz": "Luxemburg"
+      },
+      {
+        "id": "362599",
+        "ort": "LES EGLANTIERS",
+        "start": "24/12/2026",
+        "anmeldung_bis": "22/12/2026",
+        "status": "",
+        "beschreibung": "",
+        "kategorien": [
+          "D2",
+          "D251",
+          "D252",
+          "D253",
+          "D254",
+          "D3",
+          "D4",
+          "D5",
+          "F112",
+          "F113",
+          "F132",
+          "F133",
+          "F152",
+          "F153",
+          "G112",
+          "G113",
+          "G132",
+          "G133",
+          "G152",
+          "G153",
+          "M1BC1*",
+          "M2",
+          "M3",
+          "M351",
+          "M352",
+          "M353",
+          "M354",
+          "M355",
+          "M356",
+          "M4",
+          "M5",
+          "M6",
+          "U92",
+          "U93"
+        ],
+        "anmeldeoeffnung": [
+          {
+            "kategorien": [
+              "M5",
+              "M6"
+            ],
+            "datum": "01/12/2026",
+            "uhrzeit": "19:00"
+          },
+          {
+            "kategorien": [
+              "M3",
+              "M4"
+            ],
+            "datum": "01/12/2026",
+            "uhrzeit": "20:00"
+          },
+          {
+            "kategorien": [
+              "M1BC1*",
+              "M2"
+            ],
+            "datum": "01/12/2026",
+            "uhrzeit": "21:00"
+          },
+          {
+            "kategorien": [
+              "D2",
+              "D3",
+              "D4",
+              "D5"
+            ],
+            "datum": "30/11/2026",
+            "uhrzeit": "20:00"
+          },
+          {
+            "kategorien": [
+              "M351",
+              "M352",
+              "M353",
+              "M354",
+              "M355",
+              "M356",
+              "D251",
+              "D252",
+              "D253",
+              "D254"
+            ],
+            "datum": "30/11/2026",
+            "uhrzeit": "21:00"
+          }
+        ],
+        "hat_M6": true,
+        "hat_M356": true,
+        "fuer_c306": true,
+        "klubcode": "1076",
+        "klub_voll": "LES EGLANTIERS T.C.",
+        "provinz": "Brabant/Bruessel"
+      },
+      {
+        "id": "362600",
+        "ort": "LE BERCUIT",
+        "start": "24/12/2026",
+        "anmeldung_bis": "22/12/2026",
+        "status": "",
+        "beschreibung": "",
+        "kategorien": [
+          "F111",
+          "F112",
+          "F113",
+          "F131",
+          "F132",
+          "F133",
+          "F151",
+          "F152",
+          "F153",
+          "G111",
+          "G112",
+          "G113",
+          "G131",
+          "G132",
+          "G133",
+          "G151",
+          "G152",
+          "G153",
+          "U91",
+          "U92",
+          "U93"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": false,
+        "fuer_c306": true
+      },
+      {
+        "id": "362655",
+        "ort": "SPY",
+        "start": "24/12/2026",
+        "anmeldung_bis": "22/12/2026",
+        "status": "",
+        "beschreibung": "",
+        "kategorien": [
+          "D254",
+          "D3",
+          "D401",
+          "D403",
+          "M1BC1*",
+          "M3",
+          "M352",
+          "M502",
+          "M504",
+          "M602"
+        ],
+        "anmeldeoeffnung": [
+          {
+            "kategorien": [
+              "M3"
+            ],
+            "datum": "01/12/2026",
+            "uhrzeit": "20:00"
+          },
+          {
+            "kategorien": [
+              "M1BC1*"
+            ],
+            "datum": "01/12/2026",
+            "uhrzeit": "21:00"
+          },
+          {
+            "kategorien": [
+              "D3"
+            ],
+            "datum": "30/11/2026",
+            "uhrzeit": "20:00"
+          },
+          {
+            "kategorien": [
+              "M502",
+              "M504",
+              "D401",
+              "D403",
+              "M352",
+              "M602",
+              "D254"
+            ],
+            "datum": "30/11/2026",
+            "uhrzeit": "21:00"
+          }
+        ],
+        "hat_M6": false,
+        "hat_M356": false,
+        "fuer_c306": true,
+        "klubcode": "6068",
+        "klub_voll": "SPY T.C.",
+        "provinz": "Luxemburg"
+      },
+      {
+        "id": "362745",
+        "ort": "PLAINCHAMP",
+        "start": "24/12/2026",
+        "anmeldung_bis": "22/12/2026",
+        "status": "",
+        "beschreibung": "Criterium Adultes Simples/ M1 1 étoile",
+        "kategorien": [
+          "D2",
+          "D3",
+          "D4",
+          "D5",
+          "M1BC1*",
+          "M2",
+          "M3",
+          "M4",
+          "M5",
+          "M6"
+        ],
+        "anmeldeoeffnung": [
+          {
+            "kategorien": [
+              "M5",
+              "M6"
+            ],
+            "datum": "01/12/2026",
+            "uhrzeit": "19:00"
+          },
+          {
+            "kategorien": [
+              "M3",
+              "M4"
+            ],
+            "datum": "01/12/2026",
+            "uhrzeit": "20:00"
+          },
+          {
+            "kategorien": [
+              "M1BC1*",
+              "M2"
+            ],
+            "datum": "01/12/2026",
+            "uhrzeit": "21:00"
+          },
+          {
+            "kategorien": [
+              "D2",
+              "D3",
+              "D4",
+              "D5"
+            ],
+            "datum": "30/11/2026",
+            "uhrzeit": "20:00"
+          }
+        ],
+        "hat_M6": true,
+        "hat_M356": false,
+        "fuer_c306": true,
+        "klubcode": "3103",
+        "klub_voll": "T.C. PLAINCHAMP",
+        "provinz": "?"
+      },
+      {
+        "id": "362776",
+        "ort": "GARISART",
+        "start": "24/12/2026",
+        "anmeldung_bis": "22/12/2026",
+        "status": "",
+        "beschreibung": "",
+        "kategorien": [
+          "F111",
+          "F112",
+          "F113",
+          "F131",
+          "F132",
+          "F133",
+          "F151",
+          "F152",
+          "F153",
+          "G111",
+          "G112",
+          "G113",
+          "G131",
+          "G132",
+          "G133",
+          "G151",
+          "G152",
+          "G153",
+          "U92",
+          "U93"
+        ],
+        "anmeldeoeffnung": [],
+        "hat_M6": false,
+        "hat_M356": false,
+        "fuer_c306": true,
+        "klubcode": "6060",
+        "klub_voll": "GARISART TENNIS",
         "provinz": "Luxemburg"
       },
       {
@@ -16444,170 +15812,6 @@
         "provinz": "Luettich"
       },
       {
-        "id": "362655",
-        "ort": "SPY",
-        "start": "24/12/2026",
-        "anmeldung_bis": "22/12/2026",
-        "status": "",
-        "beschreibung": "",
-        "kategorien": [
-          "D254",
-          "D3",
-          "D401",
-          "D403",
-          "M1BC1*",
-          "M3",
-          "M352",
-          "M502",
-          "M504",
-          "M602"
-        ],
-        "anmeldeoeffnung": [
-          {
-            "kategorien": [
-              "M3"
-            ],
-            "datum": "01/12/2026",
-            "uhrzeit": "20:00"
-          },
-          {
-            "kategorien": [
-              "M1BC1*"
-            ],
-            "datum": "01/12/2026",
-            "uhrzeit": "21:00"
-          },
-          {
-            "kategorien": [
-              "D3"
-            ],
-            "datum": "30/11/2026",
-            "uhrzeit": "20:00"
-          },
-          {
-            "kategorien": [
-              "M502",
-              "M504",
-              "D401",
-              "D403",
-              "M352",
-              "M602",
-              "D254"
-            ],
-            "datum": "30/11/2026",
-            "uhrzeit": "21:00"
-          }
-        ],
-        "hat_M6": false,
-        "hat_M356": false,
-        "fuer_c306": true,
-        "klubcode": "6068",
-        "klub_voll": "SPY T.C.",
-        "provinz": "Luxemburg"
-      },
-      {
-        "id": "362599",
-        "ort": "LES EGLANTIERS",
-        "start": "24/12/2026",
-        "anmeldung_bis": "22/12/2026",
-        "status": "",
-        "beschreibung": "",
-        "kategorien": [
-          "D2",
-          "D251",
-          "D252",
-          "D253",
-          "D254",
-          "D3",
-          "D4",
-          "D5",
-          "F112",
-          "F113",
-          "F132",
-          "F133",
-          "F152",
-          "F153",
-          "G112",
-          "G113",
-          "G132",
-          "G133",
-          "G152",
-          "G153",
-          "M1BC1*",
-          "M2",
-          "M3",
-          "M351",
-          "M352",
-          "M353",
-          "M354",
-          "M355",
-          "M356",
-          "M4",
-          "M5",
-          "M6",
-          "U92",
-          "U93"
-        ],
-        "anmeldeoeffnung": [
-          {
-            "kategorien": [
-              "M5",
-              "M6"
-            ],
-            "datum": "01/12/2026",
-            "uhrzeit": "19:00"
-          },
-          {
-            "kategorien": [
-              "M3",
-              "M4"
-            ],
-            "datum": "01/12/2026",
-            "uhrzeit": "20:00"
-          },
-          {
-            "kategorien": [
-              "M1BC1*",
-              "M2"
-            ],
-            "datum": "01/12/2026",
-            "uhrzeit": "21:00"
-          },
-          {
-            "kategorien": [
-              "D2",
-              "D3",
-              "D4",
-              "D5"
-            ],
-            "datum": "30/11/2026",
-            "uhrzeit": "20:00"
-          },
-          {
-            "kategorien": [
-              "M351",
-              "M352",
-              "M353",
-              "M354",
-              "M355",
-              "M356",
-              "D251",
-              "D252",
-              "D253",
-              "D254"
-            ],
-            "datum": "30/11/2026",
-            "uhrzeit": "21:00"
-          }
-        ],
-        "hat_M6": true,
-        "hat_M356": true,
-        "fuer_c306": true,
-        "klubcode": "1076",
-        "klub_voll": "LES EGLANTIERS T.C.",
-        "provinz": "Brabant/Bruessel"
-      },
-      {
         "id": "362651",
         "ort": "JEMELLE",
         "start": "24/12/2026",
@@ -16656,105 +15860,6 @@
         "fuer_c306": true,
         "klubcode": "6077",
         "klub_voll": "T.C. JEMELLE",
-        "provinz": "Luxemburg"
-      },
-      {
-        "id": "362745",
-        "ort": "PLAINCHAMP",
-        "start": "24/12/2026",
-        "anmeldung_bis": "22/12/2026",
-        "status": "",
-        "beschreibung": "Criterium Adultes Simples/ M1 1 étoile",
-        "kategorien": [
-          "D2",
-          "D3",
-          "D4",
-          "D5",
-          "M1BC1*",
-          "M2",
-          "M3",
-          "M4",
-          "M5",
-          "M6"
-        ],
-        "anmeldeoeffnung": [
-          {
-            "kategorien": [
-              "M5",
-              "M6"
-            ],
-            "datum": "01/12/2026",
-            "uhrzeit": "19:00"
-          },
-          {
-            "kategorien": [
-              "M3",
-              "M4"
-            ],
-            "datum": "01/12/2026",
-            "uhrzeit": "20:00"
-          },
-          {
-            "kategorien": [
-              "M1BC1*",
-              "M2"
-            ],
-            "datum": "01/12/2026",
-            "uhrzeit": "21:00"
-          },
-          {
-            "kategorien": [
-              "D2",
-              "D3",
-              "D4",
-              "D5"
-            ],
-            "datum": "30/11/2026",
-            "uhrzeit": "20:00"
-          }
-        ],
-        "hat_M6": true,
-        "hat_M356": false,
-        "fuer_c306": true,
-        "klubcode": "3103",
-        "klub_voll": "T.C. PLAINCHAMP",
-        "provinz": "?"
-      },
-      {
-        "id": "362776",
-        "ort": "GARISART",
-        "start": "24/12/2026",
-        "anmeldung_bis": "22/12/2026",
-        "status": "",
-        "beschreibung": "",
-        "kategorien": [
-          "F111",
-          "F112",
-          "F113",
-          "F131",
-          "F132",
-          "F133",
-          "F151",
-          "F152",
-          "F153",
-          "G111",
-          "G112",
-          "G113",
-          "G131",
-          "G132",
-          "G133",
-          "G151",
-          "G152",
-          "G153",
-          "U92",
-          "U93"
-        ],
-        "anmeldeoeffnung": [],
-        "hat_M6": false,
-        "hat_M356": false,
-        "fuer_c306": true,
-        "klubcode": "6060",
-        "klub_voll": "GARISART TENNIS",
         "provinz": "Luxemburg"
       },
       {
@@ -16848,6 +15953,66 @@
         "klubcode": "1046",
         "klub_voll": "SET WAHIS A.S.B.L.",
         "provinz": "Brabant/Bruessel"
+      },
+      {
+        "id": "362747",
+        "ort": "LOUVIEROIS",
+        "start": "31/12/2026",
+        "anmeldung_bis": "29/12/2026",
+        "status": "",
+        "beschreibung": "Criterium Adultes Simples",
+        "kategorien": [
+          "D2",
+          "D3",
+          "D4",
+          "D5",
+          "M2",
+          "M3",
+          "M4",
+          "M5",
+          "M6"
+        ],
+        "anmeldeoeffnung": [
+          {
+            "kategorien": [
+              "D2",
+              "D3",
+              "D4",
+              "D5"
+            ],
+            "datum": "07/12/2026",
+            "uhrzeit": "20:00"
+          },
+          {
+            "kategorien": [
+              "M5",
+              "M6"
+            ],
+            "datum": "08/12/2026",
+            "uhrzeit": "19:00"
+          },
+          {
+            "kategorien": [
+              "M3",
+              "M4"
+            ],
+            "datum": "08/12/2026",
+            "uhrzeit": "20:00"
+          },
+          {
+            "kategorien": [
+              "M2"
+            ],
+            "datum": "08/12/2026",
+            "uhrzeit": "21:00"
+          }
+        ],
+        "hat_M6": true,
+        "hat_M356": false,
+        "fuer_c306": true,
+        "klubcode": "3032",
+        "klub_voll": "R.T.C. LOUVIEROIS",
+        "provinz": "?"
       },
       {
         "id": "362527",
@@ -17071,66 +16236,6 @@
         "hat_M6": true,
         "hat_M356": true,
         "fuer_c306": true
-      },
-      {
-        "id": "362747",
-        "ort": "LOUVIEROIS",
-        "start": "31/12/2026",
-        "anmeldung_bis": "29/12/2026",
-        "status": "",
-        "beschreibung": "Criterium Adultes Simples",
-        "kategorien": [
-          "D2",
-          "D3",
-          "D4",
-          "D5",
-          "M2",
-          "M3",
-          "M4",
-          "M5",
-          "M6"
-        ],
-        "anmeldeoeffnung": [
-          {
-            "kategorien": [
-              "D2",
-              "D3",
-              "D4",
-              "D5"
-            ],
-            "datum": "07/12/2026",
-            "uhrzeit": "20:00"
-          },
-          {
-            "kategorien": [
-              "M5",
-              "M6"
-            ],
-            "datum": "08/12/2026",
-            "uhrzeit": "19:00"
-          },
-          {
-            "kategorien": [
-              "M3",
-              "M4"
-            ],
-            "datum": "08/12/2026",
-            "uhrzeit": "20:00"
-          },
-          {
-            "kategorien": [
-              "M2"
-            ],
-            "datum": "08/12/2026",
-            "uhrzeit": "21:00"
-          }
-        ],
-        "hat_M6": true,
-        "hat_M356": false,
-        "fuer_c306": true,
-        "klubcode": "3032",
-        "klub_voll": "R.T.C. LOUVIEROIS",
-        "provinz": "?"
       },
       {
         "id": "362681",
@@ -18872,6 +17977,32 @@
         "fuer_c306": true
       },
       {
+        "id": "362688",
+        "ort": "EUPEN",
+        "start": "21/03/2027",
+        "anmeldung_bis": "19/03/2027",
+        "status": "",
+        "beschreibung": "",
+        "kategorien": [
+          "U7"
+        ],
+        "anmeldeoeffnung": [
+          {
+            "kategorien": [
+              "U7"
+            ],
+            "datum": "22/02/2027",
+            "uhrzeit": "19:00"
+          }
+        ],
+        "hat_M6": false,
+        "hat_M356": false,
+        "fuer_c306": true,
+        "klubcode": "4006",
+        "klub_voll": "K.T.C. EUPEN",
+        "provinz": "Luettich"
+      },
+      {
         "id": "362558",
         "ort": "BEAUFAYS",
         "start": "25/03/2027",
@@ -18990,6 +18121,82 @@
         "klubcode": "1006",
         "klub_voll": "T.C. ARGAYON",
         "provinz": "Brabant/Bruessel"
+      },
+      {
+        "id": "362560",
+        "ort": "EUPEN",
+        "start": "01/04/2027",
+        "anmeldung_bis": "30/03/2027",
+        "status": "",
+        "beschreibung": "CRITERIUM ADULTES - Ethias Junior Tour GRADE 2 / GRADE 3 - Doubles Dames TWB",
+        "kategorien": [
+          "D252",
+          "D253",
+          "D254",
+          "D3",
+          "D4",
+          "D402",
+          "D403",
+          "D5",
+          "DD3",
+          "DD4",
+          "DD5",
+          "DD6",
+          "DM2",
+          "DM4",
+          "DM5",
+          "DM7",
+          "DMX3",
+          "DMX4",
+          "DMX5",
+          "DMX6",
+          "F112",
+          "F113",
+          "F132",
+          "F133",
+          "F152",
+          "F153",
+          "G112",
+          "G113",
+          "G132",
+          "G133",
+          "G152",
+          "G153",
+          "M354",
+          "M355",
+          "M356",
+          "M4",
+          "M5",
+          "M503",
+          "M504",
+          "M505",
+          "M6",
+          "U92",
+          "U93"
+        ],
+        "anmeldeoeffnung": [
+          {
+            "kategorien": [
+              "M5",
+              "M6"
+            ],
+            "datum": "09/03/2027",
+            "uhrzeit": "19:00"
+          },
+          {
+            "kategorien": [
+              "M4"
+            ],
+            "datum": "09/03/2027",
+            "uhrzeit": "20:00"
+          }
+        ],
+        "hat_M6": true,
+        "hat_M356": true,
+        "fuer_c306": true,
+        "klubcode": "4006",
+        "klub_voll": "K.T.C. EUPEN",
+        "provinz": "Luettich"
       },
       {
         "id": "362572",
@@ -19235,11 +18442,11 @@
         "/MyAFT/Competitions/TournamentDetailCategories?idTournoi=362529&amp;subscrStartDate=07%2F12%2F2026&amp;subscrEndDate=29%2F12%2F2026&amp;displaySubscriptions=False&amp;maxSubscriptions=130&amp;tournoiDescription=SAINT-VITH%2007%2F12%2F2026",
         "/MyAFT/Competitions/TournamentDetailDraw?idTournoi=362529",
         "/MyAFT/Competitions/TournamentDetailRegisters?idTournoi=362529",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=011120261128122438&amp;IdTournoi=361671&amp;PathRules=361671_4067.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=011120261128122453&amp;IdTournoi=361706&amp;PathRules=361706_4091.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=011120261128122468&amp;IdTournoi=361794&amp;PathRules=361794_4077.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=011120261128122483&amp;IdTournoi=361804&amp;PathRules=361804_4081.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=011120261128122498&amp;IdTournoi=361818&amp;PathRules=361818_4001.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=021120261207317648&amp;IdTournoi=361671&amp;PathRules=361671_4067.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=021120261207317663&amp;IdTournoi=361706&amp;PathRules=361706_4091.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=021120261207317678&amp;IdTournoi=361794&amp;PathRules=361794_4077.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=021120261207317693&amp;IdTournoi=361804&amp;PathRules=361804_4081.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=021120261207317708&amp;IdTournoi=361818&amp;PathRules=361818_4001.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
         "/MyAFT/Players",
         "/MyAFT/Players/Detail",
         "/MyAFT/Players/GetPlayersAutocomplete",
@@ -19259,24 +18466,6 @@
         "/MyAFT/TournamentSubscription/ConfirmNextOption"
       ],
       "treffer": {
-        "/MyAFT/Players/Index ['idTournoi']": {
-          "anzahl": 3,
-          "spieler": [
-            {
-              "name": "ITF Junior",
-              "klassierung": "Arlon"
-            },
-            {
-              "name": "TWB Niveau",
-              "klassierung": "Aspirant"
-            },
-            {
-              "name": "TODO Tam",
-              "klassierung": "AFTGDPR"
-            }
-          ],
-          "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tenni"
-        },
         "/MyAFT/Players/Search ['idTournoi']": {
           "anzahl": 3,
           "spieler": [
@@ -19302,11 +18491,11 @@
         "/MyAFT/Competitions/TournamentDetailCategories?idTournoi=362682&amp;subscrStartDate=07%2F12%2F2026&amp;subscrEndDate=04%2F01%2F2027&amp;displaySubscriptions=False&amp;maxSubscriptions=8&amp;tournoiDescription=SAINT-VITH%2007%2F12%2F2026",
         "/MyAFT/Competitions/TournamentDetailDraw?idTournoi=362682",
         "/MyAFT/Competitions/TournamentDetailRegisters?idTournoi=362682",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=011120261128173113&amp;IdTournoi=361671&amp;PathRules=361671_4067.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=011120261128173128&amp;IdTournoi=361706&amp;PathRules=361706_4091.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=011120261128173143&amp;IdTournoi=361794&amp;PathRules=361794_4077.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=011120261128173158&amp;IdTournoi=361804&amp;PathRules=361804_4081.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
-        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=011120261128173173&amp;IdTournoi=361818&amp;PathRules=361818_4001.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=021120261207389263&amp;IdTournoi=361671&amp;PathRules=361671_4067.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=021120261207389278&amp;IdTournoi=361706&amp;PathRules=361706_4091.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=021120261207389293&amp;IdTournoi=361794&amp;PathRules=361794_4077.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=021120261207389308&amp;IdTournoi=361804&amp;PathRules=361804_4081.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
+        "/MyAFT/ContextMenu/TournamentsContextMenu?RandomString=021120261207389323&amp;IdTournoi=361818&amp;PathRules=361818_4001.pdf&amp;IsFollowedTournament=1&amp;FuncRefresh=refreshMyTournamentsData%28%29&amp;HasDraw=True&amp;IsPublishedDraws=True&amp;IsNamurLuxembourg=False",
         "/MyAFT/Players",
         "/MyAFT/Players/Detail",
         "/MyAFT/Players/GetPlayersAutocomplete",
@@ -19326,24 +18515,6 @@
         "/MyAFT/TournamentSubscription/ConfirmNextOption"
       ],
       "treffer": {
-        "/MyAFT/Players/Index ['idTournoi']": {
-          "anzahl": 3,
-          "spieler": [
-            {
-              "name": "ITF Junior",
-              "klassierung": "Arlon"
-            },
-            {
-              "name": "TWB Niveau",
-              "klassierung": "Aspirant"
-            },
-            {
-              "name": "TODO Tam",
-              "klassierung": "AFTGDPR"
-            }
-          ],
-          "auszug": "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSK1K0G893'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-5Z58FK7'); sessionStorage.clear(); var imagePath = \"/MyAFT/Content/Images/\"; var isDisableLoading = false; function activeHoverForContextMenu(selector) { if (selector !== null && selector !== undefined) { selector.mouseenter(function (e) { isDisableLoading = true; var $this = $(this); var loadurl = $(this).attr(\"data-url\"); if (typeof loadurl !== typeof undefined && loadurl !== false) { $.get(loadurl, function (html) { $(\"#context-menu\").html(html); $this.contextmenu('show', e); isDisableLoading = false; }); } }); } } window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1332364-5'); --> Tenni"
-        },
         "/MyAFT/Players/Search ['idTournoi']": {
           "anzahl": 3,
           "spieler": [
